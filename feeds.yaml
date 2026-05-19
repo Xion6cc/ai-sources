@@ -1,0 +1,101 @@
+feeds:
+  # YouTube
+  - name: "Andrej Karpathy"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCbXgNpp0jedKWcQiULLbDTA"
+    type: "youtube"
+
+  - name: "Lex Fridman"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA"
+    type: "youtube"
+
+  - name: "AI Engineer"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCLKPca3kwwd-B59HNr-_lvA"
+    type: "youtube"
+
+  - name: "The Pragmatic Engineer"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCPbwhExawYrn9xxI21TFfyw"
+    type: "youtube"
+
+  # X / Twitter (via Nitter — may go down if nitter.net is blocked)
+  - name: "Zara Zhang (@zarazhangrui)"
+    url: "https://nitter.net/zarazhangrui/rss"
+    type: "twitter"
+    filter_retweets: true
+
+  # Blogs
+  - name: "Lilian Weng"
+    url: "https://lilianweng.github.io/index.xml"
+    type: "blog"
+
+  - name: "Andrej Karpathy Blog"
+    url: "https://karpathy.bearblog.dev/feed/"
+    type: "blog"
+
+  - name: "Sebastian Raschka"
+    url: "https://magazine.sebastianraschka.com/feed"
+    type: "blog"
+
+  - name: "The Pragmatic Engineer Newsletter"
+    url: "https://newsletter.pragmaticengineer.com/feed"
+    type: "blog"
+
+  - name: "Addy Osmani"
+    url: "https://addyosmani.com/rss.xml"
+    type: "blog"
+
+  # Company engineering blogs
+  - name: "Netflix Tech Blog"
+    url: "https://medium.com/feed/netflix-techblog"
+    type: "blog"
+
+  - name: "Meta Engineering"
+    url: "https://engineering.fb.com/feed/"
+    type: "blog"
+
+  - name: "Airbnb Engineering"
+    url: "https://medium.com/feed/airbnb-engineering"
+    type: "blog"
+
+  - name: "Pinterest Engineering"
+    url: "https://medium.com/feed/pinterest-engineering"
+    type: "blog"
+
+  - name: "Stripe Blog"
+    url: "https://stripe.com/blog/feed.rss"
+    type: "blog"
+
+  - name: "GitHub Engineering"
+    url: "https://github.blog/engineering/feed/"
+    type: "blog"
+
+  - name: "Spotify Engineering"
+    url: "https://engineering.atspotify.com/feed/"
+    type: "blog"
+
+  # AI labs / tools
+  - name: "OpenAI"
+    url: "https://openai.com/news/rss.xml"
+    type: "blog"
+
+  # Sites without RSS — scraped from HTML (selectors may break on redesigns)
+  - name: "Anthropic Research"
+    url: "https://www.anthropic.com/research"
+    type: "blog"
+    scrape:
+      article_selector: 'a[href^="/research/"]:not([href*="/team/"])'
+      title_selector: 'h2, [class*="title"]'
+      date_selector: "time"
+      summary_selector: "p"
+
+  - name: "Cursor"
+    url: "https://cursor.com/blog"
+    type: "blog"
+    scrape:
+      article_selector: 'a.card[href^="/blog/"]'
+      title_selector: "p"
+      date_selector: "time"
+      summary_selector: "p + p"
+
+  # No working public RSS feeds found (as of 2026-04-24):
+  #   - Uber Engineering (uber.com returns 406 to feedparser)
+  #   - LinkedIn Engineering (engineering.linkedin.com serves HTML, no RSS)

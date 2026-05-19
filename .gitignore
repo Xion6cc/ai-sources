@@ -1,0 +1,31 @@
+# Secrets — NEVER commit
+cookies.txt
+.env
+.env.*
+*.pem
+credentials.json
+service-account.json
+
+# Generated content
+data.json
+notes/
+reports/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Claude Code per-user settings
+.claude/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/

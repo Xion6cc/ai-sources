@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Digest — {{ date }}</title>
+  <style>
+    :root {
+      --bg: #fff;
+      --surface: #f9f9f9;
+      --border: #e8e8e8;
+      --text: #1a1a1a;
+      --text-secondary: #555;
+      --text-muted: #aaa;
+      --accent: #1a8917;
+      --tag-bg: #f2f2f2;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, 'Segoe UI', Georgia, serif;
+      font-size: 18px;
+      line-height: 1.6;
+    }
+
+    a { color: inherit; text-decoration: none; }
+
+    /* ── Layout ── */
+    .page { max-width: 1440px; margin: 0 auto; padding: 0 48px; }
+
+    /* ── Top bar ── */
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 24px 0 18px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .topbar-brand {
+      font-size: 1.25rem;
+      font-weight: 700;
+      letter-spacing: -0.3px;
+      color: var(--text);
+    }
+
+    .topbar-date {
+      font-size: 0.9rem;
+      color: var(--text-muted);
+    }
+
+    /* ── Filter strip ── */
+    .filter-strip {
+      display: flex;
+      align-items: center;
+      border-bottom: 1px solid var(--border);
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .filter-strip::-webkit-scrollbar { display: none; }
+
+    .filter-group { display: flex; align-items: center; }
+
+    .filter-sep {
+      width: 1px;
+      height: 18px;
+      background: var(--border);
+      margin: 0 16px;
+      flex-shrink: 0;
+    }
+
+    .fpill {
+      padding: 16px 20px 14px;
+      font-size: 0.92rem;
+      color: var(--text-muted);
+      cursor: pointer;
+      border: none;
+      background: none;
+      border-bottom: 2px solid transparent;
+      white-space: nowrap;
+      transition: color 0.15s, border-color 0.15s;
+      font-family: inherit;
+      margin-bottom: -1px;
+    }
+
+    .fpill:hover { color: var(--text); }
+
+    .fpill.active {
+      color: var(--text);
+      border-bottom-color: var(--text);
+      font-weight: 600;
+    }
+
+    /* ── Main grid ── */
+    .main {
+      display: grid;
+      grid-template-columns: 1fr 300px;
+      gap: 0;
+      min-height: 80vh;
+    }
+
+    /* ── Feed ── */
+    .feed {
+      border-right: 1px solid var(--border);
+      padding-right: 56px;
+    }
+
+    /* ── Section ── */
+    .section { margin-top: 0; }
+    .section.hidden-section { display: none; }
+
+    .section-label {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 32px 0 18px;
+    }
+
+    .section-label-dot {
+      width: 9px; height: 9px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .section-youtube  .section-label-dot { background: #ff4444; }
+    .section-blog     .section-label-dot { background: #4488ff; }
+    .section-podcast  .section-label-dot { background: #22d3a0; }
+    .section-paper    .section-label-dot { background: #f59e42; }
+    .section-twitter  .section-label-dot { background: #1a1a1a; }
+
+    .section-label-text {
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: var(--text-muted);
+    }
+
+    .section-label-count {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      margin-left: 2px;
+    }
+
+    /* ── Article row ── */
+    .article {
+      display: flex;
+      align-items: flex-start;
+      gap: 28px;
+      padding: 24px 0;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .article.hidden { display: none; }
+
+    .article-body { flex: 1; min-width: 0; }
+
+    .article-source {
+      display: flex;
+      align-items: center;
+      gap: 9px;
+      margin-bottom: 10px;
+    }
+
+    .source-avatar-text {
+      width: 26px; height: 26px;
+      border-radius: 50%;
+      background: var(--tag-bg);
+      font-size: 11px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--text-secondary);
+      flex-shrink: 0;
+      font-weight: 700;
+    }
+
+    .source-name {
+      font-size: 0.88rem;
+      font-weight: 500;
+      color: var(--text-secondary);
+    }
+
+    .article-title {
+      font-size: 1.2rem;
+      font-weight: 700;
+      line-height: 1.35;
+      color: var(--text);
+      margin-bottom: 8px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .article-title:hover { opacity: 0.75; }
+
+    .article-excerpt {
+      font-size: 0.97rem;
+      color: var(--text-secondary);
+      line-height: 1.55;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      margin-bottom: 12px;
+    }
+
+    .article-meta {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .article-date {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
+
+    .note-btn {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 3px 12px;
+      transition: color 0.15s, border-color 0.15s;
+    }
+
+    .note-btn:hover { color: var(--text); border-color: #aaa; }
+
+    .summary-badge {
+      font-size: 0.75rem;
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 20px;
+      padding: 3px 10px;
+      opacity: 0.8;
+    }
+
+    /* ── AI summary expand ── */
+    .ai-summary {
+      -webkit-line-clamp: 3;
+    }
+
+    .article.expanded .ai-summary {
+      -webkit-line-clamp: unset;
+      display: block;
+    }
+
+    .article.has-summary {
+      cursor: pointer;
+    }
+
+    .summary-expand-hint {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      margin-right: 4px;
+    }
+
+    .article.expanded .summary-expand-hint { display: none; }
+
+    /* ── Thumbnail ── */
+    .article-thumb {
+      flex-shrink: 0;
+      width: 220px;
+      height: 138px;
+      border-radius: 4px;
+      object-fit: cover;
+      background: var(--tag-bg);
+    }
+
+    /* ── Tweet card ── */
+    .tweet-card {
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .tweet-text {
+      font-size: 1rem;
+      line-height: 1.65;
+      color: var(--text);
+      margin-bottom: 12px;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      white-space: pre-wrap;
+    }
+
+    .tweet-card.expanded .tweet-text {
+      -webkit-line-clamp: unset;
+      display: block;
+    }
+
+    .tweet-expand-hint {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      margin-right: 4px;
+    }
+
+    .tweet-card.expanded .tweet-expand-hint { display: none; }
+
+    /* ── Sidebar ── */
+    .sidebar {
+      padding: 32px 0 32px 48px;
+      position: sticky;
+      top: 0;
+      align-self: start;
+      max-height: 100vh;
+      overflow-y: auto;
+    }
+
+    .sidebar-block { margin-bottom: 36px; }
+
+    .sidebar-title {
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+
+    .sidebar-stat {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 9px 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.95rem;
+    }
+
+    .sidebar-stat-label { color: var(--text-secondary); }
+    .sidebar-stat-value { font-weight: 700; color: var(--text); }
+
+    .sidebar-sources { display: flex; flex-direction: column; gap: 12px; }
+
+    .sidebar-source {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+    }
+
+    .sidebar-source-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+    .ss-youtube { background: #ff4444; }
+    .ss-blog    { background: #4488ff; }
+    .ss-twitter { background: #1a1a1a; }
+
+    /* ── Empty state ── */
+    .section-empty {
+      display: none;
+      padding: 24px 0;
+      font-size: 0.95rem;
+      color: var(--text-muted);
+      font-style: italic;
+    }
+    .section.all-hidden .section-empty { display: block; }
+    .section.all-hidden .article { display: none !important; }
+
+    /* ── Footer ── */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 24px 0;
+      margin-top: 48px;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+
+  <!-- Top bar -->
+  <div class="topbar">
+    <span class="topbar-brand">AI Digest</span>
+    <span class="topbar-date">{{ date }}</span>
+  </div>
+
+  <!-- Filter strip -->
+  <div class="filter-strip">
+    <div class="filter-group">
+      <button class="fpill time-btn active" data-days="0">All time</button>
+      <button class="fpill time-btn" data-days="1">Today</button>
+      <button class="fpill time-btn" data-days="7">This week</button>
+      <button class="fpill time-btn" data-days="30">This month</button>
+    </div>
+    <div class="filter-sep"></div>
+    <div class="filter-group">
+      <button class="fpill type-btn active" data-type="all">All</button>
+      <button class="fpill type-btn" data-type="youtube">YouTube</button>
+      <button class="fpill type-btn" data-type="blog">Blog</button>
+      <button class="fpill type-btn" data-type="twitter">X</button>
+    </div>
+  </div>
+
+  <!-- Source filter strip -->
+  {% set src_seen = namespace(sources=[]) %}
+  {% for type, items in groups.items() %}
+    {% for item in items %}
+      {% if item.source not in src_seen.sources %}
+        {% set _ = src_seen.sources.append(item.source) %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  <div class="filter-strip">
+    <div class="filter-group">
+      <button class="fpill source-btn active" data-source="all">All sources</button>
+      {% for src in src_seen.sources %}
+      <button class="fpill source-btn" data-source="{{ src }}">{{ src }}</button>
+      {% endfor %}
+    </div>
+  </div>
+
+  <!-- Main layout -->
+  <div class="main">
+
+    <!-- Feed -->
+    <div class="feed">
+
+      {% set type_order = ["youtube", "podcast", "paper", "blog", "twitter"] %}
+      {% for type in type_order %}
+      {% if type in groups and groups[type] %}
+      <div class="section section-{{ type }}" data-section="{{ type }}">
+        <div class="section-label">
+          <span class="section-label-dot"></span>
+          <span class="section-label-text">{{ type | capitalize }}</span>
+          <span class="section-label-count" id="count-{{ type }}">{{ groups[type] | length }}</span>
+        </div>
+
+        {% for item in groups[type] %}
+        {% if type == "twitter" %}
+        <div class="article tweet-card" data-date="{{ item.date_iso }}" data-source="{{ item.source }}">
+          <div class="article-body">
+            <div class="article-source">
+              <span class="source-avatar-text">{{ item.source[0] }}</span>
+              <span class="source-name">{{ item.source }}</span>
+            </div>
+            <div class="tweet-text">{{ item.title }}</div>
+            <div class="article-meta">
+              <span class="article-date">{{ item.date }}</span>
+              <span class="tweet-expand-hint">Show more ↓</span>
+              <a class="note-btn" href="{{ item.note_path }}" onclick="event.stopPropagation()">Note</a>
+              <a class="note-btn" href="{{ item.url }}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Open ↗</a>
+            </div>
+          </div>
+          {% if item.thumbnail_url %}
+          <a href="{{ item.url }}" target="_blank" rel="noopener" onclick="event.stopPropagation()">
+            <img class="article-thumb" src="{{ item.thumbnail_url }}" alt="" loading="lazy">
+          </a>
+          {% endif %}
+        </div>
+        {% else %}
+        <div class="article{% if item.transcript_summary %} has-summary{% endif %}" data-date="{{ item.date_iso }}" data-source="{{ item.source }}">
+          <div class="article-body">
+            <div class="article-source">
+              <span class="source-avatar-text">{{ item.source[0] }}</span>
+              <span class="source-name">{{ item.source }}</span>
+            </div>
+            <a href="{{ item.url }}" target="_blank" rel="noopener" onclick="event.stopPropagation()">
+              <div class="article-title">{{ item.title }}</div>
+            </a>
+            {% if item.transcript_summary %}
+            <div class="article-excerpt ai-summary">{{ item.transcript_summary }}</div>
+            {% elif item.summary %}
+            <div class="article-excerpt">{{ item.summary }}</div>
+            {% endif %}
+            <div class="article-meta">
+              <span class="article-date">{{ item.date }}</span>
+              {% if item.transcript_summary %}
+              <span class="summary-expand-hint">Show more ↓</span>
+              <span class="summary-badge">AI summary</span>
+              {% endif %}
+              <a class="note-btn" href="{{ item.note_path }}" onclick="event.stopPropagation()">Note</a>
+            </div>
+          </div>
+          {% if item.thumbnail_url %}
+          <a href="{{ item.url }}" target="_blank" rel="noopener" onclick="event.stopPropagation()">
+            <img class="article-thumb" src="{{ item.thumbnail_url }}" alt="" loading="lazy">
+          </a>
+          {% endif %}
+        </div>
+        {% endif %}
+        {% endfor %}
+
+        <div class="section-empty">No items in this period.</div>
+      </div>
+      {% endif %}
+      {% endfor %}
+
+      {% for type, items in groups.items() %}
+      {% if type not in type_order and items %}
+      <div class="section section-blog" data-section="{{ type }}">
+        <div class="section-label">
+          <span class="section-label-dot"></span>
+          <span class="section-label-text">{{ type | capitalize }}</span>
+          <span class="section-label-count" id="count-{{ type }}">{{ items | length }}</span>
+        </div>
+
+        {% for item in items %}
+        <div class="article" data-date="{{ item.date_iso }}" data-source="{{ item.source }}">
+          <div class="article-body">
+            <div class="article-source">
+              <span class="source-avatar-text">{{ item.source[0] }}</span>
+              <span class="source-name">{{ item.source }}</span>
+            </div>
+            <a href="{{ item.url }}" target="_blank" rel="noopener">
+              <div class="article-title">{{ item.title }}</div>
+            </a>
+            {% if item.summary %}
+            <div class="article-excerpt">{{ item.summary }}</div>
+            {% endif %}
+            <div class="article-meta">
+              <span class="article-date">{{ item.date }}</span>
+              <a class="note-btn" href="{{ item.note_path }}">Note</a>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+
+        <div class="section-empty">No items in this period.</div>
+      </div>
+      {% endif %}
+      {% endfor %}
+
+      {% if total == 0 %}
+      <p style="color:var(--text-muted);font-style:italic;padding:60px 0;text-align:center;">No new items found.</p>
+      {% endif %}
+
+    </div><!-- /feed -->
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+
+      <div class="sidebar-block">
+        <div class="sidebar-title">Summary</div>
+        <div class="sidebar-stat">
+          <span class="sidebar-stat-label">Total</span>
+          <span class="sidebar-stat-value" id="visible-count">{{ total }}</span>
+        </div>
+        {% for type, items in groups.items() %}
+        <div class="sidebar-stat" id="stat-{{ type }}">
+          <span class="sidebar-stat-label">{{ type | capitalize }}</span>
+          <span class="sidebar-stat-value" id="scount-{{ type }}">{{ items | length }}</span>
+        </div>
+        {% endfor %}
+      </div>
+
+      <div class="sidebar-block">
+        <div class="sidebar-title">Sources</div>
+        <div class="sidebar-sources">
+          {% set seen = namespace(sources=[]) %}
+          {% for type, items in groups.items() %}
+          {% for item in items %}
+          {% if item.source not in seen.sources %}
+          {% set _ = seen.sources.append(item.source) %}
+          <div class="sidebar-source">
+            <span class="sidebar-source-dot ss-{{ item.type }}"></span>
+            {{ item.source }}
+          </div>
+          {% endif %}
+          {% endfor %}
+          {% endfor %}
+        </div>
+      </div>
+
+    </div><!-- /sidebar -->
+
+  </div><!-- /main -->
+
+  <footer>AI Digest &mdash; {{ date }}</footer>
+</div>
+
+<script>
+  const now = new Date();
+  let activeDays = 0;
+  let activeType = 'all';
+  let activeSource = 'all';
+
+  function applyFilters() {
+    const cutoff = activeDays === 0 ? null : new Date(now - activeDays * 86400000);
+    let totalVisible = 0;
+
+    document.querySelectorAll('.section').forEach(section => {
+      const sectionType = section.dataset.section;
+      const typeMatch = activeType === 'all' || sectionType === activeType;
+
+      if (!typeMatch) {
+        section.classList.add('hidden-section');
+        return;
+      }
+      section.classList.remove('hidden-section');
+
+      const articles = section.querySelectorAll('.article');
+      let sectionVisible = 0;
+
+      articles.forEach(article => {
+        const dateStr = article.dataset.date;
+        const src = article.dataset.source;
+        let show = true;
+        if (cutoff && dateStr) show = show && new Date(dateStr) >= cutoff;
+        if (activeSource !== 'all') show = show && (src === activeSource);
+        article.classList.toggle('hidden', !show);
+        if (show) sectionVisible++;
+      });
+
+      totalVisible += sectionVisible;
+      section.classList.toggle('all-hidden', sectionVisible === 0);
+
+      const c = document.getElementById('count-' + sectionType);
+      if (c) c.textContent = sectionVisible;
+      const s = document.getElementById('scount-' + sectionType);
+      if (s) s.textContent = sectionVisible;
+    });
+
+    document.getElementById('visible-count').textContent = totalVisible;
+  }
+
+  document.querySelectorAll('.time-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.time-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeDays = parseInt(btn.dataset.days);
+      applyFilters();
+    });
+  });
+
+  document.querySelectorAll('.type-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.type-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeType = btn.dataset.type;
+      applyFilters();
+    });
+  });
+
+  document.querySelectorAll('.source-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.source-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeSource = btn.dataset.source;
+      applyFilters();
+    });
+  });
+
+  // Tweet expand/collapse
+  document.querySelectorAll('.tweet-card').forEach(card => {
+    card.addEventListener('click', e => {
+      if (e.target.tagName === 'A') return;
+      card.classList.toggle('expanded');
+    });
+  });
+
+  // AI summary expand/collapse
+  document.querySelectorAll('.has-summary').forEach(article => {
+    article.addEventListener('click', e => {
+      if (e.target.tagName === 'A') return;
+      article.classList.toggle('expanded');
+    });
+  });
+</script>
+</body>
+</html>
