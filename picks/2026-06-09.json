@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=EcqMYoIV57A",
+    "title": "Why More Context Makes Your Agent Dumber and What to Do About It — Nupur Sharma, Qodo",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Give an agent your full codebase and it will attend to the start and the end, then quietly drop the middle. Nupur from Qodo calls this the U curve and builds the whole talk around it: why growing the context window did not fix the problem, and what actually does. She runs through iterative retrieval, hierarchical summarization, and self correction …",
+    "date": "2026-06-08 15:00 UTC",
+    "score": 9,
+    "why": "Directly addresses the U-curve attention problem — specific engineering patterns (iterative retrieval, hierarchical summarization) for keeping long-context agents reliable, the kind of thing worth sharing with a new AI team."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=SKDJo2CopRs",
+    "title": "Why Eval++ Is the Next Great Compute Primitive — Sunil Pai & Matt Carrie, Cloudflare",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Matt Carrie and Sunil Pai from Cloudflare's agents team explain why Durable Objects turned out to be the right compute unit for AI agents: addressable, persistent, hibernating, stateful, and fast enough that 15ms London latency puts you inside a single animation frame. The Agents SDK builds on this to give resumable streaming, multi tab sync, and background scheduling out of …",
+    "date": "2026-06-08 13:00 UTC",
+    "score": 7,
+    "why": "Cloudflare's case study on how stateful, addressable compute (Durable Objects) becomes the right primitive for resumable agent workflows — useful reference architecture when designing agent infrastructure at Bloomberg."
+  }
+]
