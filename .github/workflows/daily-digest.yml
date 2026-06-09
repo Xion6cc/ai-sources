@@ -1,0 +1,65 @@
+name: daily-digest
+
+on:
+  schedule:
+    # 07:00 UTC = 08:00 London (BST summer) / 07:00 London (GMT winter)
+    - cron: "0 7 * * *"
+  workflow_dispatch: {}  # allow manual trigger from the Actions tab
+
+permissions:
+  contents: write  # needed to commit & push data.json + picks/
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch feeds (last 24h)
+        run: python fetch.py 24
+
+      - name: Extract today's items
+        run: python pick_today.py 24
+
+      - name: Rank items via Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python rank.py
+
+      - name: Send email via Resend
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          DIGEST_SCANNED_TOTAL: ${{ steps.fetch-count.outputs.count }}
+        run: |
+          today=$(date -u +%Y-%m-%d)
+          picks="picks/${today}.json"
+          if [ ! -f "$picks" ]; then
+            echo "No picks file ($picks) — likely no new items today. Skipping email."
+            exit 0
+          fi
+          # Pass scanned count even if the earlier step didn't set it
+          scanned=$(python -c "import json; print(len(json.load(open('tmp_today.json'))))" 2>/dev/null || echo 0)
+          DIGEST_SCANNED_TOTAL=$scanned python send_email.py "$picks"
+
+      - name: Commit & push state
+        run: |
+          git config user.name  "daily-digest-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data.json picks/ || true
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+          else
+            today=$(date -u +%Y-%m-%d)
+            git commit -m "daily digest ${today}"
+            git push origin HEAD:main
+          fi
