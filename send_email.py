@@ -1,39 +1,31 @@
 #!/usr/bin/env python3
-"""Send the daily AI digest email from a picks JSON file.
+"""Send the daily AI digest email via Resend's HTTP API.
+
+We use Resend (https://resend.com) instead of Gmail SMTP because:
+- Cloud sandboxes (Anthropic CCR routines, AWS, GCP, etc.) block outbound
+  SMTP ports (25 / 465 / 587) by default — a long-standing anti-spam measure.
+- Resend's API is plain HTTPS POST to api.resend.com:443, which sandboxes
+  always allow. Resend then handles the actual SMTP delivery on its side.
+- Resend's free tier (3,000 emails/month) easily covers daily personal use,
+  and self-to-self sends do not require a verified domain — they accept
+  the default `onboarding@resend.dev` sender.
 
 Usage:
-    python send_email.py picks/2026-06-08.json
+    python send_email.py picks/2026-06-09.json
 
-Picks JSON schema (list of objects, already sorted by score desc):
-    [
-      {
-        "url":     "...",
-        "title":   "...",
-        "source":  "...",
-        "type":    "youtube|blog|twitter|...",
-        "date":    "2026-06-08 09:00 UTC",
-        "summary": "...",   (optional, original feed excerpt)
-        "score":   9,
-        "why":     "one-line reason this matters to me"
-      },
-      ...
-    ]
-
-Env vars required:
-    GMAIL_USER          e.g. sysuxcc@gmail.com
-    GMAIL_APP_PASSWORD  16-char app password from myaccount.google.com
-Optional:
-    DIGEST_TO           recipient (defaults to GMAIL_USER)
-    DIGEST_SCANNED_TOTAL  number of items scanned today (for the "of N" line)
+Env vars:
+    RESEND_API_KEY       required — your Resend API key (starts with `re_`)
+    DIGEST_TO            optional — recipient email (default: sysuxcc@gmail.com)
+    DIGEST_FROM          optional — sender (default: "AI Digest <onboarding@resend.dev>")
+    DIGEST_SCANNED_TOTAL optional — total items scanned today (for the email header)
 """
 
 import json
 import os
-import smtplib
 import sys
+import urllib.error
+import urllib.request
 from datetime import datetime
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
 from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader
@@ -41,8 +33,9 @@ from jinja2 import Environment, FileSystemLoader
 BASE_DIR      = Path(__file__).parent
 TEMPLATES_DIR = BASE_DIR / "templates"
 
-SMTP_HOST = "smtp.gmail.com"
-SMTP_PORT = 465
+RESEND_URL   = "https://api.resend.com/emails"
+DEFAULT_TO   = "sysuxcc@gmail.com"
+DEFAULT_FROM = "AI Digest <onboarding@resend.dev>"
 
 # Section display order + labels + colors. Keys are item["type"] values from data.json.
 SECTION_DEFS = [
@@ -70,7 +63,6 @@ def group_into_sections(picks: list[dict]) -> list[dict]:
         items = sorted(buckets[s["type"]], key=lambda x: x.get("score", 0), reverse=True)
         sections.append({**s, "entries": items})
 
-    # Any unknown types get a generic section at the end so nothing silently disappears
     for t, leftover in leftover_types.items():
         sections.append({
             "type": t, "label": t.capitalize(), "label_short": t,
@@ -90,16 +82,30 @@ def render(picks: list[dict], date: str, scanned_total: int) -> str:
     )
 
 
-def send(html: str, subject: str, sender: str, recipient: str, password: str) -> None:
-    msg = MIMEMultipart("alternative")
-    msg["Subject"] = subject
-    msg["From"]    = sender
-    msg["To"]      = recipient
-    msg.attach(MIMEText(html, "html", "utf-8"))
+def send(html: str, subject: str, sender: str, recipient: str, api_key: str) -> dict:
+    body = json.dumps({
+        "from":    sender,
+        "to":      [recipient],
+        "subject": subject,
+        "html":    html,
+    }).encode("utf-8")
 
-    with smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT, timeout=30) as s:
-        s.login(sender, password)
-        s.send_message(msg)
+    req = urllib.request.Request(
+        RESEND_URL,
+        data=body,
+        headers={
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type":  "application/json",
+        },
+        method="POST",
+    )
+
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            return json.loads(resp.read())
+    except urllib.error.HTTPError as e:
+        msg = e.read().decode("utf-8", errors="replace")
+        raise RuntimeError(f"Resend API error {e.code}: {msg}") from e
 
 
 def main():
@@ -110,19 +116,18 @@ def main():
     picks_path = Path(sys.argv[1])
     picks = json.loads(picks_path.read_text(encoding="utf-8"))
 
-    sender    = os.environ["GMAIL_USER"]
-    password  = os.environ["GMAIL_APP_PASSWORD"]
-    recipient = os.environ.get("DIGEST_TO", sender)
+    api_key   = os.environ["RESEND_API_KEY"]
+    sender    = os.environ.get("DIGEST_FROM", DEFAULT_FROM)
+    recipient = os.environ.get("DIGEST_TO",   DEFAULT_TO)
     scanned   = int(os.environ.get("DIGEST_SCANNED_TOTAL", 0))
 
-    # Date from the picks filename if it matches YYYY-MM-DD, else today
     date = picks_path.stem if len(picks_path.stem) == 10 and picks_path.stem[4] == "-" \
            else datetime.now().strftime("%Y-%m-%d")
 
     subject = f"AI Digest {date} — top {len(picks)} picks"
     html    = render(picks, date, scanned)
-    send(html, subject, sender, recipient, password)
-    print(f"Sent {len(picks)} picks to {recipient}")
+    result  = send(html, subject, sender, recipient, api_key)
+    print(f"Sent {len(picks)} picks to {recipient} (resend id: {result.get('id', '?')})")
 
 
 if __name__ == "__main__":

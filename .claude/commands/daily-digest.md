@@ -79,27 +79,31 @@ Create the `picks/` directory if it doesn't exist.
 python send_email.py picks/YYYY-MM-DD.json
 ```
 
-The script reads `GMAIL_USER` and `GMAIL_APP_PASSWORD` from env vars and sends to `sysuxcc@gmail.com` by default. Pass `DIGEST_SCANNED_TOTAL=<n>` env var to show "top X of N scanned" in the email header — use the count from `tmp_today.json`.
+The script uses Resend's HTTP API (Anthropic CCR sandboxes block SMTP outbound, so Gmail SMTP does not work). It needs `RESEND_API_KEY` in the environment and defaults the recipient to `sysuxcc@gmail.com`. Pass `DIGEST_SCANNED_TOTAL=<n>` so the email header can show "top X of N scanned".
 
-Linux / cloud routine:
+Linux / cloud routine — pass env vars inline in one Bash call:
 ```
-DIGEST_SCANNED_TOTAL=<count> python send_email.py picks/YYYY-MM-DD.json
+RESEND_API_KEY='re_xxx' DIGEST_SCANNED_TOTAL=<count> python send_email.py picks/YYYY-MM-DD.json
 ```
 
 Windows PowerShell (local):
 ```
-$env:DIGEST_SCANNED_TOTAL = '<count>'; python send_email.py picks/YYYY-MM-DD.json
+$env:RESEND_API_KEY = 're_xxx'
+$env:DIGEST_SCANNED_TOTAL = '<count>'
+python send_email.py picks/YYYY-MM-DD.json
 ```
 
-If `GMAIL_APP_PASSWORD` is missing, stop and tell the user to configure it as a routine secret.
+If `RESEND_API_KEY` is missing or still a placeholder, stop and report — do not try to send.
 
-## Step 7: Commit & push
+## Step 7: Commit & push to main
 
 ```
 git add data.json picks/
 git commit -m "daily digest YYYY-MM-DD ($N picks of $TOTAL scanned)"
-git push
+git push origin HEAD:main
 ```
+
+**Push directly to `main`** — do NOT create a feature branch or PR. This is a state-sync commit (just dedup state + pick archive), not a code change, so it must land on `main` to be visible to the next day's run. If your sandbox environment opens you on a feature branch by default, `git push origin HEAD:main` forces the push to land on `main` regardless.
 
 If there's nothing to commit (no new items, no data.json change), skip the commit.
 
