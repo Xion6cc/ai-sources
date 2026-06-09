@@ -215,7 +215,8 @@
       gap: 14px;
     }
 
-    .article-date {
+    .article-date,
+    .article-views {
       font-size: 0.85rem;
       color: var(--text-muted);
     }
@@ -346,6 +347,41 @@
       color: var(--text-secondary);
     }
 
+    .src-toggle {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      cursor: pointer;
+      user-select: none;
+      width: 100%;
+    }
+    .src-check { cursor: pointer; margin: 0; flex-shrink: 0; }
+    .src-name { flex: 1; }
+    .src-count { color: var(--text-muted); font-size: 0.82rem; }
+    .src-toggle:has(.src-check:not(:checked)) .src-name,
+    .src-toggle:has(.src-check:not(:checked)) .src-count {
+      color: var(--text-muted);
+      text-decoration: line-through;
+      opacity: 0.55;
+    }
+
+    .sidebar-source-actions {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 12px;
+      font-size: 0.8rem;
+    }
+    .sidebar-source-actions button {
+      background: none;
+      border: none;
+      padding: 0;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-family: inherit;
+      text-decoration: underline;
+    }
+    .sidebar-source-actions button:hover { color: var(--text); }
+
     .sidebar-source-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
     .ss-youtube { background: #ff4444; }
     .ss-blog    { background: #4488ff; }
@@ -472,6 +508,9 @@
             {% endif %}
             <div class="article-meta">
               <span class="article-date">{{ item.date }}</span>
+              {% if item.view_count_display %}
+              <span class="article-views">{{ item.view_count_display }}</span>
+              {% endif %}
               {% if item.transcript_summary %}
               <span class="summary-expand-hint">Show more ↓</span>
               <span class="summary-badge">AI summary</span>
@@ -553,18 +592,30 @@
 
       <div class="sidebar-block">
         <div class="sidebar-title">Sources</div>
+        <div class="sidebar-source-actions">
+          <button type="button" id="src-check-all">All</button>
+          <button type="button" id="src-check-none">None</button>
+        </div>
         <div class="sidebar-sources">
-          {% set seen = namespace(sources=[]) %}
+          {% set src_counts = {} %}
+          {% set src_types = {} %}
           {% for type, items in groups.items() %}
-          {% for item in items %}
-          {% if item.source not in seen.sources %}
-          {% set _ = seen.sources.append(item.source) %}
-          <div class="sidebar-source">
-            <span class="sidebar-source-dot ss-{{ item.type }}"></span>
-            {{ item.source }}
-          </div>
-          {% endif %}
+            {% for item in items %}
+              {% set _ = src_counts.update({item.source: src_counts.get(item.source, 0) + 1}) %}
+              {% if item.source not in src_types %}
+                {% set _ = src_types.update({item.source: item.type}) %}
+              {% endif %}
+            {% endfor %}
           {% endfor %}
+          {% for src, cnt in src_counts.items() | sort(attribute=1, reverse=true) %}
+          <div class="sidebar-source">
+            <label class="src-toggle">
+              <input type="checkbox" class="src-check" data-source="{{ src }}" checked>
+              <span class="sidebar-source-dot ss-{{ src_types[src] }}"></span>
+              <span class="src-name">{{ src }}</span>
+              <span class="src-count">{{ cnt }}</span>
+            </label>
+          </div>
           {% endfor %}
         </div>
       </div>
@@ -581,6 +632,7 @@
   let activeDays = 0;
   let activeType = 'all';
   let activeSource = 'all';
+  const hiddenSources = new Set();
 
   function applyFilters() {
     const cutoff = activeDays === 0 ? null : new Date(now - activeDays * 86400000);
@@ -605,6 +657,7 @@
         let show = true;
         if (cutoff && dateStr) show = show && new Date(dateStr) >= cutoff;
         if (activeSource !== 'all') show = show && (src === activeSource);
+        if (hiddenSources.has(src)) show = false;
         article.classList.toggle('hidden', !show);
         if (show) sectionVisible++;
       });
@@ -646,6 +699,30 @@
       activeSource = btn.dataset.source;
       applyFilters();
     });
+  });
+
+  // Sidebar source checkboxes
+  document.querySelectorAll('.src-check').forEach(cb => {
+    cb.addEventListener('change', () => {
+      const src = cb.dataset.source;
+      if (cb.checked) hiddenSources.delete(src);
+      else hiddenSources.add(src);
+      applyFilters();
+    });
+  });
+
+  document.getElementById('src-check-all').addEventListener('click', () => {
+    hiddenSources.clear();
+    document.querySelectorAll('.src-check').forEach(cb => cb.checked = true);
+    applyFilters();
+  });
+
+  document.getElementById('src-check-none').addEventListener('click', () => {
+    document.querySelectorAll('.src-check').forEach(cb => {
+      cb.checked = false;
+      hiddenSources.add(cb.dataset.source);
+    });
+    applyFilters();
   });
 
   // Tweet expand/collapse

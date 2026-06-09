@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=EcqMYoIV57A",
+    "title": "Why More Context Makes Your Agent Dumber and What to Do About It — Nupur Sharma, Qodo",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Give an agent your full codebase and it will attend to the start and the end, then quietly drop the middle. Nupur from Qodo calls this the U curve and builds the whole talk around it: why growing the context window did not fix the problem, and what actually does. She runs through iterative retrieval, hierarchical summarization, and self correction …",
+    "date": "2026-06-08 15:00 UTC",
+    "score": 9,
+    "why": "Direct evidence for the long-context vs retrieval debate, with concrete patterns (iterative retrieval, hierarchical summarization) you can borrow for Bloomberg search."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=SKDJo2CopRs",
+    "title": "Why Eval++ Is the Next Great Compute Primitive — Sunil Pai & Matt Carrie, Cloudflare",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Matt Carrie and Sunil Pai from Cloudflare's agents team explain why Durable Objects turned out to be the right compute unit for AI agents: addressable, persistent, hibernating, stateful, and fast enough that 15ms London latency puts you inside a single animation frame.",
+    "date": "2026-06-08 13:00 UTC",
+    "score": 8,
+    "why": "Engineering-grade take on the runtime layer for agents — useful priors before designing multi-agent orchestration at Bloomberg, not a hype piece."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=JsCCrBF7F1g",
+    "title": "LLM Observability, Evaluation, Experimentation Platform — Dat Ngo, Arize",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Your agent called tool B before tool A, and B has a dependency on A. You did not catch it because nothing in your code audits agents. The telemetry does.",
+    "date": "2026-06-07 18:00 UTC",
+    "score": 7,
+    "why": "Agent observability is the under-discussed reliability layer — Arize's framing of non-deterministic execution paths is directly applicable to multi-agent eval."
+  },
+  {
+    "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-the-2026-list",
+    "title": "LLM Research Papers: The 2026 List (January to May)",
+    "source": "Sebastian Raschka",
+    "type": "blog",
+    "summary": "A curated list of the most impactful LLM research papers from January through May 2026, organized by theme: reasoning, alignment, efficient inference, retrieval, and multi-modal.",
+    "date": "2026-06-06 10:00 UTC",
+    "score": 8,
+    "why": "Raschka filters the firehose for you — half a year of LLM research distilled to the papers worth reading, sorted by theme not date."
+  },
+  {
+    "url": "https://addyosmani.com/blog/loop-engineering/",
+    "title": "Loop Engineering",
+    "source": "Addy Osmani",
+    "type": "blog",
+    "summary": "Addy on the iterative pattern of building with AI: define a tight feedback loop, automate the boring parts of the loop, then increase loop frequency. Examples from his own workflow.",
+    "date": "2026-06-05 09:00 UTC",
+    "score": 6,
+    "why": "Concrete patterns for designing your own agentic dev loop — useful framing for the side project ideas you're still scoping."
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2063638307586662539#m",
+    "title": "Why Frontend Slides skill grew organically — HTML decks signal 'AI-native'",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Slides are inherently social — people see HTML decks and ask 'how did you make it', which makes the author look AI-native.",
+    "date": "2026-06-07 15:04 UTC",
+    "score": 5,
+    "why": "Distribution insight for your own side projects (visible artifact > silent tool) — not work-relevant but worth a 30-second read."
+  }
+]

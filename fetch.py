@@ -93,6 +93,29 @@ def extract_excerpt(entry) -> str:
     return text
 
 
+def format_view_count(n: int) -> str:
+    if n >= 1_000_000:
+        return f"{n / 1_000_000:.1f}M views"
+    if n >= 1_000:
+        return f"{n / 1_000:.1f}K views"
+    return f"{n} views"
+
+
+def extract_youtube_views(entry) -> tuple[int, str]:
+    """Return (raw_count, display_string) for a YouTube entry, or (0, '') if unavailable."""
+    stats = entry.get("media_statistics")
+    if not isinstance(stats, dict):
+        return 0, ""
+    raw = stats.get("views", "")
+    if not raw:
+        return 0, ""
+    try:
+        n = int(raw)
+    except (ValueError, TypeError):
+        return 0, ""
+    return n, format_view_count(n)
+
+
 def extract_feed_image(entry) -> str:
     """Try to find a thumbnail/image URL embedded in the RSS entry."""
     for m in entry.get("media_content", []):
@@ -312,6 +335,12 @@ def main():
                 "date_iso":      date_iso,
                 "thumbnail_url": thumbnail_url,
             }
+
+            if ftype == "youtube":
+                view_count, view_display = extract_youtube_views(entry)
+                if view_count:
+                    item["view_count"] = view_count
+                    item["view_count_display"] = view_display
 
             note_path = write_note(item)
             item["note_path"] = note_path.as_uri()

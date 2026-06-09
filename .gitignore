@@ -7,9 +7,11 @@ credentials.json
 service-account.json
 
 # Generated content
-data.json
+# data.json IS tracked — the cloud routine needs the dedup state to persist
+# across runs. notes/ and reports/ stay local-only.
 notes/
 reports/
+tmp_today.json
 
 # Python
 __pycache__/
@@ -19,8 +21,11 @@ __pycache__/
 venv/
 .pytest_cache/
 
-# Claude Code per-user settings
-.claude/
+# Claude Code per-user settings (machine-specific paths, allowlists, secrets)
+.claude/settings.json
+.claude/settings.local.json
+# Everything else under .claude/ (commands/, etc.) IS tracked so the cloud
+# routine can invoke /daily-digest after cloning.
 
 # OS / editor cruft
 .DS_Store
