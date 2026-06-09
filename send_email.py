@@ -92,12 +92,15 @@ def send(html: str, subject: str, sender: str, recipient: str, api_key: str) -> 
         "html":    html,
     }).encode("utf-8")
 
+    # Cloudflare (which fronts api.resend.com) returns 1010 for requests with
+    # the default `Python-urllib/3.x` User-Agent. Set an explicit UA to pass.
     req = urllib.request.Request(
         RESEND_URL,
         data=body,
         headers={
             "Authorization": f"Bearer {api_key}",
             "Content-Type":  "application/json",
+            "User-Agent":    "ai-digest/1.0 (+https://github.com/Xion6cc/ai-sources)",
         },
         method="POST",
     )
