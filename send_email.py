@@ -23,11 +23,10 @@ Env vars:
 import json
 import os
 import sys
-import urllib.error
-import urllib.request
 from datetime import datetime
 from pathlib import Path
 
+import requests
 from jinja2 import Environment, FileSystemLoader
 
 BASE_DIR      = Path(__file__).parent
@@ -85,32 +84,27 @@ def render(picks: list[dict], date: str, scanned_total: int) -> str:
 
 
 def send(html: str, subject: str, sender: str, recipient: str, api_key: str) -> dict:
-    body = json.dumps({
-        "from":    sender,
-        "to":      [recipient],
-        "subject": subject,
-        "html":    html,
-    }).encode("utf-8")
-
-    # Cloudflare (which fronts api.resend.com) returns 1010 for requests with
-    # the default `Python-urllib/3.x` User-Agent. Set an explicit UA to pass.
-    req = urllib.request.Request(
+    # Use `requests` (not urllib) because Cloudflare fronts api.resend.com and
+    # rejects the default urllib TLS fingerprint with error 1010 ("browser
+    # integrity check failed") even when a custom User-Agent is set. `requests`
+    # uses urllib3, which presents a more standard TLS signature that passes.
+    resp = requests.post(
         RESEND_URL,
-        data=body,
+        json={
+            "from":    sender,
+            "to":      [recipient],
+            "subject": subject,
+            "html":    html,
+        },
         headers={
             "Authorization": f"Bearer {api_key}",
-            "Content-Type":  "application/json",
             "User-Agent":    "ai-digest/1.0 (+https://github.com/Xion6cc/ai-sources)",
         },
-        method="POST",
+        timeout=30,
     )
-
-    try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            return json.loads(resp.read())
-    except urllib.error.HTTPError as e:
-        msg = e.read().decode("utf-8", errors="replace")
-        raise RuntimeError(f"Resend API error {e.code}: {msg}") from e
+    if not resp.ok:
+        raise RuntimeError(f"Resend API error {resp.status_code}: {resp.text}")
+    return resp.json()
 
 
 def main():
