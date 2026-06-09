@@ -31,25 +31,24 @@ jobs:
       - name: Extract today's items
         run: python pick_today.py 24
 
-      - name: Rank items via Gemini
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python rank.py
+      - name: Archive today's items to picks/
+        run: |
+          today=$(date -u +%Y-%m-%d)
+          mkdir -p picks
+          cp tmp_today.json "picks/${today}.json"
 
       - name: Send email via Resend
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          DIGEST_SCANNED_TOTAL: ${{ steps.fetch-count.outputs.count }}
         run: |
           today=$(date -u +%Y-%m-%d)
           picks="picks/${today}.json"
-          if [ ! -f "$picks" ]; then
-            echo "No picks file ($picks) — likely no new items today. Skipping email."
+          count=$(python -c "import json; print(len(json.load(open('$picks'))))")
+          if [ "$count" = "0" ]; then
+            echo "No items in last 24h — skipping email."
             exit 0
           fi
-          # Pass scanned count even if the earlier step didn't set it
-          scanned=$(python -c "import json; print(len(json.load(open('tmp_today.json'))))" 2>/dev/null || echo 0)
-          DIGEST_SCANNED_TOTAL=$scanned python send_email.py "$picks"
+          DIGEST_SCANNED_TOTAL=$count python send_email.py "$picks"
 
       - name: Commit & push state
         run: |

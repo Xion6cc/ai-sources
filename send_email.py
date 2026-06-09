@@ -38,17 +38,18 @@ DEFAULT_TO   = "sysuxcc@gmail.com"
 DEFAULT_FROM = "AI Digest <onboarding@resend.dev>"
 
 # Section display order + labels + colors. Keys are item["type"] values from data.json.
+# Section display order: blog -> video -> X. Within each section: newest first.
 SECTION_DEFS = [
-    {"type": "youtube", "label": "Videos",  "label_short": "videos",  "color": "#ff4444"},
-    {"type": "blog",    "label": "Blogs",   "label_short": "blogs",   "color": "#4488ff"},
-    {"type": "podcast", "label": "Podcasts","label_short": "podcasts","color": "#22d3a0"},
-    {"type": "paper",   "label": "Papers",  "label_short": "papers",  "color": "#f59e42"},
-    {"type": "twitter", "label": "X / Twitter", "label_short": "tweets", "color": "#1a1a1a"},
+    {"type": "blog",    "label": "Blogs",       "label_short": "blogs",   "color": "#4488ff"},
+    {"type": "youtube", "label": "Videos",      "label_short": "videos",  "color": "#ff4444"},
+    {"type": "podcast", "label": "Podcasts",    "label_short": "podcasts","color": "#22d3a0"},
+    {"type": "paper",   "label": "Papers",      "label_short": "papers",  "color": "#f59e42"},
+    {"type": "twitter", "label": "X / Twitter", "label_short": "tweets",  "color": "#1a1a1a"},
 ]
 
 
 def group_into_sections(picks: list[dict]) -> list[dict]:
-    """Bucket picks by type into the display sections (sorted by score desc within each)."""
+    """Bucket picks by type, sort each bucket by date_iso desc (newest first)."""
     buckets = {s["type"]: [] for s in SECTION_DEFS}
     leftover_types: dict[str, list] = {}
     for p in picks:
@@ -58,16 +59,17 @@ def group_into_sections(picks: list[dict]) -> list[dict]:
         else:
             leftover_types.setdefault(t, []).append(p)
 
+    sort_key = lambda x: x.get("date_iso", "")
     sections = []
     for s in SECTION_DEFS:
-        items = sorted(buckets[s["type"]], key=lambda x: x.get("score", 0), reverse=True)
+        items = sorted(buckets[s["type"]], key=sort_key, reverse=True)
         sections.append({**s, "entries": items})
 
     for t, leftover in leftover_types.items():
         sections.append({
             "type": t, "label": t.capitalize(), "label_short": t,
             "color": "#888",
-            "entries": sorted(leftover, key=lambda x: x.get("score", 0), reverse=True),
+            "entries": sorted(leftover, key=sort_key, reverse=True),
         })
 
     return sections
@@ -124,7 +126,7 @@ def main():
     date = picks_path.stem if len(picks_path.stem) == 10 and picks_path.stem[4] == "-" \
            else datetime.now().strftime("%Y-%m-%d")
 
-    subject = f"AI Digest {date} — top {len(picks)} picks"
+    subject = f"AI Digest {date} — {len(picks)} item{'s' if len(picks) != 1 else ''}"
     html    = render(picks, date, scanned)
     result  = send(html, subject, sender, recipient, api_key)
     print(f"Sent {len(picks)} picks to {recipient} (resend id: {result.get('id', '?')})")

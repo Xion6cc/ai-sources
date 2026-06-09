@@ -47,10 +47,9 @@
       <!-- Item -->
       <tr><td style="padding:20px 32px;border-bottom:1px solid #f0f0f0;">
 
-        <!-- Score + source -->
+        <!-- Source -->
         <div style="font-size:12px;color:#888;margin-bottom:8px;">
-          <span style="display:inline-block;background:{% if item.score >= 9 %}#1a8917{% elif item.score >= 7 %}#3b82f6{% else %}#888{% endif %};color:#fff;font-weight:700;padding:2px 8px;border-radius:10px;font-size:12px;">{{ item.score }}/10</span>
-          &nbsp;&middot;&nbsp;{{ item.source }}
+          {% if item.score is defined %}<span style="display:inline-block;background:{% if item.score >= 9 %}#1a8917{% elif item.score >= 7 %}#3b82f6{% else %}#888{% endif %};color:#fff;font-weight:700;padding:2px 8px;border-radius:10px;font-size:12px;">{{ item.score }}/10</span>&nbsp;&middot;&nbsp;{% endif %}{{ item.source }}
         </div>
 
         <!-- Title -->
@@ -58,11 +57,13 @@
           <a href="{{ item.url }}" style="color:#1a1a1a;text-decoration:none;">{{ item.title }}</a>
         </div>
 
+        {% if item.why %}
         <!-- Why you'd care -->
         <div style="font-size:14px;color:#333;background:#fafafa;border-left:3px solid #1a8917;padding:10px 12px;margin:10px 0;line-height:1.5;">
           <span style="color:#888;font-size:11px;font-weight:700;letter-spacing:0.8px;text-transform:uppercase;">Why you'd care</span><br>
           {{ item.why }}
         </div>
+        {% endif %}
 
         {% if item.summary %}
         <div style="font-size:13px;color:#666;line-height:1.55;margin-top:8px;">
