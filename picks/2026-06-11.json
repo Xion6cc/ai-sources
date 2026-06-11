@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+    "date": "2026-06-11 00:00 UTC",
+    "date_iso": "2026-06-11T00:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "date": "2026-06-11 00:00 UTC",
+    "date_iso": "2026-06-11T00:00:00Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2064843560248332577#m",
+    "title": "This is so good\n\nIncreasingly the output of an agency looks like a folder of files for agents, instead of one-off assets\n\n\"Get paid for your mind, not your hands\"",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "This is so good Increasingly the output of an agency looks like a folder of files for agents, instead of one-off assets \"Get paid for your mind, not your hands\" Emmett (@emmettshine) x.com/i/article/205440026347… — https://nitter.net/emmettshine/status/2054539694097015171#m",
+    "date": "2026-06-10 22:54 UTC",
+    "date_iso": "2026-06-10T22:54:02Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2064835289559023958#m",
+    "title": "People should build agents/skills for their cross-functional teams.\n\nFor example, if a design team builds a design agent/skill for the marketing team (trained on all of the brand's guidelines and design patterns), then the marketing team can produce more on-brand assets without having to bug designers every time\n\nBut the marketing team couldn't have built this on their own; it takes the designer with their expertise, context, and knowledge\n\nSame thing applies to every pair of teams that work closely with each other, often rely on each other, and complain about each other's limited bandwidth\n\nBuilding agents for your cross-functional teams ensures each team can be more self-sufficient, and moves us to a direction where teams can be organized by \"loops\" rather than \"functions\"",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "People should build agents/skills for their cross-functional teams. For example, if a design team builds a design agent/skill for the marketing team (trained on all of the brand's guidelines and design patterns), then the marketing team can produce more on-brand assets without having to bug designers every time But the marketing team couldn't have built this on their own; it …",
+    "date": "2026-06-10 22:21 UTC",
+    "date_iso": "2026-06-10T22:21:10Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2064825302359150870#m",
+    "title": "It seems like most startups in San Francisco are selling products to each other\n\nWhen I ask founders who their target audience is, 90% of the time it's \"engineering and product teams, AI-native startups\"\n\nFeels like the same small group of target audience is being bombarded with a million products, whereas very few people are building for the 99% of the world",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "It seems like most startups in San Francisco are selling products to each other When I ask founders who their target audience is, 90% of the time it's \"engineering and product teams, AI-native startups\" Feels like the same small group of target audience is being bombarded with a million products, whereas very few people are building for the 99% of …",
+    "date": "2026-06-10 21:41 UTC",
+    "date_iso": "2026-06-10T21:41:29Z"
+  },
+  {
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+    "date": "2026-06-10 20:00 UTC",
+    "date_iso": "2026-06-10T20:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=TNwJ1LMiENk",
+    "title": "Stop Making Models Bigger, Make Them Behave — Kobie Crawdord, Snorkel",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Qwen 3 235B was asked for YouTube's year over year ad revenue growth from 2023 to 2024. It queried a table that didn't exist, tried again, got nothing back both times, and hallucinated an answer. The 4B model Snorkel finetuned with RL called `get_table_name` first, inspected the schema, ran a query, hit a column error, self-corrected, and got the right …",
+    "date": "2026-06-10 17:00 UTC",
+    "date_iso": "2026-06-10T17:00:25Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=SS-A8sE7hkw",
+    "title": "Sovereign Escape Velocity: Ownership w Open Models — Gus Martins, & Ian Ballantyne, Google DeepMind",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Gemma 4's 31B model sits fourth on the LM Arena open model leaderboard. The models around it are at least twice as large; some are 20 times larger. It runs on a single GPU. Competitors at comparable quality need four or five. Ian Ballantyne and Gus Martins walk through what that size efficiency unlocks: running on a Pixel phone (the …",
+    "date": "2026-06-10 15:00 UTC",
+    "date_iso": "2026-06-10T15:00:06Z"
+  },
+  {
+    "url": "https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/",
+    "title": "Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant",
+    "source": "Spotify Engineering",
+    "type": "blog",
+    "summary": "At Spotify, data problems used to follow a specific pattern. You'd look for the relevant dashboard, there... The post Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant appeared first on Spotify Engineering .",
+    "date": "2026-06-10 13:01 UTC",
+    "date_iso": "2026-06-10T13:01:14Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=zMiSRliEzv4",
+    "title": "Self Driving Products: Product Signals to Pull Requests — Joshua Snyder, PostHog",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A rage click, a 2am error spike, a customer Slack message — today each sits until a developer notices, triages, tickets, and writes a fix. PostHog is building a pipeline that collapses that chain: signal arrives, a background agent groups it with related errors and session replays, researches the codebase, and opens a PR. You wake up to green PRs …",
+    "date": "2026-06-10 13:00 UTC",
+    "date_iso": "2026-06-10T13:00:17Z"
+  },
+  {
+    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "title": "PRC-linked influence operations are targeting AI debates in the US",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+    "date": "2026-06-10 12:00 UTC",
+    "date_iso": "2026-06-10T12:00:00Z"
+  }
+]
