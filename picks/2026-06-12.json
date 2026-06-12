@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://openai.com/index/preply",
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+    "date": "2026-06-12 00:00 UTC",
+    "date_iso": "2026-06-12T00:00:00Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2065140462709506108#m",
+    "title": "This is tomorrow!\nSneak peek of the deck I'll be sharing:",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "This is tomorrow! Sneak peek of the deck I'll be sharing: Zara Zhang (@zarazhangrui) I will be doing a virtual talk this Friday on my vibe coding process. As a non-technical person who has somehow managed to get 30k stars on GitHub, I will be sharing the behind-the-scenes of how I get product ideas, how I work with coding agents, …",
+    "date": "2026-06-11 18:33 UTC",
+    "date_iso": "2026-06-11T18:33:49Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=iUWwcG-C8OU",
+    "title": "Why Can't Anyone Answer Questions About the Business? — Garrett Galow, WorkOS",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Every business question that needs SQL follows the same loop: explain the question, wait for an engineer, get an answer, realize it needs one more join, share a one-off in Slack, repeat. Garrett Galow from WorkOS built Studio to break that loop — an internal workspace where anyone can ask questions against Snowflake, Linear, and Notion in natural language and …",
+    "date": "2026-06-11 18:00 UTC",
+    "date_iso": "2026-06-11T18:00:06Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/did-anthropics-new-model-just-boost",
+    "title": "The Pulse: Did Anthropic’s new model just boost rival Codex’s market share?",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Anthropic&#8217;s new model, Fable, has restrictions many users find unacceptable. Also: a new trend of smart model routing, Coinbase&#8217;s core service has no automatic cross-zone failover, and more.",
+    "date": "2026-06-11 16:26 UTC",
+    "date_iso": "2026-06-11T16:26:58Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ghJmWQCIHRM",
+    "title": "The agent-ready web: Simplify user actions with WebMCP — Tara Agyemang, Google",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Buying two concert tickets costs an AI agent the entire DOM, the accessibility tree, a screenshot, pixel coordinate math, and then a click that might miss because an ad just loaded and shifted the layout. Tara Agyemang from the Google Chrome team introduces WebMCP, a proposed web standard that replaces that process with structured tools: instead of guessing what your …",
+    "date": "2026-06-11 16:00 UTC",
+    "date_iso": "2026-06-11T16:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=so9l_MwS2yg",
+    "title": "How to Keep Shipping When You Walk Away from Your Desk — Zack Proser, WorkOS",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Simon Willison fires up four parallel agents and is wiped out by 11am. That is the problem Zack Proser is solving: not that the tools are too slow but that human attention is still the hard constraint. His loop: voice brief at 184 words per minute, agent dispatched to an isolated git worktree, laptop closed, progress checked from a phone …",
+    "date": "2026-06-11 14:00 UTC",
+    "date_iso": "2026-06-11T14:00:06Z"
+  }
+]
