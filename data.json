@@ -1,5 +1,29 @@
 [
   {
+    "title": "There are SO many people, friends, acquaintances, followers, startups, asking me to try their new AI products every day\n\nLike I get at least 3 such requests per day\n\nIf I tried all of these products I wouldn’t have time to do anything else \n\nThere are too many builders and the competition for attention is insane",
+    "url": "https://nitter.net/zarazhangrui/status/2065696088519270402#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "There are SO many people, friends, acquaintances, followers, startups, asking me to try their new AI products every day Like I get at least 3 such requests per day If I tried all of these products I wouldn’t have time to do anything else There are too many builders and the competition for attention is insane",
+    "date": "2026-06-13 07:21 UTC",
+    "date_str": "2026-06-13",
+    "date_iso": "2026-06-13T07:21:40Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-13_There-are-SO-many-people-friends-acquaintances-followers-startups-asking-me-to-t.md"
+  },
+  {
+    "title": "A viral product has a founder people can see and hear\n\nPeople buy from people. A screen recording from the founder beats a corporate promo video or a wall of features.\n\nShow your face.",
+    "url": "https://nitter.net/zarazhangrui/status/2065674426197393779#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "A viral product has a founder people can see and hear People buy from people. A screen recording from the founder beats a corporate promo video or a wall of features. Show your face. Marc Lou (@marclou) x.com/i/article/206378698006… — https://nitter.net/marclou/status/2065385672991752210#m",
+    "date": "2026-06-13 05:55 UTC",
+    "date_str": "2026-06-13",
+    "date_iso": "2026-06-13T05:55:36Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-13_A-viral-product-has-a-founder-people-can-see-and-hear-People-buy-from-people-A-s.md"
+  },
+  {
     "title": "How Preply combines AI and human tutors to personalize learning",
     "url": "https://openai.com/index/preply",
     "source": "OpenAI",
@@ -1746,65 +1770,5 @@
     "date_iso": "2026-05-14T13:00:00Z",
     "thumbnail_url": "",
     "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-14_Work-with-Codex-from-anywhere.md"
-  },
-  {
-    "title": "Helping ChatGPT better recognize context in sensitive conversations",
-    "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-    "date": "2026-05-14 00:00 UTC",
-    "date_str": "2026-05-14",
-    "date_iso": "2026-05-14T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-14_Helping-ChatGPT-better-recognize-context-in-sensitive-conversations.md"
-  },
-  {
-    "title": "2028: Two scenarios for global AI leadership",
-    "url": "https://www.anthropic.com/research/2028-ai-leadership",
-    "source": "Anthropic Research",
-    "type": "blog",
-    "summary": "",
-    "date": "2026-05-14 00:00 UTC",
-    "date_str": "2026-05-14",
-    "date_iso": "2026-05-14T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-14_2028-Two-scenarios-for-global-AI-leadership.md"
-  },
-  {
-    "title": "TypeScript, C# and Turbo Pascal with Anders Hejlsberg",
-    "url": "https://newsletter.pragmaticengineer.com/p/typescript-c-and-turbo-pascal-with",
-    "source": "The Pragmatic Engineer Newsletter",
-    "type": "blog",
-    "summary": "Anders Hejlsberg reflects on building Turbo Pascal, C#, and TypeScript, and shares what AI may change about the future of software engineering.",
-    "date": "2026-05-13 17:06 UTC",
-    "date_str": "2026-05-13",
-    "date_iso": "2026-05-13T17:06:59Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-13_TypeScript-C-and-Turbo-Pascal-with-Anders-Hejlsberg.md"
-  },
-  {
-    "title": "Viaduct 1.0 and the future of Airbnb’s data mesh",
-    "url": "https://medium.com/airbnb-engineering/viaduct-1-0-and-the-future-of-airbnbs-data-mesh-6bab4ec98b89?source=rss----53c7c27702d5---4",
-    "source": "Airbnb Engineering",
-    "type": "blog",
-    "summary": "Moving from an internal tool to a community-driven, production-ready data mesh. By : Ryan Tanner , Raymie Stata , Adam Miskiewicz Introduction We’re excited to announce the 1.0 release of the Viaduct. This release marks a shift from Viaduct being an Airbnb-internal tool that happens to be open source to a true community-driven project with a stable public API. The …",
-    "date": "2026-05-13 17:01 UTC",
-    "date_str": "2026-05-13",
-    "date_iso": "2026-05-13T17:01:01Z",
-    "thumbnail_url": "https://cdn-images-1.medium.com/max/1024/1*uxoiyQybKqmOHm_AdF1kVg.jpeg",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-13_Viaduct-10-and-the-future-of-Airbnbs-data-mesh.md"
-  },
-  {
-    "title": "Reel Friends: Building Social Discovery that Scales to Billions",
-    "url": "https://engineering.fb.com/2026/05/13/ml-applications/reel-friends-building-social-discovery-that-scales-to-billions/",
-    "source": "Meta Engineering",
-    "type": "blog",
-    "summary": "On its face the new Friend Bubbles feature looks simple enough. It highlights Reels your friends have watched and reacted to. But sometimes the features that seem the most straightforward require the deepest engineering work. On this episode of the Meta Tech Podcast, Pascal Hartig chats with Subasree and Joseph, two software engineers from the Facebook [...] Read More... The …",
-    "date": "2026-05-13 13:00 UTC",
-    "date_str": "2026-05-13",
-    "date_iso": "2026-05-13T13:00:44Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-13_Reel-Friends-Building-Social-Discovery-that-Scales-to-Billions.md"
   }
 ]
