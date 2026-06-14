@@ -1,5 +1,17 @@
 [
   {
+    "title": "Great essay on taste and how to cultivate it\n\nTaste is not just personal preference; good taste requires mastery and experience",
+    "url": "https://nitter.net/zarazhangrui/status/2066036778713362747#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Great essay on taste and how to cultivate it Taste is not just personal preference; good taste requires mastery and experience Paul Graham (@paulg) Prediction: In the AI age, taste will become even more important. When anyone can make anything, the big differentiator is what you choose to make. paulgraham.com/taste.html — https://nitter.net/paulg/status/2022604692178522562#m",
+    "date": "2026-06-14 05:55 UTC",
+    "date_str": "2026-06-14",
+    "date_iso": "2026-06-14T05:55:27Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-14_Great-essay-on-taste-and-how-to-cultivate-it-Taste-is-not-just-personal-preferen.md"
+  },
+  {
     "title": "There are SO many people, friends, acquaintances, followers, startups, asking me to try their new AI products every day\n\nLike I get at least 3 such requests per day\n\nIf I tried all of these products I wouldn’t have time to do anything else \n\nThere are too many builders and the competition for attention is insane",
     "url": "https://nitter.net/zarazhangrui/status/2065696088519270402#m",
     "source": "Zara Zhang (@zarazhangrui)",
@@ -1662,113 +1674,5 @@
     "date_iso": "2026-05-16T00:00:00Z",
     "thumbnail_url": "",
     "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-16_OpenAI-and-Malta-partner-to-bring-ChatGPT-Plus-to-all-citizens.md"
-  },
-  {
-    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-    "url": "https://openai.com/index/databricks",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-    "date": "2026-05-15 00:00 UTC",
-    "date_str": "2026-05-15",
-    "date_iso": "2026-05-15T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-15_Databricks-brings-GPT-55-to-enterprise-agent-workflows.md"
-  },
-  {
-    "title": "How business operations teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-    "date": "2026-05-15 00:00 UTC",
-    "date_str": "2026-05-15",
-    "date_iso": "2026-05-15T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-15_How-business-operations-teams-use-Codex.md"
-  },
-  {
-    "title": "A new personal finance experience in ChatGPT",
-    "url": "https://openai.com/index/personal-finance-chatgpt",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-    "date": "2026-05-15 00:00 UTC",
-    "date_str": "2026-05-15",
-    "date_iso": "2026-05-15T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-15_A-new-personal-finance-experience-in-ChatGPT.md"
-  },
-  {
-    "title": "How sales teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-    "date": "2026-05-15 00:00 UTC",
-    "date_str": "2026-05-15",
-    "date_iso": "2026-05-15T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-15_How-sales-teams-use-Codex.md"
-  },
-  {
-    "title": "How data science teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-    "date": "2026-05-15 00:00 UTC",
-    "date_str": "2026-05-15",
-    "date_iso": "2026-05-15T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-15_How-data-science-teams-use-Codex.md"
-  },
-  {
-    "title": "Sea's View on the Future of Agentic Software Development with Codex",
-    "url": "https://openai.com/index/sea-david-chen",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-    "date": "2026-05-14 20:30 UTC",
-    "date_str": "2026-05-14",
-    "date_iso": "2026-05-14T20:30:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-14_Seas-View-on-the-Future-of-Agentic-Software-Development-with-Codex.md"
-  },
-  {
-    "title": "The Pulse: Forward deployed engineering heats up again",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-forward-deployed-engineering",
-    "source": "The Pragmatic Engineer Newsletter",
-    "type": "blog",
-    "summary": "Also: a look into rising tech job losses, self-reporting 100% AI usage at big companies, vibe coding & agentic engineering merging, and more",
-    "date": "2026-05-14 16:09 UTC",
-    "date_str": "2026-05-14",
-    "date_iso": "2026-05-14T16:09:57Z",
-    "thumbnail_url": "https://substackcdn.com/image/fetch/$s_!RbLf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e0e23f7-eda1-4ceb-9cd0-37106afa3828_1202x684.png",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-14_The-Pulse-Forward-deployed-engineering-heats-up-again.md"
-  },
-  {
-    "title": "From latency to instant: Modernizing GitHub Issues navigation performance",
-    "url": "https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/",
-    "source": "GitHub Engineering",
-    "type": "blog",
-    "summary": "How the GitHub Issues team used client-side caching, smart prefetching, and service workers to make navigation feel instant. The post From latency to instant: Modernizing GitHub Issues navigation performance appeared first on The GitHub Blog .",
-    "date": "2026-05-14 16:00 UTC",
-    "date_str": "2026-05-14",
-    "date_iso": "2026-05-14T16:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-14_From-latency-to-instant-Modernizing-GitHub-Issues-navigation-performance.md"
-  },
-  {
-    "title": "Work with Codex from anywhere",
-    "url": "https://openai.com/index/work-with-codex-from-anywhere",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-    "date": "2026-05-14 13:00 UTC",
-    "date_str": "2026-05-14",
-    "date_iso": "2026-05-14T13:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-14_Work-with-Codex-from-anywhere.md"
   }
 ]
