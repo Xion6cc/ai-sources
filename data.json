@@ -1,5 +1,41 @@
 [
   {
+    "title": "You don't make a good skill by writing a skill. \n\nYou make it by doing the thing, fixing it 20 times, then telling the AI to bottle up everything you just did.",
+    "url": "https://nitter.net/zarazhangrui/status/2066388749244854771#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "You don't make a good skill by writing a skill. You make it by doing the thing, fixing it 20 times, then telling the AI to bottle up everything you just did.",
+    "date": "2026-06-15 05:14 UTC",
+    "date_str": "2026-06-15",
+    "date_iso": "2026-06-15T05:14:04Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-15_You-dont-make-a-good-skill-by-writing-a-skill-You-make-it-by-doing-the-thing-fix.md"
+  },
+  {
+    "title": "The recording of my full 45-min talk on my vibe coding process is up! \n\nI go through the behind-the-scenes of how I get product ideas, how I talk to coding agents, how to prevent AI slop in design, and more\n\n(YouTube link in comment)",
+    "url": "https://nitter.net/zarazhangrui/status/2066209240428286182#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "The recording of my full 45-min talk on my vibe coding process is up! I go through the behind-the-scenes of how I get product ideas, how I talk to coding agents, how to prevent AI slop in design, and more (YouTube link in comment) Video Zara Zhang (@zarazhangrui) I will be doing a virtual talk this Friday on my vibe …",
+    "date": "2026-06-14 17:20 UTC",
+    "date_str": "2026-06-14",
+    "date_iso": "2026-06-14T17:20:45Z",
+    "thumbnail_url": "https://nitter.net/pic/amplify_video_thumb%2F2066205997732179968%2Fimg%2F3kvJnGBLlBPWXPC5.jpg",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-14_The-recording-of-my-full-45-min-talk-on-my-vibe-coding-process-is-up-I-go-throug.md"
+  },
+  {
+    "title": "Introducing the OpenAI Partner Network",
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "date": "2026-06-14 17:00 UTC",
+    "date_str": "2026-06-14",
+    "date_iso": "2026-06-14T17:00:00Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-14_Introducing-the-OpenAI-Partner-Network.md"
+  },
+  {
     "title": "Great essay on taste and how to cultivate it\n\nTaste is not just personal preference; good taste requires mastery and experience",
     "url": "https://nitter.net/zarazhangrui/status/2066036778713362747#m",
     "source": "Zara Zhang (@zarazhangrui)",
@@ -1638,41 +1674,5 @@
     "date_iso": "2026-05-18T00:00:00Z",
     "thumbnail_url": "",
     "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-18_Introducing-Composer-25.md"
-  },
-  {
-    "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
-    "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
-    "source": "Sebastian Raschka",
-    "type": "blog",
-    "summary": "From Gemma 4 to DeepSeek V4, How New Open-Weight LLMs Are Reducing Long-Context Costs",
-    "date": "2026-05-16 11:33 UTC",
-    "date_str": "2026-05-16",
-    "date_iso": "2026-05-16T11:33:51Z",
-    "thumbnail_url": "https://substack-post-media.s3.amazonaws.com/public/images/2b841d26-5b2d-4be9-9710-d89d4f023f0c_1600x900.png",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-16_Recent-Developments-in-LLM-Architectures-KV-Sharing-mHC-and-Compressed-Attention.md"
-  },
-  {
-    "title": "Don't Outsource the Learning",
-    "url": "https://addyosmani.com/blog/dont-outsource-learning/",
-    "source": "Addy Osmani",
-    "type": "blog",
-    "summary": "Right now, it's too easy to let AI write the code while you skip the learning. The bug gets fixed. Your mental model doesn't move. We are silently trading future capability for present-day speed, and the tools won't force us to do otherwise. That part has to come from you.",
-    "date": "2026-05-16 00:00 UTC",
-    "date_str": "2026-05-16",
-    "date_iso": "2026-05-16T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-16_Dont-Outsource-the-Learning.md"
-  },
-  {
-    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-    "date": "2026-05-16 00:00 UTC",
-    "date_str": "2026-05-16",
-    "date_iso": "2026-05-16T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-16_OpenAI-and-Malta-partner-to-bring-ChatGPT-Plus-to-all-citizens.md"
   }
 ]
