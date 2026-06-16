@@ -1,5 +1,43 @@
 [
   {
+    "title": "This is great UX, so intuitive",
+    "url": "https://nitter.net/zarazhangrui/status/2066601470678749270#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "This is great UX, so intuitive Guillermo Rauch (@rauchg) HTML is so back. Drag and vercel.com/drop — https://nitter.net/rauchg/status/2065494112669966660#m",
+    "date": "2026-06-15 19:19 UTC",
+    "date_str": "2026-06-15",
+    "date_iso": "2026-06-15T19:19:20Z",
+    "thumbnail_url": "https://nitter.net/pic/card_img%2F2065494113924100096%2FZj-5_jQV%3Fformat%3Dpng%26name%3D800x419",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-15_This-is-great-UX-so-intuitive.md"
+  },
+  {
+    "title": "I just reached 70k followers on X 🙏🏼 \n\nX is where I learn in public & build in public. I've learned so much and met so many wonder people here\n\nIf you're curious about how I grew my followers while being completely authentic, read my article below",
+    "url": "https://nitter.net/zarazhangrui/status/2066579717285957692#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "I just reached 70k followers on X 🙏🏼 X is where I learn in public &amp; build in public. I've learned so much and met so many wonder people here If you're curious about how I grew my followers while being completely authentic, read my article below Zara Zhang (@zarazhangrui) x.com/i/article/203575594550… — https://nitter.net/zarazhangrui/status/2035758067116359902#m",
+    "date": "2026-06-15 17:52 UTC",
+    "date_str": "2026-06-15",
+    "date_iso": "2026-06-15T17:52:54Z",
+    "thumbnail_url": "https://nitter.net/pic/media%2FHK321uDbgAEteXH.png",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-15_I-just-reached-70k-followers-on-X-X-is-where-I-learn-in-public-build-in-public-I.md"
+  },
+  {
+    "title": "Why MCP and ChatGPT Apps Use Double Iframes — Frédéric Barthelet, Alpic",
+    "url": "https://www.youtube.com/watch?v=c-2eEv2ou7Y",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Inspect ChatGPT's DOM while an MCP app is rendering and you find an iframe nested inside another iframe. Frédéric Barthelet traces why each simpler approach fails: `srcdoc` shares the parent origin so ChatGPT's CSP blocks all third party scripts; relaxing that CSP lets any app read ChatGPT's localStorage and cookies; adding `sandbox` removes origin indexed storage; adding `allow-same-origin` to restore …",
+    "date": "2026-06-15 14:00 UTC",
+    "date_str": "2026-06-15",
+    "date_iso": "2026-06-15T14:00:06Z",
+    "thumbnail_url": "https://img.youtube.com/vi/c-2eEv2ou7Y/mqdefault.jpg",
+    "view_count": 3436,
+    "view_count_display": "3.4K views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-15_Why-MCP-and-ChatGPT-Apps-Use-Double-Iframes-Fr%C3%A9d%C3%A9ric-Barthelet-Alpic.md"
+  },
+  {
     "title": "You don't make a good skill by writing a skill. \n\nYou make it by doing the thing, fixing it 20 times, then telling the AI to bottle up everything you just did.",
     "url": "https://nitter.net/zarazhangrui/status/2066388749244854771#m",
     "source": "Zara Zhang (@zarazhangrui)",
