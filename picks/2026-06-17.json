@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2066994434953421226#m",
+    "title": "You don’t have to chase the cool thing. Do whatever you’re already doing so well that it becomes the cool thing.\n\nThe cool thing is rarely cool when it starts. It becomes cool because someone went deep on something everyone else thought was too small.",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "You don’t have to chase the cool thing. Do whatever you’re already doing so well that it becomes the cool thing. The cool thing is rarely cool when it starts. It becomes cool because someone went deep on something everyone else thought was too small.",
+    "date": "2026-06-16 21:20 UTC",
+    "date_iso": "2026-06-16T21:20:50Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2066936706281206165#m",
+    "title": "Every other product right now is \"an AI agent that does everything in your work & life & integrates with everything.\" \n\nCool, that's just Claude/Codex. \n\nIf you want me to use your thing instead, it needs an opinion & a soul. Build small & sharp, not big & generic.\n\nDoing everything means doing nothing. Speaking to everybody means speaking to nobody.",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Every other product right now is \"an AI agent that does everything in your work & life & integrates with everything.\" Cool, that's just Claude/Codex. If you want me to use your thing instead, it needs an opinion & a soul. Build small & sharp, not big & generic. Doing everything means doing nothing. Speaking to everybody means speaking to …",
+    "date": "2026-06-16 17:31 UTC",
+    "date_iso": "2026-06-16T17:31:27Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+    "title": "Why is Meta destroying its engineering organization?",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Leadership at the social media giant has been on an AI-fueled rampage through its engineering org. We report what&#8217;s happened",
+    "date": "2026-06-16 16:27 UTC",
+    "date_iso": "2026-06-16T16:27:43Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=gHs5ZiY80PM",
+    "title": "You Might Not Need 50 Diffusion Steps — Ziv Ilan, Nvidia",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "At GTC a few weeks ago, Ziv Ilan's team at NVIDIA got a video diffusion model generating in close to real time on a single Blackwell B200. The trick wasn't a new architecture, it was stripping out most of the fifty step denoising process diffusion models default to, by combining quantization, caching, and step distillation: training a student model to …",
+    "date": "2026-06-16 13:00 UTC",
+    "date_iso": "2026-06-16T13:00:06Z"
+  }
+]

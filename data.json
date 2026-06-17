@@ -1,5 +1,55 @@
 [
   {
+    "title": "You don’t have to chase the cool thing. Do whatever you’re already doing so well that it becomes the cool thing.\n\nThe cool thing is rarely cool when it starts. It becomes cool because someone went deep on something everyone else thought was too small.",
+    "url": "https://nitter.net/zarazhangrui/status/2066994434953421226#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "You don’t have to chase the cool thing. Do whatever you’re already doing so well that it becomes the cool thing. The cool thing is rarely cool when it starts. It becomes cool because someone went deep on something everyone else thought was too small.",
+    "date": "2026-06-16 21:20 UTC",
+    "date_str": "2026-06-16",
+    "date_iso": "2026-06-16T21:20:50Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-16_You-dont-have-to-chase-the-cool-thing-Do-whatever-youre-already-doing-so-well-th.md"
+  },
+  {
+    "title": "Every other product right now is \"an AI agent that does everything in your work & life & integrates with everything.\" \n\nCool, that's just Claude/Codex. \n\nIf you want me to use your thing instead, it needs an opinion & a soul. Build small & sharp, not big & generic.\n\nDoing everything means doing nothing. Speaking to everybody means speaking to nobody.",
+    "url": "https://nitter.net/zarazhangrui/status/2066936706281206165#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Every other product right now is \"an AI agent that does everything in your work & life & integrates with everything.\" Cool, that's just Claude/Codex. If you want me to use your thing instead, it needs an opinion & a soul. Build small & sharp, not big & generic. Doing everything means doing nothing. Speaking to everybody means speaking to …",
+    "date": "2026-06-16 17:31 UTC",
+    "date_str": "2026-06-16",
+    "date_iso": "2026-06-16T17:31:27Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-16_Every-other-product-right-now-is-an-AI-agent-that-does-everything-in-your-work-l.md"
+  },
+  {
+    "title": "Why is Meta destroying its engineering organization?",
+    "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Leadership at the social media giant has been on an AI-fueled rampage through its engineering org. We report what&#8217;s happened",
+    "date": "2026-06-16 16:27 UTC",
+    "date_str": "2026-06-16",
+    "date_iso": "2026-06-16T16:27:43Z",
+    "thumbnail_url": "https://substack-post-media.s3.amazonaws.com/public/images/eabe4407-76aa-47a3-a8cb-1d955c05bf03_1972x1072.png",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-16_Why-is-Meta-destroying-its-engineering-organization.md"
+  },
+  {
+    "title": "You Might Not Need 50 Diffusion Steps — Ziv Ilan, Nvidia",
+    "url": "https://www.youtube.com/watch?v=gHs5ZiY80PM",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "At GTC a few weeks ago, Ziv Ilan's team at NVIDIA got a video diffusion model generating in close to real time on a single Blackwell B200. The trick wasn't a new architecture, it was stripping out most of the fifty step denoising process diffusion models default to, by combining quantization, caching, and step distillation: training a student model to …",
+    "date": "2026-06-16 13:00 UTC",
+    "date_str": "2026-06-16",
+    "date_iso": "2026-06-16T13:00:06Z",
+    "thumbnail_url": "https://img.youtube.com/vi/gHs5ZiY80PM/mqdefault.jpg",
+    "view_count": 1732,
+    "view_count_display": "1.7K views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-16_You-Might-Not-Need-50-Diffusion-Steps-Ziv-Ilan-Nvidia.md"
+  },
+  {
     "title": "This is great UX, so intuitive",
     "url": "https://nitter.net/zarazhangrui/status/2066601470678749270#m",
     "source": "Zara Zhang (@zarazhangrui)",
@@ -1688,29 +1738,5 @@
     "date_iso": "2026-05-18T13:27:23Z",
     "thumbnail_url": "",
     "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-18_Better-Experiments-with-LLM-Evals-A-funnel-not-a-fork.md"
-  },
-  {
-    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-    "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-    "date": "2026-05-18 10:00 UTC",
-    "date_str": "2026-05-18",
-    "date_iso": "2026-05-18T10:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-18_OpenAI-and-Dell-partner-to-bring-Codex-to-hybrid-and-on-premise-enterprise-envir.md"
-  },
-  {
-    "title": "Introducing Composer 2.5",
-    "url": "https://cursor.com/blog/composer-2-5",
-    "source": "Cursor",
-    "type": "blog",
-    "summary": "A substantial improvement in intelligence and behavior over Composer 2, particularly on long-horizon agentic tasks.",
-    "date": "2026-05-18 00:00 UTC",
-    "date_str": "2026-05-18",
-    "date_iso": "2026-05-18T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-18_Introducing-Composer-25.md"
   }
 ]
