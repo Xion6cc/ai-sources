@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2067850383758901669#m",
+    "title": "Made a beautiful HTML deck using my Frontend Slides skill; very happy with how it turned out! \n\nLots of easter eggs (e.g. you can click any image to enlarge them, lots of nested content/hyperlinks/interactive elements etc)\n\nCheck it out: https://deck.zarazhang.com/",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Made a beautiful HTML deck using my Frontend Slides skill; very happy with how it turned out! Lots of easter eggs (e.g. you can click any image to enlarge them, lots of nested content/hyperlinks/interactive elements etc) Check it out: deck.zarazhang.com/ Video",
+    "date": "2026-06-19 06:02 UTC",
+    "date_iso": "2026-06-19T06:02:04Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2067661289367998602#m",
+    "title": "Even more true today",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Even more true today Nikita Bier (@nikitabier) A product manager without a clear narrative on how the product will be marketed and the tactical steps to get there is a glorified to-do list secretary for engineering teams. — https://nitter.net/nikitabier/status/1672084535427596288#m",
+    "date": "2026-06-18 17:30 UTC",
+    "date_iso": "2026-06-18T17:30:41Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-big-implications-of-us",
+    "title": "The Pulse: Big implications of US banning Anthropic’s new model, Fable",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Also: a follow-up on Meta destroying its own engineering culture, the SpaceX IPO, SpaceX buys Cursor, Cursor&#8217;s GitHub competitor, and more.",
+    "date": "2026-06-18 17:11 UTC",
+    "date_iso": "2026-06-18T17:11:03Z"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "date": "2026-06-18 17:00 UTC",
+    "date_iso": "2026-06-18T17:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ObTPqBGsEbA",
+    "title": "The Production AI Playbook: Deploying Agents at Enterprise Scale — Sandipan Bhaumik, Databricks",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A retail bank spent £85,000 over six months on a chatbot PoC that could not reach production. No one could explain why it was failing. When Sandipan Bhaumik's team got involved, they picked the model in week seven of an eight-week engagement — the first six weeks went to evaluation data, tracing infrastructure, and a measurement pipeline. Six weeks post …",
+    "date": "2026-06-18 13:00 UTC",
+    "date_iso": "2026-06-18T13:00:06Z"
+  }
+]

@@ -1,5 +1,67 @@
 [
   {
+    "title": "Made a beautiful HTML deck using my Frontend Slides skill; very happy with how it turned out! \n\nLots of easter eggs (e.g. you can click any image to enlarge them, lots of nested content/hyperlinks/interactive elements etc)\n\nCheck it out: https://deck.zarazhang.com/",
+    "url": "https://nitter.net/zarazhangrui/status/2067850383758901669#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Made a beautiful HTML deck using my Frontend Slides skill; very happy with how it turned out! Lots of easter eggs (e.g. you can click any image to enlarge them, lots of nested content/hyperlinks/interactive elements etc) Check it out: deck.zarazhang.com/ Video",
+    "date": "2026-06-19 06:02 UTC",
+    "date_str": "2026-06-19",
+    "date_iso": "2026-06-19T06:02:04Z",
+    "thumbnail_url": "https://nitter.net/pic/amplify_video_thumb%2F2067850030288130048%2Fimg%2FwOv9plZj4kN44KDy.jpg",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-19_Made-a-beautiful-HTML-deck-using-my-Frontend-Slides-skill-very-happy-with-how-it.md"
+  },
+  {
+    "title": "Even more true today",
+    "url": "https://nitter.net/zarazhangrui/status/2067661289367998602#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Even more true today Nikita Bier (@nikitabier) A product manager without a clear narrative on how the product will be marketed and the tactical steps to get there is a glorified to-do list secretary for engineering teams. — https://nitter.net/nikitabier/status/1672084535427596288#m",
+    "date": "2026-06-18 17:30 UTC",
+    "date_str": "2026-06-18",
+    "date_iso": "2026-06-18T17:30:41Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-18_Even-more-true-today.md"
+  },
+  {
+    "title": "The Pulse: Big implications of US banning Anthropic’s new model, Fable",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-big-implications-of-us",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Also: a follow-up on Meta destroying its own engineering culture, the SpaceX IPO, SpaceX buys Cursor, Cursor&#8217;s GitHub competitor, and more.",
+    "date": "2026-06-18 17:11 UTC",
+    "date_str": "2026-06-18",
+    "date_iso": "2026-06-18T17:11:03Z",
+    "thumbnail_url": "https://substackcdn.com/image/fetch/$s_!SNKX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F744904b3-18f6-46e7-a260-659673fed299_1186x1528.png",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-18_The-Pulse-Big-implications-of-US-banning-Anthropics-new-model-Fable.md"
+  },
+  {
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "date": "2026-06-18 17:00 UTC",
+    "date_str": "2026-06-18",
+    "date_iso": "2026-06-18T17:00:00Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-18_New-usage-analytics-and-updated-spend-controls-for-enterprises.md"
+  },
+  {
+    "title": "The Production AI Playbook: Deploying Agents at Enterprise Scale — Sandipan Bhaumik, Databricks",
+    "url": "https://www.youtube.com/watch?v=ObTPqBGsEbA",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A retail bank spent £85,000 over six months on a chatbot PoC that could not reach production. No one could explain why it was failing. When Sandipan Bhaumik's team got involved, they picked the model in week seven of an eight-week engagement — the first six weeks went to evaluation data, tracing infrastructure, and a measurement pipeline. Six weeks post …",
+    "date": "2026-06-18 13:00 UTC",
+    "date_str": "2026-06-18",
+    "date_iso": "2026-06-18T13:00:06Z",
+    "thumbnail_url": "https://img.youtube.com/vi/ObTPqBGsEbA/mqdefault.jpg",
+    "view_count": 5441,
+    "view_count_display": "5.4K views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-18_The-Production-AI-Playbook-Deploying-Agents-at-Enterprise-Scale-Sandipan-Bhaumik.md"
+  },
+  {
     "title": "Don't use AI for writing until you develop your own taste and voice\n\nUsing AI to write isn't inherently bad. The danger is using AI to write before you've developed your taste for what is good content. If the AI produces slop, you won't even recognize it as slop\n\nRead a lot to figure out what good looks like. Write a lot to know what your voice sounds like. Only then, use AI to help you write, but make sure it actually sounds like you",
     "url": "https://nitter.net/zarazhangrui/status/2067423674689638652#m",
     "source": "Zara Zhang (@zarazhangrui)",
@@ -1706,77 +1768,5 @@
     "view_count": 206412,
     "view_count_display": "206.4K views",
     "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-20_Why-Rust-is-different-with-Alice-Ryhl.md"
-  },
-  {
-    "title": "The next phase of OpenAI’s Education for Countries",
-    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-    "date": "2026-05-20 00:00 UTC",
-    "date_str": "2026-05-20",
-    "date_iso": "2026-05-20T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-20_The-next-phase-of-OpenAIs-Education-for-Countries.md"
-  },
-  {
-    "title": "How Ramp engineers accelerate code review with Codex",
-    "url": "https://openai.com/index/ramp",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-    "date": "2026-05-20 00:00 UTC",
-    "date_str": "2026-05-20",
-    "date_iso": "2026-05-20T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-20_How-Ramp-engineers-accelerate-code-review-with-Codex.md"
-  },
-  {
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-    "date": "2026-05-20 00:00 UTC",
-    "date_str": "2026-05-20",
-    "date_iso": "2026-05-20T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-20_An-OpenAI-model-has-disproved-a-central-conjecture-in-discrete-geometry.md"
-  },
-  {
-    "title": "Introducing OpenAI for Singapore",
-    "url": "https://openai.com/index/introducing-openai-for-singapore",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-    "date": "2026-05-19 20:30 UTC",
-    "date_str": "2026-05-19",
-    "date_iso": "2026-05-19T20:30:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-19_Introducing-OpenAI-for-Singapore.md"
-  },
-  {
-    "title": "Scaling Airbnb’s identity graph with a unified knowledge graph infrastructure",
-    "url": "https://medium.com/airbnb-engineering/scaling-airbnbs-identity-graph-with-a-unified-knowledge-graph-infrastructure-ebac467b7836?source=rss----53c7c27702d5---4",
-    "source": "Airbnb Engineering",
-    "type": "blog",
-    "summary": "How Airbnb shifts from PaaS to an internal knowledge graph infrastructure at scale. By: Lucen Zhao , Shukun Yang , Ashish Jain Knowledge graphs offer a natural and powerful way to represent relationships between entities. Many real-world systems are fundamentally about connections. Airbnb’s identity graph captures relationships between users in a graph database. The identity graph serves aggregated insights that …",
-    "date": "2026-05-19 17:01 UTC",
-    "date_str": "2026-05-19",
-    "date_iso": "2026-05-19T17:01:01Z",
-    "thumbnail_url": "https://cdn-images-1.medium.com/max/1024/1*Xt7N4e5yNMVkM7bhbKsWhg.jpeg",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-19_Scaling-Airbnbs-identity-graph-with-a-unified-knowledge-graph-infrastructure.md"
-  },
-  {
-    "title": "AI’s impact on software engineers in 2026: key trends, Part 2",
-    "url": "https://newsletter.pragmaticengineer.com/p/ai-impact-on-software-engineers-part-2",
-    "source": "The Pragmatic Engineer Newsletter",
-    "type": "blog",
-    "summary": "Tradeoffs of AI tooling, why adopting AI at company-level is hard, what&#8217;s changed in two years, and more. The third and final part of a series analyzing our 2026 AI survey results",
-    "date": "2026-05-19 16:43 UTC",
-    "date_str": "2026-05-19",
-    "date_iso": "2026-05-19T16:43:10Z",
-    "thumbnail_url": "https://substackcdn.com/image/fetch/$s_!tEGy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F039155a2-16a1-481e-bddd-8774cb34e85d_1424x1174.png",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-19_AIs-impact-on-software-engineers-in-2026-key-trends-Part-2.md"
   }
 ]
