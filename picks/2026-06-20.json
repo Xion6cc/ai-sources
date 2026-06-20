@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://medium.com/netflix-techblog/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss----2615bd06b42e---4",
+    "title": "The Data Canary: How Netflix Validates Catalog Metadata",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "By Celina Amados At Netflix, our catalog metadata is crucial to our member experience, and a single corrupted data state can impact millions of viewers immediately. To protect streaming reliability, we built an automated data canary system that validates data transformations using production traffic. This canary detects issues in under 10 minutes, and blocks bad data from reaching our members. …",
+    "date": "2026-06-19 23:54 UTC",
+    "date_iso": "2026-06-19T23:54:17Z"
+  },
+  {
+    "url": "https://medium.com/netflix-techblog/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e?source=rss----2615bd06b42e---4",
+    "title": "Data Projects: Managing Data Assets at Netflix Scale",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "By Amer Hesson , Marcelo Mayworm , James Mulcahy , and Brittany Truong The Problem: Managing Assets at Netflix Scale Netflix’s Data Platform is vast. We have millions of tables in our data warehouse and tens of thousands of scheduled workloads running across our orchestration systems. Behind each of these assets sits an engineer, a team, or an initiative — …",
+    "date": "2026-06-19 23:54 UTC",
+    "date_iso": "2026-06-19T23:54:00Z"
+  },
+  {
+    "url": "https://medium.com/netflix-techblog/predicting-risk-in-content-launches-how-data-driven-insights-can-transform-launch-planning-587b1f2de928?source=rss----2615bd06b42e---4",
+    "title": "Predicting Risk in Content Launches: How Data-Driven Insights can Transform Launch Planning",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "by Emily Gill Each year, we bring the Analytics Engineering community together for an Analytics Summit — a multi-day internal conference to share analytical deliverables across Netflix, discuss analytic practice, and build relationships within the community. This post is one of several topics presented at the Summit highlighting the breadth and impact of Analytics work across different areas of the …",
+    "date": "2026-06-19 23:53 UTC",
+    "date_iso": "2026-06-19T23:53:47Z"
+  },
+  {
+    "url": "https://medium.com/netflix-techblog/the-evolution-of-cassandra-data-movement-at-netflix-6e13329c80a1?source=rss----2615bd06b42e---4",
+    "title": "The Evolution of Cassandra Data Movement at Netflix",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "By Guil Pires , Jennifer Prince , Jose Camacho , Ken Kurzweil , Phanindra Chunduru Background In a previous post, we introduced Data Bridge , a unified management plane for batch Data Movement at Netflix. Historically, several bespoke Data Movement connectors were developed across different engineering organizations to fulfill their specific requirements. Over the last few years, the Data Movement …",
+    "date": "2026-06-19 23:53 UTC",
+    "date_iso": "2026-06-19T23:53:30Z"
+  },
+  {
+    "url": "https://medium.com/netflix-techblog/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd?source=rss----2615bd06b42e---4",
+    "title": "Thinking Fast & Slow for a Personalized Notification System",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "by Matthew Wood , Ishan Gupta , Kevin Mercurio, Devon Bryant , and Claire Dorman In his seminal book “Thinking, Fast and Slow,” Daniel Kahneman describes two systems that drive human cognition: System 1, which operates automatically and quickly with little effort, and System 2, which allocates attention to more challenging mental activities requiring deliberate focus. This dual-process theory has …",
+    "date": "2026-06-19 23:53 UTC",
+    "date_iso": "2026-06-19T23:53:16Z"
+  },
+  {
+    "url": "https://medium.com/netflix-techblog/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af?source=rss----2615bd06b42e---4",
+    "title": "A Human-Augmenting Agentic Workflow for Causal Inference",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "By Winston Chou, Adrien Alexandre, Lars Olds, Yi Zhang, Garrett Hagemann, and Nathan Kallus Introduction Imagine asking a data agent to analyze the causal relationship between two variables, such as the effect of watching a popular Netflix show on long-term member retention. It queries your data, runs a regression, and confidently returns an answer. How much should you trust it? …",
+    "date": "2026-06-19 23:53 UTC",
+    "date_iso": "2026-06-19T23:53:06Z"
+  },
+  {
+    "url": "https://medium.com/netflix-techblog/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc?source=rss----2615bd06b42e---4",
+    "title": "From Silos to Service Topology: Why Netflix Built a Real-Time Service Map",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "By Parth Jain , Rakesh Sukumar , Yingwu Zhao , Renzo Sanchez &amp; Nathan Fisher How we built a living map of our distributed infrastructure to help engineers understand dependencies, troubleshoot faster, and keep Netflix running smoothly for our members around the world. The Puzzle with a Thousand Pieces Picture this: It’s 3am, and an engineer gets paged. One of …",
+    "date": "2026-06-19 23:52 UTC",
+    "date_iso": "2026-06-19T23:52:02Z"
+  },
+  {
+    "url": "https://medium.com/netflix-techblog/vmaf-v1-good-is-not-good-enough-60d7e4244ea8?source=rss----2615bd06b42e---4",
+    "title": "VMAF v1: Good Is Not Good Enough",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "By Christos G. Bampis , Zhi Li , Kyle Swanson, Nil Fons Miret and Pavan Madhusudanarao Will this encode look good to Netflix members? Does switching to a new codec improve quality at the same bitrate and by how much? What is the best way to encode a movie title given a target bitrate budget? For years, VMAF has reliably …",
+    "date": "2026-06-19 23:50 UTC",
+    "date_iso": "2026-06-19T23:50:05Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2068094591220531583#m",
+    "title": "The 3 most important things that set someone apart in the AI age:\n\n- Agency\n- Taste\n- Distribution",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "The 3 most important things that set someone apart in the AI age: - Agency - Taste - Distribution",
+    "date": "2026-06-19 22:12 UTC",
+    "date_iso": "2026-06-19T22:12:28Z"
+  }
+]
