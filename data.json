@@ -1,5 +1,67 @@
 [
   {
+    "title": "I hoard X bookmarks and never read them. So I built an extension that injects a bookmarked post into my main feed every time I open X (almost like an ad). Now I read my bookmarks. The trick was hijacking real estate I already check 50 times a day",
+    "url": "https://nitter.net/zarazhangrui/status/2068568920613953626#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "I hoard X bookmarks and never read them. So I built an extension that injects a bookmarked post into my main feed every time I open X (almost like an ad). Now I read my bookmarks. The trick was hijacking real estate I already check 50 times a day",
+    "date": "2026-06-21 05:37 UTC",
+    "date_str": "2026-06-21",
+    "date_iso": "2026-06-21T05:37:17Z",
+    "thumbnail_url": "https://nitter.net/pic/media%2FHLUIXJKaYAARtCJ.jpg",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-21_I-hoard-X-bookmarks-and-never-read-them-So-I-built-an-extension-that-injects-a-b.md"
+  },
+  {
+    "title": "6 Things to Know about AIE World's Fair 2026",
+    "url": "https://www.youtube.com/watch?v=0S8xe9ftGTM",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "We're back in SF! Regular bird tix will sell out by Monday, and we wanted to make a little video to tell you about why you should get off your couch and come. See video for how to claim the $40k in sponsor offers for attendees, and a special youtube-only discount: YOUTUBEPROMO (for new tix only, dont be cheeky and …",
+    "date": "2026-06-21 03:46 UTC",
+    "date_str": "2026-06-21",
+    "date_iso": "2026-06-21T03:46:17Z",
+    "thumbnail_url": "https://img.youtube.com/vi/0S8xe9ftGTM/mqdefault.jpg",
+    "view_count": 711,
+    "view_count_display": "711 views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-21_6-Things-to-Know-about-AIE-Worlds-Fair-2026.md"
+  },
+  {
+    "title": "Sometimes I wonder if joining a large company is actually riskier than joining a startup/starting your own company",
+    "url": "https://nitter.net/zarazhangrui/status/2068522129193418759#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Sometimes I wonder if joining a large company is actually riskier than joining a startup/starting your own company Calvin Chen (@calvinchen) Article risk is severely misunderstood there are a lot of “missed my chance at generational wealth” screenshots going around from the Cursor acquisition, and it’s a pretty stark reminder that the people who take risk are rewarded far more …",
+    "date": "2026-06-21 02:31 UTC",
+    "date_str": "2026-06-21",
+    "date_iso": "2026-06-21T02:31:21Z",
+    "thumbnail_url": "https://nitter.net/pic/media%2FHLOMGK2aAAAtIYI.jpg",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-21_Sometimes-I-wonder-if-joining-a-large-company-is-actually-riskier-than-joining-a.md"
+  },
+  {
+    "title": "Proactiveness sounds nice in theory but is so hard to get right",
+    "url": "https://nitter.net/zarazhangrui/status/2068509088452071594#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Proactiveness sounds nice in theory but is so hard to get right Kaustubh Prabhakar (@santa_kaus) pulse was our first attempt at proactivity in chatgpt and we learnt a ton. although it was meant to do work for the user before they even asked - users actually loved curating their pulse. theyd end up asking for daily reports, monitors on topics, …",
+    "date": "2026-06-21 01:39 UTC",
+    "date_str": "2026-06-21",
+    "date_iso": "2026-06-21T01:39:32Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-21_Proactiveness-sounds-nice-in-theory-but-is-so-hard-to-get-right.md"
+  },
+  {
+    "title": "People should just use Codex as ChatGPT Since I started using Codex/Claude Code daily, I rarely open ChatGPT these days (unless it’s a quick online search type of task, in which case I use Gemini) The coding agent’s result is usually strictly better than a chatbot’s",
+    "url": "https://nitter.net/zarazhangrui/status/2068363609890320680#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "People should just use Codex as ChatGPT Since I started using Codex/Claude Code daily, I rarely open ChatGPT these days (unless it’s a quick online search type of task, in which case I use Gemini) The coding agent’s result is usually strictly better than a chatbot’s",
+    "date": "2026-06-20 16:01 UTC",
+    "date_str": "2026-06-20",
+    "date_iso": "2026-06-20T16:01:27Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-20_People-should-just-use-Codex-as-ChatGPT-Since-I-started-using-CodexClaude-Code-d.md"
+  },
+  {
     "title": "The Data Canary: How Netflix Validates Catalog Metadata",
     "url": "https://medium.com/netflix-techblog/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss----2615bd06b42e---4",
     "source": "Netflix Tech Blog",
@@ -1778,77 +1840,5 @@
     "date_iso": "2026-05-24T00:00:00Z",
     "thumbnail_url": "",
     "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-24_The-Orchestration-Tax.md"
-  },
-  {
-    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-    "date": "2026-05-22 00:00 UTC",
-    "date_str": "2026-05-22",
-    "date_iso": "2026-05-22T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-22_OpenAI-named-a-Leader-in-enterprise-coding-agents-by-Gartner.md"
-  },
-  {
-    "title": "How Virgin Atlantic ships faster with Codex",
-    "url": "https://openai.com/index/virgin-atlantic",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-    "date": "2026-05-22 00:00 UTC",
-    "date_str": "2026-05-22",
-    "date_iso": "2026-05-22T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-22_How-Virgin-Atlantic-ships-faster-with-Codex.md"
-  },
-  {
-    "title": "Project Glasswing: An initial update",
-    "url": "https://www.anthropic.com/research/glasswing-initial-update",
-    "source": "Anthropic Research",
-    "type": "blog",
-    "summary": "",
-    "date": "2026-05-22 00:00 UTC",
-    "date_str": "2026-05-22",
-    "date_iso": "2026-05-22T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-22_Project-Glasswing-An-initial-update.md"
-  },
-  {
-    "title": "The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-antigravity-20-takes-ide",
-    "source": "The Pragmatic Engineer Newsletter",
-    "type": "blog",
-    "summary": "Negative feedback greets Google&#8217;s redesigned AI IDE, why Google&#8217;s product ecosystem is so chaotic, Meta cuts 10% of staff as it hits record revenue and profits, and more",
-    "date": "2026-05-21 17:01 UTC",
-    "date_str": "2026-05-21",
-    "date_iso": "2026-05-21T17:01:39Z",
-    "thumbnail_url": "https://substackcdn.com/image/fetch/$s_!QVIZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e853b57-6352-4ffc-b5c8-0176efbeb101_1430x1056.png",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-21_The-Pulse-Antigravity-20-takes-IDE-out-of-its-new-IDE.md"
-  },
-  {
-    "title": "Making User-Sequence Data More Cost-Efficient, Faster, and Easier to Use",
-    "url": "https://medium.com/pinterest-engineering/making-user-sequence-data-more-cost-efficient-faster-and-easier-to-use-2a56a928cae1?source=rss----4c5a5f6279b6---4",
-    "source": "Pinterest Engineering",
-    "type": "blog",
-    "summary": "Authors ( listed alphabetically ) Ads Feature Engineering Infra team: Ajay Venkatakrishnan, Le Zhang Core ML Infra team: Eric Shang, Pihui Wei ML Data team: Connor Votroubek, Yi He User Understanding team: Camilo Munoz, Simin Li If you work on ranking, retrieval, or recommendation systems, you’ve probably asked for some version of the same thing: “Give me the last N …",
-    "date": "2026-05-21 16:01 UTC",
-    "date_str": "2026-05-21",
-    "date_iso": "2026-05-21T16:01:00Z",
-    "thumbnail_url": "https://cdn-images-1.medium.com/max/1024/1*bCu-Sk_V-KRgLxdHgk1fYQ.png",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-21_Making-User-Sequence-Data-More-Cost-Efficient-Faster-and-Easier-to-Use.md"
-  },
-  {
-    "title": "AdventHealth advances whole-person care with OpenAI",
-    "url": "https://openai.com/index/adventhealth",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-    "date": "2026-05-21 12:00 UTC",
-    "date_str": "2026-05-21",
-    "date_iso": "2026-05-21T12:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-21_AdventHealth-advances-whole-person-care-with-OpenAI.md"
   }
 ]
