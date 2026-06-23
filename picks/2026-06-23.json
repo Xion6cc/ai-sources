@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2069311440692072481#m",
+    "title": "I created a complete walkthrough of my Frontend Slides skill (22k+ stars on GitHub): - Complete demo of how to create beautiful HTML slides with Claude Code (beginner friendly) - How I created the skill - How you can create your own skill - Tips like how to insert images/videos into deck, how to publish - Lessons I learned (11-min video, YouTube link below)",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "I created a complete walkthrough of my Frontend Slides skill (22k+ stars on GitHub): - Complete demo of how to create beautiful HTML slides with Claude Code (beginner friendly) - How I created the skill - How you can create your own skill - Tips like how to insert images/videos into deck, how to publish - Lessons I learned (11-min …",
+    "date": "2026-06-23 06:47 UTC",
+    "date_iso": "2026-06-23T06:47:48Z"
+  },
+  {
+    "url": "https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4",
+    "title": "Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "By Zhuoning Yuan , Ta-Ying Cheng , Benjamin Klein , Bahareh Azarnoush Introduction At Netflix, we build technology to help storytellers bring their creative visions to life and to help members discover the stories they love. To connect stories with diverse audiences around the world, we produce promotional assets, including trailers, teasers, and social short‑form videos, that build on and …",
+    "date": "2026-06-23 00:31 UTC",
+    "date_iso": "2026-06-23T00:31:01Z"
+  },
+  {
+    "url": "https://openai.com/index/omio",
+    "title": "How Omio is building the future of conversational travel",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+    "date": "2026-06-23 00:00 UTC",
+    "date_iso": "2026-06-23T00:00:00Z"
+  },
+  {
+    "url": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4",
+    "title": "How Netflix Simplified Batch Compute with Kueue",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "By Alvin Bao , Alex Petrov , Jennifer Lai , Aidan Sherr , and Samartha Chandrashekar As a part of the journey to transition Netflix’s compute infrastructure to be more Kubernetes-native, we have leaned into incorporating components from the Kubernetes ecosystem into our container platform Titus . One example of this is our use of Kueue , a cloud-native job …",
+    "date": "2026-06-22 21:35 UTC",
+    "date_iso": "2026-06-22T21:35:01Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/06/22/video-engineering/adopting-av1-for-real-time-communication-rtc-meta/",
+    "title": "Adopting AV1 for Real-Time Communication (RTC) at Scale",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Adopting AV1 for real-time communication at Meta has been a multi-year effort spanning codec selection, device eligibility, rate control, and error resilience. We’re sharing the technical and operational challenges while deploying AV1 and expanding coverage, and how we addressed them for real-time communication. We’re presenting several technologies for improving AV1 call quality, including rate control [...] Read More... The post …",
+    "date": "2026-06-22 16:00 UTC",
+    "date_iso": "2026-06-22T16:00:08Z"
+  }
+]

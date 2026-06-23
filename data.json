@@ -1,5 +1,65 @@
 [
   {
+    "title": "I created a complete walkthrough of my Frontend Slides skill (22k+ stars on GitHub): - Complete demo of how to create beautiful HTML slides with Claude Code (beginner friendly) - How I created the skill - How you can create your own skill - Tips like how to insert images/videos into deck, how to publish - Lessons I learned (11-min video, YouTube link below)",
+    "url": "https://nitter.net/zarazhangrui/status/2069311440692072481#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "I created a complete walkthrough of my Frontend Slides skill (22k+ stars on GitHub): - Complete demo of how to create beautiful HTML slides with Claude Code (beginner friendly) - How I created the skill - How you can create your own skill - Tips like how to insert images/videos into deck, how to publish - Lessons I learned (11-min …",
+    "date": "2026-06-23 06:47 UTC",
+    "date_str": "2026-06-23",
+    "date_iso": "2026-06-23T06:47:48Z",
+    "thumbnail_url": "https://nitter.net/pic/amplify_video_thumb%2F2069302992680144896%2Fimg%2FZO3U1JDEEvY5jhp5.jpg",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-23_I-created-a-complete-walkthrough-of-my-Frontend-Slides-skill-22k-stars-on-GitHub.md"
+  },
+  {
+    "title": "Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix",
+    "url": "https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "By Zhuoning Yuan , Ta-Ying Cheng , Benjamin Klein , Bahareh Azarnoush Introduction At Netflix, we build technology to help storytellers bring their creative visions to life and to help members discover the stories they love. To connect stories with diverse audiences around the world, we produce promotional assets, including trailers, teasers, and social short‑form videos, that build on and …",
+    "date": "2026-06-23 00:31 UTC",
+    "date_str": "2026-06-23",
+    "date_iso": "2026-06-23T00:31:01Z",
+    "thumbnail_url": "https://cdn-images-1.medium.com/max/1024/1*3_5ISo6KHihlsjf389wi8A.gif",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-23_Toward-More-Controllable-AI-Video-Editing-An-Early-Research-Exploration-at-Netfl.md"
+  },
+  {
+    "title": "How Omio is building the future of conversational travel",
+    "url": "https://openai.com/index/omio",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+    "date": "2026-06-23 00:00 UTC",
+    "date_str": "2026-06-23",
+    "date_iso": "2026-06-23T00:00:00Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-23_How-Omio-is-building-the-future-of-conversational-travel.md"
+  },
+  {
+    "title": "How Netflix Simplified Batch Compute with Kueue",
+    "url": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "By Alvin Bao , Alex Petrov , Jennifer Lai , Aidan Sherr , and Samartha Chandrashekar As a part of the journey to transition Netflix’s compute infrastructure to be more Kubernetes-native, we have leaned into incorporating components from the Kubernetes ecosystem into our container platform Titus . One example of this is our use of Kueue , a cloud-native job …",
+    "date": "2026-06-22 21:35 UTC",
+    "date_str": "2026-06-22",
+    "date_iso": "2026-06-22T21:35:01Z",
+    "thumbnail_url": "https://cdn-images-1.medium.com/max/1024/1*MfDuB407Rq81AHZEbhARWA.png",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-22_How-Netflix-Simplified-Batch-Compute-with-Kueue.md"
+  },
+  {
+    "title": "Adopting AV1 for Real-Time Communication (RTC) at Scale",
+    "url": "https://engineering.fb.com/2026/06/22/video-engineering/adopting-av1-for-real-time-communication-rtc-meta/",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Adopting AV1 for real-time communication at Meta has been a multi-year effort spanning codec selection, device eligibility, rate control, and error resilience. We’re sharing the technical and operational challenges while deploying AV1 and expanding coverage, and how we addressed them for real-time communication. We’re presenting several technologies for improving AV1 call quality, including rate control [...] Read More... The post …",
+    "date": "2026-06-22 16:00 UTC",
+    "date_str": "2026-06-22",
+    "date_iso": "2026-06-22T16:00:08Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-22_Adopting-AV1-for-Real-Time-Communication-RTC-at-Scale.md"
+  },
+  {
     "title": "Samsung Electronics brings ChatGPT and Codex to employees",
     "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
     "source": "OpenAI",
@@ -1840,17 +1900,5 @@
     "date_iso": "2026-05-24T17:42:39Z",
     "thumbnail_url": "",
     "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-24_OpenAI-being-more-open-Also-I-just-realized-recently-that-Codex-is-open-source.md"
-  },
-  {
-    "title": "The Orchestration Tax",
-    "url": "https://addyosmani.com/blog/orchestration-tax/",
-    "source": "Addy Osmani",
-    "type": "blog",
-    "summary": "Starting more agents is easy now. However, more agents running doesn't mean more of you available - your cognitive bandwidth doesn't parallelize. All the judgement to actually steer them and merge the code they write into the codebase still has to route through exactly one serial processor which is just you. Orchestration tax is basically the price you pay for …",
-    "date": "2026-05-24 00:00 UTC",
-    "date_str": "2026-05-24",
-    "date_iso": "2026-05-24T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-24_The-Orchestration-Tax.md"
   }
 ]
