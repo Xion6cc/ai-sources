@@ -1,5 +1,79 @@
 [
   {
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "date": "2026-06-23 17:00 UTC",
+    "date_str": "2026-06-23",
+    "date_iso": "2026-06-23T17:00:00Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-23_How-GPT-5-helped-immunologist-Derya-Unutmaz-solve-a-3-year-old-mystery.md"
+  },
+  {
+    "title": "How Meta Engineered Ultra-Narrow Batteries for AI Glasses",
+    "url": "https://engineering.fb.com/2026/06/23/production-engineering/how-meta-built-ultra-narrow-batteries-for-ai-glasses-meta-tech-podcast/",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Smart glasses like the Ray-Ban Meta and Oakley Meta Vanguards need to pack enough energy to power features like cameras, speakers, AI workloads, and even a display. But it all has to fit into the glasses’ temple arms. So how do you place a battery with enough power to run a pair of smart glasses [...] Read More... The post …",
+    "date": "2026-06-23 16:00 UTC",
+    "date_str": "2026-06-23",
+    "date_iso": "2026-06-23T16:00:38Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-23_How-Meta-Engineered-Ultra-Narrow-Batteries-for-AI-Glasses.md"
+  },
+  {
+    "title": "Slow down to speed up: so much has changed in 6 months’ time",
+    "url": "https://newsletter.pragmaticengineer.com/p/slow-down-to-speed-up",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "An overview of what&#8217;s changed in engineering during the last six months, how various tech companies are changing how they work, and why slowing down could be a sensible strategy",
+    "date": "2026-06-23 15:30 UTC",
+    "date_str": "2026-06-23",
+    "date_iso": "2026-06-23T15:30:26Z",
+    "thumbnail_url": "https://substackcdn.com/image/youtube/w_728,c_limit/5wks1W-auKY",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-23_Slow-down-to-speed-up-so-much-has-changed-in-6-months-time.md"
+  },
+  {
+    "title": "Slow down to speed up: AI and software engineering",
+    "url": "https://www.youtube.com/watch?v=5wks1W-auKY",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "AI agents are writing code pretty much everywhere. And yet, most teams and companies are not seeing that dramatic productivity gains… or are they? Keynote at Craft Conference, on 4 June 2026, in Budapest, Hungary: https://craft-conf.com/2026 Timestamps: 00:00 The Instagram exploit at Meta 09:45 Everything changed in the last 6 months 14:30 What is happening at OpenAI 16:32 Cursor 18:18 …",
+    "date": "2026-06-23 15:26 UTC",
+    "date_str": "2026-06-23",
+    "date_iso": "2026-06-23T15:26:35Z",
+    "thumbnail_url": "https://img.youtube.com/vi/5wks1W-auKY/mqdefault.jpg",
+    "view_count": 8395,
+    "view_count_display": "8.4K views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-23_Slow-down-to-speed-up-AI-and-software-engineering.md"
+  },
+  {
+    "title": "Helping build shared standards for advanced AI",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "date": "2026-06-23 13:00 UTC",
+    "date_str": "2026-06-23",
+    "date_iso": "2026-06-23T13:00:00Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-23_Helping-build-shared-standards-for-advanced-AI.md"
+  },
+  {
+    "title": "Coinbase reduces time from idea to production by 90% with Cursor",
+    "url": "https://cursor.com/blog/coinbase",
+    "source": "Cursor",
+    "type": "blog",
+    "summary": "",
+    "date": "2026-06-23 12:00 UTC",
+    "date_str": "2026-06-23",
+    "date_iso": "2026-06-23T12:00:00Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-23_Coinbase-reduces-time-from-idea-to-production-by-90-with-Cursor.md"
+  },
+  {
     "title": "I created a complete walkthrough of my Frontend Slides skill (22k+ stars on GitHub): - Complete demo of how to create beautiful HTML slides with Claude Code (beginner friendly) - How I created the skill - How you can create your own skill - Tips like how to insert images/videos into deck, how to publish - Lessons I learned (11-min video, YouTube link below)",
     "url": "https://nitter.net/zarazhangrui/status/2069311440692072481#m",
     "source": "Zara Zhang (@zarazhangrui)",
@@ -1852,53 +1926,5 @@
     "date_iso": "2026-05-26T12:00:00Z",
     "thumbnail_url": "",
     "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-26_Faire-doubles-PR-throughput-with-Cursor-Cloud-Agents.md"
-  },
-  {
-    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
-    "date": "2026-05-25 00:00 UTC",
-    "date_str": "2026-05-25",
-    "date_iso": "2026-05-25T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-25_OpenAI-Grupo-Folha-and-Grupo-UOL-announce-strategic-content-partnership.md"
-  },
-  {
-    "title": "I recently discovered a life-changing Mac app “Amphetamine” which keeps your Mac awake even when lid is closed \n\nMuch more reliable & easier to use than the caffeinate command in the terminal \n\nNow I can finally close my laptop with peace of mind",
-    "url": "https://nitter.net/zarazhangrui/status/2058643577421631538#m",
-    "source": "Zara Zhang (@zarazhangrui)",
-    "type": "twitter",
-    "summary": "I recently discovered a life-changing Mac app “Amphetamine” which keeps your Mac awake even when lid is closed Much more reliable &amp; easier to use than the caffeinate command in the terminal Now I can finally close my laptop with peace of mind チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》 (@masahirochaen) Claude Codeがなかった時代 vs ある時代 — https://nitter.net/masahirochaen/status/2058440819171078202#m",
-    "date": "2026-05-24 20:17 UTC",
-    "date_str": "2026-05-24",
-    "date_iso": "2026-05-24T20:17:31Z",
-    "thumbnail_url": "https://nitter.net/pic/media%2FHJHFbIeagAAGis3.jpg",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-24_I-recently-discovered-a-life-changing-Mac-app-Amphetamine-which-keeps-your-Mac-a.md"
-  },
-  {
-    "title": "Ran into a friend who was an engineering manager; she just voluntarily transitioned to be an IC and has never been happier because she can finally get her hands on building again",
-    "url": "https://nitter.net/zarazhangrui/status/2058640897236140034#m",
-    "source": "Zara Zhang (@zarazhangrui)",
-    "type": "twitter",
-    "summary": "Ran into a friend who was an engineering manager; she just voluntarily transitioned to be an IC and has never been happier because she can finally get her hands on building again",
-    "date": "2026-05-24 20:06 UTC",
-    "date_str": "2026-05-24",
-    "date_iso": "2026-05-24T20:06:52Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-24_Ran-into-a-friend-who-was-an-engineering-manager-she-just-voluntarily-transition.md"
-  },
-  {
-    "title": "OpenAI being more open\nAlso I just realized recently that Codex is open source",
-    "url": "https://nitter.net/zarazhangrui/status/2058604604422815832#m",
-    "source": "Zara Zhang (@zarazhangrui)",
-    "type": "twitter",
-    "summary": "OpenAI being more open Also I just realized recently that Codex is open source Tibo (@thsottiaux) A little secret. About 5% of our production traffic is on the Pi harness, about another 5% is on OpenCode. Reminder you can use your ChatGPT account in a flourishing set of other tools. We’ll continue to make Codex awesome, but you have options. …",
-    "date": "2026-05-24 17:42 UTC",
-    "date_str": "2026-05-24",
-    "date_iso": "2026-05-24T17:42:39Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-24_OpenAI-being-more-open-Also-I-just-realized-recently-that-Codex-is-open-source.md"
   }
 ]

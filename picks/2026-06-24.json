@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "date": "2026-06-23 17:00 UTC",
+    "date_iso": "2026-06-23T17:00:00Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/06/23/production-engineering/how-meta-built-ultra-narrow-batteries-for-ai-glasses-meta-tech-podcast/",
+    "title": "How Meta Engineered Ultra-Narrow Batteries for AI Glasses",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Smart glasses like the Ray-Ban Meta and Oakley Meta Vanguards need to pack enough energy to power features like cameras, speakers, AI workloads, and even a display. But it all has to fit into the glasses’ temple arms. So how do you place a battery with enough power to run a pair of smart glasses [...] Read More... The post …",
+    "date": "2026-06-23 16:00 UTC",
+    "date_iso": "2026-06-23T16:00:38Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/slow-down-to-speed-up",
+    "title": "Slow down to speed up: so much has changed in 6 months’ time",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "An overview of what&#8217;s changed in engineering during the last six months, how various tech companies are changing how they work, and why slowing down could be a sensible strategy",
+    "date": "2026-06-23 15:30 UTC",
+    "date_iso": "2026-06-23T15:30:26Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=5wks1W-auKY",
+    "title": "Slow down to speed up: AI and software engineering",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "AI agents are writing code pretty much everywhere. And yet, most teams and companies are not seeing that dramatic productivity gains… or are they? Keynote at Craft Conference, on 4 June 2026, in Budapest, Hungary: https://craft-conf.com/2026 Timestamps: 00:00 The Instagram exploit at Meta 09:45 Everything changed in the last 6 months 14:30 What is happening at OpenAI 16:32 Cursor 18:18 …",
+    "date": "2026-06-23 15:26 UTC",
+    "date_iso": "2026-06-23T15:26:35Z"
+  },
+  {
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "title": "Helping build shared standards for advanced AI",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "date": "2026-06-23 13:00 UTC",
+    "date_iso": "2026-06-23T13:00:00Z"
+  },
+  {
+    "url": "https://cursor.com/blog/coinbase",
+    "title": "Coinbase reduces time from idea to production by 90% with Cursor",
+    "source": "Cursor",
+    "type": "blog",
+    "summary": "",
+    "date": "2026-06-23 12:00 UTC",
+    "date_iso": "2026-06-23T12:00:00Z"
+  }
+]
