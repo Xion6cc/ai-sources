@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=4uFVSLgD2Q4",
+    "title": "Agents in Production: How OpenGov Built and Scaled OG Assist - Gabe De Mesa, OpenGov",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Come and learn about building AI Agents in production. Learn hands-on directly with the AI Agents team from OpenGov which powers AI workflows across thousands of state and local governments. This session will cover: * The core agent loop/harness * A2A protocol * Building with Effect-TS and Typescript * Feedback and evals * Long context handling * Monitoring and observability …",
+    "date": "2026-06-26 07:00 UTC",
+    "date_iso": "2026-06-26T07:00:38Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jVjt-2g8NMY",
+    "title": "A Genius With Amnesia - Victor Savkin, Nx",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Imagine a genie grants your wish and materializes the best engineer in the world, John Carmack in his prime, to work on your codebase. The catch: he can only see a tiny corner of it, and he forgets everything between interactions. No matter how good he is, the value isn’t there. This is what coding agents are today. We need …",
+    "date": "2026-06-26 01:15 UTC",
+    "date_iso": "2026-06-26T01:15:06Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/",
+    "title": "Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Privacy controls — systems that enforce retention, access, allowed-purpose, downstream-sharing, or anonymization policies — require a reliable understanding of data to function. Before such a control can operate effectively, it must know exactly what it is looking at. This can be complex, as demonstrated by a field simply named &#8220;age&#8220;: In one context, it might [...] Read More... The post …",
+    "date": "2026-06-25 22:30 UTC",
+    "date_iso": "2026-06-25T22:30:51Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=UPwGaM2MKHY",
+    "title": "The Log Is The Agent - Ishaan Sehgal, Omnara",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Think about a character you've spent 100 hours playing in a video game like Skyrim or Elden Ring. What exactly is your character? - Is it the game engine (the loop)? No. - Is it the PlayStation console (the compute)? No. - Is it the controller (the tools)? No. Your character is the save file (the data). If your PlayStation …",
+    "date": "2026-06-25 21:15 UTC",
+    "date_iso": "2026-06-25T21:15:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3hXJI2q0Jz8",
+    "title": "Recursive Coding Agents - Raymond Weitekamp, OpenProse",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Raymond Weitekamp explores Recursive Language Models and how their inference-time compute patterns map onto coding agents for higher performance and reliability. Speaker: Dr. Raymond Weitekamp, AI Engineer at OpenProse.",
+    "date": "2026-06-25 21:00 UTC",
+    "date_iso": "2026-06-25T21:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vljxQZfJ9wY",
+    "title": "Production Evals For Agentic AI Systems - Nishant Gupta, Meta Superintelligence Labs",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "As AI systems evolve from chat interfaces into autonomous agents capable of reasoning, planning, and tool usage, traditional evaluation approaches are breaking down. Offline benchmarks and static datasets fail to capture the complexity, non-determinism, and operational risks of real-world AI systems operating in production environments. In this talk, I’ll share practical lessons and architectural patterns for building evaluation systems for …",
+    "date": "2026-06-25 18:15 UTC",
+    "date_iso": "2026-06-25T18:15:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZD9-4fW2HhM",
+    "title": "Build Systems, Not Code - Angie Jones, Agentic AI Foundation",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "AI coding agents are changing what it feels like to be a software engineer. For a lot of us, that's challenging our sense of craftsmanship. If agents are writing the code, do we lose the joy of building? I don't think so. The building moves up a layer. In this talk, I'll share how I found that familiar engineering flow …",
+    "date": "2026-06-25 18:00 UTC",
+    "date_iso": "2026-06-25T18:00:06Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2070188279941738952#m",
+    "title": "This is a big misconception Somehow people think building an audience is antithetical to building a company. In fact, they’re increasing becoming the same thing Storytelling (to users/customers, investors, candidates) is arguably the founder’s most important job Building is getting cheaper, attention is getting more expensive",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "This is a big misconception Somehow people think building an audience is antithetical to building a company. In fact, they’re increasing becoming the same thing Storytelling (to users/customers, investors, candidates) is arguably the founder’s most important job Building is getting cheaper, attention is getting more expensive Pete (aka BFG) | Lab2094 (@aka_BFG) Best founders don’t post, they work 🤭 — …",
+    "date": "2026-06-25 16:52 UTC",
+    "date_iso": "2026-06-25T16:52:02Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=IJXjTLPzvAU",
+    "title": "The Miranda Hypothesis: How Hamilton Poisoned Persona Evals - Jacob E. Thomas, Results Gen",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Your persona-eval pipeline rates an Alexander Hamilton simulation at 80% personality fidelity. It is also rating a Hamilton who sounds like he has read his own Broadway musical. The dominant failure mode of every character-based AI system now in production is invisible to LLM-as-judge, personality-scale benchmarks, and behavioral consistency scores because every one of them was built to detect convincingness, …",
+    "date": "2026-06-25 16:30 UTC",
+    "date_iso": "2026-06-25T16:30:06Z"
+  },
+  {
+    "url": "https://medium.com/pinterest-engineering/achieving-near-linear-training-scalability-for-pinterests-foundation-models-14d4f59fe6f6?source=rss----4c5a5f6279b6---4",
+    "title": "Achieving Near-Linear Training Scalability for Pinterest’s Foundation Models",
+    "source": "Pinterest Engineering",
+    "type": "blog",
+    "summary": "Sheng Huang | Software Engineer, AI Platform; Pong Eksombatchai | Machine Learning Engineer, Applied Sciences; Saurabh Vishwas Joshi | Software Engineer, AI Platform; Gaurav Arora | Software Engineer, AI Platform; Karthik Anantha Padmanabhan | Engineering Director, AI Platform At Pinterest, foundation models power recommendations for over 600 million monthly active users. Our latest Foundation Model (ACM RecSys 2025) pre-trains on …",
+    "date": "2026-06-25 16:01 UTC",
+    "date_iso": "2026-06-25T16:01:02Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=htM02KMNZnk",
+    "title": "AI Engineer World's Fair 2026 Day 1: Software Factories & Keynotes",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Live from San Francisco, AI Engineer World’s Fair 2026 brings the main stage to viewers online for Day 1 of session programming. Watch live for keynote sessions, main-stage programming, and highlights from one of the biggest gatherings in AI engineering. Follow along with AI Engineer as we stream the opening day of World’s Fair 2026. Event: AI Engineer World’s Fair …",
+    "date": "2026-06-25 11:42 UTC",
+    "date_iso": "2026-06-25T11:42:14Z"
+  }
+]
