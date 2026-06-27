@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2070735964788658598#m",
+    "title": "What people misunderstand about building in public",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Article What people misunderstand about building in public I&apos;m a huge believer in building in public, especially right now. Our timelines are flooded with AI-generated slop, and people are craving the opposite: the actual human behind the product. They want",
+    "date": "2026-06-27 05:08 UTC",
+    "date_iso": "2026-06-27T05:08:21Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ij-AU9dpJjc",
+    "title": "Stop Writing Tone Instructions. Layer Them. - Isadora Martin-Dye, Isadora & Co",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Brand voice that survives real users isn't an instruction you write once - it's an architecture. Drawing on production code from a wedding venue, a personal AI companion, and a tool for families of missing people, this talk breaks voice into four layers: immutable identity, situational mode, example-anchored voice, and a deterministic post-generation veto. The difference between a prompt that …",
+    "date": "2026-06-26 20:00 UTC",
+    "date_iso": "2026-06-26T20:00:35Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2070589563429691698#m",
+    "title": "\"You do not need God to write your emails\"",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "\"You do not need God to write your emails\" Lindy (@getlindy) Article Migrating from Claude to DeepSeek Lindy&apos;s pricing only works if inference keeps getting cheaper. That is the business constraint. Lindy is a generalist AI assistant. It writes emails, manages calendars, prepares meetings, follows up, — https://nitter.net/getlindy/status/2070214403576959008#m",
+    "date": "2026-06-26 19:26 UTC",
+    "date_iso": "2026-06-26T19:26:36Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2070584764315402405#m",
+    "title": "Btw I used Borumi to create this video, and it's genuinely the most underrated video recording/editing tool out there It's like Screen Studio + Descript + CapCut all in one It's so underrated; they don't even have an X account I can tag",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Btw I used Borumi to create this video, and it's genuinely the most underrated video recording/editing tool out there It's like Screen Studio + Descript + CapCut all in one It's so underrated; they don't even have an X account I can tag Zara Zhang (@zarazhangrui) I created a complete walkthrough of my Frontend Slides skill (22k+ stars on GitHub): …",
+    "date": "2026-06-26 19:07 UTC",
+    "date_iso": "2026-06-26T19:07:32Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2070534139363897676#m",
+    "title": "If you can’t recognize AI slop, you’re probably producing it",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "If you can’t recognize AI slop, you’re probably producing it",
+    "date": "2026-06-26 15:46 UTC",
+    "date_iso": "2026-06-26T15:46:22Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZRM_TfEZcIo",
+    "title": "Turn 10,994 Notes Into Memory - Paul Iusztin, Decoding AI & Louis-François Bouchard, Towards AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Full implementation is open-source: https://github.com/iusztinpaul/ai-research-os-workshop Agent Engineering: Building Multi-Agent Systems Course: https://academy.towardsai.net/courses/agent-engineering Turning thousands of notes, videos, documents, and repositories into usable AI context requires more than a bigger context window. It requires memory and context engineering: organizing sources, indexing what matters, and loading only what the model needs. The talk shows how the authors turn an Obsidian vault of …",
+    "date": "2026-06-26 14:00 UTC",
+    "date_iso": "2026-06-26T14:00:07Z"
+  },
+  {
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "date": "2026-06-26 10:00 UTC",
+    "date_iso": "2026-06-26T10:00:00Z"
+  }
+]
