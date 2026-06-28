@@ -1,5 +1,29 @@
 [
   {
+    "title": "Last year I barely knew how GitHub worked. Now I have 10k followers on GitHub (and still can't write code by hand). What a year.",
+    "url": "https://nitter.net/zarazhangrui/status/2070982013822333007#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Last year I barely knew how GitHub worked. Now I have 10k followers on GitHub (and still can't write code by hand). What a year.",
+    "date": "2026-06-27 21:26 UTC",
+    "date_str": "2026-06-27",
+    "date_iso": "2026-06-27T21:26:03Z",
+    "thumbnail_url": "https://nitter.net/pic/media%2FHL2aLlQaoAAxlok.jpg",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-27_Last-year-I-barely-knew-how-GitHub-worked-Now-I-have-10k-followers-on-GitHub-and.md"
+  },
+  {
+    "title": "Using Local Coding Agents",
+    "url": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "source": "Sebastian Raschka",
+    "type": "blog",
+    "summary": "Using Open-Weight Models in Local Coding Harnesses as an Alternative to Claude Code and Codex Subscriptions",
+    "date": "2026-06-27 11:21 UTC",
+    "date_str": "2026-06-27",
+    "date_iso": "2026-06-27T11:21:58Z",
+    "thumbnail_url": "https://substack-post-media.s3.amazonaws.com/public/images/4e729449-80ff-40c7-bcee-4d9349b46afe_2893x1589.png",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-06-27_Using-Local-Coding-Agents.md"
+  },
+  {
     "title": "What people misunderstand about building in public",
     "url": "https://nitter.net/zarazhangrui/status/2070735964788658598#m",
     "source": "Zara Zhang (@zarazhangrui)",
@@ -2016,65 +2040,5 @@
     "date_iso": "2026-05-29T12:00:00Z",
     "thumbnail_url": "",
     "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-29_How-Braintrust-turns-customer-requests-into-code-with-Codex.md"
-  },
-  {
-    "title": "Strengthening societal resilience with Rosalind Biodefense",
-    "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
-    "date": "2026-05-29 03:00 UTC",
-    "date_str": "2026-05-29",
-    "date_iso": "2026-05-29T03:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-29_Strengthening-societal-resilience-with-Rosalind-Biodefense.md"
-  },
-  {
-    "title": "A shared playbook for trustworthy third party evaluations",
-    "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-    "date": "2026-05-29 00:00 UTC",
-    "date_str": "2026-05-29",
-    "date_iso": "2026-05-29T00:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-29_A-shared-playbook-for-trustworthy-third-party-evaluations.md"
-  },
-  {
-    "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-a-trend-of-trying-to-cut",
-    "source": "The Pragmatic Engineer Newsletter",
-    "type": "blog",
-    "summary": "Top-down and bottom-up efforts to rationalize AI token spend, interesting AI coding stats from Cursor, GCP suspends $2M/month customer without warning, and more",
-    "date": "2026-05-28 16:57 UTC",
-    "date_str": "2026-05-28",
-    "date_iso": "2026-05-28T16:57:38Z",
-    "thumbnail_url": "https://substackcdn.com/image/fetch/$s_!jc0L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44648fa6-3c4b-4d02-84ee-bef090ea707d_1474x792.png",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-28_The-Pulse-a-trend-of-trying-to-cut-back-on-AI-spend-within-eng-departments.md"
-  },
-  {
-    "title": "After talking to lots of companies about implementing AI, I noticed a trend:\n\nThe most AI-forward companies are CENTRALLY MANAGING & providing shared agents to be used by all team members, instead of relying on employees to set up their own agents. There's usually someone internal officially in charge of managing these agents centrally\n\nThis saves money & time for employees, and lowers the barrier for nontechnical teams to start using agents\n\nThis also helps reduce \"shadow AI\" where employees are essentially paying to do their jobs by using personal Claude/Codex subscriptions",
-    "url": "https://nitter.net/zarazhangrui/status/2060039021418692943#m",
-    "source": "Zara Zhang (@zarazhangrui)",
-    "type": "twitter",
-    "summary": "After talking to lots of companies about implementing AI, I noticed a trend: The most AI-forward companies are CENTRALLY MANAGING & providing shared agents to be used by all team members, instead of relying on employees to set up their own agents. There's usually someone internal officially in charge of managing these agents centrally This saves money & time for …",
-    "date": "2026-05-28 16:42 UTC",
-    "date_str": "2026-05-28",
-    "date_iso": "2026-05-28T16:42:31Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-28_After-talking-to-lots-of-companies-about-implementing-AI-I-noticed-a-trend-The-m.md"
-  },
-  {
-    "title": "How Endava builds an agentic organization with Codex",
-    "url": "https://openai.com/index/endava",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-    "date": "2026-05-28 12:00 UTC",
-    "date_str": "2026-05-28",
-    "date_iso": "2026-05-28T12:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-05-28_How-Endava-builds-an-agentic-organization-with-Codex.md"
   }
 ]
