@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2071766827345285411#m",
+    "title": "I built a Chrome extension that turns your \"read later\" list into dedicated reading time on your calendar. Save 5 articles → it auto-books a 30-min \"reading block\" on your Google calendar, links included. So you'll actually sit down and go through them. No account, no server, everything local. Open source (link below)",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "I built a Chrome extension that turns your \"read later\" list into dedicated reading time on your calendar. Save 5 articles → it auto-books a 30-min \"reading block\" on your Google calendar, links included. So you'll actually sit down and go through them. No account, no server, everything local. Open source (link below) Video",
+    "date": "2026-06-30 01:24 UTC",
+    "date_iso": "2026-06-30T01:24:37Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2071670108033073365#m",
+    "title": "\"The market value of writing has gone way up\" (per a PM at Anthropic) Good writing/clear articulation is required for both building a product (being able to steer models effectively) and building an audience Writing well has historically been undervalued in tech. Time to change that",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "\"The market value of writing has gone way up\" (per a PM at Anthropic) Good writing/clear articulation is required for both building a product (being able to steer models effectively) and building an audience Writing well has historically been undervalued in tech. Time to change that Zara Zhang (@zarazhangrui) My favorite session from @figma Config today was this talk by …",
+    "date": "2026-06-29 19:00 UTC",
+    "date_iso": "2026-06-29T19:00:18Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=UNzCG3lw6O0",
+    "title": "Building Great Agent Skills: The Missing Manual",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Let's discuss how to navigate \"skill hell\" by providing a structured framework for building high-quality agent skills. Without a shared rubric, developers and organizations struggle to create effective, maintainable skills for AI agents. Timestamps: 0:00 - Introduction to the talk and the concept of \"skill hell\" 2:12 - Overview of the skill checklist framework 3:16 - Trigger: Choosing between user-invoked …",
+    "date": "2026-06-29 18:53 UTC",
+    "date_iso": "2026-06-29T18:53:10Z"
+  },
+  {
+    "url": "https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4",
+    "title": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "Authors: Lequn Wang , J iangwei Pan , and Linas Baltrunas Figure 1. Autoregressive homepage generation. GenPage builds a Netflix homepage one row or entity at a time, each one conditioned on what’s already on the page and the user’s context. Introduction The Netflix homepage is the first thing users see when they open the app and the primary way …",
+    "date": "2026-06-29 13:01 UTC",
+    "date_iso": "2026-06-29T13:01:02Z"
+  },
+  {
+    "url": "https://cursor.com/blog/ios-mobile-app",
+    "title": "Build from anywhere with Cursor for iOS",
+    "source": "Cursor",
+    "type": "blog",
+    "summary": "Cursor is available as a native iOS app on your phone, now in public beta.",
+    "date": "2026-06-29 12:00 UTC",
+    "date_iso": "2026-06-29T12:00:00Z"
+  }
+]
