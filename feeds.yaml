@@ -16,6 +16,10 @@ feeds:
     url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCPbwhExawYrn9xxI21TFfyw"
     type: "youtube"
 
+  - name: "Kun Chen (@kunchenguid)"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCb69t9ZkE5z1KvCmfJoaifA"
+    type: "youtube"
+
   # X / Twitter (via Nitter — may go down if nitter.net is blocked)
   - name: "Zara Zhang (@zarazhangrui)"
     url: "https://nitter.net/zarazhangrui/rss"
