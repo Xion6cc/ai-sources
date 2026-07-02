@@ -51,6 +51,10 @@ feeds:
     url: "https://addyosmani.com/rss.xml"
     type: "blog"
 
+  - name: "Addy Osmani's Substack"
+    url: "https://addyo.substack.com/feed"
+    type: "blog"
+
   # Company engineering blogs
   - name: "Netflix Tech Blog"
     url: "https://medium.com/feed/netflix-techblog"
