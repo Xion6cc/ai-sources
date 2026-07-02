@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=4sX_He5c4sI",
+    "title": "WF2026: Autoresearch & Keynotes ft. Anthropic, Google DeepMind, Amazon AGI, Sonar, Arena, Recursive",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Live from San Francisco, AI Engineer World’s Fair 2026 continues with Day 2 of session programming from the main stage. Watch live for keynote sessions, main-stage programming, and more from World’s Fair 2026 as AI Engineer brings another full day of AI engineering content to viewers online. Event: AI Engineer World’s Fair 2026 Date: Wednesday, July 1, 2026 Venue: Moscone …",
+    "date": "2026-07-02 00:59 UTC",
+    "date_iso": "2026-07-02T00:59:42Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2072391971721884073#m",
+    "title": "PSA: You can change Codex's model to GLM",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "PSA: You can change Codex's model to GLM Tibo (@thsottiaux) Reminder that you can use the Codex App, CLI and SDK with any open source model, not just with OpenAI models. developers.openai.com/codex/… Link Advanced Configuration – Codex | OpenAI Developers More advanced configuration options for Codex local clients developers.openai.com — https://nitter.net/thsottiaux/status/2067181377028538431#m",
+    "date": "2026-07-01 18:48 UTC",
+    "date_iso": "2026-07-01T18:48:43Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2072381929366987087#m",
+    "title": "HOW TO BUILD A SKILL You don't START with a skill. You END with a skill. Building the skill is the last step of your workflow, not the first step",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "HOW TO BUILD A SKILL You don't START with a skill. You END with a skill. Building the skill is the last step of your workflow, not the first step Video Zara Zhang (@zarazhangrui) I created a complete walkthrough of my Frontend Slides skill (22k+ stars on GitHub): - Complete demo of how to create beautiful HTML slides with Claude …",
+    "date": "2026-07-01 18:08 UTC",
+    "date_iso": "2026-07-01T18:08:49Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/how-kent-beck-shapes-the-software",
+    "title": "How Kent Beck shapes the software engineering industry",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Kent Beck reflects on Agile, TDD, and why building trust&#8212;not just generating code&#8212;will define the future of software engineering in the AI era.",
+    "date": "2026-07-01 16:57 UTC",
+    "date_iso": "2026-07-01T16:57:46Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ddHQQtjIOpw",
+    "title": "How Kent Beck shapes the software engineering industry",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "Few have made as big an impact on software engineering as this week’s guest on the Pragmatic Engineer podcast, Kent Beck. He created Extreme Programming, pioneered test-driven development (TDD), co-created JUnit, and is one of the authors of the famous ‘Agile Manifesto’. But these days, he's re-examining many ideas for the age of AI, and says we’re failing to accumulate …",
+    "date": "2026-07-01 16:41 UTC",
+    "date_iso": "2026-07-01T16:41:08Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
+    "title": "Meta’s AI Storage Blueprint at Scale",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Over the past several years, model capabilities and training dataset sizes have experienced exponential growth. During the past year or so, the time between new-frontier-model releases has gone down from months to weeks. Reliable and fast access to storage is important to both the speed and computational cost of this AI innovation. If AI is [...] Read More... The post …",
+    "date": "2026-07-01 16:00 UTC",
+    "date_iso": "2026-07-01T16:00:36Z"
+  }
+]

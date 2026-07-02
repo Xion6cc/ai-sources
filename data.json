@@ -1,5 +1,81 @@
 [
   {
+    "title": "WF2026: Autoresearch & Keynotes ft. Anthropic, Google DeepMind, Amazon AGI, Sonar, Arena, Recursive",
+    "url": "https://www.youtube.com/watch?v=4sX_He5c4sI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Live from San Francisco, AI Engineer World’s Fair 2026 continues with Day 2 of session programming from the main stage. Watch live for keynote sessions, main-stage programming, and more from World’s Fair 2026 as AI Engineer brings another full day of AI engineering content to viewers online. Event: AI Engineer World’s Fair 2026 Date: Wednesday, July 1, 2026 Venue: Moscone …",
+    "date": "2026-07-02 00:59 UTC",
+    "date_str": "2026-07-02",
+    "date_iso": "2026-07-02T00:59:42Z",
+    "thumbnail_url": "https://img.youtube.com/vi/4sX_He5c4sI/mqdefault.jpg",
+    "view_count": 7677,
+    "view_count_display": "7.7K views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-02_WF2026-Autoresearch-Keynotes-ft-Anthropic-Google-DeepMind-Amazon-AGI-Sonar-Arena.md"
+  },
+  {
+    "title": "PSA: You can change Codex's model to GLM",
+    "url": "https://nitter.net/zarazhangrui/status/2072391971721884073#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "PSA: You can change Codex's model to GLM Tibo (@thsottiaux) Reminder that you can use the Codex App, CLI and SDK with any open source model, not just with OpenAI models. developers.openai.com/codex/… Link Advanced Configuration – Codex | OpenAI Developers More advanced configuration options for Codex local clients developers.openai.com — https://nitter.net/thsottiaux/status/2067181377028538431#m",
+    "date": "2026-07-01 18:48 UTC",
+    "date_str": "2026-07-01",
+    "date_iso": "2026-07-01T18:48:43Z",
+    "thumbnail_url": "https://nitter.net/pic/media%2FHMKdcBtasAA8-Jz.jpg",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-01_PSA-You-can-change-Codexs-model-to-GLM.md"
+  },
+  {
+    "title": "HOW TO BUILD A SKILL You don't START with a skill. You END with a skill. Building the skill is the last step of your workflow, not the first step",
+    "url": "https://nitter.net/zarazhangrui/status/2072381929366987087#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "HOW TO BUILD A SKILL You don't START with a skill. You END with a skill. Building the skill is the last step of your workflow, not the first step Video Zara Zhang (@zarazhangrui) I created a complete walkthrough of my Frontend Slides skill (22k+ stars on GitHub): - Complete demo of how to create beautiful HTML slides with Claude …",
+    "date": "2026-07-01 18:08 UTC",
+    "date_str": "2026-07-01",
+    "date_iso": "2026-07-01T18:08:49Z",
+    "thumbnail_url": "https://nitter.net/pic/amplify_video_thumb%2F2072381822072393729%2Fimg%2F3kFC5ExnpI5aqWv1.jpg",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-01_HOW-TO-BUILD-A-SKILL-You-dont-START-with-a-skill-You-END-with-a-skill-Building-t.md"
+  },
+  {
+    "title": "How Kent Beck shapes the software engineering industry",
+    "url": "https://newsletter.pragmaticengineer.com/p/how-kent-beck-shapes-the-software",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Kent Beck reflects on Agile, TDD, and why building trust&#8212;not just generating code&#8212;will define the future of software engineering in the AI era.",
+    "date": "2026-07-01 16:57 UTC",
+    "date_str": "2026-07-01",
+    "date_iso": "2026-07-01T16:57:46Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-01_How-Kent-Beck-shapes-the-software-engineering-industry.md"
+  },
+  {
+    "title": "How Kent Beck shapes the software engineering industry",
+    "url": "https://www.youtube.com/watch?v=ddHQQtjIOpw",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "Few have made as big an impact on software engineering as this week’s guest on the Pragmatic Engineer podcast, Kent Beck. He created Extreme Programming, pioneered test-driven development (TDD), co-created JUnit, and is one of the authors of the famous ‘Agile Manifesto’. But these days, he's re-examining many ideas for the age of AI, and says we’re failing to accumulate …",
+    "date": "2026-07-01 16:41 UTC",
+    "date_str": "2026-07-01",
+    "date_iso": "2026-07-01T16:41:08Z",
+    "thumbnail_url": "https://img.youtube.com/vi/ddHQQtjIOpw/mqdefault.jpg",
+    "view_count": 5052,
+    "view_count_display": "5.1K views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-01_How-Kent-Beck-shapes-the-software-engineering-industry.md"
+  },
+  {
+    "title": "Meta’s AI Storage Blueprint at Scale",
+    "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Over the past several years, model capabilities and training dataset sizes have experienced exponential growth. During the past year or so, the time between new-frontier-model releases has gone down from months to weeks. Reliable and fast access to storage is important to both the speed and computational cost of this AI innovation. If AI is [...] Read More... The post …",
+    "date": "2026-07-01 16:00 UTC",
+    "date_str": "2026-07-01",
+    "date_iso": "2026-07-01T16:00:36Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-01_Metas-AI-Storage-Blueprint-at-Scale.md"
+  },
+  {
     "title": "\"Taste isn’t valuable because it’s impossible to copy. Taste is valuable exactly because it defines what everyone else chooses to copy.\"",
     "url": "https://nitter.net/zarazhangrui/status/2072197929138602079#m",
     "source": "Zara Zhang (@zarazhangrui)",
@@ -2240,65 +2316,5 @@
     "date_iso": "2026-06-02T12:00:00Z",
     "thumbnail_url": "",
     "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-06-02_Travelers-deploys-AI-powered-claims-countrywide-with-OpenAI.md"
-  },
-  {
-    "title": "Codex for every role, tool, and workflow",
-    "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
-    "date": "2026-06-02 09:00 UTC",
-    "date_str": "2026-06-02",
-    "date_iso": "2026-06-02T09:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-06-02_Codex-for-every-role-tool-and-workflow.md"
-  },
-  {
-    "title": "Advancing youth safety and opportunity through global leadership",
-    "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
-    "date": "2026-06-02 07:00 UTC",
-    "date_str": "2026-06-02",
-    "date_iso": "2026-06-02T07:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-06-02_Advancing-youth-safety-and-opportunity-through-global-leadership.md"
-  },
-  {
-    "title": "Codex is becoming a productivity tool for everyone",
-    "url": "https://openai.com/index/codex-for-knowledge-work",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
-    "date": "2026-06-02 02:00 UTC",
-    "date_str": "2026-06-02",
-    "date_iso": "2026-06-02T02:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-06-02_Codex-is-becoming-a-productivity-tool-for-everyone.md"
-  },
-  {
-    "title": "Our views on AI policy and political advocacy",
-    "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
-    "date": "2026-06-01 17:00 UTC",
-    "date_str": "2026-06-01",
-    "date_iso": "2026-06-01T17:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-06-01_Our-views-on-AI-policy-and-political-advocacy.md"
-  },
-  {
-    "title": "Building the infrastructure for the Intelligence Age in Michigan",
-    "url": "https://openai.com/index/stargate-michigan-data-center",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-    "date": "2026-06-01 12:00 UTC",
-    "date_str": "2026-06-01",
-    "date_iso": "2026-06-01T12:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-06-01_Building-the-infrastructure-for-the-Intelligence-Age-in-Michigan.md"
   }
 ]
