@@ -48,10 +48,6 @@ feeds:
     type: "blog"
 
   - name: "Addy Osmani"
-    url: "https://addyosmani.com/rss.xml"
-    type: "blog"
-
-  - name: "Addy Osmani's Substack"
     url: "https://addyo.substack.com/feed"
     type: "blog"
 
