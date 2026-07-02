@@ -16,6 +16,10 @@ feeds:
     url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCPbwhExawYrn9xxI21TFfyw"
     type: "youtube"
 
+  - name: "Kun Chen (@kunchenguid)"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCb69t9ZkE5z1KvCmfJoaifA"
+    type: "youtube"
+
   # X / Twitter (via Nitter — may go down if nitter.net is blocked)
   - name: "Zara Zhang (@zarazhangrui)"
     url: "https://nitter.net/zarazhangrui/rss"
@@ -23,6 +27,10 @@ feeds:
     filter_retweets: true
 
   # Blogs
+  - name: "Kun's Field Notes (@kunchenguid)"
+    url: "https://blog.kunchenguid.com/feed"
+    type: "blog"
+
   - name: "Lilian Weng"
     url: "https://lilianweng.github.io/index.xml"
     type: "blog"
@@ -40,7 +48,7 @@ feeds:
     type: "blog"
 
   - name: "Addy Osmani"
-    url: "https://addyosmani.com/rss.xml"
+    url: "https://addyo.substack.com/feed"
     type: "blog"
 
   # Company engineering blogs
