@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=kZsf_Sfm7RU",
+    "title": "The Missing Layer After Launch - Raphael Kalandadze, Wandero AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "We run a production system of agents for real customers. The team that keeps it healthy is also made of agents. Operating an agent product isn't like operating software. When our agent fails a customer — a dropped constraint, a stale price, a confident wrong answer — nothing crashes and no log lights up. The failure is in the conversation, …",
+    "date": "2026-07-05 03:15 UTC",
+    "date_iso": "2026-07-05T03:15:05Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2IxD9OB3XuQ",
+    "title": "Continual Learning for AI Agents: From Failures to Durable Improvements - Soheil Feizi, RELAI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Agents fail in production in ways that static benchmarks cannot fully capture. The key question is whether they can learn from those experiences without drifting or breaking prior capabilities. This talk introduces verifiable continual learning for AI agents: a framework for converting traces, failures, and feedback into testable, regression-aware improvements. I will discuss four core requirements: turning failures into replayable …",
+    "date": "2026-07-05 03:13 UTC",
+    "date_iso": "2026-07-05T03:13:35Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=sAOBXCDiDOs",
+    "title": "MCP Apps: Primitives, discovery, and the Future of Software - Pietro Zullo, Manufact, Inc",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Everyone in this room knows what MCP is, but I am sure not many people know what MCP Apps are, how they work, how to build them and distribute them. By the end of this talk you'll know everything you need to join the race! MCP Apps are not just MCP servers with a UI bolted on. They're a full …",
+    "date": "2026-07-05 03:12 UTC",
+    "date_iso": "2026-07-05T03:12:17Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=d_Ftrl3vfV0",
+    "title": "Your AI Product Will Fail Unless You Can Explain It - Veronica Hylak, Hey AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "You’re shipping faster than ever, but still can’t quickly answer: \"Why does this matter to an average user?\" A decade ago, the market would find you. Now, if people can't instantly understand what your AI product does, you’re in trouble. That communication gap has become fatal. This talk? Your emergency hotline. With 7M views helping complex AI systems make sense …",
+    "date": "2026-07-05 03:10 UTC",
+    "date_iso": "2026-07-05T03:10:50Z"
+  }
+]
