@@ -1,5 +1,31 @@
 [
   {
+    "title": "L8 Principal's Agentic Coding Config Fom Scratch",
+    "url": "https://www.youtube.com/watch?v=5N-okeDdIuI",
+    "source": "Kun Chen (@kunchenguid)",
+    "type": "youtube",
+    "summary": "Find everything from me here: https://linktr.ee/kunchenguid Published dotfiles: https://github.com/kunchenguid/dotfiles Wallpaper source (no affiliation): https://apps.apple.com/us/app/dynamic-wallpaper-library/id1582358382?mt=12 -------- Chapters: 0:00 Intro 01:04 Reproducibility 02:04 Installing Nix 02:33 Creating dotfiles repo 03:17 Setting up nix-darwin 06:03 First Nix build 07:06 Reproducible Mac settings 08:14 Installing Homebrew with Nix 10:28 Setting up home-manager 13:29 Configuring zsh with Nix 14:50 Starship 15:33 WezTerm config 17:46 Neovim …",
+    "date": "2026-07-05 17:00 UTC",
+    "date_str": "2026-07-05",
+    "date_iso": "2026-07-05T17:00:39Z",
+    "thumbnail_url": "https://img.youtube.com/vi/5N-okeDdIuI/mqdefault.jpg",
+    "view_count": 12225,
+    "view_count_display": "12.2K views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-05_L8-Principals-Agentic-Coding-Config-Fom-Scratch.md"
+  },
+  {
+    "title": "Resurfacing this skill I built (now that understanding your code is in vogue)",
+    "url": "https://nitter.net/zarazhangrui/status/2073768913310200310#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Resurfacing this skill I built (now that understanding your code is in vogue) Zara Zhang (@zarazhangrui) Introducing \"codebase to course\", a skill that turns any codebase into an interactive coding course So that you can learn coding through your own projects, complete with visualization, plain-English code translations, metaphors, even quizzes... I vibe code a lot but have no idea how …",
+    "date": "2026-07-05 14:00 UTC",
+    "date_str": "2026-07-05",
+    "date_iso": "2026-07-05T14:00:12Z",
+    "thumbnail_url": "https://nitter.net/pic/amplify_video_thumb%2F2035962038892326912%2Fimg%2F-_RPw0h8u9KwDbaA.jpg",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-05_Resurfacing-this-skill-I-built-now-that-understanding-your-code-is-in-vogue.md"
+  },
+  {
     "title": "The Missing Layer After Launch - Raphael Kalandadze, Wandero AI",
     "url": "https://www.youtube.com/watch?v=kZsf_Sfm7RU",
     "source": "AI Engineer",
@@ -2048,59 +2074,5 @@
     "view_count": 1684,
     "view_count_display": "1.7K views",
     "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-06-06_Building-safe-Payment-Infrastructure-for-the-autonomous-economy-Steve-Kaliski-St.md"
-  },
-  {
-    "title": "LLM Research Papers: The 2026 List (January to May)",
-    "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
-    "source": "Sebastian Raschka",
-    "type": "blog",
-    "summary": "A curated roundup of notable LLM research papers that came out this year",
-    "date": "2026-06-06 11:16 UTC",
-    "date_str": "2026-06-06",
-    "date_iso": "2026-06-06T11:16:22Z",
-    "thumbnail_url": "https://substack-post-media.s3.amazonaws.com/public/images/8630eb02-eeac-4411-bef3-1865c1920b03_2912x1632.png",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-06-06_LLM-Research-Papers-The-2026-List-January-to-May.md"
-  },
-  {
-    "title": "Building Agent Interfaces: Lessons from Chrome DevTools (MCP) for Agents — Michael Hablich, Google",
-    "url": "https://www.youtube.com/watch?v=_B4Pv9ttFgY",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "Chrome DevTools MCP shipped with one tool: debug_webpage. Agents failed silently because they couldn't compose behaviors. The team decomposed it into 25 focused tools and assumed the problem was solved. It wasn't — now agents had 25 tools and no reliable way to pick the right one. Michael Hablich's talk is an honest account of building the same thing wrong …",
-    "date": "2026-06-05 17:00 UTC",
-    "date_str": "2026-06-05",
-    "date_iso": "2026-06-05T17:00:06Z",
-    "thumbnail_url": "https://img.youtube.com/vi/_B4Pv9ttFgY/mqdefault.jpg",
-    "view_count": 5605,
-    "view_count_display": "5.6K views",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-06-05_Building-Agent-Interfaces-Lessons-from-Chrome-DevTools-MCP-for-Agents-Michael-Ha.md"
-  },
-  {
-    "title": "Dark Factory: OpenClaw Ships Faster Than You Can Read the Diff — Vincent Koc, OpenClaw",
-    "url": "https://www.youtube.com/watch?v=pmoDeA3RBZY",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "OpenClaw hit 3,000 commits in a single day. Vincent Koc's commit history shows exactly when he goes to sleep and when he wakes up. He and Peter Steinberger ran roughly 60 to 70 agents between them during the great refactor: 2,700 commits, close to a million lines of code changed, 82% of the core codebase touched in one night, plugin …",
-    "date": "2026-06-05 16:00 UTC",
-    "date_str": "2026-06-05",
-    "date_iso": "2026-06-05T16:00:06Z",
-    "thumbnail_url": "https://img.youtube.com/vi/pmoDeA3RBZY/mqdefault.jpg",
-    "view_count": 8022,
-    "view_count_display": "8.0K views",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-06-05_Dark-Factory-OpenClaw-Ships-Faster-Than-You-Can-Read-the-Diff-Vincent-Koc-OpenCl.md"
-  },
-  {
-    "title": "Beyond Transcription: Building Voice AI That Understands Conversations — Hervé Bredin, pyannoteAI",
-    "url": "https://www.youtube.com/watch?v=mFLlVpnGpds",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "The open ASR leaderboard reports Nvidia Parakeet at 11.4% word error rate on AMI meeting data. Hervé Bredin runs the same model on the same dataset and gets 26%. Same model, same recordings, different microphone: the leaderboard uses headset audio, he uses the table mic. Most voice AI benchmarks are measuring single speaker speech and calling it solved. The talk …",
-    "date": "2026-06-05 14:00 UTC",
-    "date_str": "2026-06-05",
-    "date_iso": "2026-06-05T14:00:23Z",
-    "thumbnail_url": "https://img.youtube.com/vi/mFLlVpnGpds/mqdefault.jpg",
-    "view_count": 1478,
-    "view_count_display": "1.5K views",
-    "note_path": "file:///C:/Users/sysux/dev/ai-sources/notes/2026-06-05_Beyond-Transcription-Building-Voice-AI-That-Understands-Conversations-Herv%C3%A9-Bred.md"
   }
 ]

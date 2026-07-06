@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=5N-okeDdIuI",
+    "title": "L8 Principal's Agentic Coding Config Fom Scratch",
+    "source": "Kun Chen (@kunchenguid)",
+    "type": "youtube",
+    "summary": "Find everything from me here: https://linktr.ee/kunchenguid Published dotfiles: https://github.com/kunchenguid/dotfiles Wallpaper source (no affiliation): https://apps.apple.com/us/app/dynamic-wallpaper-library/id1582358382?mt=12 -------- Chapters: 0:00 Intro 01:04 Reproducibility 02:04 Installing Nix 02:33 Creating dotfiles repo 03:17 Setting up nix-darwin 06:03 First Nix build 07:06 Reproducible Mac settings 08:14 Installing Homebrew with Nix 10:28 Setting up home-manager 13:29 Configuring zsh with Nix 14:50 Starship 15:33 WezTerm config 17:46 Neovim …",
+    "date": "2026-07-05 17:00 UTC",
+    "date_iso": "2026-07-05T17:00:39Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2073768913310200310#m",
+    "title": "Resurfacing this skill I built (now that understanding your code is in vogue)",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Resurfacing this skill I built (now that understanding your code is in vogue) Zara Zhang (@zarazhangrui) Introducing \"codebase to course\", a skill that turns any codebase into an interactive coding course So that you can learn coding through your own projects, complete with visualization, plain-English code translations, metaphors, even quizzes... I vibe code a lot but have no idea how …",
+    "date": "2026-07-05 14:00 UTC",
+    "date_iso": "2026-07-05T14:00:12Z"
+  }
+]
