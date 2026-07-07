@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=bRnoEpoK5m4",
+    "title": "The Pipeline Is Dead - Iris ten Teije, Sky Valley Ambient Computing",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The entire software distribution stack assumes one version of your software, the same for everyone. It was the only thing we could afford when producing a change was expensive. Now it's nearly free, and it can happen at runtime, on the client, in the user's session, so the line between distribution and development is dissolving. This talk is about the …",
+    "date": "2026-07-07 03:46 UTC",
+    "date_iso": "2026-07-07T03:46:29Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=UcYoMg-8-L8",
+    "title": "500 people vibe-coded for 30 days. I was one of them. - Sanja Grbic, Automattic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Automattic, the company behind WordPress, ran a 30-day experiment called Radical Speed Month: pause the roadmap, and see how fast real software could ship. I am a product Designer and I shipped three products that month. I'll share what each one revealed about a new kind of collaboration between designers and engineers and how teams are unlocked when bottlenecks disappear. …",
+    "date": "2026-07-07 03:46 UTC",
+    "date_iso": "2026-07-07T03:46:24Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Rx8f05JI_WA",
+    "title": "SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale - Rishi Desai, Abundant AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "SWE-Marathon is a benchmark for long-horizon autonomous software work: 20 project-scale tasks spanning product clones, library rewrites, and ML engineering. We discuss what happens when coding agents run for tens to hundreds of millions of tokens, why full-stack evals need computer-use verifiers, and why reward-hacking resistance is now central to benchmark design. Speakers: - Rishi Desai (Abundant AI): Rishi Desai …",
+    "date": "2026-07-07 03:45 UTC",
+    "date_iso": "2026-07-07T03:45:51Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2074304295097561490#m",
+    "title": "If you wanna level up as an AI builder, binge watch the talks from these 3 conferences (all freshly wrapped). You can literally learn from the best in the field from the comfort of your home. - AI Engineer @aiDotEngineer https://www.youtube.com/@aiDotEngineer - Cursor Compile @cursor_ai https://www.youtube.com/playlist?list=PLuI2ZfvGpzwDCn0njJpjZ3ZiEpCqhN7BK - Figma Config https://www.youtube.com/playlist?list=PLXDU_eVOJTx6erPKfFHtCNbyCmcCn4zrp It's crazy that all of this high-quality knowledge is freely shared on the Internet (the tickets to these conferences often cost hundreds of dollars), and I'm surprised that most of these videos only get tens of thousands of views. High-quality conference talks are massively, massively underrated! Watching on YouTube is also arguably a better experience than attending in person: no bad audio, no crowd blocking the screen, no distractions, and you can pause to take notes",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "If you wanna level up as an AI builder, binge watch the talks from these 3 conferences (all freshly wrapped). You can literally learn from the best in the field from the comfort of your home. - AI Engineer @aiDotEngineer piped.video/@aiDotEngineer - Cursor Compile @cursor_ai piped.video/playlist?list=PL… - Figma Config piped.video/playlist?list=PL… It's crazy that all of this high-quality knowledge is freely …",
+    "date": "2026-07-07 01:27 UTC",
+    "date_iso": "2026-07-07T01:27:37Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2074209416606634048#m",
+    "title": "Great talk! Really enjoyed this",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Great talk! Really enjoyed this claire vo 🖤 (@clairevo) Last week, I spoke at @cursor_ai compile on the new PM, and what it means when anyone can build anything Video — https://nitter.net/clairevo/status/2070294077988639030#m",
+    "date": "2026-07-06 19:10 UTC",
+    "date_iso": "2026-07-06T19:10:36Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9fubhllmsBU",
+    "title": "Field Guide to Fable — Thariq Shihipar, Anthropic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ask a chat model which Pokemon names end in aw and it fails, even though it knows every Pokemon by heart. Ask Claude Code and it writes a script, fetches the list, and filters for the answer in seconds. Thariq Shihipar, who works on Claude Code at Anthropic, calls that gap capability overhang: models get smarter in spiky ways, and …",
+    "date": "2026-07-06 16:00 UTC",
+    "date_iso": "2026-07-06T16:00:06Z"
+  }
+]
