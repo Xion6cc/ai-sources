@@ -1,0 +1,137 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=HEFSExa0xl0",
+    "title": "Teaching Coding Agents to do Spreadsheets - Nuno Campos, Witan Labs",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "https://github.com/witanlabs/research-log",
+    "date": "2026-07-08 09:03 UTC",
+    "date_iso": "2026-07-08T09:03:25Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=MpZzWMdmQCE",
+    "title": "Your coding agent doesn't always follow your rules — Talha Sheikh, Checkout.com",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Your coding agent doesn't always follow your rules. An agent harness makes sure it does, in real-time, every time.",
+    "date": "2026-07-08 08:31 UTC",
+    "date_iso": "2026-07-08T08:31:41Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=BqZrTdgBaPw",
+    "title": "Running a Chess YouTube Channel entirely by AI — Stephan Steinfurt, TNG",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Daily chess puzzle explanations on YouTube: Our agent analyzes and describes chess puzzles in an accessible way - arrows included!",
+    "date": "2026-07-08 08:30 UTC",
+    "date_iso": "2026-07-08T08:30:29Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qlHaO6laBlM",
+    "title": "Shipping Production AI Inside Government — William Tarr, Ministry of Justice (DO NOT PUBLISH)",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The UK Ministry of Justice Justice AI Unit is about 40 people doing work that normally takes 300. Their probation officer tool went from MVP to national rollout with two engineers in a matter of months. A team of 40 would have been the standard approach. What makes the difference is that their engineers spend two or three days a …",
+    "date": "2026-07-08 08:08 UTC",
+    "date_iso": "2026-07-08T08:08:19Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=4kYl2_mqmnQ",
+    "title": "I Run a Fleet of AI Agents Across Three Machines. Here's What Broke. - Kyle Jaejun Lee, KRAFTON",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An honest field report from my own personal fleet of AI agents, run across several machines as a daily driver. Less about any single tool, more about the journey: how things that work on one machine break once you scale to many, what it takes to keep a setup like this running, and where it's all converging. Not a company …",
+    "date": "2026-07-08 08:05 UTC",
+    "date_iso": "2026-07-08T08:05:32Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=IQkVMvXQKLY",
+    "title": "Your LLM Deception Monitor Is Broken. The Fix Is in the Training Data - Sachin Kumar, LexisNexis",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "You fine-tune LLMs and ship them. Your evals are green, your behavioral monitors are green — and a sleeper-agent backdoor can still flip the model to harmful output on a trigger you never tested. Behavioral testing can't reach it, and the interpretability tool people reach for — joint cross-model features (crosscoders) — dilutes the signal until it sits at the …",
+    "date": "2026-07-08 08:05 UTC",
+    "date_iso": "2026-07-08T08:05:21Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2074661564964307153#m",
+    "title": "How to learn in the age of AI",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "How to learn in the age of AI Zara Zhang (@zarazhangrui) Article To learn anything, first unlearn school A friend in China recently asked me how to improve her English. She’d struggled with it for years as a student, labeled herself “bad at languages,” and now wanted to try again for her career. But she — https://nitter.net/zarazhangrui/status/2004554163125141699#m",
+    "date": "2026-07-08 01:07 UTC",
+    "date_iso": "2026-07-08T01:07:17Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=G6IlDzj8OjA",
+    "title": "GTM Is You - Victoria Melnikova, Evil Martians",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In this talk, Victoria Melnikova revisits interviews with successful developer tool founders (Sam Lambert, David Cramer, Paul Copplestone, Ivan Burazin, Zeno Rocha, Jason Bosco) in San Francisco to derive optimal Go-To-Market tactics for developer tools and AI startups focusing on personal brand. Speakers: - Victoria Melnikova (Evil Martians): Victoria run new business at Evil Martians and hosts Dev Propulsion Labs …",
+    "date": "2026-07-07 23:32 UTC",
+    "date_iso": "2026-07-07T23:32:05Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qdZzND79mcg",
+    "title": "Beyond the Harness: A Journey Towards Adaptative Engineering - Rajiv Chandegra, Annicha Labs",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Building products has been commoditised. As AI models grow more capable, the real opportunity shifts to the hard problems — the big, messy, tangled challenges of the physical and social world. That, after all, is the engineer's true job: to solve problems. But our current paradigm leans on fixed harnesses - predetermined structures imposed on the problem. In a world …",
+    "date": "2026-07-07 23:32 UTC",
+    "date_iso": "2026-07-07T23:32:02Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=1IdzkRVmWAA",
+    "title": "How we taught agents to use good retrieval - Hanna Lichtenberg, Mixedbread AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "RAG is dead. Again. Vector search is useless. All you need is BM25. Not even BM25, all you need is grep. Or maybe even just cat+ls. If you care at all about agents, you probably read a variation of this as part of your daily routine. In a way, isn't it true that semantic search is full of failure cases? …",
+    "date": "2026-07-07 23:31 UTC",
+    "date_iso": "2026-07-07T23:31:57Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2e9ANoOEn28",
+    "title": "What if the harness mattered more than the model? - Aditya Bhargava, Etsy",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The models are getting so good now that all you need is a simple harness, some tools, and a loop... right? Aditya Bhargava argues that this direction promotes overreliance on large, proprietary models, and we should be focusing on building harnesses that improve the performance of models that can be run locally. Speakers: - Aditya Bhargava (Etsy): Aditya Bhargava is …",
+    "date": "2026-07-07 23:31 UTC",
+    "date_iso": "2026-07-07T23:31:54Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=CDqzWpwkSls",
+    "title": "Build AI Systems for Discernment, Not Approval - Angel Ortmann Lee, Duolingo",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The human-in-the-loop paradigm promises automation's efficiency without sacrificing safety or nuance. But it hides an underexamined assumption: that human involvement produces genuine discernment, not just a rubber stamp. In practice, human-AI interaction often occurs in environments where throughput or business incentives crowd out critical thinking. This talk examines why human oversight so often falls short in practice, and how deliberate …",
+    "date": "2026-07-07 23:31 UTC",
+    "date_iso": "2026-07-07T23:31:51Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=CLttOU7n6sI",
+    "title": "Respect The Process - Andrew Dumit, Watershed Technology Inc.",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In sustainability, the answer to almost every question is \"it depends.\" What’s the right classification? Which method should the agent use? Our vertical is filled with judgement calls broadly and one of the tasks in that vertical might span a search over 100k’s of data-rich nodes and hundreds of edits. Editing across them takes loops and filters, not enumerated tool …",
+    "date": "2026-07-07 23:31 UTC",
+    "date_iso": "2026-07-07T23:31:49Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/tech-jobs-market-in-2026-part-3-hiring",
+    "title": "Tech jobs market in 2026, part 3: hiring managers & job seekers",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "The market where nobody finds each other, the hottest market for AI-related positions, tough for engineering leaders, and more. Based on details from 50+ hiring managers & job seekers",
+    "date": "2026-07-07 17:25 UTC",
+    "date_iso": "2026-07-07T17:25:41Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=pMggiOb18tc",
+    "title": "The Golden Age of AI Engineering — Alexander Embiricos & Romain Huet & Peter Steinberger, OpenAI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "OpenAI's Dev Day 2024 demo ran on an o1 preview model that could not run or check its own code, so Romain Huet had to cross his fingers live on stage. A year later, the same kind of demo ran a full camera and lighting rig, because the model could now test its own work. Alexander Embiricos and Huet use …",
+    "date": "2026-07-07 12:49 UTC",
+    "date_iso": "2026-07-07T12:49:48Z"
+  }
+]
