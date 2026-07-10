@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://openai.com/index/deutsche-telekom",
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+    "date": "2026-07-10 07:00 UTC",
+    "date_iso": "2026-07-10T07:00:00Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from",
+    "title": "The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "A rewrite done in 11 days that would have taken a small team a year to complete, for $165K in tokens. Also: coding LLM &#8220;wars&#8221; heat up, AI fakers from North Korea still a problem when hiring, and more",
+    "date": "2026-07-09 16:32 UTC",
+    "date_iso": "2026-07-09T16:32:18Z"
+  },
+  {
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+    "date": "2026-07-09 13:00 UTC",
+    "date_iso": "2026-07-09T13:00:00Z"
+  }
+]
