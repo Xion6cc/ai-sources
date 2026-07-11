@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=YZQsWVeN3rE",
+    "title": "Design Patterns for AI Trust: Juries, Libraries, and Agent Tiers — Alex Bauer, Upside.tech",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A couple of years ago, everyone worried about AI hallucinating. We rarely hear that word anymore, but it’s just because the problem grew up. Today, your AI still doesn’t know how to say “I’m not sure.” Instead, it hands you a revenue number that’s wrong in ways that look exactly like being right. The good news is we already solved …",
+    "date": "2026-07-11 00:57 UTC",
+    "date_iso": "2026-07-11T00:57:36Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=WkBPX-oDMnA",
+    "title": "Understanding is the new bottleneck — Geoffrey Litt, Notion",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Autonomous loops are hot, but the reality is that most agentic tasks still require human judgement. And to guide your agents well, it's not enough to just verify correctness -- you actually need to understand the work they're doing. In this talk, I'll share some techniques for staying in the loop and efficiently developing understanding, combining old ideas from education …",
+    "date": "2026-07-10 22:14 UTC",
+    "date_iso": "2026-07-10T22:14:52Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZpK5PWX2YRM",
+    "title": "Should AI Engineers Still Read Code in 2026? The Z/L Continuum — Alex Volkov, ThursdAI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "\"How much better do the models have to get before you'll stop reading the code?\" Theo asked that question recently and the replies caught fire. Mitchell Hashimoto is calling it agent psychosis. ThePrimeagen's subreddit is in open revolt about people shipping code they never read. Uncle Bob says we have about a year left of looking at code at all. …",
+    "date": "2026-07-10 18:00 UTC",
+    "date_iso": "2026-07-10T18:00:06Z"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
+    "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+    "source": "GitHub Engineering",
+    "type": "blog",
+    "summary": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here&#8217;s how we actually improved it. appeared first on The GitHub Blog .",
+    "date": "2026-07-10 15:57 UTC",
+    "date_iso": "2026-07-10T15:57:47Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2075601938620502497#m",
+    "title": "One of the best pieces of life/career advice I’ve ever received: Do not do X in order to do Y. Just do Y. You get ready for something by just doing the thing",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "One of the best pieces of life/career advice I’ve ever received: Do not do X in order to do Y. Just do Y. You get ready for something by just doing the thing",
+    "date": "2026-07-10 15:23 UTC",
+    "date_iso": "2026-07-10T15:23:59Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2075600029155229808#m",
+    "title": "One of the most rewarding moments for someone who creates content for fun: meeting followers in person and realizing that even though you’re all meeting for the first time, it feels like you’ve known each other forever and you’re completely on the same wavelength. It’s the best thing ever",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "One of the most rewarding moments for someone who creates content for fun: meeting followers in person and realizing that even though you’re all meeting for the first time, it feels like you’ve known each other forever and you’re completely on the same wavelength. It’s the best thing ever",
+    "date": "2026-07-10 15:16 UTC",
+    "date_iso": "2026-07-10T15:16:24Z"
+  }
+]
