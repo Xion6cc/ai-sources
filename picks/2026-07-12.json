@@ -1,0 +1,128 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=5192csoTkVo",
+    "title": "remobi.app: Don't change your terminal workflow for mobile",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "remobi.app: Don't change your terminal workflow for mobile. Swipe between agents, unblock when stuck.",
+    "date": "2026-07-12 08:47 UTC",
+    "date_iso": "2026-07-12T08:47:17Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=EfcfUB2uprc",
+    "title": "Stop Evaluating Models Like It's the 50s - Alejandro Vidal, Mindmakers",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Psychologists spent the last century learning how to measure something invisible and uncooperative: a human mind. AI evaluation, meanwhile, still scores like it is 1950. Count the right answers, treat every question as equal, trust the percentage (this is Classical Test Theory). We are sitting on decades of measurement theory built for exactly this problem, and we forgot to use …",
+    "date": "2026-07-12 08:00 UTC",
+    "date_iso": "2026-07-12T08:00:21Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7P0elyLIxXo",
+    "title": "What Does Done Even Mean? Agents and Paperclip's Liveness Model - Dotta, Paperclip",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "What does “done” mean when agents can produce more work than humans can possibly review? This talk argues that the future of agentic work is not just faster output, but a stronger trust protocol: systems where “done” means an artifact has met a stated standard, carries evidence, has been checked by the right verifier, assigns ownership of remaining risk, and …",
+    "date": "2026-07-12 06:45 UTC",
+    "date_iso": "2026-07-12T06:45:06Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2076130810143367453#m",
+    "title": "Ok 5.6 Sol is very good at front end 👌",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Ok 5.6 Sol is very good at front end 👌 Zara Zhang (@zarazhangrui) I really really wish Codex were better at frontend design. This is the single thing that's preventing me from using it more frequently — https://nitter.net/zarazhangrui/status/2075003007520096416#m",
+    "date": "2026-07-12 02:25 UTC",
+    "date_iso": "2026-07-12T02:25:32Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=xg1zNlzw7Jk",
+    "title": "Claws Out: Securing and Building with OpenClaw - Nick Taylor, Pomerium",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Running OpenClaw without hardening access to it is a bad idea. We'll cover how I secured my OpenClaw, McClaw, contributed trusted-proxy auth mode to the OpenClaw project, and how I use it to build tools. We're going to build something live during the talk using OpenClaw, the same way I built Clawspace, a browser-based file explorer/editor for your OpenClaw workspace. …",
+    "date": "2026-07-11 22:30 UTC",
+    "date_iso": "2026-07-11T22:30:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vJukHCIv7Ck",
+    "title": "Stop AI Agent Hallucinations: 5 Techniques + Production Patterns - Elizabeth Fuentes, AWS",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "AI agents that book 15 guests in a 10-person room. Agents that fabricate statistics when data doesn't exist. Agents that pick wrong tools from 29 options, wasting $47 in tokens. These aren't prompt engineering failures, they're architectural limitations that need structural solutions. This hands-on workshop covers 5 research-backed techniques to prevent agent hallucinations: 1. Graph-RAG (Neo4j) - Replace vector similarity …",
+    "date": "2026-07-11 21:45 UTC",
+    "date_iso": "2026-07-11T21:45:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jtzh-GBXBWc",
+    "title": "The Factory That Dreams: 39 AI Agents, No Framework - Rushabh Doshi, Machinecraft",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Most AI demos are built around a toy workflow. Ira was built around a factory. This talk is the story of how a third-generation Indian machinery company built a multi-agent operating system that helps run sales, business development, recruitment, quoting, marketing, production context, email workflows, and organizational memory. Ira is not a chatbot and not a wrapper around a single …",
+    "date": "2026-07-11 20:00 UTC",
+    "date_iso": "2026-07-11T20:00:27Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=RGiXcVxSD3s",
+    "title": "Chat and citations won't save your vertical AI - Atul Ramachandran, Filed Inc",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Most vertical SaaS teams are doing the same things: chasing higher accuracy, building better model harnesses, shipping more features. And their customers are saying the same things: the AI got this wrong, it hallucinated, the accuracy is not good enough. So teams go back and push the numbers higher. We did the same at Filed. We built AI data entry …",
+    "date": "2026-07-11 17:30 UTC",
+    "date_iso": "2026-07-11T17:30:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KB41dTlX1Uc",
+    "title": "State of the Union: Why Local, Why Now — NVIDIA, Osmantic, Roboflow, EXO Labs, @matthew_berman",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Local AI has crossed from interesting to useful, driven by stronger open models, better hardware, and a maturing ecosystem for running intelligence outside the cloud. This panel explores what that shift unlocks for sovereignty, defense, regulated industries, privacy, cost, and resilience, and why open-source AI may be central to who benefits from the next wave of intelligence. Moderator: Nader Khalil …",
+    "date": "2026-07-11 16:30 UTC",
+    "date_iso": "2026-07-11T16:30:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=WLXxTaPagA8",
+    "title": "Every Solo Agent Builder Eventually Reinvents a Worse Version of CI/CD - Sumaiya Shrabony",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "If you build agents alone long enough, you will independently reinvent five things software engineering solved decades ago. A way to test whether your agent's output is still correct after you changed something. A way to run it on a schedule and know if it failed. A way to prevent one skill's schema change from silently breaking three downstream skills. …",
+    "date": "2026-07-11 16:30 UTC",
+    "date_iso": "2026-07-11T16:30:04Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9arM9b7JgOo",
+    "title": "Develop at Idea Velocity - Jeffrey Lee-Chan, Snapchat",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The biggest gap in production AI agent systems is not the model—it's the harness. After 1,000 hours of orchestrating autonomous fleets under human direction, the pattern is unmistakable: agents that finish complex tasks on the first run routinely fail on subsequent iterations because the surrounding loop lacks persistent memory and contextual guardrails. In this talk, I dissects the key multi-agent …",
+    "date": "2026-07-11 14:45 UTC",
+    "date_iso": "2026-07-11T14:45:18Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GdvKNwMcfd0",
+    "title": "From Writing Code to Designing Systems: How the Developer Role is Changing — Chris Noring, Microsoft",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "For decades, developers have been valued primarily for how much code they could write and how quickly they could write it. That model no longer scales. As AI becomes a first-class collaborator, the bottleneck is no longer syntax or implementation speed—it’s clarity of intent, architectural thinking, and the ability to coordinate work across many autonomous contributors. Today’s challenge is not …",
+    "date": "2026-07-11 14:00 UTC",
+    "date_iso": "2026-07-11T14:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=uIiA6DquRiE",
+    "title": "Special Topics in Kernels, RL, Reward Hacking in Agents — Daniel Han, Unsloth",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An advanced seminar (good prerequisites: Daniel's 2024 and 2025 hit AIE workshops, but all are welcome!) PLS WATCH: https://www.youtube.com/@aiDotEngineer/search?query=daniel%20han",
+    "date": "2026-07-11 13:27 UTC",
+    "date_iso": "2026-07-11T13:27:22Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2075930909669515753#m",
+    "title": "The line between \"builder\" and \"creator\" is blurring This is the best time for builders to create content and for creators to build products",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "The line between \"builder\" and \"creator\" is blurring This is the best time for builders to create content and for creators to build products",
+    "date": "2026-07-11 13:11 UTC",
+    "date_iso": "2026-07-11T13:11:12Z"
+  }
+]
