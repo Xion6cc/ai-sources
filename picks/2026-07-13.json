@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=8oyalrfwgjw",
+    "title": "RLM: Recursive Language Models for Large Codebases - Shashi, Superagentic AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Large codebases break coding agents: they lose the architecture and drown in tool output as context grows. This talk introduces Recursive Language Models (RLM) from a MIT paper a pattern that loads the repo into a programmable REPL where the model writes code to inspect it and recursively delegates focused sub-questions via llm_query. With a live demo on RLM Code …",
+    "date": "2026-07-12 23:00 UTC",
+    "date_iso": "2026-07-12T23:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7JgIS42mz7U",
+    "title": "The AI bugpocalypse is here. Now what? - Jack Cable, Corridor",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Something shifted in the past year that most security teams haven't fully reckoned with yet: AI models can now find serious vulnerabilities in production code, at scale, with minimal human skill required. Not in toy examples. In libraries that have been reviewed hundreds of times by the best researchers in the world. Jack Cable, Co-Founder and CEO of Corridor, will …",
+    "date": "2026-07-12 22:00 UTC",
+    "date_iso": "2026-07-12T22:00:09Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=EUsPvBeIx70",
+    "title": "Semantic Blindness: 500,000 Sensors Confused an LLM - Raahul Singh & Vanč Levstik, Phaidra",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "You cannot solve a combinatorial engineering problem with a next token prediction engine. We learned this the hard way. Modern LLMs can write code, summarize research papers, and reason across massive datasets. But what happens when you connect them to mission-critical physical infrastructure with 50,000 live sensors, deterministic dependencies, and real-world thermodynamic constraints? We deployed state-of-the-art LLMs to manage real …",
+    "date": "2026-07-12 16:00 UTC",
+    "date_iso": "2026-07-12T16:00:36Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=sum9DgexFRQ",
+    "title": "The Agentic Web and the Bazaar Era of AI - Ramesh Raskar, MIT Media Lab",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The AI agent industry is currently focused on memory, orchestration, enterprise deployment, and tooling. But these are the first steps toward a larger transformation: the emergence of the Agentic Web. Today’s ecosystem resembles the early days of AOL: closed platforms, proprietary agent stores, and siloed orchestration layers. The next era of AI agents will require open infrastructure that allows agents …",
+    "date": "2026-07-12 14:00 UTC",
+    "date_iso": "2026-07-12T14:00:07Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2076300222884626754#m",
+    "title": "Try \"meeting transcript as PRD\", it's amazing I discuss a feature's implementation with a colleague, send transcript to Codex, and it builds the prototype as we discussed. The meeting is the prompt",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Try \"meeting transcript as PRD\", it's amazing I discuss a feature's implementation with a colleague, send transcript to Codex, and it builds the prototype as we discussed. The meeting is the prompt",
+    "date": "2026-07-12 13:38 UTC",
+    "date_iso": "2026-07-12T13:38:43Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=UlFB6efYN5Q",
+    "title": "A Song of Types and Agents - Roberto Stagi, Ratel",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Python ruled unchallenged for a decade, sitting comfortably on the AIron Throne. But a quiet rebellion is brewing: the entire stack that actually deploys AI agents in production runs on npm, not pip. This lightning talk is an opinionated, slightly unhinged tour of how TypeScript is taking over the AI throne, why this happened and how you can prepare for …",
+    "date": "2026-07-12 12:45 UTC",
+    "date_iso": "2026-07-12T12:45:05Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2076284012339843546#m",
+    "title": "Passion is the biggest moat",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Passion is the biggest moat",
+    "date": "2026-07-12 12:34 UTC",
+    "date_iso": "2026-07-12T12:34:18Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=TJPInBjhE4Q",
+    "title": "ReviewDebt: a practical framework for scoring every pull request — Sachin Gupta, Ebay",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Coding agents ship PRs faster than humans can trust them. The gap is filling up with a debt nobody is measuring — and it's about to swallow your engineering velocity. Every team in 2026 measures coding agents the same way: PR count, lines of code, cycle time, developer NPS. None of those see the real cost — bloated diffs, weak …",
+    "date": "2026-07-12 12:15 UTC",
+    "date_iso": "2026-07-12T12:15:38Z"
+  }
+]
