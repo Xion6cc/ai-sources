@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2076862290985730481#m",
+    "title": "The 3 levels of AI adoption for organizations Most companies are at level 2",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "The 3 levels of AI adoption for organizations Most companies are at level 2",
+    "date": "2026-07-14 02:52 UTC",
+    "date_iso": "2026-07-14T02:52:11Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2076860372993388663#m",
+    "title": "Back in March I recorded a 45-min conversation (outdoors!) with @ashebytes on building in public, growing my audience on X (without the slop), and my thoughts on vibe coding Watch it here ⬇️",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Back in March I recorded a 45-min conversation (outdoors!) with @ashebytes on building in public, growing my audience on X (without the slop), and my thoughts on vibe coding Watch it here ⬇️ ashe (@ashebytes) and for folks who are looking for more inspiration, @zarazhangrui was really inspiring to me back in Feb lots of gold in this chat piped.video/watch?v=cIda8ETI… …",
+    "date": "2026-07-14 02:44 UTC",
+    "date_iso": "2026-07-14T02:44:33Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2076850021786603531#m",
+    "title": "People: how do you have time to do so much?? Me: I just love what I do",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "People: how do you have time to do so much?? Me: I just love what I do",
+    "date": "2026-07-14 02:03 UTC",
+    "date_iso": "2026-07-14T02:03:25Z"
+  },
+  {
+    "url": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4",
+    "title": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "By Parth Jain , Rakesh Sukumar , Yingwu Zhao , Renzo Sanchez-Silva &amp; Nathan Fisher A deep dive into the engineering challenges of building a real-time service dependency map at Netflix scale: from streaming architectures and distributed aggregation pipelines to time-travel queries and the methodology that made it work. Introduction In our first post , we introduced the problem: engineers …",
+    "date": "2026-07-13 22:44 UTC",
+    "date_iso": "2026-07-13T22:44:11Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=QtsOHdJgOJQ",
+    "title": "Dad and Son Vibe Code an RPG Game",
+    "source": "Kun Chen (@kunchenguid)",
+    "type": "youtube",
+    "summary": "Replay of a live stream where I vibe coded a game with my son Eddie https://www.youtube.com/@eddie-play-z Find everything from me here: https://linktr.ee/kunchenguid Chapters: 00:00 Intro 01:06 Game ideation 03:03 Prototyping 08:11 Art direction 09:02 Core mechanics 11:45 Boss fight 18:01 Refining mechanics 22:05 Building cut scenes 27:13 First run 28:58 Iterations 33:58 One more run",
+    "date": "2026-07-13 22:32 UTC",
+    "date_iso": "2026-07-13T22:32:02Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-CnA2lGfymY",
+    "title": "In Code They Act, In Proof We Trust — Erik Meijer, Leibniz Labs",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "AI agents today execute on blind trust, and the failure modes are already in the headlines: a dealership chatbot agreeing to sell a $76,000 Chevy Tahoe for $1, a coding agent wiping a production database during a code freeze, an \"agent skill\" quietly installing a keylogger on a developer's machine. These are not edge cases. They are the predictable consequence …",
+    "date": "2026-07-13 19:25 UTC",
+    "date_iso": "2026-07-13T19:25:09Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=O3FEoMYvUf8",
+    "title": "Stop Evaluating Models Like It's the 50s - Alejandro Vidal, Mindmakers",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Psychologists spent the last century learning how to measure something invisible and uncooperative: a human mind. AI evaluation, meanwhile, still scores like it is 1950. Count the right answers, treat every question as equal, trust the percentage (this is Classical Test Theory). We are sitting on decades of measurement theory built for exactly this problem, and we forgot to use …",
+    "date": "2026-07-13 17:56 UTC",
+    "date_iso": "2026-07-13T17:56:55Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=OqM67QG_Ikk",
+    "title": "From fork() to Fleet: Designing an Agent Sandbox Cloud — Abhishek Bhardwaj, OpenAI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Sandboxes unleash agents by giving them secure, fully functional computers where they can tackle diverse tasks with minimal setup. This talk explores the architectural challenges of building an agent sandbox cloud. We compare runtime isolation technologies and their trade-offs, examine persistence and storage as the next major unlock for agent capabilities, and discuss the key decisions involved in orchestrating and …",
+    "date": "2026-07-13 17:00 UTC",
+    "date_iso": "2026-07-13T17:00:06Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/",
+    "title": "Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "TL; DR At Meta&#8217;s scale, a few milliseconds of latency degradation can have a significant negative impact on ads performance. When a Linux kernel upgrade risked regressing latency across Meta&#8217;s ad serving fleet, we turned to sched_ext — the upstream, BPF-based extensible scheduling framework — to build a scheduling policy customized to the Ads delivery [...] Read More... The post …",
+    "date": "2026-07-13 16:00 UTC",
+    "date_iso": "2026-07-13T16:00:50Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=V-EDrhIhHzQ",
+    "title": "The Prime Intellect Stack — Will Brown, Prime Intellect",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Deep dive into Prime Intellect's open-source ecosystem of post-training tools, including the verifiers and prime-rl libraries, as well as the Lab platform for self-serve training and inference. Speaker: Will Brown — Research Lead, Prime Intellect Will Brown leads Applied Research at Prime Intellect and builds open research infrastructure to enable every company to train, deploy, and self-improve their own frontier …",
+    "date": "2026-07-13 15:34 UTC",
+    "date_iso": "2026-07-13T15:34:07Z"
+  }
+]
