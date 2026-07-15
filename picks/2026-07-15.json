@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=8G_1-3IO4ZQ",
+    "title": "WTF Is the Context Layer? The Missing Infrastructure for Production Agents — Prukalpa Sankar",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In the last two years, models have gotten exponentially smarter. Two years ago they couldn't pass the bar. Today, top 1% of test scorers. And yet most agents still can't answer a simple business question correctly. You ship a demo that works. You deploy it. The business abandons it in a month. The missing variable is context: the business definitions, …",
+    "date": "2026-07-14 22:45 UTC",
+    "date_iso": "2026-07-14T22:45:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=0vphxNt4wyk",
+    "title": "Don't Ship Skills Without Evals — Philipp Schmid, Google DeepMind",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "There are thousands of agent skills. Almost none of them are tested. They get vibe-checked with two manual runs, maybe a thumbs-up from a colleague, then shipped. You wouldn't merge code without tests — so why are we shipping skills without evals? This talk covers the full lifecycle of building reliable agent skills: what a skill actually is (and isn't), …",
+    "date": "2026-07-14 22:00 UTC",
+    "date_iso": "2026-07-14T22:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=APqXGyCoGW4",
+    "title": "Forward Deployed Engineering at Cursor — Pauline Brunet",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "# How Forward Deployed Engineering is done at Cursor **Location:** Forward Deployed Engineering / Room 2020 **When:** Day 2 - June 30, 2026 · 11:10am-11:30am ## Speakers ### Pauline Brunet VP, Forward Deployed Engineering · Cursor [LinkedIn](https://www.linkedin.com/in/pauline-brunet/) VP of Forward Deployed Engineering at Cursor. Building the motion and team to help customers adopt Cursor and drive meaningful returns. We configure …",
+    "date": "2026-07-14 21:00 UTC",
+    "date_iso": "2026-07-14T21:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=n97BCfyFIvw",
+    "title": "\"The engineer of the future is the person who is able to choose what is worth doing.\" — Addy Osmani",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "For his closing keynote, Addy Osmani explores the evolving role of software engineers in the age of AI agents. He argues that as coding tasks become increasingly automated, the true value of an engineer shifts from mere code production to accountability, judgment, and system ownership. https://addyosmani.com/ https://x.com/addyosmani/status/2074927530482835916 Timestamps 0:00 Introduction and the human side of engineering 1:46 Rebundling roles and …",
+    "date": "2026-07-14 17:16 UTC",
+    "date_iso": "2026-07-14T17:16:43Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/what-is-loop-engineering",
+    "title": "What is “loop engineering?”",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "There&#8217;s talk about loop engineering, but what is it exactly? I looked into it, and found triggers, cron jobs, AI slop & more. Is it a &#8220;here today, gone tomorrow&#8221; trend?",
+    "date": "2026-07-14 17:01 UTC",
+    "date_iso": "2026-07-14T17:01:57Z"
+  },
+  {
+    "url": "https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d35198b4?source=rss----53c7c27702d5---4",
+    "title": "From weeks to a day: how we made LLM evaluation fast enough to iterate on",
+    "source": "Airbnb Engineering",
+    "type": "blog",
+    "summary": "Training an LLM is the easy part. The hard part is designing experiments and evaluations that you can trust enough to know whether the new model is actually an improvement. By : Baharak Saberidokht Introduction Shipping a production LLM system means iterating fast on improvements to something that is, by construction, non-deterministic. Models drift, judges disagree with themselves, references regenerate …",
+    "date": "2026-07-14 17:01 UTC",
+    "date_iso": "2026-07-14T17:01:03Z"
+  },
+  {
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "title": "How to manage AI investments in the agentic era",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+    "date": "2026-07-14 10:00 UTC",
+    "date_iso": "2026-07-14T10:00:00Z"
+  }
+]
