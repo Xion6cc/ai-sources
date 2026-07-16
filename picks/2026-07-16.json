@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=ZSQb5fzRFPw",
+    "title": "Computer-Use 2.0: Agents Just Got Multi-Cursor — Francesco Bonacci, Cua",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Three agents click, type, and scroll through three different apps on one desktop at the same time, and the user's own mouse and keyboard never move. That's the live demo behind cua driver, a tool the team built in a single weekend after Codex shipped its own computer use model. Instead of taking over the hardware cursor, it talks straight …",
+    "date": "2026-07-15 22:45 UTC",
+    "date_iso": "2026-07-15T22:45:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=q4Tr-DknG2M",
+    "title": "Recursive Model Improvement — Lee Robinson, Cursor, SpaceXAI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Lee Robinson discusses the future of Cursor and AI-native software development. Speaker: Lee Robinson — ML, Model Behavior, Cursor Model research and personality at Cursor. Previously Vercel. X: https://x.com/leerob LinkedIn: https://www.linkedin.com/in/leeerob/ GitHub: https://github.com/leerob Website: https://leerob.com Timestamps 0:37 - Introduction and recursive model improvement overview 1:55 - The two-loop training framework (inner and outer loops) 2:33 - Progress and success of …",
+    "date": "2026-07-15 20:13 UTC",
+    "date_iso": "2026-07-15T20:13:51Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Hierarchical Interest Representation is a research area for Meta Ads. We’re exploring an upstream representation layer over the universe of Ads entities – users, advertisers, products, services – learning unified embeddings that connect users&#8217; inferred interests with the breadth of what advertisers offer in their deep funnel ads. The innovations in Hierarchical Interest Representation are [...] Read More... The post …",
+    "date": "2026-07-15 17:00 UTC",
+    "date_iso": "2026-07-15T17:00:52Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/context-engineering-with-dex-horthy",
+    "title": "Context engineering with Dex Horthy",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Dex Horthy explains why context engineering is key to building more effective AI-assisted software without sacrificing code quality.",
+    "date": "2026-07-15 16:08 UTC",
+    "date_iso": "2026-07-15T16:08:59Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Usufn8IQJgw",
+    "title": "Context engineering with Dex Horthy",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "Knowing how LLM contexts work and how to work around context limitations – aka “context engineering” – is becoming more important for software engineers working with LLMs. Let’s look into what works and what doesn’t, today. In this episode of The Pragmatic Engineer podcast, I sit down with the CEO and cofounder of HumanLayer, Dex Horthy, who coined the term …",
+    "date": "2026-07-15 15:59 UTC",
+    "date_iso": "2026-07-15T15:59:47Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2077417579837309040#m",
+    "title": "If you want agents to actually work inside a company, you have to design the company so they can read it Shopify did this with an agent that had no private chat function at all, only public channels. The side effect was peer learning",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "If you want agents to actually work inside a company, you have to design the company so they can read it Shopify did this with an agent that had no private chat function at all, only public channels. The side effect was peer learning tobi lutke (@tobi) Article Learning on the Shop floor Years ago I wrote about my apprenticeship …",
+    "date": "2026-07-15 15:38 UTC",
+    "date_iso": "2026-07-15T15:38:42Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=uU5Gv2h8-9g",
+    "title": "Simon Willison in conversation with Cat Wu & Thariq Shihipar, Anthropic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A long form Q&amp;A with Cat Wu (Head of Product, Claude Code) and Thariq Shihipar (Engineer, Claude Code) from Anthropic, moderated by Simon Willison. The discussion focuses on the evolution of coding agents and how they have fundamentally shifted software development practices. Key Takeaways: Changing Developer Workflow (1:22 - 3:51): Coding agents like Claude Code have moved developers from manual, …",
+    "date": "2026-07-15 15:05 UTC",
+    "date_iso": "2026-07-15T15:05:06Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2077388091044635010#m",
+    "title": "Because I never learned programming the traditional way, using coding agents has been purely an act of creativity and self-expression GitHub is basically my Substack",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Because I never learned programming the traditional way, using coding agents has been purely an act of creativity and self-expression GitHub is basically my Substack David Pan (@davep) When I was growing up, programming was an expression of creativity. Somewhere along the way, it became more about the chores. Merge conflicts. Flaky tests. CI failures. Bug triage. Let's give the …",
+    "date": "2026-07-15 13:41 UTC",
+    "date_iso": "2026-07-15T13:41:31Z"
+  },
+  {
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "title": "The US is advancing AI safety through state and federal action",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+    "date": "2026-07-15 12:00 UTC",
+    "date_iso": "2026-07-15T12:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+    "date": "2026-07-15 10:00 UTC",
+    "date_iso": "2026-07-15T10:00:00Z"
+  }
+]
