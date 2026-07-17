@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2077953473535176772#m",
+    "title": "So many interesting hardware ideas from China Like this face mask that doubles as a mic so that you can use voice dictation in public areas without being overheard",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "So many interesting hardware ideas from China Like this face mask that doubles as a mic so that you can use voice dictation in public areas without being overheard",
+    "date": "2026-07-17 03:08 UTC",
+    "date_iso": "2026-07-17T03:08:09Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=eBUyTS7SzV4",
+    "title": "The New Physics of Business — Garry Tan, Y Combinator",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Garry Tan, President of Y Combinator, discusses how the rise of AI-native companies is revolutionizing organizational productivity, allowing lean teams to operate at a scale previously requiring hundreds or thousands of employees (0:52-1:07). Key Takeaways: The 400x Leverage: Tan reports a massive increase in output (approximately 400x) by shifting from writing individual lines of code to managing AI agents (2:32-2:35). …",
+    "date": "2026-07-17 01:00 UTC",
+    "date_iso": "2026-07-17T01:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Z2Erdirpudo",
+    "title": "Imagination Engineering — Eve Bouffard, Head of Design, Y Combinator",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Eve Bouffard from Y Combinator explores the concept of \"Imagination Engineering\"—the idea that with increasingly powerful AI models, the primary challenge for humans is no longer technical execution, but the ability to dream up bold, innovative ideas (0:13-0:59). Key themes and experiments shared: Thinking in Public: Inspired by Paul Graham, Eve describes an experiment where she shared her stream of …",
+    "date": "2026-07-16 23:45 UTC",
+    "date_iso": "2026-07-16T23:45:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=iCj_ATyThvc",
+    "title": "An AI Agent Became the #1 Contributor in OpenAI's Hiring Challenge — Zhengyao Jiang, Weco",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Earlier this year, OpenAI ran Parameter Golf, a model-training competition that doubled as a hiring filter. Over 1,000 researchers competed to train the best small language model under a 16MB cap. The top contributor was the one candidate OpenAI couldn't hire. Our autonomous research agent Aiden finished with 7 merged records, more than twice as many as any other contributor, …",
+    "date": "2026-07-16 18:08 UTC",
+    "date_iso": "2026-07-16T18:08:16Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-groks-cli-caught-uploading",
+    "title": "The Pulse: Grok’s CLI caught uploading all your local files to the cloud",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Also: engineering leaders concerned about continued increase in code review load, devs at enterprises surprised by high enterprise pricing, and more",
+    "date": "2026-07-16 16:48 UTC",
+    "date_iso": "2026-07-16T16:48:53Z"
+  },
+  {
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "title": "Why teens deserve access to safe AI",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+    "date": "2026-07-16 16:00 UTC",
+    "date_iso": "2026-07-16T16:00:00Z"
+  }
+]
