@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2078666187026911488#m",
+    "title": "Everyone should develop their \"personal eval set\" for AI models: a few tasks that are actually relevant to your day-to-day work/life The industry benchmarks help but they might not reflect what will make it actually useful to you You find the model's capability boundary by poking at it & bumping into it for fun",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Everyone should develop their \"personal eval set\" for AI models: a few tasks that are actually relevant to your day-to-day work/life The industry benchmarks help but they might not reflect what will make it actually useful to you You find the model's capability boundary by poking at it & bumping into it for fun",
+    "date": "2026-07-19 02:20 UTC",
+    "date_iso": "2026-07-19T02:20:13Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=XLEYtv3cMlw",
+    "title": "Autonomous Agents for Scientific Tasks - Sina Shahandeh, Radicait",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "There has been much work on Autoresearch where the objectives are coding puzzles, toy optimization problems, or static supervised-learning ML tasks. However, for an autonomous agent to assist with a scientific discovery task, the problems must come from real measurement data of the world and they are highly open-ended, requiring a scientific method in the solution loop. In this talk, …",
+    "date": "2026-07-18 23:30 UTC",
+    "date_iso": "2026-07-18T23:30:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3ySF0I5iE_0",
+    "title": "A Practitioner's Guide to Graphs - Tim Ainge, Good Collective",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A speed-run through the basics... what is a graph, extracting graphs from unstructured text, schema first and ontological improvements and then a slightly more detailed discussion of personalised page rank, shortest path and subgraph matching algorithms. Every idea is explored with an explanation of the principles, and accessible example with code and linked to real-world implementations or references to articulate …",
+    "date": "2026-07-18 21:30 UTC",
+    "date_iso": "2026-07-18T21:30:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=L3RuP_q8Bwc",
+    "title": "The UX of AI: Making AI-Powered Apps Your Users Don't Hate - Kathryn Grayson Nanz, Progress Software",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "As a developer, AI is fun, exciting, and full of potential – but users don't always feel the same way about it. From a UX perspective, AI comes with a whole new set of considerations around user trust, privacy, and security. From a UI perspective, AI brings new interaction patterns, new icons, new visual cues, and so much more! If …",
+    "date": "2026-07-18 20:30 UTC",
+    "date_iso": "2026-07-18T20:30:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=eAXxdtNlK04",
+    "title": "Stop Burning Tokens: Why self-improvement needs domain expertise first - Annabell Schäfer, Langfuse",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "We ran auto-improvement loops on a paper classification task against a ground-truth dataset. A real problem, narrow enough to measure precisely, and in fact one of the few clear cut target functions out there. We’ll share how to properly set up an agent for auto-improvement, what task specificity and target function quality is actually required for it to work, and …",
+    "date": "2026-07-18 20:15 UTC",
+    "date_iso": "2026-07-18T20:15:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Bck7ABCZRZI",
+    "title": "Stop Renting Your Cognitive Infrastructure - Thiyagarajan Maruthavanan, Kalmantic Labs",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "I pointed my lab at one problem, inference, after 200 users burned $1,000 in credits and the math just wouldn't close. So I built the thing, felt the cost, and went looking for why renting intelligence never pencils out. Turns out everyone in this market sells a gospel shaped like their own invoice. Jensen: build a token factory. Nadella: don't …",
+    "date": "2026-07-18 18:15 UTC",
+    "date_iso": "2026-07-18T18:15:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=yv6xovSsB1U",
+    "title": "Content Is Code - Matt Palmer, Conductor",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Code has become the fastest medium for producing technical content, but the most important piece isn't a secret agent skill or a magical framework: its the same thing that makes a great developer experience. Speakers: - Matt Palmer (Conductor): Matt Palmer is a DevRel & product leader focused on AI devtools, developer education, and making complex concepts accessible. Away from …",
+    "date": "2026-07-18 16:15 UTC",
+    "date_iso": "2026-07-18T16:15:06Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2078492577788268549#m",
+    "title": "The biggest barrier for enterprise AI adoption: the people who understand AI don't understand the business, and the people who understand the business don't understand AI",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "The biggest barrier for enterprise AI adoption: the people who understand AI don't understand the business, and the people who understand the business don't understand AI",
+    "date": "2026-07-18 14:50 UTC",
+    "date_iso": "2026-07-18T14:50:21Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Fu45geO3zX8",
+    "title": "Agents Need Receipts, Not More Tool Calls - Armanas Povilionis, Alithea Bio",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In this talk, I’ll show an agent publish a service, another agent discover and invoke it, and a signed receipt that proves what happened. The point is simple: if agents are going to buy, sell, and compose work across hosts, logs and API dashboards are not enough. Froglet is an open-source protocol and node for agent-to-agent compute. It reduces named …",
+    "date": "2026-07-18 13:45 UTC",
+    "date_iso": "2026-07-18T13:45:07Z"
+  },
+  {
+    "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "title": "Controlling Reasoning Effort in LLMs",
+    "source": "Sebastian Raschka",
+    "type": "blog",
+    "summary": "How LLMs Learn Low-, Medium-, and High-Effort Reasoning Modes",
+    "date": "2026-07-18 11:16 UTC",
+    "date_iso": "2026-07-18T11:16:09Z"
+  }
+]
