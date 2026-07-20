@@ -1,0 +1,155 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=wEc9aG7cRQc",
+    "title": "Why Your Agent Disagrees With Itself (And What To Do About It) - Diane Lin, Datadog",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Run the same task twice, and sometimes you get two materially different answers. While many dismiss this as the \"stochastic nature of LLMs,\" this inconsistency is a critical product flaw that destroys customer trust—especially in high-stakes fields like cybersecurity, where a \"flip-flop\" between a malicious threat and a benign alert can lead to disastrous outcomes. This session explores why these …",
+    "date": "2026-07-20 06:25 UTC",
+    "date_iso": "2026-07-20T06:25:22Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=m24UKZomm7k",
+    "title": "Don't Let the LLM Drive - Ornella Bahidika & Joel Allou, Microsoft",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The LLM in my voice tutor doesn't decide when the lesson is over. It doesn't decide whether the user got the answer right. It doesn't decide which step comes next. A harness does all of that. The LLM just shows up and talks. Every engineer who's tried to ship a multi-step flow agent has felt this: the model declares itself …",
+    "date": "2026-07-20 06:25 UTC",
+    "date_iso": "2026-07-20T06:25:18Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=fnLBmfsI_Fg",
+    "title": "Your Voice Agent Doesn't Need a Frontier Model - Joel Allou & Ornella Bahidika, Microsoft",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "My AI voice tutor doesn't run on a frontier model. It runs on a small one, and the reason isn't cost. It's that voice lives or dies on latency, and the scaffolding around the model is what makes it feel smart anyway. When you build a voice agent the clock is brutal. A pause longer than a held breath feels …",
+    "date": "2026-07-20 06:25 UTC",
+    "date_iso": "2026-07-20T06:25:15Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=B8l81jhvHbI",
+    "title": "Enterprise Agents Have a Structure Problem - Ishita Daga, Tesla",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Most enterprise agents fail for the same reason: the model can generate SQL, call tools, and follow workflows, but it has no understanding of how the business actually defines its data. Most teams try to fix this with longer prompts, more RAG, or a bigger model. The real fix is building semantic retrieval infrastructure — a machine-readable metadata layer that …",
+    "date": "2026-07-20 06:25 UTC",
+    "date_iso": "2026-07-20T06:25:12Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=bUJgirn4_yc",
+    "title": "When Agents Meet Physical Data: The Other Physics of Agent Harnesses - Dmitry Petrov, DataChain",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ask an agent to find every night-time pedestrian frame across terabytes of dashcam video in S3. The first pass can cost thousands of dollars and run for hours or days. Once you’ve paid that cost, the agent’s favorite move - loop, inspect, re-derive - becomes the worst thing it can do. Most agent intuition comes from a different physics: coding …",
+    "date": "2026-07-20 06:25 UTC",
+    "date_iso": "2026-07-20T06:25:07Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ltv-L5oMPIs",
+    "title": "Build the AI GTM Agent That Knows the Buyer - Dr. Sajjan Kanukolanu, Position2 (Position Squared)",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "As part of a GTM motion, an AI agent goes live on the site. The first visitor lands. The conversation starts. That's the moment everyone optimizes for- the right conversation, the right offer etc.. It's the wrong moment. A well-built AI GTM system does something very different. By the time a buyer sends their first message, the system already knows …",
+    "date": "2026-07-20 06:25 UTC",
+    "date_iso": "2026-07-20T06:25:04Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Q9ycQHbDdJs",
+    "title": "Agents Need Receipts, Not More Tool Calls - Armanas Povilionis, Alithea Bio",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In this talk, I’ll show an agent publish a service, another agent discover and invoke it, and a signed receipt that proves what happened. The point is simple: if agents are going to buy, sell, and compose work across hosts, logs and API dashboards are not enough. Froglet is an open-source protocol and node for agent-to-agent compute. It reduces named …",
+    "date": "2026-07-20 06:25 UTC",
+    "date_iso": "2026-07-20T06:25:01Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=maTp79FD9gI",
+    "title": "Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing - Bala Ramdoss, Amazon Lens",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Getting a model to produce the right output is the part everyone works on. Turning that output into something people will actually use is the part that decides whether an AI feature ships. This talk is about that layer, the one between model output and the product experience, grounded in lessons from building agentic CX on mobile at the scale …",
+    "date": "2026-07-20 06:24 UTC",
+    "date_iso": "2026-07-20T06:24:59Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=hMlLw1LeIK8",
+    "title": "Voice Agents That Handle Interrupts - Chintan Agrawal and Daniel Wirjo, AWS",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Chat agents get seconds to respond. Voice agents get 200 milliseconds, and if they get it wrong, the user doesn't retry, they hang up. The gap between \"impressive voice demo\" and \"agent people actually want to talk to\" is entirely in the engineering: latency budgets, barge-in handling, turn-taking, and the silence detection problem nobody warns you about. In this workshop …",
+    "date": "2026-07-20 06:24 UTC",
+    "date_iso": "2026-07-20T06:24:55Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=LC3-P7v3yoI",
+    "title": "Skills are the New SDKs - Elvin Aghammadzada, DataRobot",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "You shipped a REST API. Then an SDK. Then MCP tool calling. And still, when a developer asks a coding agent to use your platform, it invents steps, and breaks in production. The problem is that your platform isn't teachable yet. The fix is a skill layer. Versioned, task-specific packages that encode the workflow knowledge your platform team has always …",
+    "date": "2026-07-20 06:24 UTC",
+    "date_iso": "2026-07-20T06:24:53Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=0RNNfxpdbQk",
+    "title": "Medic for Apache Spark - First Aid for Failing Jobs - Drasko Profirovic, Pinterest",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In this talk, we’ll share the journey of building an agentic diagnostics tool to address one of the most time-consuming challenges in data engineering: troubleshooting Spark job failures at scale. As Spark workloads and platform complexity continue to grow, traditional dashboards and static playbooks are no longer sufficient. Our goal was to build an intelligent agent capable of automatically ingesting …",
+    "date": "2026-07-20 06:24 UTC",
+    "date_iso": "2026-07-20T06:24:50Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_cVfz88_j7A",
+    "title": "Can Oncology Workflows Run Without Human Touch? - Anant Shankhdhar, Risa Labs",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Can Oncology Workflows Run Without Human Touch? At Risa, we automate healthcare workflows in oncology end-to-end using AI agents. We built four agents that work together , each one handles a different step, then passes its output to the next. No human needed in between. The agents when combined are able to do the work of hundreds of medical workers …",
+    "date": "2026-07-20 06:24 UTC",
+    "date_iso": "2026-07-20T06:24:47Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-561cZmir5Q",
+    "title": "From Tokens to Cells: Foundation Models for Single-Cell Biology - Akram Baharlouei, Altos Labs",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "This talk examines the engineering challenges of building foundation models for single-cell biology from a non-biologist’s perspective. Speakers: - Akram Baharlouei (Altos Labs): Machine learning engineer at Altos Labs working on foundation models for biology. Previously at Meta AI and Qualcomm. LinkedIn: https://linkedin.com/in/akram-baharlouei-61784421",
+    "date": "2026-07-19 20:00 UTC",
+    "date_iso": "2026-07-19T20:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=lMCxVorb9wM",
+    "title": "You Didn't Ship a Bug. You Just Wrote It for a Human. - Ravi Madabhushi, Scalekit",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "We built a demo agent to show customers how to connect agents to their tools. A simple chat assistant — Gmail, Calendar, a handful of connectors. It ran on a 15-minute schedule. And every 15 minutes, our production database strained. Latency crept up and alerts fired. Then settled. Then, it fired again. It took us a while to find it. …",
+    "date": "2026-07-19 16:00 UTC",
+    "date_iso": "2026-07-19T16:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=JJGbw4ggaFs",
+    "title": "From Blind Spots to Merged PRs: Continuous Agentic Performance Optimization - May Walter, Hud",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Performance issues silently pile up in mature codebases. Teams know things could be faster, but can never justify pausing feature work to investigate. You have to put engineers on it just to find out if there's something worth fixing, and the effort is completely unpredictable: it could take an hour or three weeks. In this talk, we'll walk through a …",
+    "date": "2026-07-19 13:45 UTC",
+    "date_iso": "2026-07-19T13:45:06Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2078835308905578660#m",
+    "title": "We need to get used to the idea that code/software can now be disposable Some examples (all are discarded after usage): 1. Creating design playgrounds/modals for yourself to fine-tune the look and feel of a design 2. Creating HTML pages to help you understand the code 3. Spinning up a throwaway dashboard to inspect something once",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "We need to get used to the idea that code/software can now be disposable Some examples (all are discarded after usage): 1. Creating design playgrounds/modals for yourself to fine-tune the look and feel of a design 2. Creating HTML pages to help you understand the code 3. Spinning up a throwaway dashboard to inspect something once",
+    "date": "2026-07-19 13:32 UTC",
+    "date_iso": "2026-07-19T13:32:15Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2078830510177128481#m",
+    "title": "Whenever someone asks me \"I'm just getting started with posting content on social media; what should I talk about?\" My answer is: What are the top 3 questions that you get asked most frequently by friends/acquaintances/colleagues? Turn those answers into videos/posts. Just say it like how you said it to them in real life. That is your positioning. If you have repeatedly said something for >3 times, it's worth turning into a video One of my initial motivations for posting on social media was because I was tired of repeating myself in real life",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Whenever someone asks me \"I'm just getting started with posting content on social media; what should I talk about?\" My answer is: What are the top 3 questions that you get asked most frequently by friends/acquaintances/colleagues? Turn those answers into videos/posts. Just say it like how you said it to them in real life. That is your positioning. If you …",
+    "date": "2026-07-19 13:13 UTC",
+    "date_iso": "2026-07-19T13:13:11Z"
+  }
+]
