@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=kRkcNOsRyYg",
+    "title": "AI on Your Lakehouse: Context Comes in Shapes, Not Queries — Zach Blumenfeld, Neo4j",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Your agent can reach your data and still get it wrong. Vector search hands it a slice, Text2SQL hands it another, and neither tells it what is actually relevant or how the pieces connect, so the answer comes back confident and wrong. Zach Blumenfeld's argument in this hands on workshop is that the missing piece is not a better model …",
+    "date": "2026-07-23 07:00 UTC",
+    "date_iso": "2026-07-23T07:00:23Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=u6jJcIFDLE4",
+    "title": "Why We Killed Our Multi-Agent Pipeline — Subbiah Sethuraman and Abhilash Asokan, ZS Associates",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Their first pharma analytics system mimicked a human analyst: one agent to detect a signal, one to localize it, one to find the cause, one to synthesize, all wired to an orchestrator. It produced answers like this: prescriptions dropped 18% in a territory because a payer moved the drug to a worse tier, so send more sales reps. The cause …",
+    "date": "2026-07-23 05:00 UTC",
+    "date_iso": "2026-07-23T05:00:02Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=H7puB0RwJMM",
+    "title": "Citation Needed: Provenance for LLM-Built Knowledge Graphs — Daniel Chalef, Zep AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An agent hands a doctor a clean, confident fact: the patient has a penicillin allergy. But that fact was synthesized from three sources, an EHR record, a lab report, and something the patient typed into an intake chatbot, and by the time it reaches the doctor, which one it came from is gone. You cannot just stamp a source ID …",
+    "date": "2026-07-23 04:00 UTC",
+    "date_iso": "2026-07-23T04:00:02Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=418t26CVz-w",
+    "title": "Local Agentic Theory For Mobile Games — Shafik Quoraishee & Joanne Song, The New York Times",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An agent runs entirely on your phone, no cloud, and plays Space Invaders, perceiving the scene, predicting the aliens, and dodging bullets in a loop. Another solves the New York Times mini crossword with a constraint graph that backtracks when the fills stop fitting. These are experimental, and the Times is emphatic that its actual puzzles are made by people …",
+    "date": "2026-07-23 03:00 UTC",
+    "date_iso": "2026-07-23T03:00:01Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=mOf-PP4mVjA",
+    "title": "Video Has No Memory. Here's How We Built One. — James Le, TwelveLabs",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Feed it 67 videos from the 2022 World Cup and ask for the near misses, the shots that almost scored but did not, each with a reason, and it returns them. Ask it to track Messi across the entire corpus and describe the camera framing, and it finds the moment he slaloms past a sliding defender. James Le's point is …",
+    "date": "2026-07-23 02:00 UTC",
+    "date_iso": "2026-07-23T02:00:03Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2080103288834510939#m",
+    "title": "Sometimes I just describe my problem without specifying a solution/spec The model often pleasantly surprises me with a better solution that I could have thought of Thick context, thin prompt",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Sometimes I just describe my problem without specifying a solution/spec The model often pleasantly surprises me with a better solution that I could have thought of Thick context, thin prompt Simon Willison (@simonw) I got some really useful Claude prompting tips from @_catwu and @trq212 - it's time to stop overloading our prompts with examples and lists of things not …",
+    "date": "2026-07-23 01:30 UTC",
+    "date_iso": "2026-07-23T01:30:45Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2080101358511026641#m",
+    "title": "Communication/articulation is a hard skill",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Communication/articulation is a hard skill",
+    "date": "2026-07-23 01:23 UTC",
+    "date_iso": "2026-07-23T01:23:04Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Sir59K8ZDPU",
+    "title": "Why Agentic Systems Need Ontologies — Frank Coyle, UC Berkeley",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A second refund on the same order. A payout sent to the support desk instead of the buyer. An order status of \"probably shipped.\" These are the kinds of mistakes a probabilistic agent makes and a paragraph of instructions cannot reliably stop. Frank Coyle argues that most agent failures, from brittle tools to fragile handoffs, are symptoms of one missing …",
+    "date": "2026-07-23 01:00 UTC",
+    "date_iso": "2026-07-23T01:00:07Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=u1yaOeEX4e8",
+    "title": "Learned Execution Graphs for Anomaly Detection & Drift in APIs — Ritvik Pandya, JP Morgan Chase",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Traditional monitoring reported the system healthy: latency down, errors at zero. A mandatory processing step had been silently skipped, and nothing caught it except the graph. Ritvik Pandya's team at JP Morgan models each API request as a short lived execution graph, a DAG of the middleware steps it passes through, learned from telemetry at over 1,600 requests per second. …",
+    "date": "2026-07-23 00:00 UTC",
+    "date_iso": "2026-07-23T00:00:04Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Btk8wDUVs74",
+    "title": "From Systems of Record to Systems of Context — Omri Bruchim & Tomer Ast, monday.com",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ask your AI assistant what you should focus on right now and you get a list of disconnected bullets dressed up as a confident paragraph. When Omri Bruchim tried it, Claude told him to go to the gym. The assistant has every board, task, email, and Slack message you have ever touched, and still zero understanding, because the problem was …",
+    "date": "2026-07-22 23:00 UTC",
+    "date_iso": "2026-07-22T23:00:11Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jt1Pbr_n6oU",
+    "title": "Your Moat Is Your Data Model — Mike Phipps, Gates Foundation",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Models, frontends, and agent frameworks all commoditize. Mike Phipps argues the durable moat is the one thing that does not: your data model, and the tacit knowledge of how your questions are supposed to be answered. At the Gates Foundation he and his team modeled 25 years of grantmaking, over 7 billion dollars a year across 2,000 grants and 4,000 …",
+    "date": "2026-07-22 21:30 UTC",
+    "date_iso": "2026-07-22T21:30:31Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=khVX_BUnEwU",
+    "title": "Active Graph Agent Runtime (BabyAGI 4) — Yohei Nakajima, Untapped Capital",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Yohei Nakajima was running a 500 question eval when his API key died at question 350. Normally that means restarting the whole long agent from scratch. Instead it rolled back one step and resumed at 353, because in ActiveGraph the log is the agent. Most people build agents around the LLM and bolt on memory and logging; Nakajima, the creator …",
+    "date": "2026-07-22 20:00 UTC",
+    "date_iso": "2026-07-22T20:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Q0VkgCyNVUg",
+    "title": "CrabRAG: Why Automated Assistants Need Graph Memory, Not More Tokens — Stephen Chin, Neo4j",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Stephen Chin gave two copies of the same agent the same facts about his home network, one storing them as a vector database, the other as a graph. He asked both what was running end of life software exposed to the internet. The vector agent said it could not find specific details. The graph agent traced the connections and flagged …",
+    "date": "2026-07-22 18:30 UTC",
+    "date_iso": "2026-07-22T18:30:02Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=VGN22pPpb-8",
+    "title": "Thinner Agents on a Smarter Substrate: The Ontology-based Semantic Layer — Emil Eifrem, Neo4j",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "To automate opening a bank account, your agent needs to verify identity, so a team wires it to the DMV and a passport service and ships it. Then the next team builds the next agent and rediscovers, from scratch, where its data lives, across a hundred databases plus Snowflake, Databricks, and S3, whether it can trust the version, and whether …",
+    "date": "2026-07-22 17:00 UTC",
+    "date_iso": "2026-07-22T17:00:38Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9QebvrrY3KY",
+    "title": "Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Claude is capable of long horizon tasks. In this talk, we'll share lessons learned about building agent harnesses for reliable and secure long-horizon work. This include decoupling the brain and hands, self-verification, self-learning, and design for evolving agent harnesses. ### Lance Martin Member of Technical Staff · Anthropic [X/Twitter](https://x.com/RLanceMartin) · [LinkedIn](https://www.linkedin.com/in/lance-martin-64a33b5) · [Website](https://rlancemartin.github.io) Member of technical staff at Anthropic. Working …",
+    "date": "2026-07-22 17:00 UTC",
+    "date_iso": "2026-07-22T17:00:06Z"
+  },
+  {
+    "url": "https://medium.com/pinterest-engineering/securing-infrastructure-at-scale-introducing-pinterests-resource-provisioner-pipeline-rpp-8283bb12cbe5?source=rss----4c5a5f6279b6---4",
+    "title": "Securing Infrastructure at Scale: Introducing Pinterest’s Resource Provisioner Pipeline (RPP)",
+    "source": "Pinterest Engineering",
+    "type": "blog",
+    "summary": "Ammar Ekbote | Senior Software Engineer Chan Kim | Senior Software Engineer Managing Infrastructure as Code (IaC) across a massive organization comes with a unique set of security and logistical challenges, particularly when operating within a distributed, multi-repository architecture. At Pinterest, we designed the Resource Provisioner Pipeline (RPP) , our specialized, proprietary Terraform execution engine to safely manage both critical …",
+    "date": "2026-07-22 16:01 UTC",
+    "date_iso": "2026-07-22T16:01:02Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2079956443223269583#m",
+    "title": "One of the most exciting things about starting a company today is that you get to invent not just a new business, but also a new type of organization",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "One of the most exciting things about starting a company today is that you get to invent not just a new business, but also a new type of organization Zara Zhang (@zarazhangrui) There are basically two kinds of companies now. The ones built before coding agents showed up, scrambling to retrofit. And the ones founded after. The second type is …",
+    "date": "2026-07-22 15:47 UTC",
+    "date_iso": "2026-07-22T15:47:14Z"
+  },
+  {
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+    "date": "2026-07-22 13:00 UTC",
+    "date_iso": "2026-07-22T13:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+    "date": "2026-07-22 13:00 UTC",
+    "date_iso": "2026-07-22T13:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "title": "Advancing the next era of national science",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "date": "2026-07-22 12:00 UTC",
+    "date_iso": "2026-07-22T12:00:00Z"
+  }
+]
