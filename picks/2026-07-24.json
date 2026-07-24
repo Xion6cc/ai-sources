@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=O-CBZ3JtRvo",
+    "title": "Training Frontier Models to Out-Think Hackers — Uri Rolls, Arithmetic & Thom Wolf, Hugging Face",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "NOTE: see further context from Thom: https://x.com/Thom_Wolf/status/2079954096950264238?s=20 Give a frontier model a real chain of Keycloak, Vault, and a broker, start it as a low privileged user, and ask it to reach production code. There is a genuine zero day in there: one check validates the admin by name while another checks by ID, so a user can simply rename …",
+    "date": "2026-07-24 05:19 UTC",
+    "date_iso": "2026-07-24T05:19:15Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GgLQ02aO-hs",
+    "title": "The Unreasonable Effectiveness of Separating the Task from the Model — Maxime Rivest & Isaac Miller",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "By declaring a task's inputs and outputs without initially considering model capability, you create the space needed to determine execution later. DSPy's promise is that AI engineering should happen above a particular prompt template or provider API shape: the Signature. That remains useful in a world of tools, RLMs, and Skills. Define a task strictly through its inputs and outputs, …",
+    "date": "2026-07-23 17:45 UTC",
+    "date_iso": "2026-07-23T17:45:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-I5W5QVAT8E",
+    "title": "Notion's Token Town — Sarah Sachs, Notion",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Every month it is the same trap. A reasoning model gets upgraded at the same price per token, then quietly burns three times the output tokens. Or the new version costs 40% more and deprecates its predecessor in four months. Are you growing 40%? Making three times the revenue? Sarah Sachs, who leads AI engineering at Notion and negotiates its …",
+    "date": "2026-07-23 17:30 UTC",
+    "date_iso": "2026-07-23T17:30:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Ib5GBkD555M",
+    "title": "Harness Engineering is not Enough: Why Software Factories Fail — Dex Horthy, HumanLayer",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In July 2025 Dex Horthy turned the lights off: an agent software factory where nobody read the code. It fell apart. An issue appeared that no amount of prompting could fix, the site was down, users were furious, and he was digging through a codebase he had stopped reading three months earlier. His claim is that this is not a …",
+    "date": "2026-07-23 16:30 UTC",
+    "date_iso": "2026-07-23T16:30:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2JX6JYyQG4Y",
+    "title": "Perception Agents — Antje Barth, Amazon AGI Lab",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Human-agent collaboration is changing, becoming more visual. The agents most teams ship today still wait for us to type a paragraph to explain what we're looking at. They cannot see a screen, navigate a UI that changes, or recover when an application throws an unexpected modal. That is the architectural gap between agents that demo well and agents that work …",
+    "date": "2026-07-23 16:00 UTC",
+    "date_iso": "2026-07-23T16:00:06Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-quitting-spotify-podcasts",
+    "title": "The Pulse: Quitting Spotify Podcasts over reliability",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Also: Chinese open models match closed ones from Anthropic and OpenAI, AWS&#8217;s &#8220;heart-attack&#8221; billing error, and more",
+    "date": "2026-07-23 15:59 UTC",
+    "date_iso": "2026-07-23T15:59:37Z"
+  }
+]
