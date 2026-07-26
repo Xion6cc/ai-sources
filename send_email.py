@@ -15,7 +15,8 @@ Usage:
 
 Env vars:
     RESEND_API_KEY       required — your Resend API key (starts with `re_`)
-    DIGEST_TO            optional — recipient email (default: sysuxcc@gmail.com)
+    DIGEST_TO            optional — comma-separated recipient email(s)
+                          (default: sysuxcc@gmail.com,cxiong55@bloomberg.net)
     DIGEST_FROM          optional — sender (default: "AI Digest <onboarding@resend.dev>")
     DIGEST_SCANNED_TOTAL optional — total items scanned today (for the email header)
 """
@@ -33,7 +34,7 @@ BASE_DIR      = Path(__file__).parent
 TEMPLATES_DIR = BASE_DIR / "templates"
 
 RESEND_URL   = "https://api.resend.com/emails"
-DEFAULT_TO   = "sysuxcc@gmail.com"
+DEFAULT_TO   = "sysuxcc@gmail.com,cxiong55@bloomberg.net"
 DEFAULT_FROM = "AI Digest <onboarding@resend.dev>"
 
 # Section display order + labels + colors. Keys are item["type"] values from data.json.
@@ -83,7 +84,7 @@ def render(picks: list[dict], date: str, scanned_total: int) -> str:
     )
 
 
-def send(html: str, subject: str, sender: str, recipient: str, api_key: str) -> dict:
+def send(html: str, subject: str, sender: str, recipients: list[str], api_key: str) -> dict:
     # Use `requests` (not urllib) because Cloudflare fronts api.resend.com and
     # rejects the default urllib TLS fingerprint with error 1010 ("browser
     # integrity check failed") even when a custom User-Agent is set. `requests`
@@ -92,7 +93,7 @@ def send(html: str, subject: str, sender: str, recipient: str, api_key: str) -> 
         RESEND_URL,
         json={
             "from":    sender,
-            "to":      [recipient],
+            "to":      recipients,
             "subject": subject,
             "html":    html,
         },
@@ -115,18 +116,18 @@ def main():
     picks_path = Path(sys.argv[1])
     picks = json.loads(picks_path.read_text(encoding="utf-8"))
 
-    api_key   = os.environ["RESEND_API_KEY"]
-    sender    = os.environ.get("DIGEST_FROM", DEFAULT_FROM)
-    recipient = os.environ.get("DIGEST_TO",   DEFAULT_TO)
-    scanned   = int(os.environ.get("DIGEST_SCANNED_TOTAL", 0))
+    api_key    = os.environ["RESEND_API_KEY"]
+    sender     = os.environ.get("DIGEST_FROM", DEFAULT_FROM)
+    recipients = [r.strip() for r in os.environ.get("DIGEST_TO", DEFAULT_TO).split(",") if r.strip()]
+    scanned    = int(os.environ.get("DIGEST_SCANNED_TOTAL", 0))
 
     date = picks_path.stem if len(picks_path.stem) == 10 and picks_path.stem[4] == "-" \
            else datetime.now().strftime("%Y-%m-%d")
 
     subject = f"AI Digest {date} — {len(picks)} item{'s' if len(picks) != 1 else ''}"
     html    = render(picks, date, scanned)
-    result  = send(html, subject, sender, recipient, api_key)
-    print(f"Sent {len(picks)} picks to {recipient} (resend id: {result.get('id', '?')})")
+    result  = send(html, subject, sender, recipients, api_key)
+    print(f"Sent {len(picks)} picks to {', '.join(recipients)} (resend id: {result.get('id', '?')})")
 
 
 if __name__ == "__main__":
