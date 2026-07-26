@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2081304884469809295#m",
+    "title": "I post on X about 3 times a day on average. Posting takes me maybe 15 to 20 minutes a day at most I don't overthink it, I post the moment I think of something, and most of the material is stuff I've already said out loud to someone in person",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "I post on X about 3 times a day on average. Posting takes me maybe 15 to 20 minutes a day at most I don't overthink it, I post the moment I think of something, and most of the material is stuff I've already said out loud to someone in person",
+    "date": "2026-07-26 09:05 UTC",
+    "date_iso": "2026-07-26T09:05:27Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2081304624603295791#m",
+    "title": "My bet on how we'll work: you don't type, you don't write documents, you talk and the work gets done in real time, from a beach if you want. The latency between talking and doing should be zero.",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "My bet on how we'll work: you don't type, you don't write documents, you talk and the work gets done in real time, from a beach if you want. The latency between talking and doing should be zero.",
+    "date": "2026-07-26 09:04 UTC",
+    "date_iso": "2026-07-26T09:04:25Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2081223709755650054#m",
+    "title": "AI-native companies have a culture akin to an open-source community",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "AI-native companies have a culture akin to an open-source community",
+    "date": "2026-07-26 03:42 UTC",
+    "date_iso": "2026-07-26T03:42:54Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2081200367480738098#m",
+    "title": "What do you do when you’re waiting for AI output?",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "What do you do when you’re waiting for AI output? Zara Zhang (@zarazhangrui) The #1 thing I want from any model right now: speed Intelligence is already good enough. But waiting 1-5 min per task is the worst possible window: too short for deep work, too long to just stare at the screen. So I end up scrolling X Agents …",
+    "date": "2026-07-26 02:10 UTC",
+    "date_iso": "2026-07-26T02:10:09Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KhYifX22yhE",
+    "title": "The Messy Reality of Scale: Synthetic Data and Pre-Training — Marah Abdin & Robert McHardy, poolside",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Good code data runs out, so poolside manufactures more of it, and the hard part is making it teach. Their synthetic pipeline pairs templates with supplementary context and spreads generations across an axis of phrasing, with difficulty tuned so a task is neither trivial nor so hard the model learns nothing from it. Multistage pipelines port existing data into new …",
+    "date": "2026-07-26 01:00 UTC",
+    "date_iso": "2026-07-26T01:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=O72p-rBb2bA",
+    "title": "Evals-Driven Development for a Mental Health AI Coach — Akele Reed & Dave Revere, SonderMind",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In the world of AI mental health, vibes can be dangerous, with real consequences. Building SonderMind's Mental Health AI Coach required a new playbook for eval-driven development that balances effectiveness and safety. The team explains the clinical feedback loop that turns human therapist insights into machine-readable evaluations across thousands of conversations; the Ethics Engine of modular guardrails that can evolve …",
+    "date": "2026-07-25 23:00 UTC",
+    "date_iso": "2026-07-25T23:00:36Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=xIt_mTQp6mY",
+    "title": "Loop Engineering from First Principles — Kyle Mistele, HumanLayer",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A coding agent will happily hand you a 40,000 line pull request that nobody can review and that quietly does the wrong thing. Kyle Mistele's argument is that the fix is not a better prompt but a better loop, borrowed from control theory: a thermostat senses the error between where a system is and where you want it, emits a …",
+    "date": "2026-07-25 20:41 UTC",
+    "date_iso": "2026-07-25T20:41:40Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=hacEQHHhu2Q",
+    "title": "Why Large? Tiny LMs & Agents on Edge/Robotics — Cormac Brick, Google",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The constraint on edge AI is not compute, it is RAM, and it is getting worse: phone makers are shipping less of it this year, and a 6GB Raspberry Pi costs 2.5 times what it did at launch. So Cormac Brick's team at Google AI Edge spends its effort making models small enough to fit. A 2 billion parameter Gemma, …",
+    "date": "2026-07-25 17:00 UTC",
+    "date_iso": "2026-07-25T17:00:06Z"
+  }
+]
