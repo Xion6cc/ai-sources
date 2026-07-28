@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2081983750658044079#m",
+    "title": "How I get endless content ideas, in one picture",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "How I get endless content ideas, in one picture",
+    "date": "2026-07-28 06:03 UTC",
+    "date_iso": "2026-07-28T06:03:02Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2081976736854737164#m",
+    "title": "“The magic you’re looking for is in the work you’re avoiding”",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "“The magic you’re looking for is in the work you’re avoiding” Gary Vaynerchuk (@garyvee) The best way to get insecurity out is to fucking do the thing you're scared of as many times as possible. There's no other way out. — https://nitter.net/garyvee/status/2081924255374028952#m",
+    "date": "2026-07-28 05:35 UTC",
+    "date_iso": "2026-07-28T05:35:09Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=CgsWxRUY5Eo",
+    "title": "AI Agents for Performance: Ship Faster, Pay Less — Rajat Shah, Netflix",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An inefficient quadratic-time pattern was hiding inside a tensor merge method on a live Netflix service, quietly wasting CPU on every request - nothing in a code review caught it, but it stood out clearly in a call stack. That's usually how this kind of waste gets missed - the normal process of catching it (profiling, reading a flamegraph, tracing …",
+    "date": "2026-07-28 00:59 UTC",
+    "date_iso": "2026-07-28T00:59:04Z"
+  },
+  {
+    "url": "https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries/",
+    "title": "Indexing the Data Lake for Online Point Queries",
+    "source": "Spotify Engineering",
+    "type": "blog",
+    "summary": "Companies like Spotify need vast quantities of data accessible at low latency for online services and,... The post Indexing the Data Lake for Online Point Queries appeared first on Spotify Engineering .",
+    "date": "2026-07-27 20:34 UTC",
+    "date_iso": "2026-07-27T20:34:28Z"
+  },
+  {
+    "url": "https://medium.com/pinterest-engineering/pinner-progression-better-use-case-representation-driving-weekly-active-user-growth-at-pinterest-bd2131ab238a?source=rss----4c5a5f6279b6---4",
+    "title": "Pinner Progression: Better Use-Case Representation Driving Weekly Active User Growth at Pinterest",
+    "source": "Pinterest Engineering",
+    "type": "blog",
+    "summary": "Part 1 of 2 Authors Personalization (Homefeed): Yuke Yan, Chuxi Wang, Andreanne Lemay, Olafur Gudmundsson, Anna Kiyantseva, Krystal Benitez, Jongho Kim, Jiacong He, Rahul Goutam, James Li, Dylan Wang User Understanding: Simin Li, Sufyan Suliman, Yingjian Ding, Hongbo Deng Data Science: Armando Ordorica, Yan Chen, Ellie Zhang, Karim Wahba Introduction Pinterest’s mission is to help people discover the inspiration to …",
+    "date": "2026-07-27 16:01 UTC",
+    "date_iso": "2026-07-27T16:01:02Z"
+  }
+]
