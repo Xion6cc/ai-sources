@@ -1,0 +1,119 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=wpOA-UXynoM",
+    "title": "How Forward Deployed Engineering is done at Factory — Eno Reyes",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Factory's forward deployed engineers sit at the tip of the product, embedded with the largest customers and piping a constant stream of real world signals back into how the agent, Droid, gets built. Eno Reyes frames the whole thing as a software factory: signals flow in from the outside, become plans, pass through validation stages, and come out as shipped …",
+    "date": "2026-07-28 22:00 UTC",
+    "date_iso": "2026-07-28T22:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=l0FLhNqBOic",
+    "title": "AI tools for Forward Deployed Engineering — Vasuman Moza, Varick Agents",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A customer spent five million dollars and five years migrating to SAP, and has zero appetite to rip anything out again. That constraint is the whole design at Varick Agents: instead of asking an enterprise to migrate, you drop forward deployed agents on top of the systems they already run. Vasuman Moza's version of the role maps how a department …",
+    "date": "2026-07-28 21:00 UTC",
+    "date_iso": "2026-07-28T21:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
+    "title": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
+    "source": "Lex Fridman",
+    "type": "youtube",
+    "summary": "Gary Gallagher is a historian of the American Civil War. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep499-sb See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. *Transcript:* https://lexfridman.com/gary-gallagher-transcript *CONTACT LEX:* *Feedback* - give feedback to Lex: https://lexfridman.com/survey *AMA* - submit questions, videos or call-in: https://lexfridman.com/ama *Hiring* - join our team: https://lexfridman.com/hiring *Other* …",
+    "date": "2026-07-28 20:02 UTC",
+    "date_iso": "2026-07-28T20:02:11Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=RVxym6mmIns",
+    "title": "How Forward Deployed Engineering is done at Cognition — Jia Wu",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Most of the coding agent market quietly optimizes for token usage; Cognition's deployed engineering team measures the opposite, the outcomes a customer can actually see, and reports something like an 82% reduction on the work they targeted. Jia Wu's argument is that you measure before Devin ever lands, then again once it is fully activated inside the customer, so the …",
+    "date": "2026-07-28 20:00 UTC",
+    "date_iso": "2026-07-28T20:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ITMXwI6QL6A",
+    "title": "How Forward Deployed Engineering is done at Ramp — Leo Mehr",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "It's Friday night, an enterprise sales rep needs an SAP S4 HANA integration to hit quota, and the reflexive Forward Deployed answer is yes. Leo Mehr's first principle is to pause instead: always be scoping. Saying yes to everything buries the team and often does not even serve the customer, so the job is to weigh what actually matters against …",
+    "date": "2026-07-28 19:00 UTC",
+    "date_iso": "2026-07-28T19:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Byv311hdoHE",
+    "title": "The Dirty Secret of Forward Deployed Engineering — Natalie Meurer, Sierra",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "At Palantir, forward deployed started as a literal description: you were deployed, physically, at the customer's site, and the onboarding project was keeping the platform from falling over. Natalie Meurer's dirty secret is that the title never settled after that. It stretched across DevOps, data integration, ontology work in Slate and then Foundry, and solution architecture, until forward deployed engineering …",
+    "date": "2026-07-28 18:00 UTC",
+    "date_iso": "2026-07-28T18:00:18Z"
+  },
+  {
+    "url": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?source=rss----53c7c27702d5---4",
+    "title": "Eval-driven development: Lessons from evaluating GenAI at scale",
+    "source": "Airbnb Engineering",
+    "type": "blog",
+    "summary": "How Airbnb teams build trustworthy Generative AI products by treating evaluation as a first-class engineering discipline; not an afterthought. Nestled into the lush hillside, this stunning modern retreat features striking natural wood architecture, terraced balconies, and a serene landscape. By: Rohit Girme , Dan Miller , Mia Zhao , Lifan Yang , Clint Kelly Introduction Generative AI breaks a lot …",
+    "date": "2026-07-28 17:01 UTC",
+    "date_iso": "2026-07-28T17:01:03Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7wu2hsRfvV0",
+    "title": "How Forward Deployed Engineering is done at Decagon — Sunny Rekhi",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Decagon builds the customer support agent that answers when you email a brand, and making that agent good for a specific enterprise is the forward deployed job. It splits in two: one side configures the agent brain, the instructions and the handoff rules for when a human should take over; the other works like product engineering, figuring out what a …",
+    "date": "2026-07-28 17:00 UTC",
+    "date_iso": "2026-07-28T17:00:35Z"
+  },
+  {
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "title": "Scientific computing in the age of agentic AI",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "date": "2026-07-28 17:00 UTC",
+    "date_iso": "2026-07-28T17:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=1OMHGsUZiqA",
+    "title": "How Forward Deployed Engineering is done at Kepler — Vinoo Ganesh",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A shipping and dispatch customer wanted alerts, a massive BI tool, and a dev environment. What they actually needed Monday morning was one Slack message, so that is what got shipped first, and the real thing followed. Vinoo Ganesh spent seven years doing this at Palantir, where he later ran the rotation program that turned software engineers into forward deployed …",
+    "date": "2026-07-28 16:00 UTC",
+    "date_iso": "2026-07-28T16:00:00Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/inside-anthropic",
+    "title": "How building software is changing at Anthropic",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "A deepdive on what&#8217;s changed in how the leading AI lab makes software. Ever more code review and testing is done by AI, two-pizza teams very much alive, and more. Details from inside of Anthropic",
+    "date": "2026-07-28 15:49 UTC",
+    "date_iso": "2026-07-28T15:49:30Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KwhgfwOSToQ",
+    "title": "Forward Deployed Engineering 101 — Kevin Bai, Anthropic, ex Palantir & Rippling Founding FDE",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Look at public software companies and very few ever crack half a million dollars in average contract value, and that gap is where forward deployed engineering lives. Kevin Bai's 101 starts from the shape of the deal: when your buyer is not technical and the thing you sell is not a finished product they can pick up and configure themselves, …",
+    "date": "2026-07-28 15:00 UTC",
+    "date_iso": "2026-07-28T15:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=lyL5QhgIOxc",
+    "title": "Serving 2 Million Models Without Melting: Scaling the Hugging Face Hub — Arek Borucki, Hugging Face",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Type llama into a catalog of 3 million public models and the result still has to feel instant. At 20,000 models any query is fast; at Hugging Face's scale, 14 million users and a million datasets on top, search becomes the hard part. Arek Borucki shows how the Hub keeps it quick: full text search on Apache Lucene, served through …",
+    "date": "2026-07-28 13:41 UTC",
+    "date_iso": "2026-07-28T13:41:11Z"
+  }
+]
