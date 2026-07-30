@@ -1,0 +1,173 @@
+[
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2082705944782520462#m",
+    "title": "If you both have deep domain expertise & experience AND you’re AI-native and constantly reinventing yourself to adopt the new ways that work get done, you’re basically invincible",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "If you both have deep domain expertise &amp; experience AND you’re AI-native and constantly reinventing yourself to adopt the new ways that work get done, you’re basically invincible Garry Tan (@garrytan) Seasoned founders in the age of intelligence are aging like fine wine — https://nitter.net/garrytan/status/2082472533337813241#m",
+    "date": "2026-07-30 05:52 UTC",
+    "date_iso": "2026-07-30T05:52:46Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2082684904136134881#m",
+    "title": "Being good at marketing is not just good for your marketing; it’s good for your product So many technical people are building for imaginary audiences with no contact with the reality of how people actually perceive and use these products",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Being good at marketing is not just good for your marketing; it’s good for your product So many technical people are building for imaginary audiences with no contact with the reality of how people actually perceive and use these products @levelsio (@levelsio) Exactly Before you needed to be technical to make something, and that + OK marketing = $$$ Now …",
+    "date": "2026-07-30 04:29 UTC",
+    "date_iso": "2026-07-30T04:29:10Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=z0sh8HyTrDo",
+    "title": "Your Finance Agent's Bottleneck Is You — Ramana Siddanth Emani, Auditoria AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The slowest part of shipping a production finance agent is not the model or the GPUs, it is you, the developer in the loop. Ramana Siddanth Emani's point is that the same agent harnesses you use to build products can automate your own developer loop. Coding agents can multiply how much you ship; run an army of them across separate …",
+    "date": "2026-07-30 03:00 UTC",
+    "date_iso": "2026-07-30T03:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=tJFjeMBKbIY",
+    "title": "Build for the Memo, Not the Demo — Shawn Chan, China Resources Holdings",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "When a company is about to spend $100 million, Shawn Chan is the person in the room deciding whether it happens, and after fifteen years and roughly 200 investment committees he can spot the flaw fast. Now some of the decks in front of him are AI generated: cleaner formatting, never defensive, and confidently wrong. His frame is the difference …",
+    "date": "2026-07-30 02:00 UTC",
+    "date_iso": "2026-07-30T02:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=o6U_2vd967Y",
+    "title": "Let's integrate AI Agents in Event-Sourced Systems — Divakar Kumar, FlyersSoft",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A card gets declined and no one, including the customer, can say exactly why. That gray zone is where Divakar Kumar points his agents. In a payments and fraud system, a rule based engine and an ML model already score most transactions cleanly; the hard cases are the ambiguous ones that neither can resolve. His approach adds an agentic layer …",
+    "date": "2026-07-30 00:00 UTC",
+    "date_iso": "2026-07-30T00:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=s67bE2Ur3bY",
+    "title": "Wearing the Agent: From Group Chats to Glasses — Sai Krishna Rallabandi",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Almost every agent today is built for one user, and Sai Krishna Rallabandi has spent about eight months on what breaks when you drop one into a group chat instead. Running a personal agent across a real group, and eventually onto glasses, forces two hard problems. The first is memory: conversations that last for days across several people, where the …",
+    "date": "2026-07-29 22:58 UTC",
+    "date_iso": "2026-07-29T22:58:19Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=iKQ78wyJEXU",
+    "title": "We Vetted 2000 AI Skills Before They Reached Developers — Lucas Palma, Nubank",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An AI skill is a piece of code you hand a model to extend what it can do, and once engineers start sharing skills with each other, each one becomes a supply chain risk, more so inside a regulated bank. Lucas Palma's security team at Nubank built Skill Vector to sit between a skill and the internal marketplace, so nothing …",
+    "date": "2026-07-29 22:00 UTC",
+    "date_iso": "2026-07-29T22:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Tt2kX2sgQio",
+    "title": "How Kepler Built Verifiable AI for Financial Services — Vinoo Ganesh",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In finance a number is worthless until you can say where it came from. Vinoo Ganesh, CEO of Kepler, starts from the fact that language models are probability machines, brilliant at next token prediction and unreliable at the deterministic work, like arithmetic, that finance actually runs on. So Kepler treats the model as one part of a system rather than …",
+    "date": "2026-07-29 21:00 UTC",
+    "date_iso": "2026-07-29T21:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=YnNF55QV0zs",
+    "title": "Persona Engineering: A Field Guide to AI Synthetic Personas — Ishan Anand, InsightSciences.ai",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A team ran about a thousand people through a market research survey, then had LLM agents replay the same questions, and the agents matched the humans closely while carrying less noise than the humans did themselves. That is exactly the tell: a synthetic respondent smooths over the messiness that makes a real population real. Ishan Anand walks through where it …",
+    "date": "2026-07-29 20:15 UTC",
+    "date_iso": "2026-07-29T20:15:35Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Owb8g3yDyzo",
+    "title": "Why Off-the-Shelf AI Doesn't Understand Money — Udi Menkes, Intuit",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ask any LLM a financial question about your business. You'll get a fluent, confident, generic answer — one that doesn't truly know your business, or what happened when businesses like yours made that same decision. We build financial AI at Intuit serving 100M+ customers. Our custom LLMs outperform general-purpose models on accuracy while cutting latency in half. But that's the …",
+    "date": "2026-07-29 20:00 UTC",
+    "date_iso": "2026-07-29T20:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KMR_RBoCa4M",
+    "title": "SimulationMaxxing: How we ship agents 20× faster — Aman Gupta (Nubank) + Shreya Rajpal (Snowglobe)",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Nubank serves 135 million customers, so an AI agent that mishandles a support conversation fails at scale. The talk opens with the result: five agents in production, higher customer satisfaction, and roughly 20 times faster shipping. Shreya Rajpal, CEO of Snowglobe, argues the thing that unlocked that pace was evals, and specifically simulated data standing in for real conversations. Good …",
+    "date": "2026-07-29 19:00 UTC",
+    "date_iso": "2026-07-29T19:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7jjudsEhBtM",
+    "title": "Skills are new features: Building Skill-Centric Harness — Yogendra Miraje, FactSet",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Since skills were open sourced, Yogendra Miraje's team at FactSet stopped thinking about shipping features and started thinking about shipping skills. A skill is a capability you hand the agent, and its heart is a short skill.md whose name and description are really routing signals: get them distinct and the agent triggers the right one, blur them and it fires …",
+    "date": "2026-07-29 18:00 UTC",
+    "date_iso": "2026-07-29T18:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=kiqubc5b5Yo",
+    "title": "Morgan Stanley's ALPHALAB: Multi-Agent Research Across Optimization Domains — Brendan Rappazzo",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "When coding agents got good enough at the end of 2025, Morgan Stanley's roughly thirty person research group asked what would happen if agents ran the research, not just wrote the code. The result is AlphaLab, a multi agent system they built and open sourced. You hand it a problem in plain language and it writes the code, sets up …",
+    "date": "2026-07-29 17:06 UTC",
+    "date_iso": "2026-07-29T17:06:26Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/formal-methods-with-hillel-wayne",
+    "title": "Formal methods with Hillel Wayne",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Hillel Wayne explains why formal methods like TLA+ matter, how they help build reliable software, and whether AI will finally bring formal verification into the mainstream.",
+    "date": "2026-07-29 16:22 UTC",
+    "date_iso": "2026-07-29T16:22:31Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KSkcgIYQy0U",
+    "title": "Formal methods with Hillel Wayne",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "There’s a popular theory that AI will finally make formal verification mainstream because mathematical proof of correctness will be needed when machines write most or all of the code. But will this happen? Today, I’m talking with one of the best people to tackle the prediction. Hillel Wayne is a formal methods consultant, educator, and author, who’s deeply interested in …",
+    "date": "2026-07-29 16:19 UTC",
+    "date_iso": "2026-07-29T16:19:49Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=BInpv7lGp1o",
+    "title": "Your Agent Didn't Fail. Your Harness Did. — Vinoth Govindarajan, OpenAI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Two runs touch the same session, the second write silently erases the first, and the agent keeps answering with total confidence from stale state. Nothing crashed and the model did not hallucinate, so this is a harness failure, the kind that lives in the system around the model rather than in the weights. Using OpenClaw as a public case study, …",
+    "date": "2026-07-29 16:00 UTC",
+    "date_iso": "2026-07-29T16:00:06Z"
+  },
+  {
+    "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+    "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+    "source": "GitHub Engineering",
+    "type": "blog",
+    "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your updates, slow the cadence, keep security fast appeared first on The GitHub Blog .",
+    "date": "2026-07-29 16:00 UTC",
+    "date_iso": "2026-07-29T16:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+    "date": "2026-07-29 15:00 UTC",
+    "date_iso": "2026-07-29T15:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "date": "2026-07-29 10:00 UTC",
+    "date_iso": "2026-07-29T10:00:00Z"
+  }
+]
