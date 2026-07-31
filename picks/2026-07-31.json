@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "title": "Advancing responsible AI across Europe",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+    "date": "2026-07-31 15:00 UTC",
+    "date_iso": "2026-07-31T15:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/unive",
+    "title": "Univé builds an AI-ready workforce",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+    "date": "2026-07-31 07:00 UTC",
+    "date_iso": "2026-07-31T07:00:00Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2083084770763002350#m",
+    "title": "When managers ask me how to train their nontechnical team on AI, my advice is always the same: run an install party Everyone brings a laptop & you install the agents right there on their machines & get them to complete a meaningful task on the spot. Skip the abstract talk. Once it's installed, people start talking to the agent and learning from each other The setup is 80% the barrier",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "When managers ask me how to train their nontechnical team on AI, my advice is always the same: run an install party Everyone brings a laptop & you install the agents right there on their machines & get them to complete a meaningful task on the spot. Skip the abstract talk. Once it's installed, people start talking to the agent …",
+    "date": "2026-07-31 06:58 UTC",
+    "date_iso": "2026-07-31T06:58:05Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=AVMr9PMINyo",
+    "title": "Agents at Scale: Inside MiniMax's Model and the Infrastructure Behind It — Olive Song",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In this conversation, Olive Song, who leads reinforcement learning at MiniMax, opens up the stack behind the company's open weight models and the infrastructure that serves them. Her starting point is a belief in open source: put the weights out, let builders optimize on them, and share the capability widely. From there she walks through what it takes for a …",
+    "date": "2026-07-31 03:00 UTC",
+    "date_iso": "2026-07-31T03:00:14Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=AMiyLItEtLA",
+    "title": "fighting slop with slop — Vaibhav Gupta, Boundary",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "You cannot tell great engineers what to do, and you increasingly cannot tell what an agent did either, so Vaibhav Gupta's answer is to fight slop with slop. At Boundary the team turns the same cheap, sloppy generation loose as a tool: agents that run constantly over the transcripts of other agents, flagging hallucinations, spotting which tool calls produced errors, …",
+    "date": "2026-07-31 01:11 UTC",
+    "date_iso": "2026-07-31T01:11:30Z"
+  },
+  {
+    "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4",
+    "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "Authors: Ying Li , Arjun Rao , Shradha Sehgal Introduction Recommendations sit at the heart of the Netflix experience. Our current production models rely on thousands of hand‑crafted features over users, items, and interactions, along with specialized architectures for sequence modeling, feature interactions, and multi‑task objectives. This stack has evolved over many years to support diverse content types (movies, series, …",
+    "date": "2026-07-30 20:10 UTC",
+    "date_iso": "2026-07-30T20:10:15Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=pWXUkLP9uWM",
+    "title": "First Steps Toward Automated AI Research — Richard Socher, CEO Recursive AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Humanity compressed the road from the enlightenment to the moon landing into a few hundred years, and Richard Socher's wager is that automating research compresses it again. He frames it through open ended evolution and Popper: science advances by trying things, finding the shortcomings, and fixing them, and an agent swarm can run that loop across medicine, economics, astrophysics, and …",
+    "date": "2026-07-30 16:59 UTC",
+    "date_iso": "2026-07-30T16:59:37Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jWq-aZIU0kM",
+    "title": "Benchmarks: The Good, the Bad, and the Ugly — Ali Khial, G2i",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ali Khial took three of the best engineers at G2i, pointed them at popular coding benchmarks, and hit a wall of tasks that were either too ambiguous to grade or quietly broken. That experience is the spine of this talk: a benchmark starts as a spec, solutions get verified and graded, and the results rank models, but only if the …",
+    "date": "2026-07-30 11:23 UTC",
+    "date_iso": "2026-07-30T11:23:32Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=AQv3qRCG6Gw",
+    "title": "Reinforcement Learning without Verifiable Rewards — Will Brown, Prime Intellect",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Reinforcement learning has been easy to sell where the answer is checkable, like math or code, and Will Brown's talk is about everything else. Most valuable tasks have no clean verifier, so Prime Intellect's work is on how you build reward signal when there is no ground truth waiting. He frames RL simply first, a model acting in a harness …",
+    "date": "2026-07-30 11:21 UTC",
+    "date_iso": "2026-07-30T11:21:02Z"
+  },
+  {
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+    "date": "2026-07-30 10:00 UTC",
+    "date_iso": "2026-07-30T10:00:00Z"
+  }
+]
