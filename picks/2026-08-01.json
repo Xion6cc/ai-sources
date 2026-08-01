@@ -1,0 +1,164 @@
+[
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2083349919172313367#m",
+    "title": "If you want to post here and don't know what to talk about: Remember that everything that feels totally native to you is brand new to someone outside your circle. Just do your normal work, then talk about it. Don’t try to be someone else, don’t overthink",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "If you want to post here and don't know what to talk about: Remember that everything that feels totally native to you is brand new to someone outside your circle. Just do your normal work, then talk about it. Don’t try to be someone else, don’t overthink",
+    "date": "2026-08-01 00:31 UTC",
+    "date_iso": "2026-08-01T00:31:42Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZFxh7sqbUZo",
+    "title": "Teaching AI to Find Real Vulnerabilities — David Brumley, Bugcrowd",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "David Brumley has spent two decades turning people into hackers, from founding picoCTF to recruiting pwn2own winners at Carnegie Mellon, and his argument is that you teach a model to hack the same way: a ladder of tasks that climbs from triggering a crash to reading and writing arbitrary memory to a full working exploit. The catch is measurement. Hacking …",
+    "date": "2026-08-01 00:30 UTC",
+    "date_iso": "2026-08-01T00:30:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2aS7aKoXn64",
+    "title": "Rethinking Environments for Long-Horizon Work — Rayan Garg, Theta Software",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Everyone wants agents that handle long horizon work, but Rayan Garg starts with the awkward question of what long horizon even means. One popular answer measures the time horizon as the task length at which an agent crosses a success threshold, like the sixteen hour mark, which is a useful endpoint but a noisy one, since human time estimates vary …",
+    "date": "2026-08-01 00:00 UTC",
+    "date_iso": "2026-08-01T00:00:06Z"
+  },
+  {
+    "url": "https://openai.com/index/ten-advances-in-mathematics",
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+    "date": "2026-08-01 00:00 UTC",
+    "date_iso": "2026-08-01T00:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cJ0EOzey--o",
+    "title": "What's Next After RLHF? — Diogo Almeida, TypeSafe AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "RLHF made models that are extraordinary at pleasing the human in the loop, and Diogo Almeida, a GPT-4 co author, argues that is exactly the problem. Optimizing for human preference optimizes for engagement and for overpromising, the same pressure that makes a model confidently agree that a fart audio file is a symphony. That produces two camps: one where models …",
+    "date": "2026-07-31 23:30 UTC",
+    "date_iso": "2026-07-31T23:30:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_PdK6x7PQNM",
+    "title": "Data Quality Is the Compute Multiplier — Ari Morcos, DatologyAI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Swap compute for data on the scaling curve and the same money buys a better model, which is why Ari Morcos calls data quality the compute multiplier and the most underinvested part of training. His frame is an oil refinery for data rather than a firehose: clean, curate, create, and compose, with quality classifiers, deduplication, and synthetic generation each earning …",
+    "date": "2026-07-31 23:00 UTC",
+    "date_iso": "2026-07-31T23:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=k35LeKZEhiE",
+    "title": "Learning on the Job: The Future of Post-Training — Raymond Feng, Applied Compute",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The next step after a model ships is teaching it to keep learning on the job, and Raymond Feng lays out how Applied Compute trains custom models with reinforcement learning that plug into whatever harness an enterprise already runs. The setup is an orchestrator that fans interactions out to inference engines, collects the graded rollouts, and feeds a training engine …",
+    "date": "2026-07-31 22:30 UTC",
+    "date_iso": "2026-07-31T22:30:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ewtOo0scUh0",
+    "title": "Data and Environment Curation for Post-Training LLMs — Mahesh Sathiamoorthy, Bespoke Labs",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Mahesh Sathiamoorthy's pitch is to stand in the researcher's shoes: the hard part of post-training is not the algorithm but the data and the environments that feed it. As agents get pushed to run autonomously for hours, something eventually falls over, and reinforcement learning is the tool for stretching that reliability, but RL environments are really just data in a …",
+    "date": "2026-07-31 22:00 UTC",
+    "date_iso": "2026-07-31T22:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2bvtay8wGYI",
+    "title": "Scaling to Long Horizons — Ross Taylor & Chengxi Taylor, General Reasoning",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ross Taylor opens with some history: back in 2022 he worked on Galactica, an early large model for science that briefly crossed the Rubicon on curated high quality data and intermediate reasoning tokens before the reaction overshadowed the work. That obsession, optimizing what happens between the question and the answer, is where this talk on long horizon reinforcement learning picks …",
+    "date": "2026-07-31 21:30 UTC",
+    "date_iso": "2026-07-31T21:30:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=zkX03APVj0M",
+    "title": "Emulated: The Data for Fully Autonomous Software Engineers and Companies — Joseph Wang",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "To train an agent that can run production software, you need training data that looks like production, and that is what Joseph Wang's team at Emulated builds. Coming from network infrastructure backgrounds, they know what happens when something like a database goes down at scale, and they argue that current post training environments do not capture it. A real task …",
+    "date": "2026-07-31 21:00 UTC",
+    "date_iso": "2026-07-31T21:00:03Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=xbPriQWXtWM",
+    "title": "The Base Model Is Dead — Varun Singh, Arcee AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The old story is that a base model is a mirror of the internet, a good model of human web text that everything else gets bolted onto. Varun Singh, who leads pre-training at Arcee AI, argues that story is dead: no modern base model reflects the web the way GPT-3 once did. Instruction data and synthetic reasoning traces have moved …",
+    "date": "2026-07-31 20:30 UTC",
+    "date_iso": "2026-07-31T20:30:21Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3ZMUiFaQ3qg",
+    "title": "Verifiable Environments for AI in Biology — Kenny Workman, LatchBio",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A single spatial biology run can yield two to six terabytes of data, far more than a scientist can eyeball, and Kenny Workman argues that this is the raw material for teaching AI to actually do science. LatchBio, five years deep in pharma, treats experimental biology as a verifiable substrate: lay a chunk of a tumor over a sequencing surface …",
+    "date": "2026-07-31 20:00 UTC",
+    "date_iso": "2026-07-31T20:00:35Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=lCBf9slCanI",
+    "title": "Ending AI Slop — Thais Castello Branco, Taste Labs",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Thais Castello Branco's starting point is that AI is still badly behind on the subjective work, the writing and design where quality is real but hard to pin down, and that ending the slop means building data and reinforcement environments for taste. She sorts domains along a spectrum: at one end things that verify and execute cleanly, at the other …",
+    "date": "2026-07-31 19:26 UTC",
+    "date_iso": "2026-07-31T19:26:20Z"
+  },
+  {
+    "url": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
+    "title": "Modeling Device Capabilities for Analytics",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "by Aarti Laddha , Richard Diaz-Cool , Rishika Idnani , Venkatesh Selveraj Netflix supports a vast and evolving set of features and content types, ranging from 4K streaming and immersive audio to live streaming and cloud gaming, across a diverse ecosystem of devices. However, not all devices are created equal. Hardware limitations such as available RAM, CPU cores, display capabilities, …",
+    "date": "2026-07-31 16:01 UTC",
+    "date_iso": "2026-07-31T16:01:02Z"
+  },
+  {
+    "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+    "title": "Don’t stop early: Case-folding source code at memory speed",
+    "source": "GitHub Engineering",
+    "type": "blog",
+    "summary": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don&#8217;t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog .",
+    "date": "2026-07-31 16:00 UTC",
+    "date_iso": "2026-07-31T16:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "title": "Advancing responsible AI across Europe",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+    "date": "2026-07-31 15:00 UTC",
+    "date_iso": "2026-07-31T15:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/building-abundant-intelligence",
+    "title": "Building abundant intelligence",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+    "date": "2026-07-31 15:00 UTC",
+    "date_iso": "2026-07-31T15:00:00Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2083161173563003268#m",
+    "title": "Fascinating interview on how Claude Tag has changed the way work is done at Anthropic 65% of PRs by product & eng teams at Anthropic are now raised by Claude Tag For non-engineering teams, I think the ultimate agent interface is wherever they already work (eg Slack/other collaboration tools). In the past 6 months I’ve seen my own interface for working with agents change: January - the terminal March - the desktop app (eg Codex) June - my work collaboration tool Each step gets closer to how humans naturally communicate. The agent should literally meet the user where they are https://youtu.be/7Ue0yM4J-B8?si=lYC9Nc7cRG72zTJ6",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Fascinating interview on how Claude Tag has changed the way work is done at Anthropic 65% of PRs by product & eng teams at Anthropic are now raised by Claude Tag For non-engineering teams, I think the ultimate agent interface is wherever they already work (eg Slack/other collaboration tools). In the past 6 months I’ve seen my own interface for …",
+    "date": "2026-07-31 12:01 UTC",
+    "date_iso": "2026-07-31T12:01:41Z"
+  }
+]
