@@ -1,5 +1,47 @@
 [
   {
+    "title": "MCP Apps: Extending the Frontier — Ido Salomon & Liad Yosef",
+    "url": "https://www.youtube.com/watch?v=-jY2T2PiJBE",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Chat and coding assistants still hand you walls of text when a button, a chart, or a small interactive view would say it faster. Liad Yosef, who co created MCP UI, walks through MCP Apps: a way for an MCP server to return a real interactive interface instead of a block of text, built on the MCP UI project he …",
+    "date": "2026-08-02 23:30 UTC",
+    "date_str": "2026-08-02",
+    "date_iso": "2026-08-02T23:30:06Z",
+    "thumbnail_url": "https://img.youtube.com/vi/-jY2T2PiJBE/mqdefault.jpg",
+    "view_count": 1162,
+    "view_count_display": "1.2K views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-02_MCP-Apps-Extending-the-Frontier-Ido-Salomon-Liad-Yosef.md"
+  },
+  {
+    "title": "MCP Tasks (async): Why Aren't Any Agents Supporting Them? — Cornelia Davis, Temporal",
+    "url": "https://www.youtube.com/watch?v=s4r6nk5WsZw",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "You invoke a tool and expect an answer, but real work takes time, and over that time connections drop, networks blip, and processes crash. Cornelia Davis, a distributed systems veteran who wrote the book on cloud native patterns, argues that this is exactly the gap the MCP tasks specification exists to close, and walks through why almost no agents support …",
+    "date": "2026-08-02 20:00 UTC",
+    "date_str": "2026-08-02",
+    "date_iso": "2026-08-02T20:00:06Z",
+    "thumbnail_url": "https://img.youtube.com/vi/s4r6nk5WsZw/mqdefault.jpg",
+    "view_count": 1394,
+    "view_count_display": "1.4K views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-02_MCP-Tasks-async-Why-Arent-Any-Agents-Supporting-Them-Cornelia-Davis-Temporal.md"
+  },
+  {
+    "title": "When Will The Benchmaxxing Plague End? — Nick Heiner, Surge AI",
+    "url": "https://www.youtube.com/watch?v=-npY6XjM8CQ",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Every time a model launches there is a gap between the benchmark numbers and what the thing can actually do, and Nick Heiner argues the existence of the word benchmaxxing is the tell. When labs openly brag about scores, teams stop asking whether a benchmark reflects reality, and the whole field drifts into an avalanche of numbers that measure the …",
+    "date": "2026-08-02 16:30 UTC",
+    "date_str": "2026-08-02",
+    "date_iso": "2026-08-02T16:30:06Z",
+    "thumbnail_url": "https://img.youtube.com/vi/-npY6XjM8CQ/mqdefault.jpg",
+    "view_count": 847,
+    "view_count_display": "847 views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-02_When-Will-The-Benchmaxxing-Plague-End-Nick-Heiner-Surge-AI.md"
+  },
+  {
     "title": "Agency is the most important human quality The world will try to box you, label you, define you Resist that",
     "url": "https://nitter.net/zarazhangrui/status/2083743952319225938#m",
     "source": "Zara Zhang (@zarazhangrui)",
@@ -3716,29 +3758,5 @@
     "view_count": 572,
     "view_count_display": "572 views",
     "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-05_Your-AI-Product-Will-Fail-Unless-You-Can-Explain-It---Veronica-Hylak-Hey-AI.md"
-  },
-  {
-    "title": "People are getting less willing to buy tools. If it's just a tool, they figure they can build it themselves with coding agents What they'll pay for is the feeling of hiring expertise they don't have",
-    "url": "https://nitter.net/zarazhangrui/status/2073295900395606401#m",
-    "source": "Zara Zhang (@zarazhangrui)",
-    "type": "twitter",
-    "summary": "People are getting less willing to buy tools. If it's just a tool, they figure they can build it themselves with coding agents What they'll pay for is the feeling of hiring expertise they don't have",
-    "date": "2026-07-04 06:40 UTC",
-    "date_str": "2026-07-04",
-    "date_iso": "2026-07-04T06:40:37Z",
-    "thumbnail_url": "",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-04_People-are-getting-less-willing-to-buy-tools-If-its-just-a-tool-they-figure-they.md"
-  },
-  {
-    "title": "Tweeting a lot is easier than people think once you get over the first hump (I tweet 3 times a day on average) It stops being a task and becomes a LENS. Once you see your day & the world through it, you easily get three tweet ideas per day",
-    "url": "https://nitter.net/zarazhangrui/status/2073280650300596414#m",
-    "source": "Zara Zhang (@zarazhangrui)",
-    "type": "twitter",
-    "summary": "Tweeting a lot is easier than people think once you get over the first hump (I tweet 3 times a day on average) It stops being a task and becomes a LENS. Once you see your day &amp; the world through it, you easily get three tweet ideas per day",
-    "date": "2026-07-04 05:40 UTC",
-    "date_str": "2026-07-04",
-    "date_iso": "2026-07-04T05:40:01Z",
-    "thumbnail_url": "",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-04_Tweeting-a-lot-is-easier-than-people-think-once-you-get-over-the-first-hump-I-tw.md"
   }
 ]

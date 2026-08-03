@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=-jY2T2PiJBE",
+    "title": "MCP Apps: Extending the Frontier — Ido Salomon & Liad Yosef",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Chat and coding assistants still hand you walls of text when a button, a chart, or a small interactive view would say it faster. Liad Yosef, who co created MCP UI, walks through MCP Apps: a way for an MCP server to return a real interactive interface instead of a block of text, built on the MCP UI project he …",
+    "date": "2026-08-02 23:30 UTC",
+    "date_iso": "2026-08-02T23:30:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=s4r6nk5WsZw",
+    "title": "MCP Tasks (async): Why Aren't Any Agents Supporting Them? — Cornelia Davis, Temporal",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "You invoke a tool and expect an answer, but real work takes time, and over that time connections drop, networks blip, and processes crash. Cornelia Davis, a distributed systems veteran who wrote the book on cloud native patterns, argues that this is exactly the gap the MCP tasks specification exists to close, and walks through why almost no agents support …",
+    "date": "2026-08-02 20:00 UTC",
+    "date_iso": "2026-08-02T20:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-npY6XjM8CQ",
+    "title": "When Will The Benchmaxxing Plague End? — Nick Heiner, Surge AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Every time a model launches there is a gap between the benchmark numbers and what the thing can actually do, and Nick Heiner argues the existence of the word benchmaxxing is the tell. When labs openly brag about scores, teams stop asking whether a benchmark reflects reality, and the whole field drifts into an avalanche of numbers that measure the …",
+    "date": "2026-08-02 16:30 UTC",
+    "date_iso": "2026-08-02T16:30:06Z"
+  }
+]
