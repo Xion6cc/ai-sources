@@ -1,5 +1,55 @@
 [
   {
+    "title": "Simple but effective use case of Codex for trip planning: Taking screenshots of bookings of restaurants/trains/events and asking Codex to put them on your Google Calendar",
+    "url": "https://nitter.net/zarazhangrui/status/2084536363668611491#m",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Simple but effective use case of Codex for trip planning: Taking screenshots of bookings of restaurants/trains/events and asking Codex to put them on your Google Calendar",
+    "date": "2026-08-04 07:06 UTC",
+    "date_str": "2026-08-04",
+    "date_iso": "2026-08-04T07:06:12Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-04_Simple-but-effective-use-case-of-Codex-for-trip-planning-Taking-screenshots-of-b.md"
+  },
+  {
+    "title": "Apple is getting this wrong",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "date": "2026-08-03 22:00 UTC",
+    "date_str": "2026-08-03",
+    "date_iso": "2026-08-03T22:00:00Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-03_Apple-is-getting-this-wrong.md"
+  },
+  {
+    "title": "Building Turbopuffer: Gergely Orosz (@pragmaticengineer ) × Simon Eskildsen (CEO)",
+    "url": "https://www.youtube.com/watch?v=jQDXzEVHMSE",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "This fireside chat between Gergely Orosz and Simon Eskildsen explores the technical journey and engineering philosophy behind the database company Turbopuffer. Video Timestamps 0:00 Introduction and Simon’s early history with computers 3:02 The International Olympiad in Informatics and early competitive programming 4:13 How Simon was recruited by Shopify while still in high school 8:46 Engineering challenges and scaling infrastructure at …",
+    "date": "2026-08-03 18:26 UTC",
+    "date_str": "2026-08-03",
+    "date_iso": "2026-08-03T18:26:07Z",
+    "thumbnail_url": "https://img.youtube.com/vi/jQDXzEVHMSE/mqdefault.jpg",
+    "view_count": 1214,
+    "view_count_display": "1.2K views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-03_Building-Turbopuffer-Gergely-Orosz-pragmaticengineer-Simon-Eskildsen-CEO.md"
+  },
+  {
+    "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
+    "url": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Meta&#8217;s Generative Ads Recommendation Model (GEM), the foundation model behind ads recommendations across Instagram and Facebook, now trains at LLM scale on several thousand of the latest-generation GPUs. This post goes into the details on how we achieved: doubling end-to-end (E2E) training efficiency to 20–25% Model FLOPs Utilization (MFU) while scaling training FLOPs 4x in [...] Read More... The post …",
+    "date": "2026-08-03 18:00 UTC",
+    "date_str": "2026-08-03",
+    "date_iso": "2026-08-03T18:00:17Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-03_GEM-Training-How-Meta-Doubled-the-Efficiency-of-Its-LLM-Scale-Ads-Foundation-Mod.md"
+  },
+  {
     "title": "MCP Apps: Extending the Frontier — Ido Salomon & Liad Yosef",
     "url": "https://www.youtube.com/watch?v=-jY2T2PiJBE",
     "source": "AI Engineer",
@@ -3702,61 +3752,5 @@
     "date_iso": "2026-07-05T14:00:12Z",
     "thumbnail_url": "https://nitter.net/pic/amplify_video_thumb%2F2035962038892326912%2Fimg%2F-_RPw0h8u9KwDbaA.jpg",
     "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-05_Resurfacing-this-skill-I-built-now-that-understanding-your-code-is-in-vogue.md"
-  },
-  {
-    "title": "The Missing Layer After Launch - Raphael Kalandadze, Wandero AI",
-    "url": "https://www.youtube.com/watch?v=kZsf_Sfm7RU",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "We run a production system of agents for real customers. The team that keeps it healthy is also made of agents. Operating an agent product isn't like operating software. When our agent fails a customer — a dropped constraint, a stale price, a confident wrong answer — nothing crashes and no log lights up. The failure is in the conversation, …",
-    "date": "2026-07-05 03:15 UTC",
-    "date_str": "2026-07-05",
-    "date_iso": "2026-07-05T03:15:05Z",
-    "thumbnail_url": "https://img.youtube.com/vi/kZsf_Sfm7RU/mqdefault.jpg",
-    "view_count": 691,
-    "view_count_display": "691 views",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-05_The-Missing-Layer-After-Launch---Raphael-Kalandadze-Wandero-AI.md"
-  },
-  {
-    "title": "Continual Learning for AI Agents: From Failures to Durable Improvements - Soheil Feizi, RELAI",
-    "url": "https://www.youtube.com/watch?v=2IxD9OB3XuQ",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "Agents fail in production in ways that static benchmarks cannot fully capture. The key question is whether they can learn from those experiences without drifting or breaking prior capabilities. This talk introduces verifiable continual learning for AI agents: a framework for converting traces, failures, and feedback into testable, regression-aware improvements. I will discuss four core requirements: turning failures into replayable …",
-    "date": "2026-07-05 03:13 UTC",
-    "date_str": "2026-07-05",
-    "date_iso": "2026-07-05T03:13:35Z",
-    "thumbnail_url": "https://img.youtube.com/vi/2IxD9OB3XuQ/mqdefault.jpg",
-    "view_count": 608,
-    "view_count_display": "608 views",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-05_Continual-Learning-for-AI-Agents-From-Failures-to-Durable-Improvements---Soheil-.md"
-  },
-  {
-    "title": "MCP Apps: Primitives, discovery, and the Future of Software - Pietro Zullo, Manufact, Inc",
-    "url": "https://www.youtube.com/watch?v=sAOBXCDiDOs",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "Everyone in this room knows what MCP is, but I am sure not many people know what MCP Apps are, how they work, how to build them and distribute them. By the end of this talk you'll know everything you need to join the race! MCP Apps are not just MCP servers with a UI bolted on. They're a full …",
-    "date": "2026-07-05 03:12 UTC",
-    "date_str": "2026-07-05",
-    "date_iso": "2026-07-05T03:12:17Z",
-    "thumbnail_url": "https://img.youtube.com/vi/sAOBXCDiDOs/mqdefault.jpg",
-    "view_count": 500,
-    "view_count_display": "500 views",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-05_MCP-Apps-Primitives-discovery-and-the-Future-of-Software---Pietro-Zullo-Manufact.md"
-  },
-  {
-    "title": "Your AI Product Will Fail Unless You Can Explain It - Veronica Hylak, Hey AI",
-    "url": "https://www.youtube.com/watch?v=d_Ftrl3vfV0",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "You’re shipping faster than ever, but still can’t quickly answer: \"Why does this matter to an average user?\" A decade ago, the market would find you. Now, if people can't instantly understand what your AI product does, you’re in trouble. That communication gap has become fatal. This talk? Your emergency hotline. With 7M views helping complex AI systems make sense …",
-    "date": "2026-07-05 03:10 UTC",
-    "date_str": "2026-07-05",
-    "date_iso": "2026-07-05T03:10:50Z",
-    "thumbnail_url": "https://img.youtube.com/vi/d_Ftrl3vfV0/mqdefault.jpg",
-    "view_count": 572,
-    "view_count_display": "572 views",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-05_Your-AI-Product-Will-Fail-Unless-You-Can-Explain-It---Veronica-Hylak-Hey-AI.md"
   }
 ]

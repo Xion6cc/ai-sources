@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2084536363668611491#m",
+    "title": "Simple but effective use case of Codex for trip planning: Taking screenshots of bookings of restaurants/trains/events and asking Codex to put them on your Google Calendar",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Simple but effective use case of Codex for trip planning: Taking screenshots of bookings of restaurants/trains/events and asking Codex to put them on your Google Calendar",
+    "date": "2026-08-04 07:06 UTC",
+    "date_iso": "2026-08-04T07:06:12Z"
+  },
+  {
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "title": "Apple is getting this wrong",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "date": "2026-08-03 22:00 UTC",
+    "date_iso": "2026-08-03T22:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jQDXzEVHMSE",
+    "title": "Building Turbopuffer: Gergely Orosz (@pragmaticengineer ) × Simon Eskildsen (CEO)",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "This fireside chat between Gergely Orosz and Simon Eskildsen explores the technical journey and engineering philosophy behind the database company Turbopuffer. Video Timestamps 0:00 Introduction and Simon’s early history with computers 3:02 The International Olympiad in Informatics and early competitive programming 4:13 How Simon was recruited by Shopify while still in high school 8:46 Engineering challenges and scaling infrastructure at …",
+    "date": "2026-08-03 18:26 UTC",
+    "date_iso": "2026-08-03T18:26:07Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
+    "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Meta&#8217;s Generative Ads Recommendation Model (GEM), the foundation model behind ads recommendations across Instagram and Facebook, now trains at LLM scale on several thousand of the latest-generation GPUs. This post goes into the details on how we achieved: doubling end-to-end (E2E) training efficiency to 20–25% Model FLOPs Utilization (MFU) while scaling training FLOPs 4x in [...] Read More... The post …",
+    "date": "2026-08-03 18:00 UTC",
+    "date_iso": "2026-08-03T18:00:17Z"
+  }
+]
