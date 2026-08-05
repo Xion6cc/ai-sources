@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2084828855404294266#m",
+    "title": "Contrary to popular perception, most people will not adopt a new technology just because it makes them more efficient. Instead, they’ll adopt new technology because: - Someone they know who’s similar to them on some dimension adopted the technology, and got positive results (eg became cooler, richer, more popular/respected), and they wanna become like that person - They feel like everyone around them has adopted the technology, and if they don’t, they’ll be left behind Notice that it’s not entirely a rational decision. It’s more of an EMOTIONAL decision. So if you’re trying to make someone adopt a new technology, the messaging shouldn’t be “this will make you 10x more efficient!” It should be “So-and-so, someone you can relate to, has adopted this and look how much better their life has become; wouldn’t it be nice to be like them?” This book reminds you of that. It can be distilled in one sentence: “The diffusion of technology is a SOCIAL process”",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Contrary to popular perception, most people will not adopt a new technology just because it makes them more efficient. Instead, they’ll adopt new technology because: - Someone they know who’s similar to them on some dimension adopted the technology, and got positive results (eg became cooler, richer, more popular/respected), and they wanna become like that person - They feel like …",
+    "date": "2026-08-05 02:28 UTC",
+    "date_iso": "2026-08-05T02:28:28Z"
+  },
+  {
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "date": "2026-08-04 19:00 UTC",
+    "date_iso": "2026-08-04T19:00:00Z"
+  },
+  {
+    "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
+    "title": "Turn one giant AI-generated pull request to a reviewable stack",
+    "source": "GitHub Engineering",
+    "type": "blog",
+    "summary": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first on The GitHub Blog .",
+    "date": "2026-08-04 16:47 UTC",
+    "date_iso": "2026-08-04T16:47:18Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2084635984164237792#m",
+    "title": "The best AI training isn't a course. It's pulling an agent into your team's group chat & letting people watch it work Every company rolling out \"AI enablement programs\" should try that first",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "The best AI training isn't a course. It's pulling an agent into your team's group chat &amp; letting people watch it work Every company rolling out \"AI enablement programs\" should try that first tobi lutke (@tobi) Article Learning on the Shop floor Years ago I wrote about my apprenticeship in Germany. I dropped out of school at 16 and went …",
+    "date": "2026-08-04 13:42 UTC",
+    "date_iso": "2026-08-04T13:42:03Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2084601752817729811#m",
+    "title": "How to judge if a meeting is efficient: An efficient meeting has no to-do list left behind, because all the actions are done DURING the meeting (either by agents who listen to the meeting in real time or by humans) The gap between saying and doing should be zero, and meetings become work sessions where things actually get DONE",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "How to judge if a meeting is efficient: An efficient meeting has no to-do list left behind, because all the actions are done DURING the meeting (either by agents who listen to the meeting in real time or by humans) The gap between saying and doing should be zero, and meetings become work sessions where things actually get DONE",
+    "date": "2026-08-04 11:26 UTC",
+    "date_iso": "2026-08-04T11:26:02Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2084585134230278572#m",
+    "title": "Great video made with almost zero budget!",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Great video made with almost zero budget! Mera Huang (@shimiaohuang) My Codex still had quota left. My wrists didn’t. Years of typing caused TFCC injuries in both my wrists. So I built soink, a live, hands-free AI voice keyboard for people like me with wrist pain. There are plenty of AI dictation tools out there. But none of them were …",
+    "date": "2026-08-04 10:20 UTC",
+    "date_iso": "2026-08-04T10:20:00Z"
+  }
+]
