@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=RmS5s6Wbin4",
+    "title": "Gadgets: Personal app vibe coding that is actually safe — Kenton Varda, Cloudflare",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "*Note: Kenton has just released Cloudflare OS today: https://x.com/KentonVarda/status/2084990137180590572 This talk was recorded a month prior to launch.* Claude needed a strikethrough the slide app did not have, so it added one to the app. Asked to build a deck from a Google doc, it also added text centering and a box that accepts raw SVG, then generated the SVG …",
+    "date": "2026-08-05 22:42 UTC",
+    "date_iso": "2026-08-05T22:42:10Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/",
+    "title": "From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s Ads Ranking",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Every day, Meta’s recommendation platforms handle billions of user interactions, generating rich temporal signals that capture individual preferences and intent across products, ads, and content. In our 2024 post on sequence learning for ads recommendations, we showed how modeling the order and timing of user actions (rather than relying on static, manually engineered sparse features) [...] Read More... The post …",
+    "date": "2026-08-05 19:20 UTC",
+    "date_iso": "2026-08-05T19:20:20Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2084995439745536082#m",
+    "title": "There’s so much groupthink going on in AI right now",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "There’s so much groupthink going on in AI right now Mitchell Hashimoto (@mitchellh) A sad thing I see is when companies start becoming reactive over proactive. Its a clear external sign that the leadership has lost vision. They make decisions they feel are safe instead of through conviction of a future. The problem is that \"safe\" almost always means following …",
+    "date": "2026-08-05 13:30 UTC",
+    "date_iso": "2026-08-05T13:30:24Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2084979733515641102#m",
+    "title": "Great video",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Great video Y Combinator (@ycombinator) Congrats to @pablorpalafox , @PaarupLuis , @javipalafox , and @HappyRobot (S23) on their $150M Series C at a $1.2B valuation! They build AI agents that run the phone calls, emails, and scheduling behind enterprise operations. They proved the platform in logistics and are now expanding into insurance, energy, telecom, and airlines. Revenue has grown more …",
+    "date": "2026-08-05 12:28 UTC",
+    "date_iso": "2026-08-05T12:28:00Z"
+  }
+]
