@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=LZuWZRze3MU",
+    "title": "The New Primitives: Building AI Native Software — Kwindla Kramer, Daily",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In 1945 Vannevar Bush described document scanning, OCR, speech to text, hypertext, search engines, a head mounted camera, and voice interfaces, in a single essay, before any of it existed. Kwindla Hultman Kramer uses As We May Think to set up the uncomfortable part: he was a baby programmer in 1995 writing HTML by hand and web servers in C, …",
+    "date": "2026-08-07 23:53 UTC",
+    "date_iso": "2026-08-07T23:53:33Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=CoEIs6Xm8m8",
+    "title": "Open Source Is Dead. Long Live Open Source. — Saoud Rizwan, Cline",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A compromised release of litellm, a Python package pulling three and a half million downloads a day, sat live for three hours installing a credential harvester for API keys, SSH keys and crypto keys along with a backdoor for remote command execution. It was caught by pure luck: the malware had a bug that crashed Cursor, and a researcher went …",
+    "date": "2026-08-07 23:26 UTC",
+    "date_iso": "2026-08-07T23:26:51Z"
+  },
+  {
+    "url": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
+    "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC execution API Authors: Nilesh Mishra and Ajit Koti This is the third entry of a multi-part blog series describing how we built a Real-Time Distributed Graph (RDG). In Part 1 , we discussed the motivation for creating the RDG and the architecture of …",
+    "date": "2026-08-07 16:01 UTC",
+    "date_iso": "2026-08-07T16:01:02Z"
+  },
+  {
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+    "date": "2026-08-07 15:20 UTC",
+    "date_iso": "2026-08-07T15:20:00Z"
+  },
+  {
+    "url": "https://openai.com/index/hsp-gruppe",
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+    "date": "2026-08-07 09:00 UTC",
+    "date_iso": "2026-08-07T09:00:00Z"
+  }
+]
