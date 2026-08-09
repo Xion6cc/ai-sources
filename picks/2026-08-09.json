@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=iQ5xldZ9StU",
+    "title": "Realtime multiplayer, automation, and you! — Idan Gazit, GitHub",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Idan Gazit's personal site runs on Astro, which ships often enough to keep him permanently on the upgrade treadmill, so he wrote an agentic workflow in about three lines of plain English, the kind of message you would send a teammate. Copilot expanded it into a full playbook: check for new releases, read the changelog and upgrade guide, apply the …",
+    "date": "2026-08-08 21:30 UTC",
+    "date_iso": "2026-08-08T21:30:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7vn4WpqNpck",
+    "title": "Benchmarking Coding Agents on New vs Legacy Codebases — Denys Linkov, Wisedocs",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Wisedocs processes medical claims that arrive as PDFs over 10,000 pages long, some of them larger than video files, through a pipeline of ML models spread across ten repositories nobody enjoyed touching. Denys Linkov's team spent six months collapsing that into a monorepo, and this talk is an honest audit of whether they should have just waited for the models …",
+    "date": "2026-08-08 19:00 UTC",
+    "date_iso": "2026-08-08T19:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Z-c11pV_uvU",
+    "title": "Anthropic's CCA Exam as a Field-Guide for Agentic Engineering — Frank Coyle, UC Berkeley",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The Claude Certified Architect exam hands you six production scenarios and picks four at random, and Frank Coyle walks through them backwards, leading with the anti pattern in each one. Knowing what not to do is what points you toward what to do, the same way the design patterns movement of the early 1990s came with a catalog of the …",
+    "date": "2026-08-08 16:00 UTC",
+    "date_iso": "2026-08-08T16:00:06Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2086111492018221523#m",
+    "title": "This paper gives a fancy name to a problem you can already feel in your bones \"The Tragedy of the Cognitive Commons.\" Checking AI output requires deep expertise. Deep expertise comes from doing grunt work for years. And grunt work is the first thing AI eats So we're building systems that need expert supervision while dismantling the only known process for making experts The paper calls the shared pool of human expertise the \"cognitive commons.\" Every profession drinks from it. Nobody's refilling it. By eliminating junior roles, each company is acting totally rationally, and the collective result: a profession that can't catch AI's mistakes anymore because it never learned to do the work in the first place Who checks AI's homework in 15 years?",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "This paper gives a fancy name to a problem you can already feel in your bones \"The Tragedy of the Cognitive Commons.\" Checking AI output requires deep expertise. Deep expertise comes from doing grunt work for years. And grunt work is the first thing AI eats So we're building systems that need expert supervision while dismantling the only known process …",
+    "date": "2026-08-08 15:25 UTC",
+    "date_iso": "2026-08-08T15:25:12Z"
+  }
+]
