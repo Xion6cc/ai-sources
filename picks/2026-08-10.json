@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=OL7kfezynJM",
+    "title": "Multiplayer agentic engineering — Arjun Singh, Superconductor",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Superconductor left a meeting bot sitting in a Google Meet at their expo booth for four hours, just listening. Someone passing through said they wanted coding agents to have clear acceptance criteria before declaring work finished. Nobody filed a ticket. The bot picked the idea out of the conversation, opened one itself, started working, and added two acceptance criteria fields …",
+    "date": "2026-08-09 20:30 UTC",
+    "date_iso": "2026-08-09T20:30:34Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=03l29gJXpCE",
+    "title": "Guide, Verify, Solve — Anirban Chatterjee, Sonar",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A Carnegie Mellon study sorted GitHub projects by whether an AI tool wrote the code, and found the productivity gain ran out after about three months while the static analysis warnings and the added complexity stayed. That residue is verification debt, and how much it costs scales with criticality: a short lived internal tool can live with the gap between …",
+    "date": "2026-08-09 17:45 UTC",
+    "date_iso": "2026-08-09T17:45:13Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Kz4QJmNrVXU",
+    "title": "Velocity Sickness: What Happens When Your Whole Team Gets 10x Faster — Matt Dailey, Ref.",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A newsletter writer walked Matt Dailey through an agentic pipeline good enough to amplify their own voice instead of flattening it, then mentioned they were now effectively writing a book every week. Dailey asked whether the audience was reading a book every week. They were not. Those pages go unread, and that gap is what he calls velocity sickness: the …",
+    "date": "2026-08-09 16:30 UTC",
+    "date_iso": "2026-08-09T16:30:28Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vSx5IULvBns",
+    "title": "Always-on agents run production without the on-call tax — Justin Smith, Resolve AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Someone drops a GitHub release tag into Slack and the agent decides on its own that this is a deploy worth watching. It reads what actually changed, works out which telemetry would expose trouble for that particular change, and writes a check plan for this release alone: checkout is replacing the currency service, so watch checkout latency and error rates, …",
+    "date": "2026-08-09 14:45 UTC",
+    "date_iso": "2026-08-09T14:45:06Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2086451229031534893#m",
+    "title": "One of my favorite videos lately! So many practical design tips; my favorite is “Just reduce the font weights” and it magically makes the design look better",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "One of my favorite videos lately! So many practical design tips; my favorite is “Just reduce the font weights” and it magically makes the design look better Stephen Haney (@stephenhaney) I love YC Design Review! So when they asked if I’d like to film an episode I flew to SF as fast as I could. Check out my chat with …",
+    "date": "2026-08-09 13:55 UTC",
+    "date_iso": "2026-08-09T13:55:12Z"
+  }
+]
