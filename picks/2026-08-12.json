@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/optiver",
+    "title": "Software engineering at a proprietary trading company: Optiver",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "A shift from a focus on latency to building better AI models, owning the full stack from applications to building custom hardware, very different incentives to most tech companies in play, and more",
+    "date": "2026-08-11 16:17 UTC",
+    "date_iso": "2026-08-11T16:17:39Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=K0X9QDRkIdg",
+    "title": "Evolution of agentic surfaces — Gagan Bhat & Isabella Kai He, Anthropic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Sonnet 4.5 developed what Anthropic's Applied AI team came to call context anxiety: approaching its context window limit, it would wrap work up early and stop with room to spare. They built context resets into the harness to compensate. Then Opus 4.5 shipped without the behavior, and the fix turned into pure overhead, adding latency and discarding cache it should …",
+    "date": "2026-08-11 16:00 UTC",
+    "date_iso": "2026-08-11T16:00:06Z"
+  },
+  {
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "title": "Testing ads in ChatGPT",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "date": "2026-08-11 10:00 UTC",
+    "date_iso": "2026-08-11T10:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "title": "Daybreak models are now available on AWS",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "date": "2026-08-11 10:00 UTC",
+    "date_iso": "2026-08-11T10:00:00Z"
+  }
+]
