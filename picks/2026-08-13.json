@@ -1,0 +1,164 @@
+[
+  {
+    "url": "https://www.anthropic.com/research/multiagent-systems",
+    "title": "Patterns and problems in emerging multiagent systems",
+    "source": "Anthropic Research",
+    "type": "blog",
+    "summary": "",
+    "date": "2026-08-13 00:00 UTC",
+    "date_iso": "2026-08-13T00:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=CvRngaQZQ3Y",
+    "title": "Improving Agents is a Data Mining Problem — Vivek Trivedy, LangChain",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Does your agent get dumber after the first compaction? After the second? You cannot read that off the code, only off the traces, and there are far too many to read yourself. So LangChain points agents at the traces of other agents and asks exactly that, alongside questions like where users got upset and what a different model would have …",
+    "date": "2026-08-12 19:00 UTC",
+    "date_iso": "2026-08-12T19:00:01Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=5ZGyKWjQDr0",
+    "title": "Lessons from Studying Every Memory System — Shlok Khemani, Independent",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A profile ChatGPT keeps on Shlok Khemani says he travelled to Turkey in 2025. He never has. The memory came from conversations where he was choosing between Turkey and Thailand, he went to Thailand, and the profile kept both with overlapping dates. What bothers him is not the mistake but the incuriosity: nothing notices the conflict, and the evidence to …",
+    "date": "2026-08-12 18:30 UTC",
+    "date_iso": "2026-08-12T18:30:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jHMiYtjoJfA",
+    "title": "Designing Agents (The Floor Is the Frontier) — Ben Hylak, Raindrop",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Build the thousand example eval suite everyone tells you to build, switch harnesses, and 80% of it stops meaning anything. Ben Hylak's complaint is that eval advice is still written for the chatbot era, back when you knew the answer to nearly every question a user would ask. His reframing is that the useful question is not what issues your …",
+    "date": "2026-08-12 18:00 UTC",
+    "date_iso": "2026-08-12T18:00:34Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZTA0GwpAUak",
+    "title": "Bringing Continual Learning into Enterprises — Samuel Denton, Applied Compute",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A Qwen thinking model was taking up to 80 turns to submit on SWE bench. Applied Compute wanted it wrapping up by turn 40 and got the submit tool call rate from 22% to 60% with test pass rate flat. The interesting part is the mechanism: because the rollout was conditioned on an old production trace that never called the …",
+    "date": "2026-08-12 17:30 UTC",
+    "date_iso": "2026-08-12T17:30:06Z"
+  },
+  {
+    "url": "https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137?source=rss----53c7c27702d5---4",
+    "title": "Flexible Authentication: Reimagining authentication for millions of users at Airbnb",
+    "source": "Airbnb Engineering",
+    "type": "blog",
+    "summary": "Rebuilding login and signup surfaced product insights, not just technical challenges. Here’s how we designed Flexible Authentication at the intersection of product intuition and technical architecture. By : Jose Santos , Mike Barry For Airbnb, logins at irregular intervals are normal. A guest books a trip in January and may not open the app again until summer. A host checks …",
+    "date": "2026-08-12 17:01 UTC",
+    "date_iso": "2026-08-12T17:01:04Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=I3bpdgFJCUY",
+    "title": "LLM Knowledge Bases: a practical guide — Ben Holmes, Warp",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Talking runs about 200 words a minute and typing does not, which is why Ben Holmes starts a knowledge base with voice dictation rather than with organization. The pipeline only works if there is enough raw material, so the capture step is deliberately sloppy: ramble into your phone after a podcast or a meeting, skip the formatting, and let agents …",
+    "date": "2026-08-12 17:00 UTC",
+    "date_iso": "2026-08-12T17:00:22Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/stop-being-skeptical-about-ai-for",
+    "title": "Stop being skeptical about AI for development with Charity Majors",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "In 2025, it was rational to be skeptical about AI. In 2026, it's not, anymore. With Charity Majors, CTO and co-founder of Honeycomb.",
+    "date": "2026-08-12 16:45 UTC",
+    "date_iso": "2026-08-12T16:45:07Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=HC8T1OlgYi0",
+    "title": "Stop being skeptical about AI for development with Charity Majors",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "In 2025, it was rational to be skeptical about AI, but in 2026 it’s clear that AI is changing all of the industry, and there’s less and less place for skepticism. This take is from one of my favorite voices in software reliability and observability: Charity Majors, CTO and cofounder of Honeycomb, co-author of Observability Engineering. (Note: the second edition …",
+    "date": "2026-08-12 16:42 UTC",
+    "date_iso": "2026-08-12T16:42:30Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=XEd_SRVHBgU",
+    "title": "Adaption Labs: Gradient-Free Continual Learning — Sara Hooker, Adaption",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Fewer than five thousand people in the world know how to train a frontier model at scale, by Sara Hooker's estimate, and that knowledge travels like an apprenticeship rather than a literature. Modern computer science is 77 years old, two generations, and in that time the route to contributing at the frontier narrowed into one funnel: the right PhD, the …",
+    "date": "2026-08-12 16:30 UTC",
+    "date_iso": "2026-08-12T16:30:19Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=I6aiEf3aEFQ",
+    "title": "Intelligence + Continual Learning = Expertise — Yu Su, NeoCognition",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Scheduling a meeting is not finding a shared slot on everyone's calendar. It is a constraint optimization over authority, priority, and urgency, and an expert sees that immediately where a very capable model does not. Yu Su uses examples like that one to separate two things the field keeps collapsing together. Intelligence is reasoning through an unfamiliar problem from the …",
+    "date": "2026-08-12 16:00 UTC",
+    "date_iso": "2026-08-12T16:00:08Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=WiqDvX6isc4",
+    "title": "Scaling Compute on Context — Jack Morris, Engram",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Train a model directly on ten thousand financial reports and you can drive the loss to 0.00001. It knows the documents perfectly. Then you generate from it and it collapses. Jack Morris uses that failure to set up the real problem. The three axes that powered the entire deep learning revolution, more data, more compute, bigger models, all run on …",
+    "date": "2026-08-12 15:30 UTC",
+    "date_iso": "2026-08-12T15:30:14Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=R3-anFK1YM8",
+    "title": "Memory Harnesses for Long-Running Research Agents — Stefania Druga, Sakana.ai",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "On a literature review task where every paper already fit inside the context window, adding a memory harness changed nothing: the same accuracy, at higher cost. That negative result is the most useful thing in Stefania Druga's experiment, because it marks the boundary. Move to a long horizon task where the answer sits at step 124 and the question arrives …",
+    "date": "2026-08-12 15:00 UTC",
+    "date_iso": "2026-08-12T15:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=zL1kLftVTlo",
+    "title": "Scaling up Continual Learning — Ronak Malde, Trajectory",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Scale on policy self distillation to trajectories with a hundred tool calls and the model collapses into hedging. The tokens it learns to favor fill up with wait, but, and maybe, until, as Ronak Malde puts it, everything just turns into maybe. He calls it the but wait problem, and it happens because the student drifts far enough on a …",
+    "date": "2026-08-12 14:30 UTC",
+    "date_iso": "2026-08-12T14:30:11Z"
+  },
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2087547174662136273#m",
+    "title": "This Stanford lecture series is pure gold. Crazy that such high-quality knowledge is freely disseminated on YouTube",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "This Stanford lecture series is pure gold. Crazy that such high-quality knowledge is freely disseminated on YouTube",
+    "date": "2026-08-12 14:30 UTC",
+    "date_iso": "2026-08-12T14:30:05Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=iqloyWCGYQQ",
+    "title": "Beyond Static Intelligence: Evaluating Continual Learning — Parth Asawa, UC Berkeley",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Every leaderboard you have seen was built by asking a model to do one task, wiping its memory, and asking it another. Parth Asawa's objection is that this quietly assumes learning across instances does not count. His benchmark measures what that assumption hides, using a metric called gain: run a system with state, then run the identical system reset between …",
+    "date": "2026-08-12 14:00 UTC",
+    "date_iso": "2026-08-12T14:00:19Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/",
+    "title": "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "WhatsApp is committed to helping people stay safe while protecting the privacy of their messages. As scam tactics evolve — from impersonation to social engineering to AI-generated lures — we&#8217;re always evolving as well, so that our protections stay ahead of scammers while protecting people’s personal messages with end-to-end encryption. Today, we&#8217;re sharing an early [...] Read More... The post …",
+    "date": "2026-08-12 13:00 UTC",
+    "date_iso": "2026-08-12T13:00:28Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
+    "title": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
+    "source": "Lex Fridman",
+    "type": "youtube",
+    "summary": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record. We did this conversation entirely in Russian. It's translated and dubbed into English. Both language audio tracks (and subtitles) are available here on YouTube. To switch between language audio tracks, click: Settings gear icon, then Audio track. Thank …",
+    "date": "2026-08-12 12:57 UTC",
+    "date_iso": "2026-08-12T12:57:24Z"
+  }
+]
