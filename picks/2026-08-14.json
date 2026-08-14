@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2088087765267386564#m",
+    "title": "Ironic that many people thought AI coding would make engineers less valuable when in reality the most in-demand jobs all have the word “engineer” in them: forward-deployed engineer, design engineer, product engineer, growth engineer…",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "Ironic that many people thought AI coding would make engineers less valuable when in reality the most in-demand jobs all have the word “engineer” in them: forward-deployed engineer, design engineer, product engineer, growth engineer…",
+    "date": "2026-08-14 02:18 UTC",
+    "date_iso": "2026-08-14T02:18:12Z"
+  },
+  {
+    "url": "https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests/",
+    "title": "When Can LLMs Replace Humans in A/B Tests?",
+    "source": "Spotify Engineering",
+    "type": "blog",
+    "summary": "TL;DR: LLM predictions can stand in for human outcomes in A/B tests, but only by assumption, not by design.... The post When Can LLMs Replace Humans in A/B Tests? appeared first on Spotify Engineering .",
+    "date": "2026-08-13 18:57 UTC",
+    "date_iso": "2026-08-13T18:57:22Z"
+  },
+  {
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "title": "The builder’s guide to GPT‑5.6",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "date": "2026-08-13 11:00 UTC",
+    "date_iso": "2026-08-13T11:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+    "date": "2026-08-13 10:00 UTC",
+    "date_iso": "2026-08-13T10:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+    "date": "2026-08-13 09:00 UTC",
+    "date_iso": "2026-08-13T09:00:00Z"
+  }
+]
