@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=1UmZHb_E_SM",
+    "title": "How Web Data Infrastructure Powers the Next Generation of AI — Patricija Žemaitytė, Oxylabs",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Minutes into a call to demo a search API rebuilt to answer in under a second, the system got blocked, badly, in front of the client. Patricija Žemaitytė treats that as the useful distinction: something that works in development, something that passes tests, and something that survives reality are three different systems. The rebuild had no trick to it. Browsers …",
+    "date": "2026-08-14 17:00 UTC",
+    "date_iso": "2026-08-14T17:00:37Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-metas-self-inflicted-resignation",
+    "title": "The Pulse: Meta’s self-inflicted resignation-wave",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "The social media giant is offering $1M+ retainer equity grants to staff who are leaving: and even this is not effective. Also: is Grok Bot the &#8220;OpenClaw moment&#8221; for managed AI agents?",
+    "date": "2026-08-14 16:55 UTC",
+    "date_iso": "2026-08-14T16:55:55Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Ot4OPrPH4xY",
+    "title": "The Rise of CaaS: Context-as-a-Service for Agentic AI — Omer Primor, Bright Data",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Just past 15,000 queries, renting context stopped being the cheaper option. Omer Primor gets that number from a small experiment he is careful to call a test rather than a benchmark: enrich one company across 25 fields, run it 100 times against this event's sponsors, and compare AI search products, context as a service vendors, and a scraper pipeline built …",
+    "date": "2026-08-14 16:30 UTC",
+    "date_iso": "2026-08-14T16:30:36Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Cc0_nyxROBA",
+    "title": "From RL to IRL — Gaurav Mishra, Amazon AGI Lab",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Asked to file an expense, the agent gets signed out mid task, reasons that it can infer the password, guesses twice, and locks the account. In a second run it clicks a sponsored button styled like the real submit button, lands on a different site, and begins typing personal details into it. Both are real trajectories from early browser training …",
+    "date": "2026-08-14 16:00 UTC",
+    "date_iso": "2026-08-14T16:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=26RtyAm9y_Q",
+    "title": "The Dark Arts of Web Automation: Teaching Agents to Use Websites Like Humans — Corey Gallon, Rexmore",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Preparing this talk got Corey Gallon a warning from OpenAI that his account faced a ban for cyber abuse with a web browser. The offending work was an agent clearing Cloudflare Turnstile, two image captchas, and finally reCAPTCHA v2 with no human in the loop. His premise fits on one slide: a browser driven through the Chrome DevTools Protocol is …",
+    "date": "2026-08-14 15:30 UTC",
+    "date_iso": "2026-08-14T15:30:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GqoNrUz8hEU",
+    "title": "Bringing agents onto the world wide web — Paul Klein IV, Browserbase",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "When OpenClaw shipped, people started buying Mac minis to run it from home, SSHing in and clearing captchas off a residential IP. Paul Klein IV points out he has yet to see a SOC 2 compliant Mac Mini setup at scale, and that this felt like a reasonable answer is itself the problem. His argument is that browser agents are …",
+    "date": "2026-08-14 15:00 UTC",
+    "date_iso": "2026-08-14T15:00:31Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=CTLa_p6iOiY",
+    "title": "Computer Use at the Edge of the Statistical Precipice — Pierluca D'Oro, Programma Labs",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A script under one megabyte that never looks at the screen matches or beats the frontier model it was copied from. Pierluca D'Oro builds it by recording one successful trajectory per task and then replaying those actions blindly, and on deterministic benchmarks like OSWorld that counts as a valid agent and it scores at the top. The paper goes further …",
+    "date": "2026-08-14 14:30 UTC",
+    "date_iso": "2026-08-14T14:30:31Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Ki980nV0__0",
+    "title": "Computer-use models will agentify the web, not APIs — Dhruv Batra, Yutori",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "To learn what a US school district is buying, you file a Freedom of Information Act request. Someone scans the email you sent, puts the scan on Google Drive, and attaches the relevant PDFs. Dhruv Batra's question is whether anyone seriously expects that office to publish an MCP server. He grants the popular claim that agents will drive most of …",
+    "date": "2026-08-14 14:00 UTC",
+    "date_iso": "2026-08-14T14:00:06Z"
+  },
+  {
+    "url": "https://cursor.com/blog/joining-spacex",
+    "title": "Cursor is now a part of SpaceX",
+    "source": "Cursor",
+    "type": "blog",
+    "summary": "Cursor has officially been acquired by SpaceX.",
+    "date": "2026-08-14 12:00 UTC",
+    "date_iso": "2026-08-14T12:00:00Z"
+  }
+]
