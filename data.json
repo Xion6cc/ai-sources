@@ -1,5 +1,17 @@
 [
   {
+    "title": "Building an AI Text Detector From Scratch",
+    "url": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "source": "Sebastian Raschka",
+    "type": "blog",
+    "summary": "An End-to-End Project With Dataset Construction, Model Training, Local Deployment, and RLVR",
+    "date": "2026-08-15 11:54 UTC",
+    "date_str": "2026-08-15",
+    "date_iso": "2026-08-15T11:54:24Z",
+    "thumbnail_url": "https://substackcdn.com/image/fetch/$s_!Om23!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F875b5076-19a9-4ffe-91d4-cafa156f650a_5343x5696.png",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-15_Building-an-AI-Text-Detector-From-Scratch.md"
+  },
+  {
     "title": "How Web Data Infrastructure Powers the Next Generation of AI — Patricija Žemaitytė, Oxylabs",
     "url": "https://www.youtube.com/watch?v=1UmZHb_E_SM",
     "source": "AI Engineer",
@@ -3430,83 +3442,5 @@
     "date_iso": "2026-07-17T10:00:00Z",
     "thumbnail_url": "",
     "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-17_A-scorecard-for-the-AI-age.md"
-  },
-  {
-    "title": "So many interesting hardware ideas from China Like this face mask that doubles as a mic so that you can use voice dictation in public areas without being overheard",
-    "url": "https://nitter.net/zarazhangrui/status/2077953473535176772#m",
-    "source": "Zara Zhang (@zarazhangrui)",
-    "type": "twitter",
-    "summary": "So many interesting hardware ideas from China Like this face mask that doubles as a mic so that you can use voice dictation in public areas without being overheard",
-    "date": "2026-07-17 03:08 UTC",
-    "date_str": "2026-07-17",
-    "date_iso": "2026-07-17T03:08:09Z",
-    "thumbnail_url": "https://nitter.net/pic/media%2FHNZfqJkaIAALKba.jpg",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-17_So-many-interesting-hardware-ideas-from-China-Like-this-face-mask-that-doubles-a.md"
-  },
-  {
-    "title": "The New Physics of Business — Garry Tan, Y Combinator",
-    "url": "https://www.youtube.com/watch?v=eBUyTS7SzV4",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "Garry Tan, President of Y Combinator, discusses how the rise of AI-native companies is revolutionizing organizational productivity, allowing lean teams to operate at a scale previously requiring hundreds or thousands of employees (0:52-1:07). Key Takeaways: The 400x Leverage: Tan reports a massive increase in output (approximately 400x) by shifting from writing individual lines of code to managing AI agents (2:32-2:35). …",
-    "date": "2026-07-17 01:00 UTC",
-    "date_str": "2026-07-17",
-    "date_iso": "2026-07-17T01:00:06Z",
-    "thumbnail_url": "https://img.youtube.com/vi/eBUyTS7SzV4/mqdefault.jpg",
-    "view_count": 2480,
-    "view_count_display": "2.5K views",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-17_The-New-Physics-of-Business-Garry-Tan-Y-Combinator.md"
-  },
-  {
-    "title": "Imagination Engineering — Eve Bouffard, Head of Design, Y Combinator",
-    "url": "https://www.youtube.com/watch?v=Z2Erdirpudo",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "Eve Bouffard from Y Combinator explores the concept of \"Imagination Engineering\"—the idea that with increasingly powerful AI models, the primary challenge for humans is no longer technical execution, but the ability to dream up bold, innovative ideas (0:13-0:59). Key themes and experiments shared: Thinking in Public: Inspired by Paul Graham, Eve describes an experiment where she shared her stream of …",
-    "date": "2026-07-16 23:45 UTC",
-    "date_str": "2026-07-16",
-    "date_iso": "2026-07-16T23:45:06Z",
-    "thumbnail_url": "https://img.youtube.com/vi/Z2Erdirpudo/mqdefault.jpg",
-    "view_count": 1387,
-    "view_count_display": "1.4K views",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-16_Imagination-Engineering-Eve-Bouffard-Head-of-Design-Y-Combinator.md"
-  },
-  {
-    "title": "An AI Agent Became the #1 Contributor in OpenAI's Hiring Challenge — Zhengyao Jiang, Weco",
-    "url": "https://www.youtube.com/watch?v=iCj_ATyThvc",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "Earlier this year, OpenAI ran Parameter Golf, a model-training competition that doubled as a hiring filter. Over 1,000 researchers competed to train the best small language model under a 16MB cap. The top contributor was the one candidate OpenAI couldn't hire. Our autonomous research agent Aiden finished with 7 merged records, more than twice as many as any other contributor, …",
-    "date": "2026-07-16 18:08 UTC",
-    "date_str": "2026-07-16",
-    "date_iso": "2026-07-16T18:08:16Z",
-    "thumbnail_url": "https://img.youtube.com/vi/iCj_ATyThvc/mqdefault.jpg",
-    "view_count": 1528,
-    "view_count_display": "1.5K views",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-16_An-AI-Agent-Became-the-1-Contributor-in-OpenAIs-Hiring-Challenge-Zhengyao-Jiang-.md"
-  },
-  {
-    "title": "The Pulse: Grok’s CLI caught uploading all your local files to the cloud",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-groks-cli-caught-uploading",
-    "source": "The Pragmatic Engineer Newsletter",
-    "type": "blog",
-    "summary": "Also: engineering leaders concerned about continued increase in code review load, devs at enterprises surprised by high enterprise pricing, and more",
-    "date": "2026-07-16 16:48 UTC",
-    "date_str": "2026-07-16",
-    "date_iso": "2026-07-16T16:48:53Z",
-    "thumbnail_url": "https://substackcdn.com/image/fetch/$s_!8VV3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa1de119-a4fd-4a85-b20a-bdc73c9db948_1182x842.png",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-16_The-Pulse-Groks-CLI-caught-uploading-all-your-local-files-to-the-cloud.md"
-  },
-  {
-    "title": "Why teens deserve access to safe AI",
-    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-    "date": "2026-07-16 16:00 UTC",
-    "date_str": "2026-07-16",
-    "date_iso": "2026-07-16T16:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-16_Why-teens-deserve-access-to-safe-AI.md"
   }
 ]
