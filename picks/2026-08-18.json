@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=YgEv7IQzGdM",
+    "title": "How to Kill the Code Review — Ankit Jain, Aviator",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Over 30% of changes now merge with no review at all, and the wait on the ones that do get reviewed is four times what it used to be. Ankit Jain's read is that the debate about when we stop reading code line by line is already over, because we stopped. His sharper point is what replaced it: an AI …",
+    "date": "2026-08-17 20:00 UTC",
+    "date_iso": "2026-08-17T20:00:08Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=MkRYPFIMCSA",
+    "title": "Security Firewall for Agents — Ryan Dahl, Deno",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Deno gives its incident response agents read and write access to production Postgres, Kubernetes, ClickHouse, AWS, GitHub, and Slack, and it works. Agents now close incidents that used to wake a human up. Ryan Dahl's problem is what happens when one of those agents gets prompt injected through the support system it is wired into. He grants that Opus refuses …",
+    "date": "2026-08-17 18:30 UTC",
+    "date_iso": "2026-08-17T18:30:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=WP3hjUXd918",
+    "title": "Context Engineering in 2026 — Louis-François Bouchard, Omar Solano & Samridhi Vaid, Towards AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The cheapest configuration they tested was the one sending the most tokens. Across 11 presets run against their open source AI tutor, doing nothing at all to the context beat every compaction technique on recall, cost, and latency at once, and their own production defaults scored worse than leaving the history alone. Prompt caching is why. With 97% of tokens …",
+    "date": "2026-08-17 16:26 UTC",
+    "date_iso": "2026-08-17T16:26:35Z"
+  }
+]
