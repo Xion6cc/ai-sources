@@ -1,0 +1,146 @@
+[
+  {
+    "url": "https://nitter.net/zarazhangrui/status/2089940315268645373#m",
+    "title": "I don’t know why anyone would learn Claude Code by reading a book, but apparently it’s a thing in Japan",
+    "source": "Zara Zhang (@zarazhangrui)",
+    "type": "twitter",
+    "summary": "I don’t know why anyone would learn Claude Code by reading a book, but apparently it’s a thing in Japan",
+    "date": "2026-08-19 04:59 UTC",
+    "date_iso": "2026-08-19T04:59:35Z"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "title": "ChatGPT Ads expands across Europe",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+    "date": "2026-08-18 22:00 UTC",
+    "date_iso": "2026-08-18T22:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "title": "Strengthening democratic oversight in national security",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+    "date": "2026-08-18 19:00 UTC",
+    "date_iso": "2026-08-18T19:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=5dCAmSDOAjI",
+    "title": "The Next Medium: Why Real-Time Interactive Video Changes Everything — Ahmed Ahres, Reactor",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Uber could not exist without GPS. Ahmed Ahres uses that to argue real time is a change of medium rather than a speedup: before GPS you consulted a map somebody else had already made, and afterwards your own position became something you could act on continuously. He runs the same argument through film. Once a viewfinder showed you what you …",
+    "date": "2026-08-18 17:30 UTC",
+    "date_iso": "2026-08-18T17:30:18Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=byn9PURoBNY",
+    "title": "Infra behind Krea 2: How to train and serve at scale — Gabriel Jorge Menezes, Krea.ai",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "GPU utilization is a lie. It read 100% straight through pretraining while the cluster was nowhere near well used, so Gabriel Jorge Menezes tracks tensor core utilization instead, and watched it climb as training resolution stepped from 128 pixels up to 1024. That is one of several numbers he argues you cannot train at this scale without. InfiniBand counters are …",
+    "date": "2026-08-18 17:00 UTC",
+    "date_iso": "2026-08-18T17:00:05Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Xln-On3syJk",
+    "title": "Generative Video at the Speed of Light — Keegan McCallum, uRun",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ten dollars now buys roughly three hours of continuously generated video, and fifty buys fifteen. Keegan McCallum sets that against the room's own habits, since plenty of hands went up for burning that much on coding tokens inside a single hour. His argument is that the interesting axis in generative video stopped being quality a while ago. Put a real …",
+    "date": "2026-08-18 16:30 UTC",
+    "date_iso": "2026-08-18T16:30:29Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-great-engineering-leader-career-break",
+    "title": "Headed for the Exit: the Great Engineering Leader Career Break",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Trend: more CTOs, VPEs, and Heads of Engineering are walking away from their high-status, in-demand positions. There are many reasons, mostly related to AI, and to \"founder mode\"",
+    "date": "2026-08-18 16:21 UTC",
+    "date_iso": "2026-08-18T16:21:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=z1dqv74SpUs",
+    "title": "Voice agents with Realtime Video — Sidney Primas, LemonSlice",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An avatar of Teddy Roosevelt holds court in a replica Oval Office, generating video continuously for eight hours with no reset, and a second deployment is being built to run for sixteen. That duration is the hard part. Sidney Primas explains that a real time avatar can only look backward, because the future frames do not exist yet, so every …",
+    "date": "2026-08-18 16:00 UTC",
+    "date_iso": "2026-08-18T16:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=E_Txocq-Lrw",
+    "title": "While my guitar gently speaks — Todd Fisher, Philo Ventures",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Someone in the audience asked the guitar what reality is, and the guitar answered. Todd Fisher's build routes a microphone through speech recognition into a local model and pushes the reply back out through the strings, which is the most recent step in a project that began with a much simpler question: how hard could it be to make a …",
+    "date": "2026-08-18 15:30 UTC",
+    "date_iso": "2026-08-18T15:30:23Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=VBCDhRrvlYo",
+    "title": "The Next Game Engine Won't Have a Manual — Arturo Nunez, Nereu",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ask a coding agent for a camera that follows your character and it will reinvent that camera from scratch, every time, slightly differently. Arturo Nunez's diagnosis is that the context sits on the game engine's vocabulary rather than the game's. Controlling a character in a conventional engine means a mesh, a renderer, an animator, a rigid body, a collider, an …",
+    "date": "2026-08-18 15:00 UTC",
+    "date_iso": "2026-08-18T15:00:29Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=pPj_tjlvYjA",
+    "title": "Building an Agentic Video Editor for Mass Consumer — Ekaterina Deyneka, Reelful",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Nearly every hand in the room went up when she asked who had recorded video at the conference. Almost none stayed up for who had actually posted any of it. Ekaterina Deyneka counts herself in that gap, and Reelful is her answer to it: drop in raw footage with a line of direction, and an agent finds the usable moments, …",
+    "date": "2026-08-18 14:30 UTC",
+    "date_iso": "2026-08-18T14:30:38Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-tviRdpmHvs",
+    "title": "Training Krea 2: What matters in generative model training — Sangwu Lee, Krea.ai",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The most reliable way to render a person is to render the most boring average person and put them in the center of the frame. Sangwu Lee offers that as the price the big image models pay for consistency: ask a production model for a burning skull and every output comes back clean, competent, and nearly identical. Krea 2, whose …",
+    "date": "2026-08-18 14:00 UTC",
+    "date_iso": "2026-08-18T14:00:06Z"
+  },
+  {
+    "url": "https://cursor.com/blog/git-at-any-scale",
+    "title": "Git at any scale",
+    "source": "Cursor",
+    "type": "blog",
+    "summary": "",
+    "date": "2026-08-18 12:00 UTC",
+    "date_iso": "2026-08-18T12:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/partnering-with-codeai",
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+    "date": "2026-08-18 11:00 UTC",
+    "date_iso": "2026-08-18T11:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+    "date": "2026-08-18 11:00 UTC",
+    "date_iso": "2026-08-18T11:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-for-teens",
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "date": "2026-08-18 11:00 UTC",
+    "date_iso": "2026-08-18T11:00:00Z"
+  }
+]
