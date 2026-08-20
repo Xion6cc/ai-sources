@@ -1,0 +1,146 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=nxokqOq1imY",
+    "title": "Your Agent Evolved. Your Evals Didn't. — Ameya Bhatawdekar, Braintrust",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Teams built orchestration graphs because the models of 2024 could not be trusted to orchestrate, and then the models learned to orchestrate and the graphs became the thing holding them back. Ameya Bhatawdekar traces that loop across five generations of architecture, each one forced by a step change in model capability, and argues that evals have to move with it. …",
+    "date": "2026-08-19 22:50 UTC",
+    "date_iso": "2026-08-19T22:50:52Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_ehJyfHg1Vk",
+    "title": "The Era of Compound Engineering — Kieran Klaassen, Every/Cora",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "He has not written a line of code this year, and has not read most of it either, yet he ships a full email client that thousands of people trust with their inbox. Kieran Klaassen has been rebuilding Cora alone since January, and the useful part of his account is the sequence of bottlenecks he moved through. Two years ago …",
+    "date": "2026-08-19 22:36 UTC",
+    "date_iso": "2026-08-19T22:36:44Z"
+  },
+  {
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "title": "Offering Zero Data Retention for frontier models",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "date": "2026-08-19 19:00 UTC",
+    "date_iso": "2026-08-19T19:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=mav15aW9lLM",
+    "title": "Why Your Enterprise Tech Stack Isn’t Ready for AI Agents — Christopher Lovejoy & Saul Howard",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The proof of concept works. It hits the accuracy targets, it is fast, it is cheap, and the room is happy. Then someone from compliance raises a hand and asks to see the audit trail, and the whole thing stops. Christopher Lovejoy and Saul Howard have watched that meeting happen repeatedly, and their point is that an audit trail is …",
+    "date": "2026-08-19 18:30 UTC",
+    "date_iso": "2026-08-19T18:30:15Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=XAsb7MIAzm8",
+    "title": "Don’t be data poor — Anuj Iravane, Anterior",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Roughly 70% of medical communication still moves by fax. What reaches Anterior is scanned fax bundles that can run past 300 pages, carrying handwriting, checkboxes, tables and images across one patient's entire clinical trajectory. Anuj Iravane calls it an observation through a fuzzy lens over a lifespan. It is exactly the data his evals need, and the data he is …",
+    "date": "2026-08-19 18:00 UTC",
+    "date_iso": "2026-08-19T18:00:17Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=WJRdLNhrsLQ",
+    "title": "How to build an AI-Native Health Company — Dan Feng, Maven Clinic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Implementation used to be the expensive step, so teams spent weeks settling requirements before anyone wrote code. Dan Feng's observation is that the cost moved. Building takes minutes now, and arguing is what is expensive. Planning at Maven Clinic changed to match. A one year view survives only as direction, assuming models will handle whatever you need by then, while …",
+    "date": "2026-08-19 17:30 UTC",
+    "date_iso": "2026-08-19T17:30:19Z"
+  },
+  {
+    "url": "https://medium.com/airbnb-engineering/how-we-knew-covid-was-over-and-what-our-models-had-to-unlearn-c606b9bdb0ab?source=rss----53c7c27702d5---4",
+    "title": "How we knew COVID was over (and what our models had to unlearn)",
+    "source": "Airbnb Engineering",
+    "type": "blog",
+    "summary": "When we retrain, when we rebuild, and when we leave a model alone. By: Harrison Katz A forecast that carries weight The Forecasting Data Science team at Airbnb produces many of the forecasts the rest of the company plans around: demand, bookings, cancellations, and a range of finer cuts by market and segment, refreshed continuously across thousands of markets. The …",
+    "date": "2026-08-19 17:01 UTC",
+    "date_iso": "2026-08-19T17:01:03Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Yphdry8ttAQ",
+    "title": "Trading Desks to Clinical Trials: Parallels in Applied Vertical AI — Ayush Bhardwaj, Allos AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ayush Bhardwaj could build the agent. What he could not do was tell whether it was any good. He moved from applied AI at a hedge fund to a pharma tech company expecting a different world, and found the job identical, including the wall. An engineer glances at generated code and knows instantly that it is weak, because years of …",
+    "date": "2026-08-19 17:00 UTC",
+    "date_iso": "2026-08-19T17:00:31Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/from-chrome-devtools-to-ai-engineering",
+    "title": "From Chrome DevTools to AI Engineering, with Addy Osmani",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Addy Osmani shares lessons from 14 years at Google and how AI agents are reshaping software engineering, developer workflows, and the skills engineers need to succeed.",
+    "date": "2026-08-19 16:53 UTC",
+    "date_iso": "2026-08-19T16:53:57Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2fyPnxKu8ZM",
+    "title": "From Chrome DevTools to AI Engineering, with Addy Osmani",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "Addy Osmani spent more than 14 years at Google, working on Chrome, DevTools, Core Web Vitals, and most recently, AI developer experience. If you've ever opened Chrome DevTools, or optimized a page for Core Web Vitals, you’ve used software built by Addy Osmani. In this episode, I sit down with Addy and we talk about his path from building a …",
+    "date": "2026-08-19 16:45 UTC",
+    "date_iso": "2026-08-19T16:45:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=UyyOoJmuATU",
+    "title": "Healthcare’s Agent Bytecode: X12 as the Harness for AI Agents — Vasant Kearney, Onlay",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Call the payer, open their web portal, and read their X12 feed, and all three can tell you the patient is covered. You treat the patient anyway, and the claim comes back denied because they were not covered at the time. Vasant Kearney's point is that none of those surfaces is ground truth. A payer's phone system, portal and X12 …",
+    "date": "2026-08-19 16:30 UTC",
+    "date_iso": "2026-08-19T16:30:32Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=AN65uc645mE",
+    "title": "200 Million Patient Interactions Later — Vivek Muppalla, Hippocratic AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Asked how many in the room had ever received a proactive call from their healthcare provider, almost no hands went up. Vivek Muppalla treats that as the signature of scarcity: too few clinicians and too few hours, so the system triages and only the sickest get called. Hippocratic AI is past 200 million clinical conversations across more than 60 health …",
+    "date": "2026-08-19 16:00 UTC",
+    "date_iso": "2026-08-19T16:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=yoONZwV2smc",
+    "title": "AI is the World’s largest Relationship Therapist — Clay Cockrell & Tony Fabrikant, CoupleWork AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The springs in the middle of the loveseat in Clay Cockrell's counseling office gave out years ago, so gravity now tips a couple toward each other however hard they grip the arms. He kept it. The harder argument arrives with two numbers. BetterHelp spent a decade assembling roughly 35,000 licensed clinicians and reaching 5 million users. ChatGPT sees roughly 900 …",
+    "date": "2026-08-19 15:30 UTC",
+    "date_iso": "2026-08-19T15:30:30Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=McknwOzbmyg",
+    "title": "Shipping AI to a Million Patients Without an A/B Test — Jared Joselowitz, Ufonia",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "You cannot A/B test on patients, because randomizing someone into the worse variant is unethical and often illegal. You cannot undo a call once spoken. And a vendor's benchmark number is not a defense at a post incident review. Jared Joselowitz builds the safety and evaluation stack behind Dora, a Ufonia voice agent that phones patients for post op follow …",
+    "date": "2026-08-19 15:00 UTC",
+    "date_iso": "2026-08-19T15:00:31Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=YXEqC05WEI0",
+    "title": "Guardrails First: Engineering Member-Facing Health AI — Rashi Agrawal, Hinge Health",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A healthy 60 year old man asked a popular AI assistant how to cut salt from his diet. It pointed him at sodium bromide. Three months later he arrived in an emergency room with paranoia and hallucinations, bromide at 200 times the safe level, and stayed three weeks. Rashi Agrawal stacks that against the first independent safety test of a …",
+    "date": "2026-08-19 14:30 UTC",
+    "date_iso": "2026-08-19T14:30:18Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=u6q-byPWUuo",
+    "title": "From Ambient Documentation to Clinical Intelligence — Chaitanya Asawa, Abridge",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Clinicians call it pajama time: the roughly two hours a day spent writing visit notes after work has finished. Abridge started there, and within two to three years the documentation product alone reached 300 of the largest health systems in the United States. Chaitanya Asawa's framing is that everything in healthcare sits downstream of a single conversation between a doctor …",
+    "date": "2026-08-19 14:00 UTC",
+    "date_iso": "2026-08-19T14:00:06Z"
+  }
+]
