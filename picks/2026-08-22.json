@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=HvMyYLTfvhg",
+    "title": "Building Agents Is Trivial Now, Context Is the Next Frontier — Jeff Ng, Unblocked",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An agent built to enrich Linear tickets read a report that time to first character in Unblocked's own QA pipeline had gone from hundreds of milliseconds to three or four seconds, and recommended turning async dispatch back on. The recommendation was wrong. A support engineer had explicitly disabled that setting days earlier because it caused an outage. The agent had …",
+    "date": "2026-08-21 17:00 UTC",
+    "date_iso": "2026-08-21T17:00:30Z"
+  },
+  {
+    "url": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
+    "title": "A Tale of Two Flink Autoscalers",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "Samuel Yeboah , Francesco Di Chiara and Mingliang Liu Today, Netflix runs two Flink autoscalers. That is exactly one more than we want. We built the first one in-house years ago, when there was no mature option suited to our platform. The second came from the Apache Flink community, and it can scale workloads our homegrown system was never designed …",
+    "date": "2026-08-21 16:01 UTC",
+    "date_iso": "2026-08-21T16:01:01Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7GMKdpLsxwU",
+    "title": "The Missing Layer: Design Taste in AI Agents — Hassan El Mghari, Together AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Most people can spot a vibe coded app in two seconds and cannot say why. Hassan El Mghari names it: the purple gradient background, italics in the header, a scroll to explore prompt nobody asked for, all caps pills with wide letter spacing, too many emoji. He reckons you could list thirty such tells, and naming them is what lets …",
+    "date": "2026-08-21 15:00 UTC",
+    "date_iso": "2026-08-21T15:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=17-YSUHo6Lk",
+    "title": "Agentic SDLC at Uber — Uday Kiran Medisetty & Adam Huda, Uber",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "More than 70% of pull requests at Uber now come from local or cloud agents, and lines of code per engineer has doubled year over year. Uday Kiran Medisetty walks through the six pieces of infrastructure underneath that, and the constraint shaping all of them shows up in the first one: every model call in the company goes through a …",
+    "date": "2026-08-21 13:00 UTC",
+    "date_iso": "2026-08-21T13:00:06Z"
+  }
+]
