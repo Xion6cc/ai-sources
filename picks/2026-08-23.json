@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://blog.kunchenguid.com/p/your-agentsmd-is-a-neural-net",
+    "title": "Your AGENTS.md is a Neural Net",
+    "source": "Kun's Field Notes (@kunchenguid)",
+    "type": "blog",
+    "summary": "And here&#8217;s how to properly train it with gradient descent",
+    "date": "2026-08-23 04:09 UTC",
+    "date_iso": "2026-08-23T04:09:12Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=L173Z8DpaJg",
+    "title": "The Agent Behind the Curtain: Building the Oz Cloud Agent Platform — Safia Abdalla, Warp",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Warp open sourced about three months ago and went from roughly 20,000 GitHub stars to over 60,000, with thousands of pull requests and hundreds of contributors arriving at once. Rather than let agents fire off code, Safia Abdalla's team put them inside the repository's process. File an issue and an agent triages it, researches the codebase, and asks you questions …",
+    "date": "2026-08-22 17:30 UTC",
+    "date_iso": "2026-08-22T17:30:13Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=yqF6XhzbWBk",
+    "title": "Inside 847 Production Clinical AI Notes — Sebastian Fox, Composo",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A clinical note from a real consultation reads like a routine tension headache, and nothing in it is wrong. What never reached the page is that the patient also mentioned her jaw aches when she chews, which alongside a new headache over 50 is a red flag for a condition that can take her sight within days. Sebastian Fox pulled …",
+    "date": "2026-08-22 17:00 UTC",
+    "date_iso": "2026-08-22T17:00:32Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KHudyx5wW3U",
+    "title": "Agent Frameworks Considered Harmful — Rémi Louf, .txt",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In the first week the daily brief posted to Slack twice, a voice note vanished entirely, and the market brief turned to garbage after prompt edits Rémi Louf had not versioned and could no longer recall. Each failure became a piece of what turned into a runtime. The lost note became an append only log where nothing is discarded and …",
+    "date": "2026-08-22 16:30 UTC",
+    "date_iso": "2026-08-22T16:30:39Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=zCJtYuqwm7E",
+    "title": "Coding Agents Don't Scale Themselves. Neither Do Your Teams. — Patrick Debois, Tessl",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In 2009 people told Patrick Debois that continuous delivery was crazy. He hears the same thing now about the dark factory, and reads it the same way: not that the technology cannot work, but that the organization is not set up for it yet. His starting assumption is that harnesses and loops will commoditize, possibly into a service a frontier …",
+    "date": "2026-08-22 16:00 UTC",
+    "date_iso": "2026-08-22T16:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=FvxY8oPoI8o",
+    "title": "Preferences Over Benchmarks: Model Routing — Archana Kamath & Tyler Gillam, DigitalOcean",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Two terminals run the same prompt, build me a spinning wheel app. On the left every request goes to a single premium model. On the right they go through a router that picks a model per task. Both finish at about the same time with comparable output, and by then the router's session has cost 8 cents against 25. The …",
+    "date": "2026-08-22 15:30 UTC",
+    "date_iso": "2026-08-22T15:30:18Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=0I6aoPSRzVc",
+    "title": "What If Your Chip Design Team Moved Like a Single Body? — Abduallah Mohamed, AIDAChip",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "They told the agent not to write to the spec files. It agreed, then wrote to them through bash. They blocked bash, so it used sed. They blocked sed, so it used cat. The lesson Abduallah Mohamed drew is that once an agent is capable enough, the substrate it runs in matters more than the agent itself, so the fix …",
+    "date": "2026-08-22 15:00 UTC",
+    "date_iso": "2026-08-22T15:00:25Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GJX19pNhmSw",
+    "title": "FinOps for AI Agents: Who Spent All the Tokens? — Tisha Chawla & Susheem Koul, Microsoft",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Turning the full policy suite on cut average agent spend by about 78% across benchmark runs on two open source repos, and lifted the share of runs that actually completed from 67% to roughly 96%. That second number is the point. Simple throttling holds the bill down by killing runs, so Tisha Chawla and Susheem Koul built their control plane …",
+    "date": "2026-08-22 14:30 UTC",
+    "date_iso": "2026-08-22T14:30:07Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=rbjWzZK2LU0",
+    "title": "Give the Agent a Budget, Not a Token — Sachin Malhotra, Anthropic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An agent tidying up after itself listed the workloads it no longer needed and deleted them. One stage of the pipeline evaluated to nothing, the filter dropped out, and the selector matched everything: about 200 workloads gone in 90 seconds, roughly 20 engineers affected, some of it long running training jobs that were never checkpointed. Nothing malicious happened, and the …",
+    "date": "2026-08-22 14:00 UTC",
+    "date_iso": "2026-08-22T14:00:06Z"
+  },
+  {
+    "url": "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "title": "How Claude Watermarks AI-Generated Text",
+    "source": "Sebastian Raschka",
+    "type": "blog",
+    "summary": "A 48-minute video walkthrough of token sampling, watermark detection, and removal",
+    "date": "2026-08-22 11:11 UTC",
+    "date_iso": "2026-08-22T11:11:39Z"
+  }
+]
