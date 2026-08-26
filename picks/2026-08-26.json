@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=XsvUhpnHepE",
+    "title": "The Missing Layer in Agentic AI — Giedrius Šteimantas, Oxylabs",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Point an agent at ten product pages, get real content back from three, and send all ten to the model anyway: seventy percent of those tokens go to reading CAPTCHAs. Giedrius Šteimantas says most teams never notice, because the status code and the response size both look fine. A 200 does not mean the page is real. He got here …",
+    "date": "2026-08-26 07:00 UTC",
+    "date_iso": "2026-08-26T07:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=mMNkdYnIVC4",
+    "title": "Einstein Arena: Harnessing Collective Agent Intelligence for Open Science — James Zou, Together AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "To get into the Einstein Arena you have to solve a puzzle proving you are an AI agent. Locking humans out is the point. James Zou and collaborators at Together AI and Stanford built it as an environment rather than a workflow, on the thesis that telling an agent how to work caps what it can do, while setting where …",
+    "date": "2026-08-25 20:46 UTC",
+    "date_iso": "2026-08-25T20:46:01Z"
+  },
+  {
+    "url": "https://medium.com/airbnb-engineering/project-lighthouse-part-3-introducing-project-lighthouse-anonymize-74f8b26653fb?source=rss----53c7c27702d5---4",
+    "title": "Project Lighthouse — Part 3: Introducing project-lighthouse-anonymize",
+    "source": "Airbnb Engineering",
+    "type": "blog",
+    "summary": "Project Lighthouse — Part 3: Introducing project-lighthouse-anonymize The data in Project Lighthouse is powered by privacy-preserving anonymization code. We’ve put this code into open source, and published two new technical papers detailing the scalable algorithms and data quality frameworks behind it. By: Adam Bloomston Introduction In 2020, we launched Project Lighthouse, which we developed in partnership with leading civil rights …",
+    "date": "2026-08-25 17:01 UTC",
+    "date_iso": "2026-08-25T17:01:02Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect",
+    "title": "Why Ramp built its own in-house coding agent, Inspect",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "A fintech company rejected the easy route and homebrewed its own coding agent &#8211; and is now a step ahead of coding agents from frontier AI labs. An in-depth look",
+    "date": "2026-08-25 15:20 UTC",
+    "date_iso": "2026-08-25T15:20:23Z"
+  },
+  {
+    "url": "https://cursor.com/blog/imdex",
+    "title": "IMDEX uses Cursor to build integrated subsurface data and analytics platform in months, not years",
+    "source": "Cursor",
+    "type": "blog",
+    "summary": "",
+    "date": "2026-08-25 12:00 UTC",
+    "date_iso": "2026-08-25T12:00:00Z"
+  }
+]

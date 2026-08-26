@@ -1,5 +1,69 @@
 [
   {
+    "title": "The Missing Layer in Agentic AI — Giedrius Šteimantas, Oxylabs",
+    "url": "https://www.youtube.com/watch?v=XsvUhpnHepE",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Point an agent at ten product pages, get real content back from three, and send all ten to the model anyway: seventy percent of those tokens go to reading CAPTCHAs. Giedrius Šteimantas says most teams never notice, because the status code and the response size both look fine. A 200 does not mean the page is real. He got here …",
+    "date": "2026-08-26 07:00 UTC",
+    "date_str": "2026-08-26",
+    "date_iso": "2026-08-26T07:00:06Z",
+    "thumbnail_url": "https://img.youtube.com/vi/XsvUhpnHepE/mqdefault.jpg",
+    "view_count": 102,
+    "view_count_display": "102 views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-26_The-Missing-Layer-in-Agentic-AI-Giedrius-%C5%A0teimantas-Oxylabs.md"
+  },
+  {
+    "title": "Einstein Arena: Harnessing Collective Agent Intelligence for Open Science — James Zou, Together AI",
+    "url": "https://www.youtube.com/watch?v=mMNkdYnIVC4",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "To get into the Einstein Arena you have to solve a puzzle proving you are an AI agent. Locking humans out is the point. James Zou and collaborators at Together AI and Stanford built it as an environment rather than a workflow, on the thesis that telling an agent how to work caps what it can do, while setting where …",
+    "date": "2026-08-25 20:46 UTC",
+    "date_str": "2026-08-25",
+    "date_iso": "2026-08-25T20:46:01Z",
+    "thumbnail_url": "https://img.youtube.com/vi/mMNkdYnIVC4/mqdefault.jpg",
+    "view_count": 751,
+    "view_count_display": "751 views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-25_Einstein-Arena-Harnessing-Collective-Agent-Intelligence-for-Open-Science-James-Z.md"
+  },
+  {
+    "title": "Project Lighthouse — Part 3: Introducing project-lighthouse-anonymize",
+    "url": "https://medium.com/airbnb-engineering/project-lighthouse-part-3-introducing-project-lighthouse-anonymize-74f8b26653fb?source=rss----53c7c27702d5---4",
+    "source": "Airbnb Engineering",
+    "type": "blog",
+    "summary": "Project Lighthouse — Part 3: Introducing project-lighthouse-anonymize The data in Project Lighthouse is powered by privacy-preserving anonymization code. We’ve put this code into open source, and published two new technical papers detailing the scalable algorithms and data quality frameworks behind it. By: Adam Bloomston Introduction In 2020, we launched Project Lighthouse, which we developed in partnership with leading civil rights …",
+    "date": "2026-08-25 17:01 UTC",
+    "date_str": "2026-08-25",
+    "date_iso": "2026-08-25T17:01:02Z",
+    "thumbnail_url": "https://cdn-images-1.medium.com/max/1024/1*Z2EMY7FElWHf-TY6r69IOA.png",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-25_Project-Lighthouse-Part-3-Introducing-project-lighthouse-anonymize.md"
+  },
+  {
+    "title": "Why Ramp built its own in-house coding agent, Inspect",
+    "url": "https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "A fintech company rejected the easy route and homebrewed its own coding agent &#8211; and is now a step ahead of coding agents from frontier AI labs. An in-depth look",
+    "date": "2026-08-25 15:20 UTC",
+    "date_str": "2026-08-25",
+    "date_iso": "2026-08-25T15:20:23Z",
+    "thumbnail_url": "https://substackcdn.com/image/fetch/$s_!CW3x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7449f6f-3517-482d-9ffd-913f3f55af21_2048x879.png",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-25_Why-Ramp-built-its-own-in-house-coding-agent-Inspect.md"
+  },
+  {
+    "title": "IMDEX uses Cursor to build integrated subsurface data and analytics platform in months, not years",
+    "url": "https://cursor.com/blog/imdex",
+    "source": "Cursor",
+    "type": "blog",
+    "summary": "",
+    "date": "2026-08-25 12:00 UTC",
+    "date_str": "2026-08-25",
+    "date_iso": "2026-08-25T12:00:00Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-25_IMDEX-uses-Cursor-to-build-integrated-subsurface-data-and-analytics-platform-in-.md"
+  },
+  {
     "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
     "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
     "source": "GitHub Engineering",
@@ -2774,29 +2838,5 @@
     "date_iso": "2026-07-27T16:01:02Z",
     "thumbnail_url": "https://cdn-images-1.medium.com/max/1024/1*fGXGoS1n8x3Sh9cMYI3CoQ.png",
     "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-27_Pinner-Progression-Better-Use-Case-Representation-Driving-Weekly-Active-User-Gro.md"
-  },
-  {
-    "title": "I post on X about 3 times a day on average. Posting takes me maybe 15 to 20 minutes a day at most I don't overthink it, I post the moment I think of something, and most of the material is stuff I've already said out loud to someone in person",
-    "url": "https://nitter.net/zarazhangrui/status/2081304884469809295#m",
-    "source": "Zara Zhang (@zarazhangrui)",
-    "type": "twitter",
-    "summary": "I post on X about 3 times a day on average. Posting takes me maybe 15 to 20 minutes a day at most I don't overthink it, I post the moment I think of something, and most of the material is stuff I've already said out loud to someone in person",
-    "date": "2026-07-26 09:05 UTC",
-    "date_str": "2026-07-26",
-    "date_iso": "2026-07-26T09:05:27Z",
-    "thumbnail_url": "",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-26_I-post-on-X-about-3-times-a-day-on-average-Posting-takes-me-maybe-15-to-20-minut.md"
-  },
-  {
-    "title": "My bet on how we'll work: you don't type, you don't write documents, you talk and the work gets done in real time, from a beach if you want. The latency between talking and doing should be zero.",
-    "url": "https://nitter.net/zarazhangrui/status/2081304624603295791#m",
-    "source": "Zara Zhang (@zarazhangrui)",
-    "type": "twitter",
-    "summary": "My bet on how we'll work: you don't type, you don't write documents, you talk and the work gets done in real time, from a beach if you want. The latency between talking and doing should be zero.",
-    "date": "2026-07-26 09:04 UTC",
-    "date_str": "2026-07-26",
-    "date_iso": "2026-07-26T09:04:25Z",
-    "thumbnail_url": "",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-07-26_My-bet-on-how-well-work-you-dont-type-you-dont-write-documents-you-talk-and-the-.md"
   }
 ]
