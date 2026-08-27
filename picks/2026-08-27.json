@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=qdAkxLoYNI8",
+    "title": "How to Generate Mergeable Code with a Context Engine — Peter Werry, Unblocked",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Radiologists call the failure satisfaction of search: you read a scan, find one indicator, stop looking, and miss the others that would have changed the diagnosis. Peter Werry says agents do exactly this to a codebase. Attach a wiki and an agent will search it, land on something plausible, and quit, which is why he argues access to information is …",
+    "date": "2026-08-27 18:00 UTC",
+    "date_iso": "2026-08-27T18:00:23Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams",
+    "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "We find out why Meta destroyed its standout engineering culture: it feared AI-native startups doing more with less. Also: thoughts on Ramp&#8217;s AI infra, GitHub&#8217;s load doubles in four months, and more",
+    "date": "2026-08-27 17:59 UTC",
+    "date_iso": "2026-08-27T17:59:17Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=pOvWgX7IJsc",
+    "title": "Can LLMs Write Fast Multi-GPU Kernels? — Simran Arora, Together AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Between NVIDIA's A100 in 2020 and the B200 in 2024, BF16 tensor core throughput improved 7.2x. Intra node communication improved 3x, and inter node communication only 2x. That widening gap has pushed the bottleneck in large AI workloads off the individual GPU and onto the links between them, far enough that a standard PyTorch and NCCL baseline lands below 50% …",
+    "date": "2026-08-27 17:00 UTC",
+    "date_iso": "2026-08-27T17:00:39Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qqrk7CtkuIw",
+    "title": "How Anthropic Builds: Lessons from Labs — Mike Krieger, Anthropic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Over a single weekend, Mike Krieger had Claude port a few hundred thousand lines of Python to TypeScript, verify it, and churn on its own output until the thing was deployable. He came back Monday to a finished port. He offers it as an example of a habit he thinks most people still lack, which is being unreasonable in what …",
+    "date": "2026-08-27 16:00 UTC",
+    "date_iso": "2026-08-27T16:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=G7cgLjZtmMU",
+    "title": "The Agentic Commerce Stack — Ahnaf Prio, Best Buy",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Add a second unit of the same item to your cart and, to you, nothing much happened. To the merchant that is a second line item on a different SKU. Ahnaf Prio's argument is that agentic shopping breaks on exactly these unglamorous distinctions, which is why roughly 45% of sessions on the major assistants already touch shopping while the first …",
+    "date": "2026-08-27 15:00 UTC",
+    "date_iso": "2026-08-27T15:00:34Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=YXowceUKYJI",
+    "title": "KV Cache-Aware Routing and P/D Disaggregation on Kubernetes — Yuchen Fama & Ashish Kamra, Red Hat",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Agentic sessions in Red Hat's traces run from a few turns to 3,000, cache hit rates routinely clear 90%, and input to output token ratios often pass 100 to 1. A public inference benchmark shows none of that, because it reports steady state numbers from one sanitized run. Yuchen Fama and Ashish Kamra spend the talk on the two levers …",
+    "date": "2026-08-27 14:00 UTC",
+    "date_iso": "2026-08-27T14:00:06Z"
+  },
+  {
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+    "date": "2026-08-27 09:00 UTC",
+    "date_iso": "2026-08-27T09:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+    "date": "2026-08-27 03:00 UTC",
+    "date_iso": "2026-08-27T03:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+    "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
+    "source": "Lex Fridman",
+    "type": "youtube",
+    "summary": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep501-sb See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. *Transcript:* https://lexfridman.com/dhh-2-transcript *CONTACT LEX:* *Feedback* - give feedback to Lex: https://lexfridman.com/survey *AMA* - submit questions, videos or call-in: https://lexfridman.com/ama …",
+    "date": "2026-08-26 21:44 UTC",
+    "date_iso": "2026-08-26T21:44:41Z"
+  }
+]
