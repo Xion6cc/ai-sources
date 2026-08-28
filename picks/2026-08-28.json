@@ -1,0 +1,128 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=M05vON8i0aI",
+    "title": "AI-Native Organisations Run on Skills: How to Structure and Scale Them — Imad Touil, QuantumBlack",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Imad Touil opens with a show of hands. Who has built a skill? Most of the room. Who shares them with their team? Fewer. Who governs and maintains them across the organization? A handful. That collapsing sequence is the talk, because he argues skills are where an organization's actual know how ends up living. Of the four things inside a …",
+    "date": "2026-08-28 18:30 UTC",
+    "date_iso": "2026-08-28T18:30:04Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=lRa9sPaMyy4",
+    "title": "Your Code Has Bugs. Lean4 Has Proofs: Formal Verification for Engineers — Varun Pant, AWS",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An AI spent about a week rewriting zlib in Lean and emitted 32,000 lines of proof. Not tests, proof. It decomposed the job into lemmas, closed each one with tactics, assembled them into a single theorem, and a small independent kernel checked the result. Varun Pant opens on the gap that makes this worth caring about now. Coding agents are …",
+    "date": "2026-08-28 18:00 UTC",
+    "date_iso": "2026-08-28T18:00:17Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=B0fjR3yaZFU",
+    "title": "How do you diffuse AI into the real world? — Varun Shenoy, Long Lake",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Long Lake does not sell software. It buys the company. Thirty five services businesses so far across property management, architecture and HR, plus a 6.3 billion dollar take private of the world's largest corporate travel platform. Varun Shenoy is blunt about why that matters: when the AI does not work, there is no customer to blame, because they are the …",
+    "date": "2026-08-28 17:30 UTC",
+    "date_iso": "2026-08-28T17:30:33Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=5Bn0xro2ol8",
+    "title": "How to Get Your Org to Adopt Coding Agents (Without Shipping Garbage) — Eyal Blum, Figma",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The engineers slowest to adopt agents at Figma are the best ones. Eyal Blum's explanation is that they are the people holding the codebase together with mental duct tape, carrying the institutional context nobody ever wrote down, and so they see every failure mode first and trust it least. His answer is not to talk them into using AI. It …",
+    "date": "2026-08-28 17:00 UTC",
+    "date_iso": "2026-08-28T17:00:33Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=pqlWNihgdjI",
+    "title": "From AI-Assisted to AI-Native: Building a Frontier Development Team — Clare Liguori, AWS",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Amazon watched 50 ordinary teams for the better part of a year, teams with normal seniority mixes working in existing codebases. Ninety percent of them used the same coding assistant. Half saw under 3x improvement in deployment velocity to production. The other half saw a median of 4.5x and sometimes past 10x. The tool was not the variable. The teams …",
+    "date": "2026-08-28 16:30 UTC",
+    "date_iso": "2026-08-28T16:30:19Z"
+  },
+  {
+    "url": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
+    "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "By Emma Yanyang Kong , Aditya Deshpande , Asad Abbasi , Bowei Yan , David Fagnan , Ashish Rastogi , Dhaval Patel , Ray Zhang Introduction The Netflix experience is a journey of discovery. Every visual cue, from the artwork on a title to the video previews that autoplay while you browse, is there to connect you with a story …",
+    "date": "2026-08-28 16:01 UTC",
+    "date_iso": "2026-08-28T16:01:02Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=mJqwmmOx4WA",
+    "title": "How to avoid disaster when vibe-coding a billing engine — Andrew Garvin, Stripe",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Andrew Garvin types one sentence asking for a billing engine that copies Lovable's pricing, and gets back a working sandbox: a customer, metered usage flowing in, and a draft invoice broken into separately scoped credit pools for builds, plan mode, cloud and gateway calls. Reproducing that by hand means understanding auto recharge, credit expiry and overage, which is exactly where …",
+    "date": "2026-08-28 16:00 UTC",
+    "date_iso": "2026-08-28T16:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=zrZ1amZBSPw",
+    "title": "Productionizing LLM Gateways: Architecture, Tradeoffs and Hard Lessons — Kanish Manuja, Twilio",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Something went wrong, please try again. Kanish Manuja opens on that message and then explains why it exists, which is more interesting than laziness. Once a response starts streaming you have committed to that provider. Tokens already sent cannot be recalled, so the fallback you carefully built is unavailable exactly when you need it. Streaming buys perceived speed by trading …",
+    "date": "2026-08-28 15:30 UTC",
+    "date_iso": "2026-08-28T15:30:03Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=bMjlRrWjdT0",
+    "title": "AI Evals for Cross-Functional Teams — Nachiket Paranjape & Swaroop Chitlur Haridas, DoorDash",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The people annotating DoorDash's eval data are not engineers, and they build their own annotation tools. Because the GenAI platform team went API first, strategy and operations staff can point a coding agent at those endpoints and vibe code whatever interface their use case needs, whether that is grading restaurant menus or reviewing images. The platform team stopped trying to …",
+    "date": "2026-08-28 15:00 UTC",
+    "date_iso": "2026-08-28T15:00:03Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=EL123UNokkI",
+    "title": "Building uReview, Uber’s Multi-Agent Code Review Engine — Will Bond & Ameya Ketkar, Uber",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In 2024 an Uber engineer waited about three hours for a first review on a pull request. In 2026 that wait is nine hours. Volume and size both grew, and code review became the bottleneck for thousands of engineers spread across hundreds of teams, twelve sites and six language specific monorepos. Will Bond and Ameya Ketkar walk through uReview, the …",
+    "date": "2026-08-28 14:30 UTC",
+    "date_iso": "2026-08-28T14:30:12Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZIYYsAzaLlA",
+    "title": "Building the Engine While Flying the Plane: Launching the Figma MCP Server — Jesse Lumarie, Figma",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Figma did not have 20% projects. Jesse Lumarie gave one to the MCP server anyway, one day a week, because he had seen an internal demo and wanted non designers to be able to pull from Figma. That side project became the company's first MCP server in about three months, and then one of the fastest growing products Figma has …",
+    "date": "2026-08-28 14:00 UTC",
+    "date_iso": "2026-08-28T14:00:06Z"
+  },
+  {
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "date": "2026-08-28 02:00 UTC",
+    "date_iso": "2026-08-28T02:00:00Z"
+  },
+  {
+    "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+    "title": "Automated researchers can reliably mitigate alignment failures",
+    "source": "Anthropic Research",
+    "type": "blog",
+    "summary": "",
+    "date": "2026-08-28 00:00 UTC",
+    "date_iso": "2026-08-28T00:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7A65O-0lvKE",
+    "title": "Which AI startups actually land enterprise contracts? — Brian Lewis, Millennium",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "For a given internal pain point, Brian Lewis might find 10 to 15 startups worth a look, book two or three demos, run zero or one pilot, and sign roughly one contract for every four pilots. That works out to about 5% of demo calls ending in a signature, which turns out to match published benchmarks. He is on the …",
+    "date": "2026-08-27 20:05 UTC",
+    "date_iso": "2026-08-27T20:05:28Z"
+  }
+]
