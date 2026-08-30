@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=S6aSoQ6_u5A",
+    "title": "Tell the Robot What You Want — Sandhya Subramani, AWS",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Sandhya Subramani asks her rover how many people it can see, a question nobody ever trained it to answer. It thinks for a second, checks its front camera, and reports two, one near the speaker monitor and one further right. Scout is a small four legged robot running a Raspberry Pi, reaching the internet over a SIM card and a …",
+    "date": "2026-08-29 18:30 UTC",
+    "date_iso": "2026-08-29T18:30:17Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=1KOdiGgMtpY",
+    "title": "The Signal Layer: What to Build When Anything Can Be Built — Lena Hall, Akamai",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Lena Hall resolved a production incident from a hiking trail near a waterfall. A friend of hers ran 18 agents while riding his bike. That abundance is the setup for her actual argument, which is that the same leverage reached your competitors on the same morning, so the cost of average work fell to zero and took its value with …",
+    "date": "2026-08-29 18:00 UTC",
+    "date_iso": "2026-08-29T18:00:34Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dQ-_i1tZiws",
+    "title": "Tribal Dungeons of Global Shipping: AI Agents at Global Scale — Dmitry Buykin, Maersk",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Maersk's standard operating procedures were screenshots. A sequence of images showing what a person sees and where they click, which is a perfectly good record for a human and useless to an agent. Dmitry Buykin calls the gap tribal dungeons: the knowledge exists, just not in a form anything can execute safely. An agent version of the same procedure needs …",
+    "date": "2026-08-29 17:30 UTC",
+    "date_iso": "2026-08-29T17:30:21Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jebp4V0vh30",
+    "title": "Agentic Sites: Building Hyper Personalized Websites — Carlos Sanchez, Adobe",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Carlos Sanchez types a request for a coffee machine he can use while camping, and the page assembles itself in under two seconds. Not a search result. A page, with camping appropriate machines, rewritten copy and a set of tips, generated for that one query. Adobe calls the goal an audience of one, which is the thing marketers have wanted …",
+    "date": "2026-08-29 17:00 UTC",
+    "date_iso": "2026-08-29T17:00:17Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=32nrHU6zHU8",
+    "title": "Agents Are Where Microservices Were in 2015 — Roberto Milev & Uday Kanagala, Navan",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Tell a travel agent to book a flight whenever the fare drops below 200 dollars and something awkward follows. When it fires two weeks later, who made that purchase? Roberto Milev and Uday Kanagala keep returning to that blurring, because Navan sells travel and expense management and the answer decides what authorization even means. An agent may act on behalf …",
+    "date": "2026-08-29 16:30 UTC",
+    "date_iso": "2026-08-29T16:30:28Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=hD9-V56FNRI",
+    "title": "AI Agents Are Just Distributed Systems Now — Salman Munaf, TikTok",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An agent calls a refund tool and the request times out. Did the customer get their money? Salman Munaf uses that to make his central point, which is that a timeout has never meant failure, it means unknown, and an agent's first instinct on any failure is to try again. Without request identifiers, idempotency keys and a status lookup, that …",
+    "date": "2026-08-29 16:00 UTC",
+    "date_iso": "2026-08-29T16:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dSg0pu8d6qg",
+    "title": "From Tokenmaxxing to Trusted Throughput — Mingsheng Hong, Ironclad",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An engineer at a large tech company built a voluntary dashboard showing everyone's AI token usage, and colleagues promptly started competing to top it. Mingsheng Hong uses that as the thing not to do. His team runs the same dashboards, but treats them as a smoke detector rather than a leaderboard: a team using surprisingly few tokens is worth a …",
+    "date": "2026-08-29 15:30 UTC",
+    "date_iso": "2026-08-29T15:30:28Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2WZsT-znFTQ",
+    "title": "Guardians of the State: An Air-Gapped AI Fortress for Consumer Data — Rachna Srivastava, DFPI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The fiber optic cable carrying data into California's financial fraud system has been cut in half. One end sits on the internet with a laser transmitter. The other end, inside the building, has only a receiver. There is no transmitter pointing outward, so data physically cannot leave. Rachna Srivastava's team chose that over a software firewall for a blunt reason: …",
+    "date": "2026-08-29 15:00 UTC",
+    "date_iso": "2026-08-29T15:00:25Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=sM1iYgz93HI",
+    "title": "The Half Life of Agent Infrastructure — Ben Kus, Box",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ben Kus stood on this same stage last year and recommended a graph based approach to building agents. Someone found him afterward to say it was exactly the answer he needed. Kus opens this talk by retracting it, and admits he has since wondered what became of that person. Nothing about the advice was wrong when he gave it. A …",
+    "date": "2026-08-29 14:30 UTC",
+    "date_iso": "2026-08-29T14:30:22Z"
+  }
+]
