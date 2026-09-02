@@ -1,0 +1,119 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=tE2z8-hqoLY",
+    "title": "Beyond the Lethal Trifecta: Agentic Commerce on the Open Internet — David Levine, Kiduna Club",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Two hours before David Levine took the closing slot of the conference, the West Virginia Secretary of State wrote back to confirm organization number 62847. The paperwork had gone out by FedEx. What it registered was a DUNA, a decentralized unincorporated nonprofit association, under a law that had taken effect the day before, and Levine's claim is that an organization …",
+    "date": "2026-09-01 20:30 UTC",
+    "date_iso": "2026-09-01T20:30:27Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=QrMcNe2jjt8",
+    "title": "The End of the Static Screen: Architecting Intent-Driven UX — Gus Iwanaga, commercetools",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Gus Iwanaga opens by disowning his own session title, then shows the demo that did not work. His team asked their system for a sales report for Q1 four times over. It returned four different layouts: different KPI cards, different charts, different amounts of text, and copy that drifted from Q1 in one run to January and March in another. …",
+    "date": "2026-09-01 20:00 UTC",
+    "date_iso": "2026-09-01T20:00:01Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZyGMqdIpPoE",
+    "title": "Agent Spending Without Controls — Rodrigo Coelho & Pranav Maheshwari, Edge & Node",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Pranav Maheshwari ran one prompt in two terminals: find the email address of the head of crypto and blockchain at Mastercard. The terminal without a payment skill file returned the company's email format and an invitation to work the rest out. The one with it paid a fraction of a cent to a metered endpoint and came back with the …",
+    "date": "2026-09-01 19:30 UTC",
+    "date_iso": "2026-09-01T19:30:09Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=h6mi88VrPtQ",
+    "title": "x402 isn’t good (yet) — Jan Curn, Apify",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Between the moment an x402 server verifies a payment signature and the moment it settles on the blockchain, nothing stops the buyer spending that money somewhere else. Jan Curn's point is that a client can mint a thousand signatures against one wallet, so any seller starting real work on the strength of a verification is exposed. The workaround is to …",
+    "date": "2026-09-01 19:00 UTC",
+    "date_iso": "2026-09-01T19:00:09Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vGn6N4-bxBY",
+    "title": "Your Agent Just Authorized What?! — Jay Mok & Ben Coumes, Paypal",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A PayPal order has always been synchronous. You find the item, you open the app, you approve it, it is done. The approval token demonstrated here inverts that: the user approves before the agent has found an item or picked a merchant, and PayPal returns a JSON payload carrying the amount, the expiry, and the merchant the agent is permitted …",
+    "date": "2026-09-01 18:30 UTC",
+    "date_iso": "2026-09-01T18:30:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qTZirYu9pr0",
+    "title": "When AI Agents Pay and Sellers Monetize: Building x402 Apps on AWS — Anil Nadiminti, AWS",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Card rails put a floor under every transaction: a 25 cent minimum with a percentage on top. Anil Nadiminti's point is that when an agent pays a tenth of a cent for a single API call, that floor costs roughly 250 times the thing being bought, which is why the subscription model cannot simply be pointed at agents. Meanwhile the …",
+    "date": "2026-09-01 18:00 UTC",
+    "date_iso": "2026-09-01T18:00:14Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=xKzU_3riL6s",
+    "title": "Why Your AI Agent Needs a Wallet: USDC and Nanopayments — Harshal Bhangale, Circle",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Harshal Bhangale gave two identical agents the same job: plan a trip to the World Cup final, covering flights, hotels, resale ticket prices and what people said about getting to the stadium, then email him the summary and call him about it. One had a funded wallet. The other did not. The agent without one drafted the email into his …",
+    "date": "2026-09-01 17:30 UTC",
+    "date_iso": "2026-09-01T17:30:10Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years",
+    "title": "The Pragmatic Engineer: Five years",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "As the newsletter reaches its fifth birthday, we reflect on how the publication has changed, and what to expect. Also: the launch of the &#8216;How Software Engineering is Changing&#8217; essay contest",
+    "date": "2026-09-01 17:14 UTC",
+    "date_iso": "2026-09-01T17:14:34Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=AhQpRalYlyg",
+    "title": "Multimodal Collaborative Agents for Next-Gen Commerce — Nidhi Kaushik Vyas, Google DeepMind",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Asked to redo a living room on a budget, the agent Nidhi Kaushik Vyas walks through does not start recommending. It works out what it does not know, then picks the single question worth asking: how wide is the room. Everything downstream is moot if the furniture will not fit, so that one answer carries the most information per turn. …",
+    "date": "2026-09-01 17:00 UTC",
+    "date_iso": "2026-09-01T17:00:27Z"
+  },
+  {
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "date": "2026-09-01 17:00 UTC",
+    "date_iso": "2026-09-01T17:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=A-zeQiYkmXk",
+    "title": "Teaching agents to pay — Anna Spysz, Stripe",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Anna Spysz asked her shopping agent whether the pricier headphones were really worth the difference, and it told her she would regret buying the cheap ones. When she said she needed to think about it, the agent got snarky with her. The cause was sitting in her own config: a persona whose system prompt opened with \"You are an aggressive …",
+    "date": "2026-09-01 16:30 UTC",
+    "date_iso": "2026-09-01T16:30:06Z"
+  },
+  {
+    "url": "https://medium.com/pinterest-engineering/becoming-an-ai-team-866d6b567803?source=rss----4c5a5f6279b6---4",
+    "title": "Becoming an AI Team",
+    "source": "Pinterest Engineering",
+    "type": "blog",
+    "summary": "John Grass | Sr. Manager, Engineering A Fundamental Transformation An AI team is fundamentally more than just a group whose members incorporate AI tools into their existing workflows. The journey to becoming an AI team necessitates a fundamental and comprehensive paradigm shift in how the team defines ownership, engages in strategic planning, and, most critically, executes on its core goals …",
+    "date": "2026-09-01 15:01 UTC",
+    "date_iso": "2026-09-01T15:01:06Z"
+  },
+  {
+    "url": "https://openai.com/index/path-to-astra",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+    "date": "2026-09-01 13:00 UTC",
+    "date_iso": "2026-09-01T13:00:00Z"
+  }
+]
