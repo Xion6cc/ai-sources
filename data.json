@@ -1,5 +1,17 @@
 [
   {
+    "title": "How we make AI coding more cost efficient without sacrificing task quality",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+    "source": "GitHub Engineering",
+    "type": "blog",
+    "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog .",
+    "date": "2026-09-02 18:00 UTC",
+    "date_str": "2026-09-02",
+    "date_iso": "2026-09-02T18:00:00Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-09-02_How-we-make-AI-coding-more-cost-efficient-without-sacrificing-task-quality.md"
+  },
+  {
     "title": "Beyond the Lethal Trifecta: Agentic Commerce on the Open Internet — David Levine, Kiduna Club",
     "url": "https://www.youtube.com/watch?v=tE2z8-hqoLY",
     "source": "AI Engineer",
@@ -2460,79 +2472,5 @@
     "date_iso": "2026-08-04T13:42:03Z",
     "thumbnail_url": "",
     "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-04_The-best-AI-training-isnt-a-course-Its-pulling-an-agent-into-your-teams-group-ch.md"
-  },
-  {
-    "title": "How to judge if a meeting is efficient: An efficient meeting has no to-do list left behind, because all the actions are done DURING the meeting (either by agents who listen to the meeting in real time or by humans) The gap between saying and doing should be zero, and meetings become work sessions where things actually get DONE",
-    "url": "https://nitter.net/zarazhangrui/status/2084601752817729811#m",
-    "source": "Zara Zhang (@zarazhangrui)",
-    "type": "twitter",
-    "summary": "How to judge if a meeting is efficient: An efficient meeting has no to-do list left behind, because all the actions are done DURING the meeting (either by agents who listen to the meeting in real time or by humans) The gap between saying and doing should be zero, and meetings become work sessions where things actually get DONE",
-    "date": "2026-08-04 11:26 UTC",
-    "date_str": "2026-08-04",
-    "date_iso": "2026-08-04T11:26:02Z",
-    "thumbnail_url": "",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-04_How-to-judge-if-a-meeting-is-efficient-An-efficient-meeting-has-no-to-do-list-le.md"
-  },
-  {
-    "title": "Great video made with almost zero budget!",
-    "url": "https://nitter.net/zarazhangrui/status/2084585134230278572#m",
-    "source": "Zara Zhang (@zarazhangrui)",
-    "type": "twitter",
-    "summary": "Great video made with almost zero budget! Mera Huang (@shimiaohuang) My Codex still had quota left. My wrists didn’t. Years of typing caused TFCC injuries in both my wrists. So I built soink, a live, hands-free AI voice keyboard for people like me with wrist pain. There are plenty of AI dictation tools out there. But none of them were …",
-    "date": "2026-08-04 10:20 UTC",
-    "date_str": "2026-08-04",
-    "date_iso": "2026-08-04T10:20:00Z",
-    "thumbnail_url": "https://nitter.net/pic/amplify_video_thumb%2F2079948821564686337%2Fimg%2FA-DIfTxPnUKa45HY.jpg",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-04_Great-video-made-with-almost-zero-budget.md"
-  },
-  {
-    "title": "Simple but effective use case of Codex for trip planning: Taking screenshots of bookings of restaurants/trains/events and asking Codex to put them on your Google Calendar",
-    "url": "https://nitter.net/zarazhangrui/status/2084536363668611491#m",
-    "source": "Zara Zhang (@zarazhangrui)",
-    "type": "twitter",
-    "summary": "Simple but effective use case of Codex for trip planning: Taking screenshots of bookings of restaurants/trains/events and asking Codex to put them on your Google Calendar",
-    "date": "2026-08-04 07:06 UTC",
-    "date_str": "2026-08-04",
-    "date_iso": "2026-08-04T07:06:12Z",
-    "thumbnail_url": "",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-04_Simple-but-effective-use-case-of-Codex-for-trip-planning-Taking-screenshots-of-b.md"
-  },
-  {
-    "title": "Apple is getting this wrong",
-    "url": "https://openai.com/index/apple-is-getting-this-wrong",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-    "date": "2026-08-03 22:00 UTC",
-    "date_str": "2026-08-03",
-    "date_iso": "2026-08-03T22:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-03_Apple-is-getting-this-wrong.md"
-  },
-  {
-    "title": "Building Turbopuffer: Gergely Orosz (@pragmaticengineer ) × Simon Eskildsen (CEO)",
-    "url": "https://www.youtube.com/watch?v=jQDXzEVHMSE",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "This fireside chat between Gergely Orosz and Simon Eskildsen explores the technical journey and engineering philosophy behind the database company Turbopuffer. Video Timestamps 0:00 Introduction and Simon’s early history with computers 3:02 The International Olympiad in Informatics and early competitive programming 4:13 How Simon was recruited by Shopify while still in high school 8:46 Engineering challenges and scaling infrastructure at …",
-    "date": "2026-08-03 18:26 UTC",
-    "date_str": "2026-08-03",
-    "date_iso": "2026-08-03T18:26:07Z",
-    "thumbnail_url": "https://img.youtube.com/vi/jQDXzEVHMSE/mqdefault.jpg",
-    "view_count": 1214,
-    "view_count_display": "1.2K views",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-03_Building-Turbopuffer-Gergely-Orosz-pragmaticengineer-Simon-Eskildsen-CEO.md"
-  },
-  {
-    "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
-    "url": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
-    "source": "Meta Engineering",
-    "type": "blog",
-    "summary": "Meta&#8217;s Generative Ads Recommendation Model (GEM), the foundation model behind ads recommendations across Instagram and Facebook, now trains at LLM scale on several thousand of the latest-generation GPUs. This post goes into the details on how we achieved: doubling end-to-end (E2E) training efficiency to 20–25% Model FLOPs Utilization (MFU) while scaling training FLOPs 4x in [...] Read More... The post …",
-    "date": "2026-08-03 18:00 UTC",
-    "date_str": "2026-08-03",
-    "date_iso": "2026-08-03T18:00:17Z",
-    "thumbnail_url": "",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-03_GEM-Training-How-Meta-Doubled-the-Efficiency-of-Its-LLM-Scale-Ads-Foundation-Mod.md"
   }
 ]
