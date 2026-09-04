@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-tech-companies-move-to",
+    "title": "The Pulse: tech companies move to open AI models",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Cost-saving efforts reveal that moving simpler workloads to open AI models is the easiest way to save ~50% on AI bills. Also: automated software maintenance experience, and more",
+    "date": "2026-09-03 17:00 UTC",
+    "date_iso": "2026-09-03T17:00:14Z"
+  },
+  {
+    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/",
+    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "source": "Spotify Engineering",
+    "type": "blog",
+    "summary": "Most of what an AI coding agent does for me isn't thinking. It's I/O. The post Portal by Spotify cut my Claude Code token usage by 90% appeared first on Spotify Engineering .",
+    "date": "2026-09-03 16:06 UTC",
+    "date_iso": "2026-09-03T16:06:40Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/",
+    "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "We’re introducing ZGateway, the proxy we are using to unify traffic through ZippyDB, Meta’s most widely-used key value store. As a bonus, it also enables admission control, load balancing, cross-region resilience, and richer operations. ZippyDB is the most widely used key value store at Meta, backing product metadata, counters, and configuration, and can serve billions [...] Read More... The post …",
+    "date": "2026-09-03 16:00 UTC",
+    "date_iso": "2026-09-03T16:00:20Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=xxfMT-bPEmU",
+    "title": "From coding to Knowledge work agents — Karan Vaidya, Composio",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Karan Vaidya pointed his own OpenClaw at hiring outreach and it mass emailed candidates exactly as instructed. Some of the people in the room had received one. The thread that followed put his name on Twitter, and every check in the software engineering playbook would have passed. The addresses were real, the emails were valid, they reached actual people. Nothing …",
+    "date": "2026-09-03 16:00 UTC",
+    "date_iso": "2026-09-03T16:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=0uC6u0lJJl4",
+    "title": "Your company brain will leak secrets: how we stopped it for big banks — Tanmai Gopal, PromptQL",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Tanmai Gopal plotted the daily edits to his own company brain expecting the usual shape, a burst of enthusiasm followed by neglect. The line kept climbing instead, and it surprised him. His reading is that a system people trust gets taught more, not less: teach it to query the data, then to interpret the result, then to act on it, …",
+    "date": "2026-09-03 15:30 UTC",
+    "date_iso": "2026-09-03T15:30:26Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=REascnFlq_8",
+    "title": "Agents' next frontier: agent-to-agent and network effects — Jean-Denis Greze, Town",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Jean-Denis Greze and his wife share an agent that can read both of their inboxes, including mail from before they were married, and neither of them minds. Greze is CTO of Town and spent seven years as CTO at Plaid. He opens by rejecting his own topic. Agent to agent, he argues, is not a useful concept. Every LLM system …",
+    "date": "2026-09-03 15:00 UTC",
+    "date_iso": "2026-09-03T15:00:25Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=wCIYViPd4SU",
+    "title": "Tethered: Our Agents Are Us — Shu Fang, Two Sigma",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Every employee at Two Sigma has a remote cloud agent, and it runs as them. Not a service account but their own identity, at a 25 year old quant fund in one of the most regulated industries there is. Shu Fang grew a mustache so the audience could tell him apart from his. His framing comes from the horror film …",
+    "date": "2026-09-03 14:30 UTC",
+    "date_iso": "2026-09-03T14:30:21Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Qr15lGAGKpo",
+    "title": "Everyone Gets A Software Company — Benjamin Guo, Zo Computer",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ben Guo built the page listing every speaker in this session while he sat waiting to go on, then put a QR code to it on his first slide. He builds that way because his computer is a server in the cloud that he talks to in plain language. Guo cofounded Zo Computer after starting on the early Venmo team …",
+    "date": "2026-09-03 14:00 UTC",
+    "date_iso": "2026-09-03T14:00:06Z"
+  },
+  {
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "date": "2026-09-03 13:15 UTC",
+    "date_iso": "2026-09-03T13:15:00Z"
+  }
+]
