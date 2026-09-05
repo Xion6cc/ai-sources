@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=5Cxe5dv2Xlw",
+    "title": "Why AI Agents Need Million-Token Context — Thomas Wolf & Olive Song, MiniMax",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An intern designed the sparse-attention architecture behind MiniMax M3. That detail comes after Olive Song explains the larger problem the team was trying to solve: short context windows aren’t enough when agents must work across long conversations, tool responses and complex environments. M3 combines a functional one-million-token context window with coding, agentic and multimodal capabilities, allowing it to understand text, …",
+    "date": "2026-09-04 13:00 UTC",
+    "date_iso": "2026-09-04T13:00:26Z"
+  },
+  {
+    "url": "https://cursor.com/blog/basis",
+    "title": "How Basis builds long-horizon accounting agents with Cursor",
+    "source": "Cursor",
+    "type": "blog",
+    "summary": "",
+    "date": "2026-09-04 12:00 UTC",
+    "date_iso": "2026-09-04T12:00:00Z"
+  }
+]

@@ -1,5 +1,31 @@
 [
   {
+    "title": "Why AI Agents Need Million-Token Context — Thomas Wolf & Olive Song, MiniMax",
+    "url": "https://www.youtube.com/watch?v=5Cxe5dv2Xlw",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An intern designed the sparse-attention architecture behind MiniMax M3. That detail comes after Olive Song explains the larger problem the team was trying to solve: short context windows aren’t enough when agents must work across long conversations, tool responses and complex environments. M3 combines a functional one-million-token context window with coding, agentic and multimodal capabilities, allowing it to understand text, …",
+    "date": "2026-09-04 13:00 UTC",
+    "date_str": "2026-09-04",
+    "date_iso": "2026-09-04T13:00:26Z",
+    "thumbnail_url": "https://img.youtube.com/vi/5Cxe5dv2Xlw/mqdefault.jpg",
+    "view_count": 5930,
+    "view_count_display": "5.9K views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-09-04_Why-AI-Agents-Need-Million-Token-Context-Thomas-Wolf-Olive-Song-MiniMax.md"
+  },
+  {
+    "title": "How Basis builds long-horizon accounting agents with Cursor",
+    "url": "https://cursor.com/blog/basis",
+    "source": "Cursor",
+    "type": "blog",
+    "summary": "",
+    "date": "2026-09-04 12:00 UTC",
+    "date_str": "2026-09-04",
+    "date_iso": "2026-09-04T12:00:00Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-09-04_How-Basis-builds-long-horizon-accounting-agents-with-Cursor.md"
+  },
+  {
     "title": "The Pulse: tech companies move to open AI models",
     "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-tech-companies-move-to",
     "source": "The Pragmatic Engineer Newsletter",
@@ -2480,67 +2506,5 @@
     "date_iso": "2026-08-06T14:23:59Z",
     "thumbnail_url": "",
     "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-06_Question-is-anyone-using-Claude-Tag-or-other-equivalent-team-agents-heavily-in-y.md"
-  },
-  {
-    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-    "date": "2026-08-06 10:00 UTC",
-    "date_str": "2026-08-06",
-    "date_iso": "2026-08-06T10:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-06_Improving-GPT56-Sol-in-ChatGPTand-expanding-access-to-GPT-56-Luna-for-free-users.md"
-  },
-  {
-    "title": "Gadgets: Personal app vibe coding that is actually safe — Kenton Varda, Cloudflare",
-    "url": "https://www.youtube.com/watch?v=RmS5s6Wbin4",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "*Note: Kenton has just released Cloudflare OS today: https://x.com/KentonVarda/status/2084990137180590572 This talk was recorded a month prior to launch.* Claude needed a strikethrough the slide app did not have, so it added one to the app. Asked to build a deck from a Google doc, it also added text centering and a box that accepts raw SVG, then generated the SVG …",
-    "date": "2026-08-05 22:42 UTC",
-    "date_str": "2026-08-05",
-    "date_iso": "2026-08-05T22:42:10Z",
-    "thumbnail_url": "https://img.youtube.com/vi/RmS5s6Wbin4/mqdefault.jpg",
-    "view_count": 1342,
-    "view_count_display": "1.3K views",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-05_Gadgets-Personal-app-vibe-coding-that-is-actually-safe-Kenton-Varda-Cloudflare.md"
-  },
-  {
-    "title": "From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s Ads Ranking",
-    "url": "https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/",
-    "source": "Meta Engineering",
-    "type": "blog",
-    "summary": "Every day, Meta’s recommendation platforms handle billions of user interactions, generating rich temporal signals that capture individual preferences and intent across products, ads, and content. In our 2024 post on sequence learning for ads recommendations, we showed how modeling the order and timing of user actions (rather than relying on static, manually engineered sparse features) [...] Read More... The post …",
-    "date": "2026-08-05 19:20 UTC",
-    "date_str": "2026-08-05",
-    "date_iso": "2026-08-05T19:20:20Z",
-    "thumbnail_url": "",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-05_From-User-Sequences-to-Scaling-Laws-A-Multi-Stage-Architecture-for-Metas-Ads-Ran.md"
-  },
-  {
-    "title": "There’s so much groupthink going on in AI right now",
-    "url": "https://nitter.net/zarazhangrui/status/2084995439745536082#m",
-    "source": "Zara Zhang (@zarazhangrui)",
-    "type": "twitter",
-    "summary": "There’s so much groupthink going on in AI right now Mitchell Hashimoto (@mitchellh) A sad thing I see is when companies start becoming reactive over proactive. Its a clear external sign that the leadership has lost vision. They make decisions they feel are safe instead of through conviction of a future. The problem is that \"safe\" almost always means following …",
-    "date": "2026-08-05 13:30 UTC",
-    "date_str": "2026-08-05",
-    "date_iso": "2026-08-05T13:30:24Z",
-    "thumbnail_url": "",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-05_Theres-so-much-groupthink-going-on-in-AI-right-now.md"
-  },
-  {
-    "title": "Great video",
-    "url": "https://nitter.net/zarazhangrui/status/2084979733515641102#m",
-    "source": "Zara Zhang (@zarazhangrui)",
-    "type": "twitter",
-    "summary": "Great video Y Combinator (@ycombinator) Congrats to @pablorpalafox , @PaarupLuis , @javipalafox , and @HappyRobot (S23) on their $150M Series C at a $1.2B valuation! They build AI agents that run the phone calls, emails, and scheduling behind enterprise operations. They proved the platform in logistics and are now expanding into insurance, energy, telecom, and airlines. Revenue has grown more …",
-    "date": "2026-08-05 12:28 UTC",
-    "date_str": "2026-08-05",
-    "date_iso": "2026-08-05T12:28:00Z",
-    "thumbnail_url": "https://nitter.net/pic/amplify_video_thumb%2F2084651855372808192%2Fimg%2FaVZ8KXJiKxhHXj-C.jpg",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-05_Great-video.md"
   }
 ]
