@@ -1,5 +1,17 @@
 [
   {
+    "title": "Supporting independent journalism in Ukraine",
+    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+    "date": "2026-09-07 00:00 UTC",
+    "date_str": "2026-09-07",
+    "date_iso": "2026-09-07T00:00:00Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-09-07_Supporting-independent-journalism-in-Ukraine.md"
+  },
+  {
     "title": "Why AI Agents Need Million-Token Context — Thomas Wolf & Olive Song, MiniMax",
     "url": "https://www.youtube.com/watch?v=5Cxe5dv2Xlw",
     "source": "AI Engineer",
@@ -2388,57 +2400,5 @@
     "date_iso": "2026-08-08T15:25:12Z",
     "thumbnail_url": "https://nitter.net/pic/media%2FHPNZv-ZaUAE1P4l.png",
     "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-08_This-paper-gives-a-fancy-name-to-a-problem-you-can-already-feel-in-your-bones-Th.md"
-  },
-  {
-    "title": "The New Primitives: Building AI Native Software — Kwindla Kramer, Daily",
-    "url": "https://www.youtube.com/watch?v=LZuWZRze3MU",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "In 1945 Vannevar Bush described document scanning, OCR, speech to text, hypertext, search engines, a head mounted camera, and voice interfaces, in a single essay, before any of it existed. Kwindla Hultman Kramer uses As We May Think to set up the uncomfortable part: he was a baby programmer in 1995 writing HTML by hand and web servers in C, …",
-    "date": "2026-08-07 23:53 UTC",
-    "date_str": "2026-08-07",
-    "date_iso": "2026-08-07T23:53:33Z",
-    "thumbnail_url": "https://img.youtube.com/vi/LZuWZRze3MU/mqdefault.jpg",
-    "view_count": 833,
-    "view_count_display": "833 views",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-07_The-New-Primitives-Building-AI-Native-Software-Kwindla-Kramer-Daily.md"
-  },
-  {
-    "title": "Open Source Is Dead. Long Live Open Source. — Saoud Rizwan, Cline",
-    "url": "https://www.youtube.com/watch?v=CoEIs6Xm8m8",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "A compromised release of litellm, a Python package pulling three and a half million downloads a day, sat live for three hours installing a credential harvester for API keys, SSH keys and crypto keys along with a backdoor for remote command execution. It was caught by pure luck: the malware had a bug that crashed Cursor, and a researcher went …",
-    "date": "2026-08-07 23:26 UTC",
-    "date_str": "2026-08-07",
-    "date_iso": "2026-08-07T23:26:51Z",
-    "thumbnail_url": "https://img.youtube.com/vi/CoEIs6Xm8m8/mqdefault.jpg",
-    "view_count": 552,
-    "view_count_display": "552 views",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-07_Open-Source-Is-Dead-Long-Live-Open-Source-Saoud-Rizwan-Cline.md"
-  },
-  {
-    "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
-    "url": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
-    "source": "Netflix Tech Blog",
-    "type": "blog",
-    "summary": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC execution API Authors: Nilesh Mishra and Ajit Koti This is the third entry of a multi-part blog series describing how we built a Real-Time Distributed Graph (RDG). In Part 1 , we discussed the motivation for creating the RDG and the architecture of …",
-    "date": "2026-08-07 16:01 UTC",
-    "date_str": "2026-08-07",
-    "date_iso": "2026-08-07T16:01:02Z",
-    "thumbnail_url": "https://cdn-images-1.medium.com/max/1024/1*X_O1wdMIVfm9upb2tLXD9A.png",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-07_How-and-Why-Netflix-Built-a-Real-Time-Distributed-Graph-Part-3-Querying-the-grap.md"
-  },
-  {
-    "title": "Responding to the next frontier of critical cyber capabilities",
-    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-    "date": "2026-08-07 15:20 UTC",
-    "date_str": "2026-08-07",
-    "date_iso": "2026-08-07T15:20:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-07_Responding-to-the-next-frontier-of-critical-cyber-capabilities.md"
   }
 ]
