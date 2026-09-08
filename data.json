@@ -2346,59 +2346,5 @@
     "date_iso": "2026-08-09T13:55:12Z",
     "thumbnail_url": "",
     "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-09_One-of-my-favorite-videos-lately-So-many-practical-design-tips-my-favorite-is-Ju.md"
-  },
-  {
-    "title": "Realtime multiplayer, automation, and you! — Idan Gazit, GitHub",
-    "url": "https://www.youtube.com/watch?v=iQ5xldZ9StU",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "Idan Gazit's personal site runs on Astro, which ships often enough to keep him permanently on the upgrade treadmill, so he wrote an agentic workflow in about three lines of plain English, the kind of message you would send a teammate. Copilot expanded it into a full playbook: check for new releases, read the changelog and upgrade guide, apply the …",
-    "date": "2026-08-08 21:30 UTC",
-    "date_str": "2026-08-08",
-    "date_iso": "2026-08-08T21:30:06Z",
-    "thumbnail_url": "https://img.youtube.com/vi/iQ5xldZ9StU/mqdefault.jpg",
-    "view_count": 854,
-    "view_count_display": "854 views",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-08_Realtime-multiplayer-automation-and-you-Idan-Gazit-GitHub.md"
-  },
-  {
-    "title": "Benchmarking Coding Agents on New vs Legacy Codebases — Denys Linkov, Wisedocs",
-    "url": "https://www.youtube.com/watch?v=7vn4WpqNpck",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "Wisedocs processes medical claims that arrive as PDFs over 10,000 pages long, some of them larger than video files, through a pipeline of ML models spread across ten repositories nobody enjoyed touching. Denys Linkov's team spent six months collapsing that into a monorepo, and this talk is an honest audit of whether they should have just waited for the models …",
-    "date": "2026-08-08 19:00 UTC",
-    "date_str": "2026-08-08",
-    "date_iso": "2026-08-08T19:00:06Z",
-    "thumbnail_url": "https://img.youtube.com/vi/7vn4WpqNpck/mqdefault.jpg",
-    "view_count": 1224,
-    "view_count_display": "1.2K views",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-08_Benchmarking-Coding-Agents-on-New-vs-Legacy-Codebases-Denys-Linkov-Wisedocs.md"
-  },
-  {
-    "title": "Anthropic's CCA Exam as a Field-Guide for Agentic Engineering — Frank Coyle, UC Berkeley",
-    "url": "https://www.youtube.com/watch?v=Z-c11pV_uvU",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "The Claude Certified Architect exam hands you six production scenarios and picks four at random, and Frank Coyle walks through them backwards, leading with the anti pattern in each one. Knowing what not to do is what points you toward what to do, the same way the design patterns movement of the early 1990s came with a catalog of the …",
-    "date": "2026-08-08 16:00 UTC",
-    "date_str": "2026-08-08",
-    "date_iso": "2026-08-08T16:00:06Z",
-    "thumbnail_url": "https://img.youtube.com/vi/Z-c11pV_uvU/mqdefault.jpg",
-    "view_count": 6735,
-    "view_count_display": "6.7K views",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-08_Anthropics-CCA-Exam-as-a-Field-Guide-for-Agentic-Engineering-Frank-Coyle-UC-Berk.md"
-  },
-  {
-    "title": "This paper gives a fancy name to a problem you can already feel in your bones \"The Tragedy of the Cognitive Commons.\" Checking AI output requires deep expertise. Deep expertise comes from doing grunt work for years. And grunt work is the first thing AI eats So we're building systems that need expert supervision while dismantling the only known process for making experts The paper calls the shared pool of human expertise the \"cognitive commons.\" Every profession drinks from it. Nobody's refilling it. By eliminating junior roles, each company is acting totally rationally, and the collective result: a profession that can't catch AI's mistakes anymore because it never learned to do the work in the first place Who checks AI's homework in 15 years?",
-    "url": "https://nitter.net/zarazhangrui/status/2086111492018221523#m",
-    "source": "Zara Zhang (@zarazhangrui)",
-    "type": "twitter",
-    "summary": "This paper gives a fancy name to a problem you can already feel in your bones \"The Tragedy of the Cognitive Commons.\" Checking AI output requires deep expertise. Deep expertise comes from doing grunt work for years. And grunt work is the first thing AI eats So we're building systems that need expert supervision while dismantling the only known process …",
-    "date": "2026-08-08 15:25 UTC",
-    "date_str": "2026-08-08",
-    "date_iso": "2026-08-08T15:25:12Z",
-    "thumbnail_url": "https://nitter.net/pic/media%2FHPNZv-ZaUAE1P4l.png",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-08_This-paper-gives-a-fancy-name-to-a-problem-you-can-already-feel-in-your-bones-Th.md"
   }
 ]
