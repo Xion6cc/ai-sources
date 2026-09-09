@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+    "source": "Sebastian Raschka",
+    "type": "blog",
+    "summary": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks",
+    "date": "2026-09-09 11:14 UTC",
+    "date_iso": "2026-09-09T11:14:25Z"
+  },
+  {
+    "url": "https://blog.kunchenguid.com/p/i-distilled-myself-and-you-should",
+    "title": "I distilled myself, and you should too",
+    "source": "Kun's Field Notes (@kunchenguid)",
+    "type": "blog",
+    "summary": "You can also distill others. Full guide below.",
+    "date": "2026-09-09 06:32 UTC",
+    "date_iso": "2026-09-09T06:32:04Z"
+  },
+  {
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+    "date": "2026-09-08 17:00 UTC",
+    "date_iso": "2026-09-08T17:00:00Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
+    "title": "What is happening with code reviews?",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "AI generates more code than devs can track in 2026, so will the code review process have to adapt &#8211; or is it doomed? A look into this decades-old practice and the approaches that could replace it",
+    "date": "2026-09-08 16:32 UTC",
+    "date_iso": "2026-09-08T16:32:01Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=y2W4FNAuPEA",
+    "title": "Deep dive on LLM Inference at Scale — Harshul Jain, Audible & Tanmay Sah, Independent AI Researcher",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A single token of KV cache on Mistral 7B costs 131 KB. Multiply that by 16,000 tokens of context and 80 concurrent users and the cache alone wants 42 GB of GPU memory, which is why requests start failing on a 24 GB card. Harshul Jain, a senior software engineer at Audible, and Tanmay Sah, an independent AI researcher, spend …",
+    "date": "2026-09-08 15:00 UTC",
+    "date_iso": "2026-09-08T15:00:06Z"
+  },
+  {
+    "url": "https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/",
+    "title": "Why Spotify Is Not Using Bayesian A/B Testing",
+    "source": "Spotify Engineering",
+    "type": "blog",
+    "summary": "Clearing the confusion about what Bayesian A/B testing is. The post Why Spotify Is Not Using Bayesian A/B Testing appeared first on Spotify Engineering .",
+    "date": "2026-09-08 13:18 UTC",
+    "date_iso": "2026-09-08T13:18:44Z"
+  },
+  {
+    "url": "https://openai.com/index/the-work-now-within-reach",
+    "title": "The Work Now Within Reach",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+    "date": "2026-09-08 13:00 UTC",
+    "date_iso": "2026-09-08T13:00:00Z"
+  }
+]
