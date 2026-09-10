@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+    "date": "2026-09-09 17:00 UTC",
+    "date_iso": "2026-09-09T17:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=YkNulwcc5jk",
+    "title": "ACP: The Universal Remote Control for AI Agents — Alex Hancock, Block",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Alex Hancock built one of the clients in this talk the night before he gave it, which is roughly the point. Hancock is a software engineer at Block, works on the open source agent harness Goose, now donated to the Linux Foundation, and maintains the Rust SDK for MCP. His argument is that the agentic stack already has a good …",
+    "date": "2026-09-09 16:00 UTC",
+    "date_iso": "2026-09-09T16:00:03Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux",
+    "title": "Building Codex with Tibo Sottiaux",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "OpenAI&#8217;s Tibo Sottiaux shares how Codex was built and how it&#8217;s reshaping software development.",
+    "date": "2026-09-09 15:57 UTC",
+    "date_iso": "2026-09-09T15:57:24Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=sLSTM9znQNs",
+    "title": "Building Codex with Tibo Sottiaux",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "Tibo Sottiaux is one of the engineers who created Codex, and today, he heads up the Core Products & Platform org at OpenAI which also includes Codex. He’s also one of the most public faces of Codex due to his frequent – and generous – usage reset announcements, like this one yesterday. In this episode of the Pragmatic Engineer Podcast, …",
+    "date": "2026-09-09 15:56 UTC",
+    "date_iso": "2026-09-09T15:56:04Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=lbaXnx0KLA8",
+    "title": "MCP Apps: Give the Model Data, Give the User a UI — Dustin Mihalik, Indeed",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Adding a nice interface made the product worse. With plain text results the model would run ten or fifteen job searches, filter them, and assemble a table. Once a rendering widget was attached, it called the tool once, saw results already on screen, and stopped exploring. Dustin Mihalik is a technical fellow at Indeed working on AI platform and guardrails, …",
+    "date": "2026-09-09 15:30 UTC",
+    "date_iso": "2026-09-09T15:30:08Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=XzJD1bvXKjs",
+    "title": "How long can your skills be before your agent forgets what you told it? — Laurie Voss, Arize AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Laurie Voss reran a year old benchmark and the models walked straight through its ceiling without noticing it was there. IFScale asks a model to write a business report containing a list of exact words, then counts how many actually appear. A year ago frontier models started dropping instructions somewhere around 200 to 300, which is a hard limit on …",
+    "date": "2026-09-09 15:00 UTC",
+    "date_iso": "2026-09-09T15:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KcVkq5L-0f0",
+    "title": "Your agents lack context: Here's how to fix \"You're absolutely right!\" — Brandon Waselnuk, Unblocked",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Unblocked ran the same prompt against the same model twice, once with a context engine behind it and once without. The run without it burned twenty one million tokens. The run with it burned ten point eight million and finished about two hours sooner. Brandon Waselnuk works in developer relations at Unblocked, and he opens with the standard his talk …",
+    "date": "2026-09-09 14:30 UTC",
+    "date_iso": "2026-09-09T14:30:12Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9wZpvF3QleU",
+    "title": "500 Skills, Zero Fine-Tuning: LinkedIn's Playbook for AI Agents — Ajay Prakash, LinkedIn",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "LinkedIn exposes roughly 1,300 tools and 600 playbooks to its coding agents, and all of them sit behind exactly three. MCP degrades somewhere past thirty or forty tools, so Ajay Prakash's team replaced the whole surface with search, get schema, and execute, letting an agent find what it needs instead of carrying everything in context. Prakash is a senior staff …",
+    "date": "2026-09-09 14:00 UTC",
+    "date_iso": "2026-09-09T14:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=xo68uCibfm8",
+    "title": "It’s Tokens All The Way Down: How RLMs are Different — Kevin Madura, AlixPartners",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ask a model to sum twelve numbers scattered across thirty thousand tokens and it will often get it wrong. Give it a Python REPL and it writes a few lines of regex instead. That is the shift Kevin Madura, director of advanced technology at AlixPartners, describes in recursive language models. An RLM treats its context as an object living in …",
+    "date": "2026-09-09 13:30 UTC",
+    "date_iso": "2026-09-09T13:30:27Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9R--1tg45Jg",
+    "title": "Build-Time vs. Run-Time: Why Dev Tools Fail in Production — Averi Kitsch & Prerna Kakkar, Google",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In one of the demos an agent hits an error, decides the fix is to delete the table and start fresh, and does exactly that. Nothing stops it. Averi Kitsch, technical lead for MCP Toolbox on Google Cloud databases, and Prerna Kakkar, who leads Eval Bench at Google, use that failure to draw the line their talk is named for. …",
+    "date": "2026-09-09 13:00 UTC",
+    "date_iso": "2026-09-09T13:00:04Z"
+  },
+  {
+    "url": "https://openai.com/index/ai-policy-window",
+    "title": "The AI policy window is open. We need to act.",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+    "date": "2026-09-09 13:00 UTC",
+    "date_iso": "2026-09-09T13:00:00Z"
+  }
+]
