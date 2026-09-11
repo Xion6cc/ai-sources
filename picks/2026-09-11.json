@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://medium.com/pinterest-engineering/building-pinterests-vlm-serving-stack-on-nvidia-dynamo-0dce6e93d0f3?source=rss----4c5a5f6279b6---4",
+    "title": "Building Pinterest’s VLM Serving Stack on NVIDIA Dynamo",
+    "source": "Pinterest Engineering",
+    "type": "blog",
+    "summary": "Lei Pan | Senior Software Engineer; Salina Wu | Senior Software Engineer; Cristian Lopez | Software Engineer I; Guangtong Bai | Staff Software Engineer; Soam Acharya | Principal Engineer; Saurabh Vishwas Joshi | Principal Engineer; Chia-Wei Chen | Staff Software Engineer; Ambud Sharma | Principal Engineer Why VLM Serving Matters at Pinterest Pinterest is a visual search and discovery platform, …",
+    "date": "2026-09-10 23:08 UTC",
+    "date_iso": "2026-09-10T23:08:16Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu",
+    "title": "The Pulse #191: a new trend of CPU shortages",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "For compute-intensive services: it&#8217;s worth reserving more compute now. Also: growth dreams end for more COVID-era unicorns, engineers losing touch with systems when AI handles incidents, and more",
+    "date": "2026-09-10 17:13 UTC",
+    "date_iso": "2026-09-10T17:13:44Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=O1FN4awNEtM",
+    "title": "One Designer + AI. Hundreds of Deliverables. — Vincent Wendy, AI Engineer",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Vincent Wendy pointed an agent at the sponsor banner in the lobby, a wall carrying more than 140 logos, and asked it which ones were missing. It caught every omission in the checks he ran, and he used the same trick on the conference shirt. Wendy is the senior creative designer at AI Engineer, a company of roughly twelve to …",
+    "date": "2026-09-10 17:00 UTC",
+    "date_iso": "2026-09-10T17:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Krzs8GeiWTc",
+    "title": "Generative UI... in Python? — Jeremiah Lowin, Prefect",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Because only the agent can reach an MCP server, a naive file upload tool makes the agent retype the file into the server character by character. Jeremiah Lowin calls it the world's most expensive copy paste operation, and it is the problem MCP apps exist to remove. Lowin is founder and CEO of Prefect and the author of FastMCP. MCP …",
+    "date": "2026-09-10 16:30 UTC",
+    "date_iso": "2026-09-10T16:30:07Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=sDMGWK4wZ_w",
+    "title": "Training Taste — Thais Castello Branco, Taste Labs",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Taste Labs analyzed more than two million websites going back a decade, and the finding that complicates the usual story is that the internet was homogenizing before AI arrived: palettes converging, layouts converging, trends spreading faster than they once did. AI did not start the collapse. It accelerated it and made it context blind, so a pet shop and a …",
+    "date": "2026-09-10 16:00 UTC",
+    "date_iso": "2026-09-10T16:00:20Z"
+  },
+  {
+    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+    "date": "2026-09-10 16:00 UTC",
+    "date_iso": "2026-09-10T16:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=v42opQpCy60",
+    "title": "Design at the Speed of Adjectives — Paul Bakaus, Renaissance Geek, Inc.",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The instruction Impeccable loads when you type \"bolder\" ends with a challenge: show someone your work, say AI made this bolder, and if they believe you, you failed. Bakaus has built tools for more than twenty years. Impeccable is a design skill that rides on top of a coding harness rather than replacing it, working across Claude Code, Copilot, Cursor, …",
+    "date": "2026-09-10 15:30 UTC",
+    "date_iso": "2026-09-10T15:30:14Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8KkibGU_DDY",
+    "title": "Mousepower: agents that can’t be measured, can’t be managed. — Maximillian Piras, Yutori",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Selling steam engines to people who thought in horses, James Watt studied the horse gins that powered mills, worked out what one animal produced, and called it horsepower. The number was not scientific and arguably not accurate. It did not have to be. It made the improvement legible enough that someone who liked horses would try a machine. Maximillian Piras …",
+    "date": "2026-09-10 15:00 UTC",
+    "date_iso": "2026-09-10T15:00:39Z"
+  },
+  {
+    "url": "https://openai.com/index/put-data-to-work",
+    "title": "Now everyone can put data to work",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+    "date": "2026-09-10 15:00 UTC",
+    "date_iso": "2026-09-10T15:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=NW-jwOVr32w",
+    "title": "The Design-Code Roundtrip That Isn't — Jonathan Gordon, ReWeaver AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Jonathan Gordon was deep in a vibe coding session, ignoring the wall of text scrolling past, when the phrase innerHTML caught his eye. He knew it as an injection risk, stopped the agent, and made it revert. That was the moment he started reading the code again. Gordon has spent more than thirty years building developer tools and IDEs, and …",
+    "date": "2026-09-10 14:30 UTC",
+    "date_iso": "2026-09-10T14:30:11Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=XWcXwnysmpY",
+    "title": "The Spatial Harness: Bringing Agents to the Canvas — Max Drake, tldraw",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "One of Max Drake's colleagues turned a whiteboard app into a window manager, then used it to play Pong with real desktop windows. Drake is a product engineer at tldraw, the London company behind the free infinite canvas app and, more importantly to him, the SDK powering other people's canvases, including Replit's. tldraw exists because people building canvas apps got …",
+    "date": "2026-09-10 14:00 UTC",
+    "date_iso": "2026-09-10T14:00:06Z"
+  }
+]
