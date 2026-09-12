@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "date": "2026-09-14 00:00 UTC",
+    "date_iso": "2026-09-14T00:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=H7vFrcNWXzs",
+    "title": "Building ambitious software — Jonathan Kelley, Dioxus Labs & Cognition",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The Dioxus team got excited, maxed out their coding agent subscriptions, and turned out tens of thousands of lines of Rust covering features they had wanted for years. Almost none of it cleared the bar for merging. Those lines sat in draft, and Jonathan Kelley says they are sitting there still. He calls the failure mode becoming a slop cannon. …",
+    "date": "2026-09-11 20:00 UTC",
+    "date_iso": "2026-09-11T20:00:06Z"
+  },
+  {
+    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+    "date": "2026-09-11 16:00 UTC",
+    "date_iso": "2026-09-11T16:00:00Z"
+  },
+  {
+    "url": "https://medium.com/pinterest-engineering/evolving-pinterests-embedding-retrieval-platform-aede4e831e01?source=rss----4c5a5f6279b6---4",
+    "title": "Evolving Pinterest’s Embedding Retrieval Platform",
+    "source": "Pinterest Engineering",
+    "type": "blog",
+    "summary": "Authors: Bowen Zhou | Staff Software Engineer; Shan Gao | Senior Software Engineer; Jingwen Hu | Software Engineer II; Wenjiang Chu | Staff Software Engineer The Billion-Embedding Challenge At Pinterest, the “signal” is our lifeblood. Whether it’s a home decor enthusiast finding the perfect rug or a fashion seeker discovering a new aesthetic, our discovery engine relies on understanding deep …",
+    "date": "2026-09-11 15:01 UTC",
+    "date_iso": "2026-09-11T15:01:03Z"
+  }
+]
