@@ -2206,41 +2206,5 @@
     "view_count": 1055,
     "view_count_display": "1.1K views",
     "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-14_Computer-use-models-will-agentify-the-web-not-APIs-Dhruv-Batra-Yutori.md"
-  },
-  {
-    "title": "Cursor is now a part of SpaceX",
-    "url": "https://cursor.com/blog/joining-spacex",
-    "source": "Cursor",
-    "type": "blog",
-    "summary": "Cursor has officially been acquired by SpaceX.",
-    "date": "2026-08-14 12:00 UTC",
-    "date_str": "2026-08-14",
-    "date_iso": "2026-08-14T12:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-14_Cursor-is-now-a-part-of-SpaceX.md"
-  },
-  {
-    "title": "Ironic that many people thought AI coding would make engineers less valuable when in reality the most in-demand jobs all have the word “engineer” in them: forward-deployed engineer, design engineer, product engineer, growth engineer…",
-    "url": "https://nitter.net/zarazhangrui/status/2088087765267386564#m",
-    "source": "Zara Zhang (@zarazhangrui)",
-    "type": "twitter",
-    "summary": "Ironic that many people thought AI coding would make engineers less valuable when in reality the most in-demand jobs all have the word “engineer” in them: forward-deployed engineer, design engineer, product engineer, growth engineer…",
-    "date": "2026-08-14 02:18 UTC",
-    "date_str": "2026-08-14",
-    "date_iso": "2026-08-14T02:18:12Z",
-    "thumbnail_url": "",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-14_Ironic-that-many-people-thought-AI-coding-would-make-engineers-less-valuable-whe.md"
-  },
-  {
-    "title": "When Can LLMs Replace Humans in A/B Tests?",
-    "url": "https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests/",
-    "source": "Spotify Engineering",
-    "type": "blog",
-    "summary": "TL;DR: LLM predictions can stand in for human outcomes in A/B tests, but only by assumption, not by design.... The post When Can LLMs Replace Humans in A/B Tests? appeared first on Spotify Engineering .",
-    "date": "2026-08-13 18:57 UTC",
-    "date_str": "2026-08-13",
-    "date_iso": "2026-08-13T18:57:22Z",
-    "thumbnail_url": "",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-13_When-Can-LLMs-Replace-Humans-in-AB-Tests.md"
   }
 ]
