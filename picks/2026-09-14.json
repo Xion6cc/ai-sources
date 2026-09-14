@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "date": "2026-09-14 00:00 UTC",
+    "date_iso": "2026-09-14T00:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=MSbacZ99E14",
+    "title": "High Throughput Agentic Engineering with ex-Meta L8 Principal",
+    "source": "Kun Chen (@kunchenguid)",
+    "type": "youtube",
+    "summary": "Find everything from me: https://linktr.ee/kunchenguid my discord server: https://discord.gg/Wsy2NpnZDu firstmate: https://github.com/kunchenguid/firstmate -------- Chapters: 00:00 Intro 00:50 Firstmate 03:37 First task 04:58 Remove distractions 06:34 Crewmates 07:12 Model routing 11:49 More tasks 15:56 Task tracking 22:07 Second mates 25:31 Interactive prototypes 29:26 Discord and X relay 32:49 Context window management 37:51 Yolo merge vs no mistakes 40:58 Giving feedback 43:40 Catching …",
+    "date": "2026-09-13 14:12 UTC",
+    "date_iso": "2026-09-13T14:12:43Z"
+  }
+]
