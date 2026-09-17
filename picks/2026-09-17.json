@@ -1,0 +1,137 @@
+[
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
+    "title": "AI Skills with Matt Pocock",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Matt Pocock explains how he uses AI coding skills and agents to plan and build software, and why engineering fundamentals matter more than ever.",
+    "date": "2026-09-17 11:29 UTC",
+    "date_iso": "2026-09-17T11:29:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=4DhcSPkEbwI",
+    "title": "AI Skills with Matt Pocock",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "Why is the “grill-me” skill so popular, and why does its creator swear by the importance of software fundamentals? Matt Pocock created this widely-used skill – and many others – alongside being an educator, content creator, and engineer. His latest course is AI Hero, and he previously created the Total TypeScript course that generated more than $2.5 million in sales. …",
+    "date": "2026-09-17 11:24 UTC",
+    "date_iso": "2026-09-17T11:24:57Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
+    "title": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
+    "source": "Lex Fridman",
+    "type": "youtube",
+    "summary": "Andrew Scull is a historian of psychiatry. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep502-sb See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. *Transcript:* https://lexfridman.com/andrew-scull-transcript *CONTACT LEX:* *Feedback* - give feedback to Lex: https://lexfridman.com/survey *AMA* - submit questions, videos or call-in: https://lexfridman.com/ama *Hiring* - join our team: https://lexfridman.com/hiring *Other* - other ways …",
+    "date": "2026-09-17 00:34 UTC",
+    "date_iso": "2026-09-17T00:34:47Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=r9OwPx_HoV0",
+    "title": "Stop Chunking Like It's 2022 — Yuval Belfer, AI21 Labs",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ask a corpus of Seinfeld transcripts for the name of Jerry's favorite church and a 100 token chunk returns it at rank one, while every larger window buries it below rank fifty. Ask the same corpus who Jerry calls his nemesis and pure evil and the small chunks fail completely, because the answer is spread across a scene rather than …",
+    "date": "2026-09-16 17:00 UTC",
+    "date_iso": "2026-09-16T17:00:06Z"
+  },
+  {
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "title": "Our framework for reporting model misalignment",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+    "date": "2026-09-16 17:00 UTC",
+    "date_iso": "2026-09-16T17:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=iJVxxxHM_Oc",
+    "title": "Where RL Will Take Search — Maximilian-David Rumpf, SID.ai",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Somewhere between 30 and 50 percent of an agent's tokens get spent on searching, almost all of it up front, before any of the work you asked for. Maximilian David Rumpf treats that number as the whole opportunity. Handing a task to an agent rather than a query to a search engine roughly doubles the odds of finding the right …",
+    "date": "2026-09-16 16:30 UTC",
+    "date_iso": "2026-09-16T16:30:16Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=V-isu4eTHgw",
+    "title": "Connect AI to Billions of Legal Documents — Simon Eskildsen, turbopuffer & Jacob Lauritzen, Legora",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Legora's search latency once went from a 100 millisecond P99 to twenty seconds, and the cause was a packing problem invisible in the schema. Legal work arrives as projects, a project gets worked hard for a while and then is never opened again, and when the team sharded document chunks across four thousand partitions the dead projects landed in the …",
+    "date": "2026-09-16 16:00 UTC",
+    "date_iso": "2026-09-16T16:00:19Z"
+  },
+  {
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "title": "Helping older adults use AI in everyday life",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "date": "2026-09-16 16:00 UTC",
+    "date_iso": "2026-09-16T16:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_gvamfT8H-w",
+    "title": "Your Agreements Are a Database You Can't Query — Hiral Shah, Docusign & Sean Sodha, NVIDIA",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ask your own company what it actually contracted for with a given vendor and nobody can tell you. The number exists, negotiated carefully, sitting in a pricing table inside a signed PDF no system ever read back. Hiral Shah puts a figure on the aggregate: roughly two trillion dollars of negotiated value locked in agreements that organizations never return to, …",
+    "date": "2026-09-16 15:30 UTC",
+    "date_iso": "2026-09-16T15:30:28Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=O84lhGc1OOI",
+    "title": "If we want them to do Knowledge Work, design them as Knowledge Agents — Benjamin Clavié, Mixedbread",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An agent searching a contract for \"30 days\" has no way to know whether it has found a deadline, a grace period, or a retention rule, or wandered into a medication schedule entirely. Benjamin Clavié uses that to explain why coding agents turned out to be the easy case. Code carries durable cues: identifiers, file paths, method definitions, things you …",
+    "date": "2026-09-16 15:00 UTC",
+    "date_iso": "2026-09-16T15:00:39Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=waI44NP1abk",
+    "title": "Rebuilding the web for agents — Liad Yosef, MCP Apps",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Roughly half the websites Liad Yosef's team tested publish an llms.txt file, the de facto standard for telling an agent how to work with you. Almost none of the agents they ran against those sites ever read it. The agents went straight to the docs page and then the homepage, and the minority that did open llms.txt only found it …",
+    "date": "2026-09-16 14:30 UTC",
+    "date_iso": "2026-09-16T14:30:03Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=59AA5kIoqjA",
+    "title": "The Search Engine for the Agentic Web — Will Bryk, Exa",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Exa never meant to sell an API. Somebody sent them a message on Twitter asking for programmatic access to their search engine, and the answer was no, because there was no API to give. Then more people asked, including the roommate who lived downstairs, and the company realized it had been building the wrong product for the right reason. Will …",
+    "date": "2026-09-16 14:00 UTC",
+    "date_iso": "2026-09-16T14:00:23Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=fZH97QHHYjY",
+    "title": "The unreasonable effectiveness of BM25 for agentic search — Jo Kristian Bergum, Hornet.dev",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "BM25 stands for Best Match 25, and the number is not a version. A group of researchers ran a long series of scoring experiments decades ago, the twenty fifth one worked best, and the name simply stuck. Jo Kristian Bergum has spent more than twenty years on search and retrieval, and his claim is that this thirty year old lexical …",
+    "date": "2026-09-16 13:30 UTC",
+    "date_iso": "2026-09-16T13:30:32Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=IN-rb-9WmiY",
+    "title": "Pinecone 2.0 — Edo Liberty, Pinecone",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "People used to type \"am I fat?\" into Yahoo Answers. Edo Liberty worked there at the time, and the question stuck with him, because a Q and A forum has no possible way to know. It is a failure of theory of mind, our capacity to model what someone else actually knows, and he argues we are making a subtler …",
+    "date": "2026-09-16 13:00 UTC",
+    "date_iso": "2026-09-16T13:00:06Z"
+  },
+  {
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "title": "Reimagining advertising with AI",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "date": "2026-09-16 13:00 UTC",
+    "date_iso": "2026-09-16T13:00:00Z"
+  }
+]
