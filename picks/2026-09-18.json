@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://medium.com/airbnb-engineering/the-guest-journey-updated-in-real-time-extending-airbnbs-sequence-recommender-with-chronon-8f1582578553?source=rss----53c7c27702d5---4",
+    "title": "The guest journey, updated in real time: extending Airbnb’s sequence recommender with Chronon",
+    "source": "Airbnb Engineering",
+    "type": "blog",
+    "summary": "How two new Chronon capabilities, Push Mode and NRT Model Transform, allows us to provide more relevant search results instantly as a guest explores, rather than waiting for the next batch run. By : Pengyu Hou , Yuli Han , Daochen Zha , Haozhen Ding , Xin Liu , Sophie Wang , Pallavi Adusumilli , Sherry Li , Henry Saputra …",
+    "date": "2026-09-17 17:01 UTC",
+    "date_iso": "2026-09-17T17:01:02Z"
+  },
+  {
+    "url": "https://medium.com/pinterest-engineering/beyond-two-towers-launching-the-3-tower-engagement-co-train-model-part-2-0b96167d2c14?source=rss----4c5a5f6279b6---4",
+    "title": "Beyond Two Towers: Launching the 3-Tower Engagement Co-Train Model (Part 2)",
+    "source": "Pinterest Engineering",
+    "type": "blog",
+    "summary": "Authors: Longyu Zhao (Staff Machine Learning Engineer), Gwendolyn Zhao (Staff Machine Learning Engineer), Peng Yan (Senior Machine Learning Engineer), Yuanlu Bai (Senior Machine Learning Engineer), Yuan Wang (Senior Machine Learning Engineer), Yao Cheng (Staff Machine Learning Engineer), Ang Xu (Principal Machine Learning Engineer), Zhaohong Han (Manager II, Ads Lightweight Ranking) Introduction Previously¹, we launched the next-generation serving stack for standard …",
+    "date": "2026-09-17 15:01 UTC",
+    "date_iso": "2026-09-17T15:01:05Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+    "title": "Homa: The End of TCP for AI Clusters — John Ousterhout, Stanford",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "John Ousterhout, Stanford Professor and author of A Philosophy of Software Design, turns our attention to the evolving nature of AI networking workloads and why traditional protocols like TCP and RDMA are becoming bottlenecks in modern data center environments! The Shift in Workloads Historical context: AI traffic was dominated by massive, long-running transfers (gigabytes of gradients), where throughput was the …",
+    "date": "2026-09-17 13:00 UTC",
+    "date_iso": "2026-09-17T13:00:08Z"
+  }
+]
