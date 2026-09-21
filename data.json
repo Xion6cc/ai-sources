@@ -1,5 +1,29 @@
 [
   {
+    "title": "Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable",
+    "url": "https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Petal, the next step in Meta’s subsea innovation, will be the first subsea cable to deliver petabit capacity at transoceanic distances, connecting France and the United States over approximately 7,000 km (4,300 mi). Expected to enter service in 2029, it will be the first subsea cable system to deploy multi-core fiber technology at scale, doubling [...] Read More... The post …",
+    "date": "2026-09-21 12:00 UTC",
+    "date_str": "2026-09-21",
+    "date_iso": "2026-09-21T12:00:00Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-09-21_Inside-Petal-Building-the-Worlds-First-Petabit-Class-Transoceanic-Subsea-Cable.md"
+  },
+  {
+    "title": "How V7 gives AI agents institutional memory",
+    "url": "https://openai.com/index/v7",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "date": "2026-09-21 00:00 UTC",
+    "date_str": "2026-09-21",
+    "date_iso": "2026-09-21T00:00:00Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-09-21_How-V7-gives-AI-agents-institutional-memory.md"
+  },
+  {
     "title": "Weight Folding, CUDA Streams, and the Bug That Made My Model Speak Backwards — Filip Makraduli",
     "url": "https://www.youtube.com/watch?v=c1hGBoWw20A",
     "source": "AI Engineer",
@@ -2134,71 +2158,5 @@
     "view_count": 947,
     "view_count_display": "947 views",
     "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-22_Give-the-Agent-a-Budget-Not-a-Token-Sachin-Malhotra-Anthropic.md"
-  },
-  {
-    "title": "How Claude Watermarks AI-Generated Text",
-    "url": "https://magazine.sebastianraschka.com/p/claude-watermarking",
-    "source": "Sebastian Raschka",
-    "type": "blog",
-    "summary": "A 48-minute video walkthrough of token sampling, watermark detection, and removal",
-    "date": "2026-08-22 11:11 UTC",
-    "date_str": "2026-08-22",
-    "date_iso": "2026-08-22T11:11:39Z",
-    "thumbnail_url": "https://substack-post-media.s3.amazonaws.com/public/images/fb73bfb5-0291-4e5e-b425-6c3be054276e_1914x1076.png",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-22_How-Claude-Watermarks-AI-Generated-Text.md"
-  },
-  {
-    "title": "Building Agents Is Trivial Now, Context Is the Next Frontier — Jeff Ng, Unblocked",
-    "url": "https://www.youtube.com/watch?v=HvMyYLTfvhg",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "An agent built to enrich Linear tickets read a report that time to first character in Unblocked's own QA pipeline had gone from hundreds of milliseconds to three or four seconds, and recommended turning async dispatch back on. The recommendation was wrong. A support engineer had explicitly disabled that setting days earlier because it caused an outage. The agent had …",
-    "date": "2026-08-21 17:00 UTC",
-    "date_str": "2026-08-21",
-    "date_iso": "2026-08-21T17:00:30Z",
-    "thumbnail_url": "https://img.youtube.com/vi/HvMyYLTfvhg/mqdefault.jpg",
-    "view_count": 1152,
-    "view_count_display": "1.2K views",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-21_Building-Agents-Is-Trivial-Now-Context-Is-the-Next-Frontier-Jeff-Ng-Unblocked.md"
-  },
-  {
-    "title": "A Tale of Two Flink Autoscalers",
-    "url": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
-    "source": "Netflix Tech Blog",
-    "type": "blog",
-    "summary": "Samuel Yeboah , Francesco Di Chiara and Mingliang Liu Today, Netflix runs two Flink autoscalers. That is exactly one more than we want. We built the first one in-house years ago, when there was no mature option suited to our platform. The second came from the Apache Flink community, and it can scale workloads our homegrown system was never designed …",
-    "date": "2026-08-21 16:01 UTC",
-    "date_str": "2026-08-21",
-    "date_iso": "2026-08-21T16:01:01Z",
-    "thumbnail_url": "https://cdn-images-1.medium.com/max/1024/1*Rn81hdaUHY94Sf8S-GOHZA.png",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-21_A-Tale-of-Two-Flink-Autoscalers.md"
-  },
-  {
-    "title": "The Missing Layer: Design Taste in AI Agents — Hassan El Mghari, Together AI",
-    "url": "https://www.youtube.com/watch?v=7GMKdpLsxwU",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "Most people can spot a vibe coded app in two seconds and cannot say why. Hassan El Mghari names it: the purple gradient background, italics in the header, a scroll to explore prompt nobody asked for, all caps pills with wide letter spacing, too many emoji. He reckons you could list thirty such tells, and naming them is what lets …",
-    "date": "2026-08-21 15:00 UTC",
-    "date_str": "2026-08-21",
-    "date_iso": "2026-08-21T15:00:06Z",
-    "thumbnail_url": "https://img.youtube.com/vi/7GMKdpLsxwU/mqdefault.jpg",
-    "view_count": 1363,
-    "view_count_display": "1.4K views",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-21_The-Missing-Layer-Design-Taste-in-AI-Agents-Hassan-El-Mghari-Together-AI.md"
-  },
-  {
-    "title": "Agentic SDLC at Uber — Uday Kiran Medisetty & Adam Huda, Uber",
-    "url": "https://www.youtube.com/watch?v=17-YSUHo6Lk",
-    "source": "AI Engineer",
-    "type": "youtube",
-    "summary": "More than 70% of pull requests at Uber now come from local or cloud agents, and lines of code per engineer has doubled year over year. Uday Kiran Medisetty walks through the six pieces of infrastructure underneath that, and the constraint shaping all of them shows up in the first one: every model call in the company goes through a …",
-    "date": "2026-08-21 13:00 UTC",
-    "date_str": "2026-08-21",
-    "date_iso": "2026-08-21T13:00:06Z",
-    "thumbnail_url": "https://img.youtube.com/vi/17-YSUHo6Lk/mqdefault.jpg",
-    "view_count": 1712,
-    "view_count_display": "1.7K views",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-21_Agentic-SDLC-at-Uber-Uday-Kiran-Medisetty-Adam-Huda-Uber.md"
   }
 ]

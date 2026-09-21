@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/",
+    "title": "Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Petal, the next step in Meta’s subsea innovation, will be the first subsea cable to deliver petabit capacity at transoceanic distances, connecting France and the United States over approximately 7,000 km (4,300 mi). Expected to enter service in 2029, it will be the first subsea cable system to deploy multi-core fiber technology at scale, doubling [...] Read More... The post …",
+    "date": "2026-09-21 12:00 UTC",
+    "date_iso": "2026-09-21T12:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/v7",
+    "title": "How V7 gives AI agents institutional memory",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "date": "2026-09-21 00:00 UTC",
+    "date_iso": "2026-09-21T00:00:00Z"
+  }
+]
