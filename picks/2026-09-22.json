@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=SQMCtZX3trg",
+    "title": "The Dark Arts of Skill Engineering — Paul Bakaus, Renaissance Geek (Impeccable)",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Paul Bakaus once turned the entire web orange. He wrote jQuery UI, shipped an orange default theme, assumed people would change it, and watched them not. So when he points out that the purple gradients everyone learned to mock came from a CSS framework's default sample page, and that AI generated design now has its own house shade of beige, …",
+    "date": "2026-09-21 19:00 UTC",
+    "date_iso": "2026-09-21T19:00:10Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/09/21/open-source/rebalancer-generic-high-performance-library-assignment-problems/",
+    "title": "Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "We&#8217;re open-sourcing Rebalancer, the assignment-problem solver that has been used to solve resource allocation problems throughout Meta for over nine years. Rebalancer separates several related concerns: how to specify an assignment problem, how to store it efficiently in memory, how to solve it, and how to debug it. This separation of concerns is crucial to [...] Read More... The post …",
+    "date": "2026-09-21 16:00 UTC",
+    "date_iso": "2026-09-21T16:00:37Z"
+  }
+]
