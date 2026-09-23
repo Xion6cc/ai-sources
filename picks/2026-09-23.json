@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+    "date": "2026-09-23 13:00 UTC",
+    "date_iso": "2026-09-23T13:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=CGq9KRSb9Kc",
+    "title": "AI Engineer Paris 2026 Opening Keynotes: Mistral, Langfuse & Sizzy | Day 1",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Live from STATION F, AI Engineer Paris 2026 opens with welcome remarks and main-stage talks on AI infrastructure, coding agents, software factories, and building frontier AI. AI Engineer Paris returns for its second edition, bringing together 1,000+ engineers, founders, CTOs, and VPs of AI for two days of technical talks, practical workshops, and AI engineering research. Day 1 main-stage lineup: …",
+    "date": "2026-09-23 10:57 UTC",
+    "date_iso": "2026-09-23T10:57:17Z"
+  },
+  {
+    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+    "date": "2026-09-23 00:00 UTC",
+    "date_iso": "2026-09-23T00:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "title": "Better prompt caching for GPT-6",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+    "date": "2026-09-22 21:00 UTC",
+    "date_iso": "2026-09-22T21:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jgWY66RaSrQ",
+    "title": "I Gave an AI a Body — Cyrus Clarke, MIT Media Lab",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The first thing it did was breathe. Cyrus Clarke connected an OpenClaw agent to a 900-pin shape display at the MIT Media Lab and, instead of giving it tasks, asked it to discover who it is. It raised and lowered the whole grid like breathing, reached for its own edges, and spelled \"HI CYRUS\" in pins. The video of that …",
+    "date": "2026-09-22 20:16 UTC",
+    "date_iso": "2026-09-22T20:16:50Z"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+    "date": "2026-09-22 18:00 UTC",
+    "date_iso": "2026-09-22T18:00:00Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/windows-and-ai",
+    "title": "How will AI change operating systems? Part 2: Windows",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Deepdive into the Windows team&#8217;s efforts to make the OS &#8220;AI agent-friendly&#8221; and win back developers by going all-in on Linux on Windows, local models, GPUs, & more",
+    "date": "2026-09-22 17:17 UTC",
+    "date_iso": "2026-09-22T17:17:31Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=RQi7x-navxU",
+    "title": "Building the Document Context Layer for AI Agents — Jerry Liu, LlamaIndex",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A PDF is designed for printing, so its text is glyphs with coordinates and its tables are line segments with characters at cell positions. Reading order for a multicolumn page is not stored anywhere. That, Jerry Liu argues, is why an agent handed a raw file cannot make sense of it, and why document OCR is still unsolved after twenty …",
+    "date": "2026-09-22 13:30 UTC",
+    "date_iso": "2026-09-22T13:30:35Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=A_I8mw8yfns",
+    "title": "The Best Models Still Reason Like Toddlers — Andrew Dai, Elorian",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Show a frontier model part of a chessboard, ask how many white squares are visible, and it answers 32. Andrew Dai's diagnosis: it saw a chessboard, knew chessboards have 32 white squares, and hallucinated the rest. The pattern matching that makes these models superb at naming flowers hurts them once a question needs counting or spatial grounding: they miscount a …",
+    "date": "2026-09-22 13:28 UTC",
+    "date_iso": "2026-09-22T13:28:11Z"
+  }
+]
