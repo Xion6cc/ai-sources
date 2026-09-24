@@ -1,0 +1,119 @@
+[
+  {
+    "url": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/",
+    "title": "Bringing Private Processing to Meta AI Glasses",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "We believe glasses are the best form factor for having AI help throughout your day. They can understand your personal context better than other kinds of devices and keep you present without picking up a mobile phone. Most of the time, glasses are helping you see well, protecting your eyes and complementing your look, and [...] Read More... The post …",
+    "date": "2026-09-24 00:00 UTC",
+    "date_iso": "2026-09-24T00:00:00Z"
+  },
+  {
+    "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+    "title": "Rendering huge pull requests in the GitHub Copilot app",
+    "source": "GitHub Engineering",
+    "type": "blog",
+    "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
+    "date": "2026-09-23 18:29 UTC",
+    "date_iso": "2026-09-23T18:29:49Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=g0vqT_wZtXA",
+    "title": "AI Engineer Paris 2026 Main Stage: Google DeepMind, ElevenLabs, Hugging Face & Stripe | Day 2",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Live from STATION F, the AI Engineer Paris 2026 Main Stage continues with a full day of technical talks from the teams building and scaling production AI systems. Watch sessions covering model customization, inference infrastructure, voice and realtime AI, coding agents, software factories, and the emerging AI economy. Day 2 main-stage lineup: • Jakob Pörschmann (Black Forest Labs) — From …",
+    "date": "2026-09-23 17:20 UTC",
+    "date_iso": "2026-09-23T17:20:26Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton",
+    "title": "Design Engineering with Maggie Appleton",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Maggie Appleton on what engineers can learn from designers, working with AI agents, and why human judgment still matters.",
+    "date": "2026-09-23 17:07 UTC",
+    "date_iso": "2026-09-23T17:07:22Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KZSzF0KEFRg",
+    "title": "Design Engineering with Maggie Appleton",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "What can everyone else learn from designers and design engineers? As it turns out, there’s plenty, as I discovered when one of the best design engineers in the industry, Maggie Appleton, came onto the Pragmatic Engineer Podcast. She’s a staff research engineer at GitHub Next, where she builds prototypes to explore how software engineers might collaborate with AI in new …",
+    "date": "2026-09-23 17:04 UTC",
+    "date_iso": "2026-09-23T17:04:32Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=T72nqdC92PM",
+    "title": "From Scratch to SOTA: Training a 3B State-Space Vision Model — Krishna Prasad Srinivasan, Sarvam",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Well under one percent of the Common Crawl corpus that frontier models train on is in an Indian language, even as frontier labs call India a fast growing market. Krishna Prasad Srinivasan says the knowledge exists but was never digitized, and Sarvam's answer is a three billion parameter vision language model, small enough for one GPU, that he says beats …",
+    "date": "2026-09-23 16:30 UTC",
+    "date_iso": "2026-09-23T16:30:19Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZZcE0HeO-Hc",
+    "title": "From VLM/VLA's to Embodied Agents — Armen Aghajanyan, Perceptron AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Feed a model one hour of video and roughly a million visual tokens go in, yet the loss lands on about two percent of them, since the only ground truth is a transcript or a few labeled frames. Armen Aghajanyan calls that a humongous waste, and predicting every pixel treats a background pixel with the same weight as a gripper …",
+    "date": "2026-09-23 16:00 UTC",
+    "date_iso": "2026-09-23T16:00:30Z"
+  },
+  {
+    "url": "https://openai.com/index/two-years-of-openai-academy",
+    "title": "Two years of OpenAI Academy",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+    "date": "2026-09-23 16:00 UTC",
+    "date_iso": "2026-09-23T16:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ztlXKfPCT3Q",
+    "title": "You’re Not Thinking Big Enough: Rebuilding Food Systems with AI Agents — Cody Menefee, Firecrawl",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Cody Menefee once drove three hours to a processor with ten turkeys strapped to the roof of his Tesla, and reports that a windbreak of birds up top does real damage to your range. He raised them in a Nashville backyard where that is not allowed, nearly quit engineering to farm, and learned how hard it is to make money …",
+    "date": "2026-09-23 15:30 UTC",
+    "date_iso": "2026-09-23T15:30:27Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=0I07YAuF8xA",
+    "title": "From Ingestion to Agents: How AI Teams Build on Document Intelligence — Adit Abraham, Reducto",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The newest frontier model scores about thirty percent on a data lab's benchmark of decisions from PDFs, and Adit Abraham has met people who worked on PDF processing before he was born. The format was built to print, not to be reasoned over, and humans encode meaning visually: merged cells, line charts, unreadable handwriting. Reducto has processed billions of them, …",
+    "date": "2026-09-23 14:30 UTC",
+    "date_iso": "2026-09-23T14:30:11Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jNE8No-wvok",
+    "title": "Modality Misalignment and Originality Attribution in Short-Form Video — Aditya Gautam, Meta",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A video is about sports for its first six seconds, then turns political for half a second. Catching that across a hundred million plus videos is one of two problems Aditya Gautam works on at Meta; the other is unoriginal content, trivial to make with AI tools and corrosive to attribution. Both sit on messy data: adversarial uploads, multilingual on …",
+    "date": "2026-09-23 14:00 UTC",
+    "date_iso": "2026-09-23T14:00:34Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dKcTBQzR7jI",
+    "title": "Skill issue: stop deploying vision language models, use them with Skills — Merve Noyan, Hugging Face",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Merve Noyan wrote a book on vision language models and now wants developers to stop calling them directly. Put one in front of a camera and you will never get real time; a small detector trained for the task runs at forty frames per second on a toaster and beats the VLM anyway. Her other complaint is licensing: people deploy …",
+    "date": "2026-09-23 13:30 UTC",
+    "date_iso": "2026-09-23T13:30:16Z"
+  },
+  {
+    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+    "date": "2026-09-23 13:00 UTC",
+    "date_iso": "2026-09-23T13:00:00Z"
+  }
+]
