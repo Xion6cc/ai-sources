@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://openai.com/index/proaction",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+    "date": "2026-09-25 19:00 UTC",
+    "date_iso": "2026-09-25T19:00:00Z"
+  },
+  {
+    "url": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
+    "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "By Dhruv Pratap Introduction Organizations that have been around for a while usually run two identity systems side by side. One belongs to the cloud provider: IAM roles, instance profiles, execution roles. The other is your own, and it is the one your internal services actually check when they decide whether to answer a request. On infrastructure you build yourself, …",
+    "date": "2026-09-25 16:01 UTC",
+    "date_iso": "2026-09-25T16:01:03Z"
+  },
+  {
+    "url": "https://medium.com/pinterest-engineering/partition-finalization-in-pinterests-next-generation-db-ingestion-framework-4c7da6e4cc8f?source=rss----4c5a5f6279b6---4",
+    "title": "Partition Finalization in Pinterest’s Next-Generation DB Ingestion Framework",
+    "source": "Pinterest Engineering",
+    "type": "blog",
+    "summary": "Qianrui Zhang | Sr Software Engineer, Logging Platform Kanchi Masalia | Software Engineer II, Stream Processing Platform Liang Mou | Sr Staff Software Engineer, Logging Platform Yi Pan | Principal Engineer, Agent Platform Introduction This is the third post in our series on Pinterest’s next-generation database ingestion framework. Part 1 introduced the DB ingestion framework built on Kafka, Flink, Spark, …",
+    "date": "2026-09-25 15:01 UTC",
+    "date_iso": "2026-09-25T15:01:03Z"
+  },
+  {
+    "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+    "title": "Improving site performance by shipping more CSS",
+    "source": "GitHub Engineering",
+    "type": "blog",
+    "summary": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog .",
+    "date": "2026-09-25 15:00 UTC",
+    "date_iso": "2026-09-25T15:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2LRIAfng7eA",
+    "title": "Teaching LLMs to Speak Spotify — Yves Raimond & Jacqueline Wood, Spotify",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "One in four US Spotify Premium subscribers now use a single system every day, which Spotify calls the Large Taste Model. Yves Raimond, Spotify's SVP and GM of AI & Personalization, explains how Spotify turned its recommendation system \"on its head\" to be LLM-native. It went from curated playlists, to recommendations like Discover Weekly, to what Spotify calls generative personalization: …",
+    "date": "2026-09-25 14:30 UTC",
+    "date_iso": "2026-09-25T14:30:25Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=lIgdnF0s0kQ",
+    "title": "Why LLM Recommenders Will Be AI's Biggest Consumer App — Devansh Tandon, Meta",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Four of the 10 most-used apps in the world are content feeds, and for an hour of engagement they can be up to 100x cheaper to run than AI chat apps. The reason is that a feed decodes pointers to existing content instead of generating every token itself. Devansh Tandon, who leads Meta Recommendations Research, argues that recommendation systems scale …",
+    "date": "2026-09-25 14:00 UTC",
+    "date_iso": "2026-09-25T14:00:27Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ACPEpji5NV4",
+    "title": "Distill the LLM, Don't Serve It: Search & Personalization at DoorDash — Raghav Saboo, DoorDash",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Search for gluten-free pasta and a ranker trained on engagement may show you regular spaghetti, because it sells well. Raghav Saboo, Staff ML Engineer and Tech Lead for Search & Personalization at DoorDash, argues that the real bottleneck in marketplace discovery is semantic understanding, not engagement. As DoorDash grows into grocery, retail, pets and gifting across billions of store-level items, …",
+    "date": "2026-09-25 13:30 UTC",
+    "date_iso": "2026-09-25T13:30:37Z"
+  }
+]
