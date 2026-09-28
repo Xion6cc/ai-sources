@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum",
+    "title": "Travel’s AI dilemma at Skift Global Forum",
+    "source": "Stripe Blog",
+    "type": "blog",
+    "summary": "At the “great recalibration”-themed travel conference, Airbnb CEO Brian Chesky called AI “an existential risk” to his company and “literally the best thing to ever happen” to it in the same discussion. That sums up many travel leaders’ push-and-pull relationship with AI.",
+    "date": "2026-09-28 00:00 UTC",
+    "date_iso": "2026-09-28T00:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=474j-n1Ltxc",
+    "title": "AI-Generated Code Is Already Competing With Human Code — Daksh Gupta, Greptile",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "More than a quarter of the pull requests Greptile reviewed in April showed signs of being written largely or entirely by AI agents, up from under 1% a year earlier. Daksh Gupta, co-founder of Greptile, analyzed more than a million pull requests a month from companies like NVIDIA, Coinbase and Scale to test a simple question: are fully vibe-coded PRs …",
+    "date": "2026-09-27 18:30 UTC",
+    "date_iso": "2026-09-27T18:30:07Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=buHC7bQE1X4",
+    "title": "Get Out of the Model's Way — Kevin Hou, Google Antigravity",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "93 subagents, 12 hours, 2 billion tokens and under $1,000: that's what it took Google's Antigravity to build an operating system kernel from scratch that runs Doom. Kevin Hou, who leads engineering on Antigravity, Google DeepMind's agentic coding product, explains the principle behind it: \"Give Messi the ball and get out of the way.\" Your product should get better every …",
+    "date": "2026-09-27 18:00 UTC",
+    "date_iso": "2026-09-27T18:00:24Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=tUPPVhBBcoM",
+    "title": "Software Engineering Is Becoming Factory Engineering — Zach Lloyd, Warp",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Zach Lloyd, founder and CEO of Warp and a former principal engineer who led engineering on Google Docs, is still shipping all the time, but hasn't written a line of code in six months. His thesis: software engineering is turning into factory engineering. Every serious project will run a software factory, the same way every project now has CI/CD. Lloyd …",
+    "date": "2026-09-27 17:30 UTC",
+    "date_iso": "2026-09-27T17:30:36Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9JFGohx4E7U",
+    "title": "GLM-5.2: Open Weights, Near-Frontier Intelligence — Zixuan Li, Z.ai",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Zixuan Li, head of Z.ai, introduces GLM-5.2 to the world. On the hardest long-horizon coding and agentic benchmarks, it lands between Claude Opus 4.7 and 4.8. Even its non-thinking mode beats GLM-5.1 with thinking turned on, and it leads other open-weight models on the Artificial Analysis Intelligence Index. Li also explains where the GLM name comes from (a 2021 paper …",
+    "date": "2026-09-27 17:00 UTC",
+    "date_iso": "2026-09-27T17:00:01Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=TRfzFJCJ7ZE",
+    "title": "Orchestras, Not Factories: How the Fastest Builders Work — Charlie Holtz, Conductor",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "\"I honestly kind of hate the term 'software factory.'\" Charlie Holtz, co-founder and CEO of Conductor, the desktop app for running many coding agents at once, has watched many of the best builders up close. He shares the principles they have in common. Stay near the frontier, but don't try to beat the market: if a workflow works for everyone, …",
+    "date": "2026-09-27 16:30 UTC",
+    "date_iso": "2026-09-27T16:30:08Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=6MudaeKdBSk",
+    "title": "Scale the Judgment, Not the Model — Andrew Orobator, Reddit",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Swap in a smarter model and you get a slightly better answer. Take away the tests, gates and review, and everything falls apart. Andrew Orobator, a senior Android engineer at Reddit, argues that the model was never the bottleneck. The bottleneck is the judgment around it. Humans absorb judgment implicitly, but agents need it spelled out. He shows how to …",
+    "date": "2026-09-27 16:00 UTC",
+    "date_iso": "2026-09-27T16:00:17Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=HvboD89DyQ8",
+    "title": "No, That's Not a Software Factory — Ryan Cooke, WorkOS",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The standard software factory puts an agent in a sandbox, prompts it and merges the PR. When WorkOS built one, the results were hard to tell apart from engineers running Claude Code on their laptops. Ryan Cooke, an engineer at WorkOS, argues that counting PRs or lines of AI code is the wrong measure. What matters is outcomes: are you …",
+    "date": "2026-09-27 15:30 UTC",
+    "date_iso": "2026-09-27T15:30:30Z"
+  }
+]
