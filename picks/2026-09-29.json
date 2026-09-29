@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "title": "Language Models for Text Classification: From Bag-of-Words to Jev",
+    "source": "Sebastian Raschka",
+    "type": "blog",
+    "summary": "A Visual Guide to RNNs, CNNs, Transformers, and Calibration, with Hands-On Experiments on Accuracy and Efficiency",
+    "date": "2026-09-29 10:50 UTC",
+    "date_iso": "2026-09-29T10:50:25Z"
+  },
+  {
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "title": "How we will do better for Australia",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "date": "2026-09-28 19:00 UTC",
+    "date_iso": "2026-09-28T19:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "title": "Towards safety cases for frontier AI training",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "date": "2026-09-28 19:00 UTC",
+    "date_iso": "2026-09-28T19:00:00Z"
+  }
+]
