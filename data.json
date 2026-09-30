@@ -1,5 +1,43 @@
 [
   {
+    "title": "Your Agents Are in Solitary Confinement: Why MCP & A2A Aren't Enough — Vlad Luzin, Band",
+    "url": "https://www.youtube.com/watch?v=UOcHfR3_tys",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "If you run Claude and Codex side by side, one planning and one reviewing, you're doing the job of a network router, passing messages between two stateful agents by hand. Loop engineering hands that job to a script. Neither one lets agents actually work together. Vlad Luzin (Co-founder & CTO, Band) explains why connecting agents is a distributed systems problem. …",
+    "date": "2026-09-30 13:00 UTC",
+    "date_str": "2026-09-30",
+    "date_iso": "2026-09-30T13:00:33Z",
+    "thumbnail_url": "https://img.youtube.com/vi/UOcHfR3_tys/mqdefault.jpg",
+    "view_count": 92,
+    "view_count_display": "92 views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-09-30_Your-Agents-Are-in-Solitary-Confinement-Why-MCP-A2A-Arent-Enough-Vlad-Luzin-Band.md"
+  },
+  {
+    "title": "Personalization without user identity",
+    "url": "https://medium.com/airbnb-engineering/personalization-without-user-identity-8e7891a1d486?source=rss----53c7c27702d5---4",
+    "source": "Airbnb Engineering",
+    "type": "blog",
+    "summary": "How Airbnb uses proximity signals to personalize without relying on individual user history. By : Wei Jiang , Bin Xu , Bharathi Thangamani , Weiwei Guo , Sundar Srinivasavaradhan , Tracy Yu , Huiji Gao , Swapnil Ghike , Michael Kinoti Great personalization starts with knowing your user. But what happens when the user is a stranger? A significant share …",
+    "date": "2026-09-29 17:01 UTC",
+    "date_str": "2026-09-29",
+    "date_iso": "2026-09-29T17:01:01Z",
+    "thumbnail_url": "https://cdn-images-1.medium.com/max/1024/1*dluIy8gak-FybuiuGcqXLw.png",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-09-29_Personalization-without-user-identity.md"
+  },
+  {
+    "title": "Why has Shopify dropped React Native?",
+    "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "It&#8217;s only been a year since the e-commerce platform declared it was very happy with React Native, but now Shopify is dumping it &#8211; and the reason, unsurprisingly, is AI",
+    "date": "2026-09-29 15:53 UTC",
+    "date_str": "2026-09-29",
+    "date_iso": "2026-09-29T15:53:19Z",
+    "thumbnail_url": "https://substackcdn.com/image/fetch/$s_!panJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e81fa2d-ad02-4b51-aca4-62b9a99fcd8b_1394x1284.png",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-09-29_Why-has-Shopify-dropped-React-Native.md"
+  },
+  {
     "title": "Language Models for Text Classification: From Bag-of-Words to Jev",
     "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
     "source": "Sebastian Raschka",
@@ -2190,17 +2228,5 @@
     "date_iso": "2026-09-01T13:00:00Z",
     "thumbnail_url": "",
     "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-09-01_Path-to-Astra-critical-capabilities-and-frontier-safeguards.md"
-  },
-  {
-    "title": "A milestone in expanding access to AI",
-    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-    "date": "2026-08-31 04:00 UTC",
-    "date_str": "2026-08-31",
-    "date_iso": "2026-08-31T04:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-08-31_A-milestone-in-expanding-access-to-AI.md"
   }
 ]
