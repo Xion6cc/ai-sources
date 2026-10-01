@@ -1,5 +1,45 @@
 [
   {
+    "title": "Distributed databases with Peter Mattis",
+    "url": "https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Cockroach Labs co-founder Peter Mattis discusses building reliable distributed systems and how AI helps him write more code without sacrificing quality.",
+    "date": "2026-09-30 16:30 UTC",
+    "date_str": "2026-09-30",
+    "date_iso": "2026-09-30T16:30:05Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-09-30_Distributed-databases-with-Peter-Mattis.md"
+  },
+  {
+    "title": "Distributed databases with Peter Mattis",
+    "url": "https://www.youtube.com/watch?v=0GzwuYGvKA4",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "How is it that a software veteran who regularly shipped ~100K of database-grade code to production each year, pre-AI, feels like he’s even more productive today, with no drop in quality? Peter Mattis is co-founder and CTO of Cockroach Labs, and an original creator of GIMP. He also worked on Gmail and distributed storage at Google. In this episode, Peter …",
+    "date": "2026-09-30 16:11 UTC",
+    "date_str": "2026-09-30",
+    "date_iso": "2026-09-30T16:11:44Z",
+    "thumbnail_url": "https://img.youtube.com/vi/0GzwuYGvKA4/mqdefault.jpg",
+    "view_count": 14143,
+    "view_count_display": "14.1K views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-09-30_Distributed-databases-with-Peter-Mattis.md"
+  },
+  {
+    "title": "The State of AI in Software Development: Data from 400+ Orgs — Justin Reock, DX",
+    "url": "https://www.youtube.com/watch?v=Se8jHLliLXE",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Justin Reock (Deputy CTO, DX) shares five trends from DX's data on about 200,000 engineers. Deployment frequency is rising, but change failure rate has become far more volatile. Maintainability is up while change confidence is down. PRs have grown from about 44 to 72 lines. Juniors use AI the most, but staff+ engineers save as much time while using fewer …",
+    "date": "2026-09-30 14:30 UTC",
+    "date_str": "2026-09-30",
+    "date_iso": "2026-09-30T14:30:20Z",
+    "thumbnail_url": "https://img.youtube.com/vi/Se8jHLliLXE/mqdefault.jpg",
+    "view_count": 15127,
+    "view_count_display": "15.1K views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-09-30_The-State-of-AI-in-Software-Development-Data-from-400-Orgs-Justin-Reock-DX.md"
+  },
+  {
     "title": "Your Agents Are in Solitary Confinement: Why MCP & A2A Aren't Enough — Vlad Luzin, Band",
     "url": "https://www.youtube.com/watch?v=UOcHfR3_tys",
     "source": "AI Engineer",
@@ -2216,17 +2256,5 @@
     "date_iso": "2026-09-01T15:01:06Z",
     "thumbnail_url": "https://cdn-images-1.medium.com/max/1024/1*kYjFqIQe5NzEX_YR0LCJVQ.png",
     "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-09-01_Becoming-an-AI-Team.md"
-  },
-  {
-    "title": "Path to Astra: critical capabilities and frontier safeguards",
-    "url": "https://openai.com/index/path-to-astra",
-    "source": "OpenAI",
-    "type": "blog",
-    "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-    "date": "2026-09-01 13:00 UTC",
-    "date_str": "2026-09-01",
-    "date_iso": "2026-09-01T13:00:00Z",
-    "thumbnail_url": "",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-09-01_Path-to-Astra-critical-capabilities-and-frontier-safeguards.md"
   }
 ]

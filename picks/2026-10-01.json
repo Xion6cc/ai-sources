@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter",
+    "title": "Distributed databases with Peter Mattis",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Cockroach Labs co-founder Peter Mattis discusses building reliable distributed systems and how AI helps him write more code without sacrificing quality.",
+    "date": "2026-09-30 16:30 UTC",
+    "date_iso": "2026-09-30T16:30:05Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=0GzwuYGvKA4",
+    "title": "Distributed databases with Peter Mattis",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "How is it that a software veteran who regularly shipped ~100K of database-grade code to production each year, pre-AI, feels like he’s even more productive today, with no drop in quality? Peter Mattis is co-founder and CTO of Cockroach Labs, and an original creator of GIMP. He also worked on Gmail and distributed storage at Google. In this episode, Peter …",
+    "date": "2026-09-30 16:11 UTC",
+    "date_iso": "2026-09-30T16:11:44Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Se8jHLliLXE",
+    "title": "The State of AI in Software Development: Data from 400+ Orgs — Justin Reock, DX",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Justin Reock (Deputy CTO, DX) shares five trends from DX's data on about 200,000 engineers. Deployment frequency is rising, but change failure rate has become far more volatile. Maintainability is up while change confidence is down. PRs have grown from about 44 to 72 lines. Juniors use AI the most, but staff+ engineers save as much time while using fewer …",
+    "date": "2026-09-30 14:30 UTC",
+    "date_iso": "2026-09-30T14:30:20Z"
+  }
+]
