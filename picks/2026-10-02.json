@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=apyrzaWj0Z4",
+    "title": "Stop Renting Your AI's Memory — Dylan Couzon, Qdrant",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Superintelligence is coming. The real question is who it belongs to. Dylan Couzon, developer relations engineer at Qdrant, argues that frontier-class models now run on hardware you can own, but the most valuable part of the stack, the memory that makes an assistant yours, still lives in someone else's cloud. He breaks memory down into write, retrieve and forget, explains …",
+    "date": "2026-10-02 07:00 UTC",
+    "date_iso": "2026-10-02T07:00:14Z"
+  },
+  {
+    "url": "https://openai.com/index/the-eternal-complement",
+    "title": "The eternal complement",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "date": "2026-10-01 17:00 UTC",
+    "date_iso": "2026-10-01T17:00:00Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage",
+    "title": "The Pulse: Firebase’s global outage & poor response",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Also: OpenAI&#8217;s platform play that has similarities to AWS, more data on companies moving to open models, and more",
+    "date": "2026-10-01 16:43 UTC",
+    "date_iso": "2026-10-01T16:43:19Z"
+  },
+  {
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+    "date": "2026-10-01 16:00 UTC",
+    "date_iso": "2026-10-01T16:00:00Z"
+  }
+]
