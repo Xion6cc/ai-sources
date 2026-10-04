@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=YiFqcu9YA38",
+    "title": "Dashboards Are Dead — Sarah Simionescu, Composio",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Sarah used Datadog every day for six months without ever opening the dashboard. Sarah Simionescu, member of technical staff at Composio and on the team behind the Composio dashboard, makes the case that the dashboard is dead. She traces how we got here: five tools and five query languages, then the AI 'sparkle button', then MCP. She explains why MCP …",
+    "date": "2026-10-04 01:30 UTC",
+    "date_iso": "2026-10-04T01:30:36Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qflLT3SoVbw",
+    "title": "Stop Fine-Tuning to Fix Retrieval Problems — Anant Srivastava",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Most AI teams never decide where their knowledge lives. Six months of normal product work decides for them. Anant Srivastava, principal technologist for data and AI platforms at Oracle, argues that prompt, memory and weights aren't a ladder you climb when answers go wrong. They're three tools for three jobs. Through a support assistant that kept inventing product names after …",
+    "date": "2026-10-04 00:00 UTC",
+    "date_iso": "2026-10-04T00:00:35Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=TRe1u7dHYiA",
+    "title": "What Makes Open Models Fast in Production — Sujee Maniyam, Nebius",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Open models have nearly caught up with proprietary ones. Serving them fast and cheaply is the hard part. Dylan Bristot, who leads product marketing for Nebius Token Factory, and developer advocate Sujee Maniyam explain what it takes to run open LLMs in production. Dylan covers the trade-off between closed APIs and self-hosting, and the inference → data → post-training → …",
+    "date": "2026-10-03 22:30 UTC",
+    "date_iso": "2026-10-03T22:30:28Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=bRGyYaE0lxI",
+    "title": "GPU Died. Training Didn't: Self-Healing Training at Scale — Crusoe",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Across thousands of GPUs, hardware failures are guaranteed. Fixing them by hand at 3 a.m. doesn't scale. Connor Guerrero, Young Jeong and Nikhil Gupta from Crusoe explain why they built Managed Slurm on top of Kubernetes. Slurm gives researchers gang scheduling, topology awareness and familiar sbatch workflows, but falls short on dynamic resources, node health and observability. Kubernetes fills those …",
+    "date": "2026-10-03 21:00 UTC",
+    "date_iso": "2026-10-03T21:00:39Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8aVbXXvJUY4",
+    "title": "An Interaction Is All You Need — Ivan Leo, Google DeepMind",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Models became agents, and the APIs didn't keep up. Google DeepMind rebuilt them. Ivan Leo, developer experience engineer at Google DeepMind, introduces the Gemini Interactions API and Managed Agents. He traces how we went from single completions to function calling to agents, then shows server-side state with interaction IDs (no more hand-managing thought signatures), strongly typed multimodal outputs, mixing built-in …",
+    "date": "2026-10-03 19:30 UTC",
+    "date_iso": "2026-10-03T19:30:16Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=oUZEt4EiPbk",
+    "title": "I Built a Personal AI Agent on a Raspberry Pi — Jeremy Adams, Neo4j",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "No Mac Mini, no laptop agent. Jeremy Adams runs his personal AI agent on an old Raspberry Pi he wears around his neck. Jeremy Adams, senior developer advocate at Neo4j, assembles a wearable AI agent live on stage: NanoClaw on a Raspberry Pi 4B, messaged over WhatsApp, with Docker-isolated agents and a Neo4j graph database. He shows how he built …",
+    "date": "2026-10-03 16:30 UTC",
+    "date_iso": "2026-10-03T16:30:34Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=I2LL_wd89-A",
+    "title": "How VS Code Went from Monthly to Weekly Releases with AI — Harald Kirschner",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "After 10 years of monthly releases, VS Code now ships weekly. It wasn't more AI that made it work. It was rebuilding the whole system around it. Harald Kirschner, principal product manager on VS Code at Microsoft, explains how a small team shipping to more than 50 million users moved from monthly to weekly releases with AI agents, and what …",
+    "date": "2026-10-03 15:00 UTC",
+    "date_iso": "2026-10-03T15:00:10Z"
+  }
+]
