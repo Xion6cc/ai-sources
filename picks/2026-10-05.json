@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=T3SS931wU0I",
+    "title": "Agentic Search vs Vector Search for Coding Agents: We Ran the Eval — Braintrust",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Same accuracy. Four times the cost. What happened when Braintrust pitted vector search against agentic search for a coding agent. Jess Wang, developer advocate at Braintrust, starts with the basics of evals: why shipping on vibes fails, the four parts of an eval (dataset, task, scorer, experiments), and how observability and evals form a flywheel. Then she runs a real …",
+    "date": "2026-10-05 15:30 UTC",
+    "date_iso": "2026-10-05T15:30:36Z"
+  },
+  {
+    "url": "https://openai.com/index/eu-text-provenance",
+    "title": "Our approach to EU text provenance rules",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "date": "2026-10-05 15:00 UTC",
+    "date_iso": "2026-10-05T15:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9_oy4owGtPI",
+    "title": "Agent Memory Is Solved. Agent Learning Isn't. — Karthik Ranganathan, Yugabyte",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "One agent can remember. A team of agents still can't learn together. Karthik Ranganathan, co-founder and co-CEO of Yugabyte, explains why per-agent memory is a solved problem but shared learning across agents isn't. When one agent hands work to another, it passes on the output but loses the reasoning, the dead ends and the context, so the next agent burns …",
+    "date": "2026-10-05 14:00 UTC",
+    "date_iso": "2026-10-05T14:00:20Z"
+  },
+  {
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "title": "Building advertising for the way people use AI",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "date": "2026-10-05 10:00 UTC",
+    "date_iso": "2026-10-05T10:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=33Oct2hqGnk",
+    "title": "Agents That Write Their Own Tools at Runtime — Sandhya Subramani, AWS",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "This agent starts with zero tools. Ask it for something it can't do, and it writes the tool and uses it without restarting. Sandhya Subramani, senior developer advocate for GenAI at AWS, demos meta-tooling with the open-source Strands Agents SDK. That means agents that write, load and use their own tools at runtime, and even spin up their own sub-agents. …",
+    "date": "2026-10-04 21:00 UTC",
+    "date_iso": "2026-10-04T21:00:13Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Bdrs3uAX0_M",
+    "title": "AI Coding Agents Are Breaking Big Codebases — Dan Adler, Sourcegraph",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Claude Code can make the change. But what if you have 90,000 repositories to make it in? Dan Adler, CEO of Sourcegraph, makes the case for the people who own the huge, decades-old codebases that run banks, cars and airlines. Coding agents are producing a tidal wave of code, and those codebases are starting to decay through duplicated code, drifting …",
+    "date": "2026-10-04 19:30 UTC",
+    "date_iso": "2026-10-04T19:30:20Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=YXb2Wx1r_Pk",
+    "title": "Keyword Search Is Dying. Is Your Catalog Ready for AI Agents? — PayPal",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Shoppers are moving from typing keywords to describing what they need, and agents are doing the searching. Nixon Dinh, director of product for agentic commerce at PayPal, explains how shopping is moving from the search era to the intent era and then the delegation era, and why product catalogs built for keyword SEO aren't ready for AI agents. He breaks …",
+    "date": "2026-10-04 18:00 UTC",
+    "date_iso": "2026-10-04T18:00:25Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jc3kbZkuHTo",
+    "title": "The Human Is an Async API — Melanie Warrick, Temporal",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Humans don't respond in 200 milliseconds. Your agent shouldn't fall over waiting for one. Melanie Warrick from developer relations at Temporal shows how to build human-in-the-loop agents that don't block or lose state. Using a live multi-agent ice cream delivery demo with fleet, customer and dispatch agents on Google ADK and LangGraph, she explains why durability belongs in the agent …",
+    "date": "2026-10-04 16:30 UTC",
+    "date_iso": "2026-10-04T16:30:17Z"
+  }
+]
