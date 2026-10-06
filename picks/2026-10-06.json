@@ -1,0 +1,155 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=FwiS44-xyYw",
+    "title": "Cooking with Codex — Charlie Guo & Gabriel Chua, OpenAI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Four minutes and two seconds after receiving a capture of a Slack conversation, Codex produces a macOS live translation app. Charlie Guo and Gabriel Chua use that build to show how context, plugins, and supervision fit together. The conversation supplies the idea, plugins supply development practices, and a live German translation tests the result. Other demonstrations turn repository history into …",
+    "date": "2026-10-06 02:00 UTC",
+    "date_iso": "2026-10-06T02:00:02Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=c5U-XbbEN-g",
+    "title": "How AI Agents Pay: Checkout in ChatGPT and Google AI Mode — Sam Parsons, PayPal",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Your next customer might check out without ever visiting your site. Here's how the payment actually works. Sam Parsons, senior staff engineer at PayPal working on PayPal Enterprise Payments (formerly Braintree), walks through three ways merchants can accept payments initiated by AI agents. First, Instant Checkout in ChatGPT with the Agentic Commerce Protocol and a merchant-built MCP app. Second, Google …",
+    "date": "2026-10-06 01:30 UTC",
+    "date_iso": "2026-10-06T01:30:12Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=hfEczxdNyvU",
+    "title": "Advanced Workshop: Mastering AI Observability — Doug Guthrie, Braintrust",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A batch of 968 sample support traces exposes order lookup failures and broken escalation calls. Doug Guthrie uses those cases to connect Braintrust observability with the work of improving an agent. The workshop starts with a Python support agent built on the OpenAI Agents SDK, adds tracing, establishes an offline evaluation baseline, and publishes custom scorers. Online automations grade incoming …",
+    "date": "2026-10-06 01:00 UTC",
+    "date_iso": "2026-10-06T01:00:25Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZUZVNKFSmTM",
+    "title": "How Many Credentials Should Your AI Agent Have? Zero. — Jim Clark, Docker",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Agents now run long enough that you stop watching them. So what are they allowed to touch? Jim Clark, principal software engineer at Docker, uses MCP gateways as a way into agent safety. Harnesses are simple loops. Safety comes from what context and tools flow into them, so the boundary to manage is the sandbox. Through two examples, a newsroom …",
+    "date": "2026-10-06 00:30 UTC",
+    "date_iso": "2026-10-06T00:30:15Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=woIYJYd_etI",
+    "title": "What Is an Inference Engine, Anyway? — Charles Frye, Modal",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A traffic spike on a museum placard generator produces longer waits for the first token and slower tokens afterward. Charles Frye reads those symptoms from an inference dashboard and shows how additional replicas relieve the queue. The example connects an application people can see to the machinery behind its API. He follows a request through server IO, tokenization, scheduling, model …",
+    "date": "2026-10-06 00:00 UTC",
+    "date_iso": "2026-10-06T00:00:12Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=xLxhT2ZI7UM",
+    "title": "Your LLM Judge Is a Confident Liar: Building Better Verifiers — Browserbase",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The official judge said the agent succeeded 74% of the time. A better verifier said 38%. Miguel González Fernández, tech lead for Browserbase's agent platform, and Corby Rosset, researcher at Microsoft Research, present their research on verifiers for computer-use and web agents. Deterministic evals stopped scaling as agents improved, and the LLM judges bundled with popular web benchmarks turned out …",
+    "date": "2026-10-05 23:30 UTC",
+    "date_iso": "2026-10-05T23:30:05Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=F0TNSmbo5hE",
+    "title": "From Vibes to Production: Evaluating and Shipping AI Agents That Work 201 — Laurie Voss, Arize AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A toy store agent fails a request for toys under $6 because its search tool has no price filter. Laurie Voss turns that missing feature into a live demonstration of an improvement loop: add observability, inspect what happened, find the problem, and ask a coding agent to fix it. The Wonder Toys application starts without traces flowing into Arize AX. …",
+    "date": "2026-10-05 23:00 UTC",
+    "date_iso": "2026-10-05T23:00:09Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=wzWNYDY7toc",
+    "title": "From Raw Documents to AI-Ready Data — Leo Platzer & Jeff Koss",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A chatbot pilot on 40 hand-picked files works great. Point it at 80,000 SharePoint documents and it falls apart. Jeff Koss and Leo Platzer, co-founder and former CTO of Deasy Labs (acquired by Collibra), walk through taking an unstructured-data AI project from stalled POC to production. Using a manufacturer building a legal-ops chatbot over 80,000 SharePoint files, they demo AI-assisted …",
+    "date": "2026-10-05 22:30 UTC",
+    "date_iso": "2026-10-05T22:30:12Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qZj7sqmidqA",
+    "title": "From Vibes to Production: Evaluating and Shipping AI Agents That Work 101 — Laurie Voss, Arize AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An LLM correctness judge rejects all 13 reports from a financial analysis agent. Laurie Voss examines why: the agent used live web research, while the judge graded from its own knowledge without that research context. Supplying the collected sources to a faithfulness evaluator produces a more useful split of six faithful reports and seven unfaithful ones. The notebook builds the …",
+    "date": "2026-10-05 22:00 UTC",
+    "date_iso": "2026-10-05T22:00:36Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=42Bz0TUfeOQ",
+    "title": "The Transcript Looked Fine. The Call Wasn't. — Debugging Voice Agents, Arize",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The transcript says the agent corrected itself. The audio says it refunded the wrong order. Fuad Ali, senior product manager at Arize AI, shows why voice agents are one of the hardest categories to debug: latency, turn-taking and transcription errors are invisible in a text log. Using a refund call that looks fine in the transcript but had 2.4 seconds …",
+    "date": "2026-10-05 21:30 UTC",
+    "date_iso": "2026-10-05T21:30:33Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=zQZiHOpkq_s",
+    "title": "Research to Reality with Google DeepMind — Paige Bailey, Google DeepMind",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A model running entirely in the browser produces an emoji table ranking the Harry Potter books, and Paige Bailey immediately questions its taste. The response arrives almost instantly, without an API call or data leaving the machine. Bailey uses that demo to introduce Gemma 4, Google DeepMind's open model family, and show what local inference looks like in practice. She …",
+    "date": "2026-10-05 21:00 UTC",
+    "date_iso": "2026-10-05T21:00:21Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=s0hFne6EeOI",
+    "title": "Build the Right Thing: Product Engineering (Part 2) — Kent C. Dodds, EpicProduct.engineer",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A request for facial recognition becomes a job statement about getting attendees into a workshop without missing the first 20 minutes. Kent C. Dodds uses that audience suggestion to separate a requested feature from the progress a user actually needs. Asking why exposes alternatives such as parallel queues or badges, rather than immediately committing to a database of faces. He …",
+    "date": "2026-10-05 20:00 UTC",
+    "date_iso": "2026-10-05T20:00:35Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_fHTqOs5wQA",
+    "title": "Build the Right Thing: Product Engineering (Part 1) — Kent C. Dodds, EpicProduct.engineer",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The line of attendees waiting outside becomes the workshop's live product idea: an app called Just Get In the Workshop. Kent C. Dodds uses that immediate frustration to practice deciding whether a problem deserves a software solution. Before the exercise, he explains why faster implementation changes the value of an engineer's work. Agents can help hit more targets, but choosing …",
+    "date": "2026-10-05 19:00 UTC",
+    "date_iso": "2026-10-05T19:00:12Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=fz6-NS7qpZc",
+    "title": "How I Learned to Stop Worrying and Love the Sandbox — Matt Brockman, E2B",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A runaway process consumes 99.7% of a sandbox's CPU, and killing it unlocks the next level of a capture the flag lab. Matt Brockman walks the room through deliberately broken environments to make sandbox operations concrete. Participants identify their sandbox, find memory pressure, locate a file filling the disk, and clean up background processes. Each challenge runs in its own …",
+    "date": "2026-10-05 18:00 UTC",
+    "date_iso": "2026-10-05T18:00:17Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=NdrSPm6NCdk",
+    "title": "Evals in AI: A Deep Dive — Tejas Kumar, IBM",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A customer support answer passes a test because it contains the word “cannot,” even though it approves a return outside the store's policy. Tejas Kumar builds that failure live to show where ordinary assertions and fuzzy matching stop being useful. The example grows into an LLM judge, then a dataset of customer scenarios, agent responses, and human verdicts. Along the …",
+    "date": "2026-10-05 17:00 UTC",
+    "date_iso": "2026-10-05T17:00:22Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=T3SS931wU0I",
+    "title": "Agentic Search vs Vector Search for Coding Agents: We Ran the Eval — Braintrust",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Same accuracy. Four times the cost. What happened when Braintrust pitted vector search against agentic search for a coding agent. Jess Wang, developer advocate at Braintrust, starts with the basics of evals: why shipping on vibes fails, the four parts of an eval (dataset, task, scorer, experiments), and how observability and evals form a flywheel. Then she runs a real …",
+    "date": "2026-10-05 15:30 UTC",
+    "date_iso": "2026-10-05T15:30:36Z"
+  },
+  {
+    "url": "https://openai.com/index/eu-text-provenance",
+    "title": "Our approach to EU text provenance rules",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "date": "2026-10-05 15:00 UTC",
+    "date_iso": "2026-10-05T15:00:00Z"
+  }
+]
