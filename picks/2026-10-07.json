@@ -1,0 +1,146 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=u-o0sW9nwmk",
+    "title": "From 36% to 100%: How Self-Improving Agents Write Their Own Skills — Rafal Wilinski, Runlayer",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "When one agent finally cracks a hard problem, what if every agent in the company learned it too? Rafal Wilinski, founding engineer at Runlayer, shows how to go from one self-improving agent to a self-improving company. He explains why skills matter more as agents work longer (a bad start can send them down an hours-long rabbit hole) and the three …",
+    "date": "2026-10-07 14:00 UTC",
+    "date_iso": "2026-10-07T14:00:10Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=X4w2Pkz5tDY",
+    "title": "Grep or Embeddings? Agentic Search Over Company Documents — George He, LlamaIndex",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Grep works great on a codebase. Try it on millions of PDFs, slides and scanned schematics. George He, head of engineering at LlamaIndex, explains when agents need pre-indexed search and when plain file traversal is enough. Claude Code skipped embeddings because code is small, text-based, local and full of breadcrumbs. Company data is huge, messy, multimodal and permissioned. He shows …",
+    "date": "2026-10-07 01:30 UTC",
+    "date_iso": "2026-10-07T01:30:36Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cf2IhzqeQH4",
+    "title": "Every AI Company Is Accidentally Building a Bank — Dor Sasson, Stigg",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In one month, three of the biggest AI companies had a pricing emergency. Dor Sasson says it was really an infrastructure problem. Dor Sasson, co-founder and CEO of Stigg, argues that every AI company is accidentally building a bank. He starts with the April pricing scramble, when Anthropic cut third-party agents like OpenClaw off its subscription plans, OpenAI changed its …",
+    "date": "2026-10-07 00:30 UTC",
+    "date_iso": "2026-10-07T00:30:28Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=eXA2tjRZIbY",
+    "title": "The 6 Pillars of an Agentic Harness for Production — Varun Krovvidi, Resolve AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "AI changed how we write code. But 70% of engineering time goes to running and fixing it. Varun Krovvidi, product marketing lead at Resolve AI, explains why AI that writes code well still struggles to run production. Code is self-documenting, modular and a single domain. Production spans code, infrastructure, telemetry and many teams, and needs one correct answer. He covers …",
+    "date": "2026-10-06 23:30 UTC",
+    "date_iso": "2026-10-06T23:30:36Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=XTpyNrEgJQ4",
+    "title": "Is Speculative Decoding Worth It? Profiling vLLM on NVIDIA Blackwell — Akamai",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A small model guesses the next few tokens. The big model checks them in one pass. When is that worth it? Sheilah Kirui, developer advocate at Akamai, explains speculative decoding and how to tell whether it's worth turning on. She walks through the prefill and decode phases of inference, how a small draft model proposes tokens that the target model …",
+    "date": "2026-10-06 22:30 UTC",
+    "date_iso": "2026-10-06T22:30:02Z"
+  },
+  {
+    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+    "title": "Building Git infrastructure for agent-scale development",
+    "source": "GitHub Engineering",
+    "type": "blog",
+    "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog .",
+    "date": "2026-10-06 20:57 UTC",
+    "date_iso": "2026-10-06T20:57:56Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=uKUA1a0Kdfc",
+    "title": "Move Fast and Don't Break Things: Scaling Databases for the AI Era — PlanetScale",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "AI agents are multiplying traffic overnight. Here's how to ship fast without taking your database down with it. Ben Dicken from PlanetScale argues you no longer have to choose between moving fast and keeping things up. He covers the principles behind reliable infrastructure, isolation and redundancy, then how to scale with sharding, back pressure and decoupling, the same ideas PlanetScale …",
+    "date": "2026-10-06 20:00 UTC",
+    "date_iso": "2026-10-06T20:00:07Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=mUQoVz7THu0",
+    "title": "Why Building an Eval Platform Is Harder Than It Looks — Braintrust",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Most teams start their evals in a spreadsheet. Here's what happens when they try to grow out of it. Hossein Niazmandi, who leads solutions engineering in the West at Braintrust, explains why measuring agent quality is much more than putting a UI on a spreadsheet. He covers the two pillars of agent quality, evals before production and observability after, and …",
+    "date": "2026-10-06 18:30 UTC",
+    "date_iso": "2026-10-06T18:30:35Z"
+  },
+  {
+    "url": "https://medium.com/airbnb-engineering/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb-cea7ee9b1ab2?source=rss----53c7c27702d5---4",
+    "title": "Beyond synthetic testing: Capturing and replaying real database workloads at Airbnb",
+    "source": "Airbnb Engineering",
+    "type": "blog",
+    "summary": "How we capture real production database traffic at Airbnb and replay it offline to load-test, plan capacity, and de-risk upgrades. By: Zuofei Wang , Erluo Li Introduction At Airbnb, MySQL-compatible databases are a critical backbone of our online database infrastructure: a fleet of hundreds of clusters supporting thousands of use cases at millions of queries per second (QPS). Operating databases …",
+    "date": "2026-10-06 17:01 UTC",
+    "date_iso": "2026-10-06T17:01:04Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=TeErpYBUIeM",
+    "title": "The Self-Improving OSS Agent Stack — Marc Klingen, Langfuse",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Improving an agent used to mean a human reading traces every week. Now agents can do most of that loop for you. Marc Klingen, co-founder of Langfuse, shows how teams are moving from manually improving their agents to letting AI run the improvement loop. He explains the reference stack that emerged for building agents, which connects online tracing and monitoring …",
+    "date": "2026-10-06 17:00 UTC",
+    "date_iso": "2026-10-06T17:00:19Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
+    "title": "The state of the tech industry in 2026",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "A look into what has changed, what&#8217;s still the same &#8211; and what&#8217;s broken &#8211; in the tech industry. The full video and the summary of my keynote at LDX3 New York",
+    "date": "2026-10-06 16:25 UTC",
+    "date_iso": "2026-10-06T16:25:03Z"
+  },
+  {
+    "url": "https://medium.com/pinterest-engineering/metrics-board-building-an-agent-ready-metrics-layer-2c8fefe68756?source=rss----4c5a5f6279b6---4",
+    "title": "Metrics Board: Building an Agent-ready Metrics Layer",
+    "source": "Pinterest Engineering",
+    "type": "blog",
+    "summary": "Michele Ceccacci; Software Engineer I | Jason Coffman; Sr. Software Engineer | Colm O’Shaughnessy; Software Engineer II | Laura Palmer; Staff Product Manager | Adam Podraza; Manager, Engineering | Surya Karri; Manager, Engineering At Pinterest, reliable and trustworthy metrics are behind every decision: from measuring company-wide business performance to evaluating each feature experiment results. Hundreds of data producers — analysts, …",
+    "date": "2026-10-06 16:01 UTC",
+    "date_iso": "2026-10-06T16:01:02Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
+    "title": "NTS: Authenticated Time at Meta",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Meta’s public time service now speaks NTS (Network Time Security, RFC 8915) at nts.meta.com. Packets are authenticated, so a device can verify the time came from us and was not modified on the way. Our NTS servers hold no per-client state. Cookie keys are derived, not stored and not replicated. We’ve open sourced everything, including [...] Read More... The post …",
+    "date": "2026-10-06 16:00 UTC",
+    "date_iso": "2026-10-06T16:00:06Z"
+  },
+  {
+    "url": "https://openai.com/index/atlassian-partnership",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "date": "2026-10-06 16:00 UTC",
+    "date_iso": "2026-10-06T16:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Ru99FGJ_yuE",
+    "title": "The state of the tech industry in 2026 - LDX3 New York",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "A look into what has changed, what’s still the same – and what’s broken – in the tech industry, with a focus on AI labs, startups and Big Tech. The keynote presentation on 15 September 2026, at LDX3, in New York. Related The Pragmatic Engineer deepdives: • Inside OpenAI’s agentic software factory https://newsletter.pragmaticengineer.com/p/openai-software-factory • How building software is changing at …",
+    "date": "2026-10-06 15:51 UTC",
+    "date_iso": "2026-10-06T15:51:58Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=X6l4lpA0_NY",
+    "title": "Harness Engineering: How to Build a Software Factory — Dru Knox, Tessl",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In a software factory, agents write everything your users get. Your engineers build the factory. Dru Knox, head of product and design at Tessl, explains harness engineering (some now call it loop engineering), the discipline that takes a team from using coding agents to running a software factory. He defines a factory by three metrics: autonomy, automation and quality. He …",
+    "date": "2026-10-06 15:30 UTC",
+    "date_iso": "2026-10-06T15:30:27Z"
+  }
+]
