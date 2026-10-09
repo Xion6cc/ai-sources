@@ -1,0 +1,128 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=E3KbFLAGD6A",
+    "title": "Stop Prompting — Greg Pstrucha, Sentry",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "You correct your agent. It says \"You're absolutely right.\" Five minutes later, after compaction, it makes the same mistake again. Greg Pstrucha, who works on the infrastructure behind Seer, Sentry's debugging agent, argues you should stop re-prompting your coding agent and start codifying the rules you keep repeating. Agents have no memory, so the same elementary mistakes come back: overly …",
+    "date": "2026-10-09 14:00 UTC",
+    "date_iso": "2026-10-09T14:00:20Z"
+  },
+  {
+    "url": "https://openai.com/index/sophos",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "date": "2026-10-09 07:00 UTC",
+    "date_iso": "2026-10-09T07:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=uuwDWRbxoYo",
+    "title": "AI Writes More PRs. Who Validates Them? — Ali-Reza Adl-Tabatabai, Sonar",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "AI means more PRs, bigger PRs, and more bugs. Your choice is to slow down or rubber-stamp, unless validation gets automated too. Ali-Reza Adl-Tabatabai, co-founder of Gitar (now part of Sonar), focuses on verifying code. CI and code review are where quality gates live, and they get slower and more expensive as teams grow. AI makes it worse with more …",
+    "date": "2026-10-09 01:30 UTC",
+    "date_iso": "2026-10-09T01:30:15Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Emo5FGGY-wM",
+    "title": "Why 80% Reliability Isn't Good Enough — Felipe Blanes, Amazon AGI Lab",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Your agent scores great on benchmarks. Then real customers use it and it breaks. Felipe Blanes from the Amazon AGI Lab shares what he learned working directly with customers of Nova Act, Amazon's service for building browser agents, from research preview to general availability on AWS. He calls the core problem the benchmark illusion: static evals look great until customers …",
+    "date": "2026-10-09 00:30 UTC",
+    "date_iso": "2026-10-09T00:30:02Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3XI90A3ENSg",
+    "title": "How a Remote Company Builds AI Fluency — Em Shreve, Automattic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Handing people AI tools doesn't change how they work. Giving them real time to learn does. Em Shreve, head of AI enablement at Automattic, the company behind WordPress.com and Tumblr with over 1,400 people in 82 countries, explains how a fully remote company builds AI fluency. Their bet: people need real time to learn, not just tools. So they run …",
+    "date": "2026-10-08 23:30 UTC",
+    "date_iso": "2026-10-08T23:30:33Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=NaOkR3VSfR4",
+    "title": "Brains vs Hands: How to Run AI Agents Safely in Production — Viren Baraiya",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Let the model decide what should happen next. Never let it improvise how a production cluster gets restarted. Viren Baraiya, co-founder and CTO of Orkes and the original creator of Netflix Conductor, explains how to run agents in production. Real agents aren't just chatbots: they run on schedules, react to events, coordinate other agents and can run for months, so …",
+    "date": "2026-10-08 22:30 UTC",
+    "date_iso": "2026-10-08T22:30:09Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=k2ClBT4aqAg",
+    "title": "We Mapped 115 Microservices for Our Coding Agents — Kamalakannan Nandagopal, Postman",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Coding agents are great inside one repo. Postman has 115 microservices and thousands of endpoints. Kamalakannan Nandagopal, staff engineer at Postman, shares how Postman made coding agents work across a real distributed system. Docs go stale, skills and MCPs are only as good as their context, and agent memory stays stuck with one person. Borrowing from Postman's go-to-market team, they …",
+    "date": "2026-10-08 21:30 UTC",
+    "date_iso": "2026-10-08T21:30:19Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=XPj3mIKEtI4",
+    "title": "Turning Agent Memory Into Skills That Work — Will Lyon, Neo4j",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Agents finish a task, then forget what they learned. Retrieval alone won't fix that. Will Lyon, senior product manager at Neo4j, explains why agent memory built on embeddings and retrieval isn't enough: recall isn't actionable knowledge. Agents need knowledge that is connected, typed and traceable. He shows Neo4j's model of agent memory as a context graph with short-term, long-term and …",
+    "date": "2026-10-08 20:00 UTC",
+    "date_iso": "2026-10-08T20:00:21Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=YNT7Plf9KIg",
+    "title": "Your AI Agent Has No Nervous System — Matt Gibiec, Dynatrace",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Your coding agent is fast. But it can't see how your services actually run, so it guesses. Matt Gibiec, who leads AI-native solutions engineering at Dynatrace, explains why AI agents need something like a nervous system: real context from the environment they're changing. Agents get stuck in loops, cause operational and security issues, and are hard to measure, because they …",
+    "date": "2026-10-08 18:30 UTC",
+    "date_iso": "2026-10-08T18:30:21Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jJQoVkd5yLg",
+    "title": "Why We Deleted Our MCP Server and Rebuilt It — Abhi Arya, Reducto",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Reducto gave its whole team an MCP server with a tool for every endpoint. It broke the same day. Abhi Arya, who works on product at Reducto, argues that building agent-first software comes down to one question: who pays when the agent is wrong? He describes three approaches, auto mode, user-first, and agent experience in service of the user, and …",
+    "date": "2026-10-08 17:00 UTC",
+    "date_iso": "2026-10-08T17:00:23Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
+    "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Also: do us engineers truly enjoy &#8216;hard problems&#8217;, or do we really just want to solve those which attract promotions, new open models launch in the EU and US, and more",
+    "date": "2026-10-08 16:55 UTC",
+    "date_iso": "2026-10-08T16:55:51Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=akEqiXFo3GM",
+    "title": "AI Engineer NYC Livestream | Bridgewater, Anthropic, Two Sigma, Arize, Coatue, Nous, Gen. Intuition",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Schedule: https://ai.engineer/schedule Live from the Sheraton New York Times Square Hotel in New York City, AI Engineer New York 2026 is an AI conference for engineers and technical leaders building production AI across banking, hedge funds, fintech, insurance, and asset management. Event: AI Engineer NYC Dates: October 12–14, 2026 Venue: Sheraton New York Times Square Hotel Learn more about the …",
+    "date": "2026-10-08 16:17 UTC",
+    "date_iso": "2026-10-08T16:17:19Z"
+  },
+  {
+    "url": "https://openai.com/index/oracle",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+    "date": "2026-10-08 16:00 UTC",
+    "date_iso": "2026-10-08T16:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=HTzgC3FoYsI",
+    "title": "Let Anyone at Your Company Ship Internal Apps with AI — Garrett Galow, WorkOS",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Building an app with AI got cheap. Getting it in front of your coworkers didn't. Garrett Galow from the WorkOS product team shows how WorkOS lets anyone at the company build and ship internal apps. It started when an account executive built a helpful sales chatbot before her leave, and the CEO couldn't even open it. Building got cheap with …",
+    "date": "2026-10-08 15:30 UTC",
+    "date_iso": "2026-10-08T15:30:31Z"
+  }
+]
