@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=tNAV259UhCM",
+    "title": "From 15% to 90% GPU Utilization: Fix the Data Pipeline, Not the Model",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Your GPUs might be waiting on your data, not your model. This pipeline went from 15% to 90% GPU utilization. Tarun Sunkaraneni from Amazon AGI shows that the hardest part of fast multimodal training often isn't the GPU at all, but keeping it fed with data. Training a Qwen3-VL-style model on images stored in S3, the baseline pipeline spent about …",
+    "date": "2026-10-10 01:30 UTC",
+    "date_iso": "2026-10-10T01:30:14Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=TyPpSRXGhbc",
+    "title": "Small Models, Big Results: Training a Finance Agent for Under $500 — Charles Dickens, Snorkel AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A 4 billion parameter model, trained with RL for under $500, beat its 235 billion parameter sibling on real financial questions. Charles Dickens, research scientist at Snorkel AI, shares how Snorkel and UC Berkeley's Sky Computing Lab trained a small model to beat a much bigger one. Working from SEC 10-K filings, they built FinQA, a financial question-answering dataset with …",
+    "date": "2026-10-10 00:30 UTC",
+    "date_iso": "2026-10-10T00:30:10Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cSz7aL2nl2U",
+    "title": "Why Your Company Needs a Context Graph (and How to Build It) — Gil Feig, Merge",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Your agent can tell you why one customer was upset. Ask which customers were upset last year, and it falls apart. Gil Feig, co-founder and CTO of Merge, explains why every company needs a context graph, a company brain that brings together third-party data, structured context, memories and skills. Using the question \"which customers were upset last week?\", he shows …",
+    "date": "2026-10-09 23:30 UTC",
+    "date_iso": "2026-10-09T23:30:08Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=6qkzlT962es",
+    "title": "Generation Is Cheap, Review Is Expensive: How to Stop Shipping AI Slop — Gabriel Martinez, G2i",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Slop isn't AI-written code. It's work that looks finished before the thinking is. Gabriel \"Gabo\" Martinez, engineering manager and self-described slop warden at G2i, explains what slop really is: what happens when generation outruns judgment, when ambiguity gets cleared with guesses and nobody notices there was a choice to make. He's not anti-AI, but argues we need to sober up. …",
+    "date": "2026-10-09 20:00 UTC",
+    "date_iso": "2026-10-09T20:00:07Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=BIhiYL4U9_M",
+    "title": "From Context to Memory: Your Agents Need a Real Memory Layer — Anders Swanson, Oracle",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Your agent rereads the same files every session because nothing it learned was saved. Anders Swanson, developer evangelist for Oracle Database, treats agent memory as a systems problem. Context windows aren't memory, bigger windows aren't the fix, and markdown scratch pads and grep don't scale. Keep going down that road and you'll end up building your own database. He walks …",
+    "date": "2026-10-09 18:30 UTC",
+    "date_iso": "2026-10-09T18:30:09Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3wj6sgbi1YA",
+    "title": "Designing CLIs for Agents, Not Humans — Pedro Lopez, Airbyte",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Airbyte built both an MCP server and a CLI so agents can use its data. Here's what each one is actually good for. Pedro Lopez, software engineer at Airbyte, shares lessons from building two ways for AI agents to reach company data through Airbyte's Context Store, a search-optimized index of tools like Zendesk, Stripe and HubSpot. Both are thin interfaces …",
+    "date": "2026-10-09 17:00 UTC",
+    "date_iso": "2026-10-09T17:00:31Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9WiBJRO84yY",
+    "title": "Building on the Codex Harness — Dominik Kundel, OpenAI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Building your own agent harness is daunting. So use the one that already powers Codex. Dominik Kundel from OpenAI's Codex developer experience team explains the Codex App Server, the open-source JSON-RPC protocol that wraps the Codex harness and powers the Codex app, the IDE extensions, and third-party clients in Xcode, JetBrains and more. Using an inspector he built, he shows …",
+    "date": "2026-10-09 15:30 UTC",
+    "date_iso": "2026-10-09T15:30:04Z"
+  },
+  {
+    "url": "https://medium.com/pinterest-engineering/from-activity-to-intent-generating-user-journeys-with-llms-9652b9417626?source=rss----4c5a5f6279b6---4",
+    "title": "From Activity to Intent: Generating User Journeys with LLMs",
+    "source": "Pinterest Engineering",
+    "type": "blog",
+    "summary": "Lin Zhu | Sr. Staff Machine Learning Engineer; Manan Kalra | Machine Learning Engineer II; Byung Eun Jeon | Sr. Machine Learning Engineer; Ye Liu | Staff Machine Learning Engineer; Xiangyi Chen | Sr. Machine Learning Engineer; Jaewon Yang | Principal Machine Learning Engineer; Jinwen Xu | Manager II, Machine Learning Engineering; Tingting Zhu | Sr. Manager, Engineering; Sudarshan Lamkhede …",
+    "date": "2026-10-09 15:01 UTC",
+    "date_iso": "2026-10-09T15:01:02Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=E3KbFLAGD6A",
+    "title": "Stop Prompting — Greg Pstrucha, Sentry",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "You correct your agent. It says \"You're absolutely right.\" Five minutes later, after compaction, it makes the same mistake again. Greg Pstrucha, who works on the infrastructure behind Seer, Sentry's debugging agent, argues you should stop re-prompting your coding agent and start codifying the rules you keep repeating. Agents have no memory, so the same elementary mistakes come back: overly …",
+    "date": "2026-10-09 14:00 UTC",
+    "date_iso": "2026-10-09T14:00:20Z"
+  }
+]
