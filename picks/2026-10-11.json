@@ -1,0 +1,137 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=p-2MT8KYZqU",
+    "title": "AI Security Engineer Foundations + Certificate — Micah Silverman, Snyk",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A student chatbot refuses to reveal grades, but its refusal exposes that it has access to them. Micah Silverman uses that capture the flag exercise to connect AI risks with familiar application security controls. A system prompt telling an assistant to keep data private leaves the data within reach; a restricted database view removes it from the model's available context. …",
+    "date": "2026-10-11 13:30 UTC",
+    "date_iso": "2026-10-11T13:30:04Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ksjwtQop4os",
+    "title": "Vector Isn't Enough: Hybrid Search & Retrieval — Jeff Vestal & James Williams, Elastic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An agent diagnoses exit code 137 by retrieving documentation, explaining an out of memory failure, and pointing to settings that can prevent it. Its answer depends on the search results it receives, and its citations lead back to the underlying documents. Jeff Vestal and James Williams work backward from that agent behavior to the retrieval layer in Elasticsearch. The hands …",
+    "date": "2026-10-11 13:00 UTC",
+    "date_iso": "2026-10-11T13:00:18Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KhRjivBSwiw",
+    "title": "The Data Context Layer for Agents — Yoni Michael & Brandon Callender, Typedef",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Two Rust types are both called PostingList, but changing them breaks different code. A text search finds both; a context graph preserves their identities and exposes their separate dependencies. Yoni Michael and Brandon Callender use that distinction to connect data engineering and coding agents. For a data system, valid SQL can still produce the wrong answer when a join multiplies …",
+    "date": "2026-10-11 12:30 UTC",
+    "date_iso": "2026-10-11T12:30:23Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Ndp5VaqFrl0",
+    "title": "Turning My Obsidian Vault Into a Local AI Engineer — Filip Makraduli, Superlinked",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A scanned NDA becomes a redacted Markdown document before a coding agent uses its contents. Filip Makraduli builds that workflow around an Obsidian vault, an MCP integration and Superlinked's inference engine, with small open models doing document processing on infrastructure the team controls. The starting problem combines sensitive files, expensive context and the need to adapt models to a particular …",
+    "date": "2026-10-11 12:00 UTC",
+    "date_iso": "2026-10-11T12:00:32Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=HGfsfKaVuGY",
+    "title": "Parsing the Epstein Files for JMail — Palak Agarwal & Omar Alhait, Reducto",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Handwritten flight logs and heavily redacted PDFs stand between a pile of documents and a searchable product. Palak Agarwal and Omar Alhait show how Reducto turned the Epstein files into structured data for JMail and its related applications. Agarwal introduces the document processing layer; Alhait walks through the extraction pipeline behind JFlights, showing how a schema turns difficult pages into …",
+    "date": "2026-10-11 11:30 UTC",
+    "date_iso": "2026-10-11T11:30:30Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=IK8cC4FScps",
+    "title": "Building AI Agents with Real-Time Web Data — Yohan Raju, Bright Data",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A product intelligence agent checks an Amazon listing, searches Reddit for discussion of the same tumbler and turns both sources into a purchase recommendation. Yohan Raju builds that workflow with Bright Data APIs and Gemini, showing why an agent needs fresh, structured evidence rather than relying entirely on information already stored in a model or retrieval system. The demo collects …",
+    "date": "2026-10-11 11:00 UTC",
+    "date_iso": "2026-10-11T11:00:25Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=LJ2a9nX3vlo",
+    "title": "RAG Needs a Map: Using GraphRAG to Retrieve Connected Context — Nyah Macklin, Neo4j",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An agent answering questions about a course needs more than the five chunks closest to a query. It also needs the connections between lessons, concepts, and the sources behind its answer. Nyah Macklin builds that retrieval path with Neo4j, combining vector search with a knowledge graph that people can inspect and query. The workshop starts with the difference between semantic …",
+    "date": "2026-10-11 10:30 UTC",
+    "date_iso": "2026-10-11T10:30:20Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=spxoDAfh5ig",
+    "title": "Beyond RAG: Build a Relational Context Engine from Scratch — Peter Werry, Unblocked",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ask a vector store for the PRs you merged last week and it can hand back one that is semantically perfect and three years old. Peter Werry builds context engines at Unblocked, and his thesis is that RAG, meaning similarity search, is only half of retrieval. Engineering context lives in pull requests, review comments, tickets, wikis, and chat, and all …",
+    "date": "2026-10-11 10:00 UTC",
+    "date_iso": "2026-10-11T10:00:18Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=j4AmIK6OvHc",
+    "title": "Latency Is a Budget. Humanlike Is the Goal. — Jesse Hall, LiveKit",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Your voice agent's dashboard says it's fast. Your callers say it feels robotic. They're both right. Jesse Hall, staff developer advocate at LiveKit, explains how to build voice agents that feel human. He shows why leaderboards can't pick your models (scores measure one model, but you ship a pipeline, and errors compound from speech-to-text to the LLM to text-to-speech) and …",
+    "date": "2026-10-11 01:30 UTC",
+    "date_iso": "2026-10-11T01:30:13Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=s-glGHAa1a4",
+    "title": "An AI Future Without the Lock-In — Remy Guercio, Tailscale",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The era of unlimited AI budgets is over, and most teams are locked into whichever tools they picked first. Remy Guercio, who works on Tailscale's AI gateway Aperture, looks back at a year of AI lock-in and asks how teams get out of it while proving real ROI. He breaks an internal AI deployment into four layers (the models, the …",
+    "date": "2026-10-11 00:00 UTC",
+    "date_iso": "2026-10-11T00:00:35Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=htod7Nv1cBc",
+    "title": "How MiniMax M3 Was Built: Sparse Attention and Native Multimodality — Olive Song",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Most models learn text first and get vision bolted on later. MiniMax M3 learned both from the very first training step. Olive, who works on reinforcement learning research at MiniMax, goes inside MiniMax M3, an open-weight model with frontier-level coding and agentic ability, a 1 million token context window and native multimodality. She explains MSA, MiniMax's sparse attention design (about …",
+    "date": "2026-10-10 22:30 UTC",
+    "date_iso": "2026-10-10T22:30:23Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7v2myBde05o",
+    "title": "AI Agents Don't Read Your Policy Docs. They Hit Your APIs — Gravitee",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "You can write all the rules you want in a markdown file. Your agent can still call the API. Sam, CTO at Gravity, skips the slides and runs five live scenarios against a hotel-booking agent to show why governance belongs in the infrastructure, not in the agent's instructions. Running on the Gravity Gateway with a Databricks backend, Sonnet and Groq, …",
+    "date": "2026-10-10 21:00 UTC",
+    "date_iso": "2026-10-10T21:00:39Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ORVh4GivEU0",
+    "title": "Beyond RAG: A Relational Context Engine That Cuts Token Burn — Unblocked",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Vector search can't answer \"which PRs did I merge last week?\" A relational context engine can, and it cuts token burn along the way. Peter Werry, founding engineer at Unblocked, explains what a context engine is and why coding agents need more than code search: the PRs, Slack threads and incident history that explain why the code is the way …",
+    "date": "2026-10-10 19:30 UTC",
+    "date_iso": "2026-10-10T19:30:39Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Zf_e45GiNCE",
+    "title": "Zero Cold Starts: Serverless AI Agents on Akamai Functions — Thorsten Hans",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Cold starts, proprietary SDKs and one-region deployments slow AI apps down. WebAssembly at the edge removes all three. Thorsten Hans, senior developer advocate at Akamai, shows how to build and ship MCP servers and AI agents with Spin, the open-source WebAssembly framework, and run them on Akamai Functions, a globally distributed serverless platform with no cold starts. He explains why …",
+    "date": "2026-10-10 18:00 UTC",
+    "date_iso": "2026-10-10T18:00:38Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=b9UhZkKjX_A",
+    "title": "From Your Laptop to the Pipeline: Scaling Custom Agents with GitHub Copilot",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Most teams build an agent once, on one laptop, and never share it. Here's how to take it from local to the whole org to the CI pipeline. Jose Palafox, who has spent six and a half years at GitHub and now works with companies on Copilot adoption, walks through the path from a local custom agent to agents that …",
+    "date": "2026-10-10 16:30 UTC",
+    "date_iso": "2026-10-10T16:30:31Z"
+  }
+]
