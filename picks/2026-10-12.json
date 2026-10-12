@@ -1,0 +1,146 @@
+[
+  {
+    "url": "https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/",
+    "title": "Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Meta has begun deploying Media over QUIC (MoQ), an emerging open protocol for real-time video streaming at scale. MoQ will help simplify our protocol stack for live streaming video and enhance overall user experience for live video. We’re sharing how we shipped MoQ on Instagram Live ingest, and what the future looks like from here. [...] Read More... The post …",
+    "date": "2026-10-12 16:01 UTC",
+    "date_iso": "2026-10-12T16:01:32Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Fa3hQVIKShw",
+    "title": "Just-in-Time Ontologies: What Cheap Intelligence Means for Data — Hrishi Olickel, Southbridge AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A pipeline stripped the minus signs from loan amounts and turned a net $784,000 into $5.3 million of debt, with multiple models agreeing on the wrong result. Hrishi Olickel uses failures like this to explain why transforming data requires more than a universal schema or a confident agent. A customer means something different to billing, support and compliance. Useful structure …",
+    "date": "2026-10-12 16:00 UTC",
+    "date_iso": "2026-10-12T16:00:35Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=oixzVKMAXG0",
+    "title": "Please… Enough with the Sloppy, One-Shot SaaS Replacements — Mahmoud Abdelwahab, Railway",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A single internal app now handles Railway's marketing content, email, social posts, media, creator relationships and launch planning. Mahmoud Abdelwahab built it with coding agents, but getting the features to run was only the beginning. The difference between a quick SaaS replacement and a tool his team wants to open every day lives in the details: background saving, responsive interactions, …",
+    "date": "2026-10-12 15:00 UTC",
+    "date_iso": "2026-10-12T15:00:19Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=SacJfmp33vM",
+    "title": "Your GPU Neighbor Can Hear Your Model — Branislav Brzak, Stealthium",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Three microseconds of extra latency can reveal activity on another tenant's GPU slice. Branislav Brzak demonstrates an H100 timing side channel that probes only the attacker's own memory, without reading the victim's memory or exploiting a software bug. His experiments use the signal to infer model depth and decoding speed, then distinguish workload categories such as code, prose, JSON and …",
+    "date": "2026-10-12 14:00 UTC",
+    "date_iso": "2026-10-12T14:00:27Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ws9XcGGPBDk",
+    "title": "Your Agent Is a Lethal Trifecta (And What to Do About It) — Kim Maida, Keycard",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An on call agent drops a billing database, restarts a production server and scales a service from four pods to 40, adding $420 an hour to the bill. Kim Maida's staged triage demo shows what happens when an agent receives standing API keys and an administrator's database credentials. Private data, untrusted tickets and access to external services combine into the …",
+    "date": "2026-10-12 13:00 UTC",
+    "date_iso": "2026-10-12T13:00:35Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=gpmze-6ueGU",
+    "title": "We Let Our Financial Planners Write the Agents — Matthew Ragone, Range",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "While one financial planner is on a client call, an agent drafts another client's cash flow or insurance analysis. The planner reviews every recommendation before anything reaches the client. At Range, Matthew Ragone and his colleagues built the skills behind that workflow without writing code. Six months in, he reports 24 skills across the company, including 17 in planning, with …",
+    "date": "2026-10-12 12:00 UTC",
+    "date_iso": "2026-10-12T12:00:24Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=snTZtttfL70",
+    "title": "Building AIE: Open Q&A and Feedback Session with swyx",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An open mic with the organizer: what's working at AI Engineer, what isn't, and what changes next year. NEXT UP: AI ENGINEER CODE SUMMIT Join us in SF for the second annual AIE CODE Summit, Nov 10–12, our last flagship summit of 2026. Applications live now: https://aie.codes swyx, co-founder of AI Engineer, runs an open Q&amp;A and feedback session at …",
+    "date": "2026-10-12 06:32 UTC",
+    "date_iso": "2026-10-12T06:32:41Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=FGftGOzfohc",
+    "title": "Build a Research Agent with Claude Managed Agents (Part 2 of 4) — Anthropic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "From a one-line console agent to a research desk with skills, subagents, memory and self-grading outcomes. NEXT UP: AI ENGINEER CODE SUMMIT Join us in SF for the second annual AIE CODE Summit, Nov 10–12, our last flagship summit of 2026. Applications live now: https://aie.codes Priyanka Phatak finishes a no-code agent in the console, then Gabe Cemaj leads the hands-on …",
+    "date": "2026-10-12 06:07 UTC",
+    "date_iso": "2026-10-12T06:07:50Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=QSeaZ6qHyXs",
+    "title": "Claude Managed Agents Q&A: Evals, CI/CD and Multi-Tenancy (Part 4 of 4) — Anthropic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "How to version agent configs, isolate customers, add GPUs and keep a long-running agent responsive. NEXT UP: AI ENGINEER CODE SUMMIT Join us in SF for the second annual AIE CODE Summit, Nov 10–12, our last flagship summit of 2026. Applications live now: https://aie.codes The workshop closes with audience Q&amp;A for Priyanka Phatak and Gabe Cemaj: syncing agent configs in …",
+    "date": "2026-10-12 06:07 UTC",
+    "date_iso": "2026-10-12T06:07:45Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qJtcEDc_WJU",
+    "title": "Scheduled Agents, Dreaming and Q&A: Claude Managed Agents (Part 3 of 4) — Anthropic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Agents on a schedule, fan-out across sessions, and a research preview that improves memory from past runs. NEXT UP: AI ENGINEER CODE SUMMIT Join us in SF for the second annual AIE CODE Summit, Nov 10–12, our last flagship summit of 2026. Applications live now: https://aie.codes Gabe Cemaj fans one request out into a session per company with a custom …",
+    "date": "2026-10-12 06:07 UTC",
+    "date_iso": "2026-10-12T06:07:42Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=mBNVKkyfnE0",
+    "title": "The Next Trillion Internet Users Still Don’t Have an Identity — Adi Singh, AgentMail",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Adi Singh let an agent run unsupervised to recruit other agents. It started calling itself a prophet of persistent identity. NEXT UP: AI ENGINEER CODE SUMMIT Join us in SF for the second annual AIE CODE Summit, Nov 10–12, our last flagship summit of 2026. Applications live now: https://aie.codes Adi Singh, co-founder of AgentMail, argues that agent identity won't be …",
+    "date": "2026-10-12 05:52 UTC",
+    "date_iso": "2026-10-12T05:52:57Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Uv0nAf_7tyU",
+    "title": "Decoupling the Brain from the Hands: Claude Managed Agents (Part 1 of 4) — Anthropic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The first version of Claude Managed Agents put everything in one container. Here's why Anthropic split it apart. NEXT UP: AI ENGINEER CODE SUMMIT Join us in SF for the second annual AIE CODE Summit, Nov 10–12, our last flagship summit of 2026. Applications live now: https://aie.codes Priyanka Phatak, who leads the Claude Managed Agents engineering team at Anthropic, defines …",
+    "date": "2026-10-12 05:44 UTC",
+    "date_iso": "2026-10-12T05:44:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=nSkmXakJ6eo",
+    "title": "Auth for Agents: Let AI Sign Up for Your Product with auth.md — Michael Grinich, WorkOS",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Agents are starting to pick your vendors, and most signup flows block them at the door. NEXT UP: AI ENGINEER CODE SUMMIT Join us in SF for the second annual AIE CODE Summit, Nov 10–12, our last flagship summit of 2026. Applications live now: https://aie.codes Michael Grinich, founder and CEO of WorkOS, argues that as agents run for hours and …",
+    "date": "2026-10-12 05:37 UTC",
+    "date_iso": "2026-10-12T05:37:09Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_cRgl3maiT8",
+    "title": "How Inference Keeps Up with Our Insatiable Need for Tokens — Cerebras & Gimlet Labs",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Google went from 480 trillion to 3.2 quadrillion tokens a month. Here's everything the industry does to keep up. NEXT UP: AI ENGINEER CODE SUMMIT Join us in SF for the second annual AIE CODE Summit, Nov 10–12, our last flagship summit of 2026. Applications live now: https://aie.codes Daniel Kim of Cerebras and Michelle, co-founder of Gimlet Labs, explain how …",
+    "date": "2026-10-12 05:36 UTC",
+    "date_iso": "2026-10-12T05:36:56Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=k72eLcYpVys",
+    "title": "1,000 Agent Tasks in a Sandbox: What Breaks When LLMs Run Code — Kevin Orellana, AWS",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "We pointed a coding agent at our own sandbox overnight and told it to break things. Here's what failed. NEXT UP: AI ENGINEER CODE SUMMIT Join us in SF for the second annual AIE CODE Summit, Nov 10–12, our last flagship summit of 2026. Applications live now: https://aie.codes Kevin Orellana, an engineer on Amazon Bedrock AgentCore, wrapped AgentCore's code sandbox …",
+    "date": "2026-10-12 05:36 UTC",
+    "date_iso": "2026-10-12T05:36:31Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=T3wRyXg_yVg",
+    "title": "Inside the AI Economy: What Stripe's Data Reveals — Nilofer Rajpurkar, Stripe",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "AI company revenue growth jumped from 120% to 175% in a year. Stripe's data shows what the fastest-growing companies do differently. NEXT UP: AI ENGINEER CODE SUMMIT Join us in SF for the second annual AIE CODE Summit, Nov 10–12, our last flagship summit of 2026. Applications live now: https://aie.codes Nilofer Rajpurkar, product lead for agent and developer experiences at …",
+    "date": "2026-10-12 05:21 UTC",
+    "date_iso": "2026-10-12T05:21:17Z"
+  }
+]
