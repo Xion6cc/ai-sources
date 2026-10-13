@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=Fe4aSMXsOZ4",
+    "title": "Every Building Is a Balance Sheet: Spatial Memory for Real-World Assets — Jordi Spranger, Spranic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Two scans of the same kitchen reveal that three chairs have moved. The change can be queried against the captured scene, with a reference back to the observation. Jordi Spranger demonstrates the idea behind Spranic's spatial memory: turn a walk through a building into a record of its objects, relationships and changes over time. A conference hall scan provides a …",
+    "date": "2026-10-13 14:00 UTC",
+    "date_iso": "2026-10-13T14:00:15Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=SHvwutPSeZg",
+    "title": "Judge a Transaction by the Company It Keeps — Somya Rai & MD Sharique, EXL",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A transaction can look harmless in isolation and suspicious once its links to recent fraud become visible. Somya Rai and MD Sharique explain an EXL fraud detection system that adds graph embeddings to an existing XGBoost classifier. The objective is precision within a fixed analyst alert budget, rather than a better headline score alone. Rai introduces the neighborhood signal and …",
+    "date": "2026-10-13 13:00 UTC",
+    "date_iso": "2026-10-13T13:00:12Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dYh7TQkuYFE",
+    "title": "I Believe Everything My Agents Tell Me: Three Levels of Review — Corey Gallon, Rexmore",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A demand letter passed its drafting agent's own checks, yet two independent reviewer agents found that the supposedly expired contract had renewed less than three weeks earlier. Sending it could have left the business owing thousands of dollars. Corey Gallon uses that case to explain a three level review method for agents that overstate completed work, misread facts or draw …",
+    "date": "2026-10-13 12:00 UTC",
+    "date_iso": "2026-10-13T12:00:08Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/",
+    "title": "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "At the 2026 Open Compute Project Global Summit, Meta is sharing the next generation of open networking infrastructure, including: Our first liquid-cooled network rack (IcePack), and 102.4T switch platform (IceCube). Flattened Planar Fabric (FPF), a multiplane backend scale-out fabric that fundamentally changes how GPUs connect to the network MetaRoCE, our open-source AI transport protocol. Launching [...] Read More... The post …",
+    "date": "2026-10-12 21:19 UTC",
+    "date_iso": "2026-10-12T21:19:18Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=rAUyRDOFyHU",
+    "title": "Agents in Orbit: Workflows, Not Autopilot — Eduardo Simon & Javier Casal, Flywire",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "More than 9,700 code review runs in 30 days came from a workflow that lets the model read code but never modify it. Eduardo Simon and Javier Casal describe Orbit, Flywire's internal platform for putting model steps inside deterministic engineering workflows. A YAML definition goes through the same merge request review as other code, declares the tools and access each …",
+    "date": "2026-10-12 18:00 UTC",
+    "date_iso": "2026-10-12T18:00:10Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8g0g1ncwzG0",
+    "title": "Reliable, Smart Workflows for Finance, Wealth and Insurance — Karthic Rao, Perpetual",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "“Fill out a form for Mr. Harper” becomes a process that lasts days: identify the right household, find missing information, contact the client, wait, follow up, obtain a signature and retain the evidence. Karthic Rao uses that wealth management example to show why a fixed flowchart breaks on ambiguity and an improvising agent creates a different reliability problem. At Perpetual, …",
+    "date": "2026-10-12 17:00 UTC",
+    "date_iso": "2026-10-12T17:00:05Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/",
+    "title": "Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Meta has begun deploying Media over QUIC (MoQ), an emerging open protocol for real-time video streaming at scale. MoQ will help simplify our protocol stack for live streaming video and enhance overall user experience for live video. We’re sharing how we shipped MoQ on Instagram Live ingest, and what the future looks like from here. [...] Read More... The post …",
+    "date": "2026-10-12 16:01 UTC",
+    "date_iso": "2026-10-12T16:01:32Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
+    "title": "Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "At Meta, we’ve built a system that enhances ads recommendations by leveraging idle inference capacity in our fleet. Two elasticity levers in the system allow ads recommendation work to expand across opportunistic capacity, without compromising baseline performance. This post describes how we designed and now operate the system at Meta&#8217;s scale and how it drives [...] Read More... The post …",
+    "date": "2026-10-12 16:00 UTC",
+    "date_iso": "2026-10-12T16:00:50Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Fa3hQVIKShw",
+    "title": "Just-in-Time Ontologies: What Cheap Intelligence Means for Data — Hrishi Olickel, Southbridge AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A pipeline stripped the minus signs from loan amounts and turned a net $784,000 into $5.3 million of debt, with multiple models agreeing on the wrong result. Hrishi Olickel uses failures like this to explain why transforming data requires more than a universal schema or a confident agent. A customer means something different to billing, support and compliance. Useful structure …",
+    "date": "2026-10-12 16:00 UTC",
+    "date_iso": "2026-10-12T16:00:35Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=oixzVKMAXG0",
+    "title": "Please… Enough with the Sloppy, One-Shot SaaS Replacements — Mahmoud Abdelwahab, Railway",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A single internal app now handles Railway's marketing content, email, social posts, media, creator relationships and launch planning. Mahmoud Abdelwahab built it with coding agents, but getting the features to run was only the beginning. The difference between a quick SaaS replacement and a tool his team wants to open every day lives in the details: background saving, responsive interactions, …",
+    "date": "2026-10-12 15:00 UTC",
+    "date_iso": "2026-10-12T15:00:19Z"
+  }
+]

@@ -1,5 +1,87 @@
 [
   {
+    "title": "Every Building Is a Balance Sheet: Spatial Memory for Real-World Assets — Jordi Spranger, Spranic",
+    "url": "https://www.youtube.com/watch?v=Fe4aSMXsOZ4",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Two scans of the same kitchen reveal that three chairs have moved. The change can be queried against the captured scene, with a reference back to the observation. Jordi Spranger demonstrates the idea behind Spranic's spatial memory: turn a walk through a building into a record of its objects, relationships and changes over time. A conference hall scan provides a …",
+    "date": "2026-10-13 14:00 UTC",
+    "date_str": "2026-10-13",
+    "date_iso": "2026-10-13T14:00:15Z",
+    "thumbnail_url": "https://img.youtube.com/vi/Fe4aSMXsOZ4/mqdefault.jpg",
+    "view_count": 107,
+    "view_count_display": "107 views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-10-13_Every-Building-Is-a-Balance-Sheet-Spatial-Memory-for-Real-World-Assets-Jordi-Spr.md"
+  },
+  {
+    "title": "Judge a Transaction by the Company It Keeps — Somya Rai & MD Sharique, EXL",
+    "url": "https://www.youtube.com/watch?v=SHvwutPSeZg",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A transaction can look harmless in isolation and suspicious once its links to recent fraud become visible. Somya Rai and MD Sharique explain an EXL fraud detection system that adds graph embeddings to an existing XGBoost classifier. The objective is precision within a fixed analyst alert budget, rather than a better headline score alone. Rai introduces the neighborhood signal and …",
+    "date": "2026-10-13 13:00 UTC",
+    "date_str": "2026-10-13",
+    "date_iso": "2026-10-13T13:00:12Z",
+    "thumbnail_url": "https://img.youtube.com/vi/SHvwutPSeZg/mqdefault.jpg",
+    "view_count": 51,
+    "view_count_display": "51 views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-10-13_Judge-a-Transaction-by-the-Company-It-Keeps-Somya-Rai-MD-Sharique-EXL.md"
+  },
+  {
+    "title": "I Believe Everything My Agents Tell Me: Three Levels of Review — Corey Gallon, Rexmore",
+    "url": "https://www.youtube.com/watch?v=dYh7TQkuYFE",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A demand letter passed its drafting agent's own checks, yet two independent reviewer agents found that the supposedly expired contract had renewed less than three weeks earlier. Sending it could have left the business owing thousands of dollars. Corey Gallon uses that case to explain a three level review method for agents that overstate completed work, misread facts or draw …",
+    "date": "2026-10-13 12:00 UTC",
+    "date_str": "2026-10-13",
+    "date_iso": "2026-10-13T12:00:08Z",
+    "thumbnail_url": "https://img.youtube.com/vi/dYh7TQkuYFE/mqdefault.jpg",
+    "view_count": 1066,
+    "view_count_display": "1.1K views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-10-13_I-Believe-Everything-My-Agents-Tell-Me-Three-Levels-of-Review-Corey-Gallon-Rexmo.md"
+  },
+  {
+    "title": "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks",
+    "url": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "At the 2026 Open Compute Project Global Summit, Meta is sharing the next generation of open networking infrastructure, including: Our first liquid-cooled network rack (IcePack), and 102.4T switch platform (IceCube). Flattened Planar Fabric (FPF), a multiplane backend scale-out fabric that fundamentally changes how GPUs connect to the network MetaRoCE, our open-source AI transport protocol. Launching [...] Read More... The post …",
+    "date": "2026-10-12 21:19 UTC",
+    "date_str": "2026-10-12",
+    "date_iso": "2026-10-12T21:19:18Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-10-12_OCP-Summit-2026-Powering-AI-with-Open-Innovations-in-Scale-Up-Scale-Out-and-Scal.md"
+  },
+  {
+    "title": "Agents in Orbit: Workflows, Not Autopilot — Eduardo Simon & Javier Casal, Flywire",
+    "url": "https://www.youtube.com/watch?v=rAUyRDOFyHU",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "More than 9,700 code review runs in 30 days came from a workflow that lets the model read code but never modify it. Eduardo Simon and Javier Casal describe Orbit, Flywire's internal platform for putting model steps inside deterministic engineering workflows. A YAML definition goes through the same merge request review as other code, declares the tools and access each …",
+    "date": "2026-10-12 18:00 UTC",
+    "date_str": "2026-10-12",
+    "date_iso": "2026-10-12T18:00:10Z",
+    "thumbnail_url": "https://img.youtube.com/vi/rAUyRDOFyHU/mqdefault.jpg",
+    "view_count": 2437,
+    "view_count_display": "2.4K views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-10-12_Agents-in-Orbit-Workflows-Not-Autopilot-Eduardo-Simon-Javier-Casal-Flywire.md"
+  },
+  {
+    "title": "Reliable, Smart Workflows for Finance, Wealth and Insurance — Karthic Rao, Perpetual",
+    "url": "https://www.youtube.com/watch?v=8g0g1ncwzG0",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "“Fill out a form for Mr. Harper” becomes a process that lasts days: identify the right household, find missing information, contact the client, wait, follow up, obtain a signature and retain the evidence. Karthic Rao uses that wealth management example to show why a fixed flowchart breaks on ambiguity and an improvising agent creates a different reliability problem. At Perpetual, …",
+    "date": "2026-10-12 17:00 UTC",
+    "date_str": "2026-10-12",
+    "date_iso": "2026-10-12T17:00:05Z",
+    "thumbnail_url": "https://img.youtube.com/vi/8g0g1ncwzG0/mqdefault.jpg",
+    "view_count": 1836,
+    "view_count_display": "1.8K views",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-10-12_Reliable-Smart-Workflows-for-Finance-Wealth-and-Insurance-Karthic-Rao-Perpetual.md"
+  },
+  {
     "title": "Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest",
     "url": "https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/",
     "source": "Meta Engineering",
@@ -10,6 +92,18 @@
     "date_iso": "2026-10-12T16:01:32Z",
     "thumbnail_url": "",
     "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-10-12_Shipping-Media-Over-QUIC-at-Meta-Scale-for-Instagram-Live-Ingest.md"
+  },
+  {
+    "title": "Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations",
+    "url": "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "At Meta, we’ve built a system that enhances ads recommendations by leveraging idle inference capacity in our fleet. Two elasticity levers in the system allow ads recommendation work to expand across opportunistic capacity, without compromising baseline performance. This post describes how we designed and now operate the system at Meta&#8217;s scale and how it drives [...] Read More... The post …",
+    "date": "2026-10-12 16:00 UTC",
+    "date_str": "2026-10-12",
+    "date_iso": "2026-10-12T16:00:50Z",
+    "thumbnail_url": "",
+    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-10-12_Turning-Opportunistic-AI-Inference-Capacity-Into-Better-Ads-Recommendations.md"
   },
   {
     "title": "Just-in-Time Ontologies: What Cheap Intelligence Means for Data — Hrishi Olickel, Southbridge AI",
@@ -3176,19 +3270,5 @@
     "date_iso": "2026-09-14T00:00:00Z",
     "thumbnail_url": "",
     "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-09-14_Perplexity-trusts-GPT-6-Astra-with-end-to-end-systems.md"
-  },
-  {
-    "title": "High Throughput Agentic Engineering with ex-Meta L8 Principal",
-    "url": "https://www.youtube.com/watch?v=MSbacZ99E14",
-    "source": "Kun Chen (@kunchenguid)",
-    "type": "youtube",
-    "summary": "Find everything from me: https://linktr.ee/kunchenguid my discord server: https://discord.gg/Wsy2NpnZDu firstmate: https://github.com/kunchenguid/firstmate -------- Chapters: 00:00 Intro 00:50 Firstmate 03:37 First task 04:58 Remove distractions 06:34 Crewmates 07:12 Model routing 11:49 More tasks 15:56 Task tracking 22:07 Second mates 25:31 Interactive prototypes 29:26 Discord and X relay 32:49 Context window management 37:51 Yolo merge vs no mistakes 40:58 Giving feedback 43:40 Catching …",
-    "date": "2026-09-13 14:12 UTC",
-    "date_str": "2026-09-13",
-    "date_iso": "2026-09-13T14:12:43Z",
-    "thumbnail_url": "https://img.youtube.com/vi/MSbacZ99E14/mqdefault.jpg",
-    "view_count": 57614,
-    "view_count_display": "57.6K views",
-    "note_path": "file:///home/runner/work/ai-sources/ai-sources/notes/2026-09-13_High-Throughput-Agentic-Engineering-with-ex-Meta-L8-Principal.md"
   }
 ]
