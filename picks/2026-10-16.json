@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=Fva8hFosqyQ",
+    "title": "The Highest Loop — swyx",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Why we gather at AI Engineer World’s Fair 2026.",
+    "date": "2026-10-16 02:03 UTC",
+    "date_iso": "2026-10-16T02:03:26Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
+    "title": "How Meta Built Forum With AI-Native Engineering",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Meta&#8217;s newest app, Forum, is for anyone who wants to go deeper into the conversations in their Facebook groups. To build Forum, Meta engineers adopted a whole new way of working by bringing an AI agent into the development cycle. We&#8217;re sharing insights into what it took to build Forum with agentic AI: how we [...] Read More... The post …",
+    "date": "2026-10-15 19:00 UTC",
+    "date_iso": "2026-10-15T19:00:03Z"
+  },
+  {
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "date": "2026-10-15 19:00 UTC",
+    "date_iso": "2026-10-15T19:00:00Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/",
+    "title": "2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Every four years, the World Cup becomes the largest planned stress test of our infrastructure. This year it also set an all-time record! There are a few moments throughout the year, like New Years Eve, that really let us see the collective impact of everything we’ve built — but none are bigger than the quadrennial [...] Read More... The post …",
+    "date": "2026-10-15 18:30 UTC",
+    "date_iso": "2026-10-15T18:30:29Z"
+  },
+  {
+    "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+    "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+    "source": "GitHub Engineering",
+    "type": "blog",
+    "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .",
+    "date": "2026-10-15 18:00 UTC",
+    "date_iso": "2026-10-15T18:00:00Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+    "title": "The Pulse: OpenAI software engineer accused of spying",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
+    "date": "2026-10-15 16:55 UTC",
+    "date_iso": "2026-10-15T16:55:18Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/",
+    "title": "Sapienz Receives ISSTA 2026 Impact Paper Award",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Ke Mao, Mark Harman, and Yue Jia have been recognized with the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2026 Most Influential Paper Award for their 2016 research, “Sapienz: multi-objective automated testing for Android applications.” The recognition celebrates a decade of impact from work that began at University College London and went [...] Read More... The post …",
+    "date": "2026-10-15 16:00 UTC",
+    "date_iso": "2026-10-15T16:00:59Z"
+  },
+  {
+    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "title": "Teaching students to think and learn through questions",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "date": "2026-10-15 13:00 UTC",
+    "date_iso": "2026-10-15T13:00:00Z"
+  }
+]
