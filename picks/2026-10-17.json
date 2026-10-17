@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=Ti-BmGU1_mQ",
+    "title": "The AI Bill Is Too Damn High: Tokenomics 101 — Eugene Cheah, Featherless AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "If your token spend keeps going up and productivity isn't keeping pace, start here. Eugene Cheah lays out four steps for cutting AI inference costs at scale: measure, right-size, buy capacity well and check your processes. Along the way he covers splitting API keys per team, agentic vs. process workloads, open models that match frontier models on specific tasks, classifiers, …",
+    "date": "2026-10-17 09:00 UTC",
+    "date_iso": "2026-10-17T09:00:27Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KtBivPzmOM8",
+    "title": "Memory-Aware Agent Harnesses for Anti-Money Laundering — Nacho Martinez, Oracle",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The model is the part you can't change. The harness around it is where you can make real gains. Nacho Martinez walks through the full agent stack (agent loop, short- and long-term memory, context engineering, the toolbox and skillbox patterns, skill distillation and continual learning) and applies it to an autonomous agent that flags suspicious bank transactions around the clock. …",
+    "date": "2026-10-17 07:00 UTC",
+    "date_iso": "2026-10-17T07:00:25Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=BOWYujhIQuo",
+    "title": "AI Agents Cut 3-Day Portfolio Builds to Minutes — Jack McDonald, Apollo & Michael Manapat, Rowspace",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Apollo's CLO business used to spend 2–3 days building a single mock portfolio by hand in Excel. Now it takes minutes. Jack McDonald (Principal at Apollo and COO of Redding Ridge, Apollo's ~$50B structured credit and CLO manager) talks with Rowspace co-founder Michael Manapat about where AI becomes mission-critical in finance. They cover automating a weekly trade reconciliation that used …",
+    "date": "2026-10-16 23:00 UTC",
+    "date_iso": "2026-10-16T23:00:36Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=kiClTcJUnhc",
+    "title": "Why One AI Agent Isn’t Enough (And How to Run 1,000) - CJ Avilla & Harrison Stall, Anthropic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ken Thompson built Unix in a month. IBM put 1,000 engineers on OS/360. And in 1998, Linus Torvalds hit his limit. Now we're hitting that same wall managing AI agents. Anthropic's CJ Avilla and Harrison Stall introduce Flows in Claude Managed Agents. You hand Claude a goal, and it plans and runs its own multi-agent topology of up to 1,000 …",
+    "date": "2026-10-16 19:00 UTC",
+    "date_iso": "2026-10-16T19:00:10Z"
+  },
+  {
+    "url": "https://openai.com/index/itau-generative-ai",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "date": "2026-10-16 19:00 UTC",
+    "date_iso": "2026-10-16T19:00:00Z"
+  },
+  {
+    "url": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
+    "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "Prasanna Vijayanathan , Renzo Sanchez-Silva When Jake Paul and Mike Tyson stepped into the ring in November 2024, we delivered the fight to roughly 65 million concurrent streams. On an ordinary day our infrastructure takes in more than 2 billion requests and handles upwards of 38 million real-time logging events every second. At that scale, the whole picture doesn’t fit …",
+    "date": "2026-10-16 16:01 UTC",
+    "date_iso": "2026-10-16T16:01:02Z"
+  },
+  {
+    "url": "https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm/",
+    "title": "Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM",
+    "source": "Spotify Engineering",
+    "type": "blog",
+    "summary": "At Spotify, every surface and interaction is personalized to you as a user: the content on the Home page, the... The post Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM appeared first on Spotify Engineering .",
+    "date": "2026-10-16 14:29 UTC",
+    "date_iso": "2026-10-16T14:29:18Z"
+  }
+]
