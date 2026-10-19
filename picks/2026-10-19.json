@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=UGjk3Uk0MxM",
+    "title": "The Model Swap Workshop: GPT-5.5 vs Kimi vs DeepSeek vs Mistral",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Benchmarks won't tell you how a model behaves in your app. Swapping it in and testing will. NEXT UP: AI ENGINEER CODE SUMMIT Join us in SF for the second annual AIE CODE Summit, Nov 10–12, our last flagship summit of 2026. Applications live now: https://aie.codes Pamela Fox, Principal Cloud Advocate at Microsoft, runs the same scenarios against GPT-5.5, Kimi …",
+    "date": "2026-10-19 14:06 UTC",
+    "date_iso": "2026-10-19T14:06:53Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+    "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "With the recent release of the Muse family of foundational models, we want to take you inside the infrastructure that has made it all possible. The first phase of Prometheus, our gigawatt-scale supercluster, is already complete and we’re working toward scaling it to comprise ~1 million GPUs. Prometheus also features technologies like closed-loop liquid cooling [...] Read More... The post …",
+    "date": "2026-10-19 13:00 UTC",
+    "date_iso": "2026-10-19T13:00:10Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=J7n3WJnFTto",
+    "title": "Why Buying Companies Beats Selling Them AI — Prathik Naidu, Long Lake",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Deploying AI into real businesses is hard: org charts are messy, trust takes decades, and service firms don't scale like software. Prathik Naidu, founding partner at Long Lake, explains their strategy: acquire established service businesses, then transform them with AI from the inside. He covers how they choose companies and what changes once they own them, drawing on 40 businesses …",
+    "date": "2026-10-19 09:00 UTC",
+    "date_iso": "2026-10-19T09:00:32Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vS2IA9pq0Q4",
+    "title": "Version-Controlled Search: The Web as It Was — Ryan Ahern, Exa",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ryan Ahern of Exa introduces Exa Snapshot, which lets agents search the web as it looked on any past date. He covers why search quality matters when agents broker most searches, how snapshot results compare to live results, and how teams use point-in-time search to build and test predictive signals without overfitting. Chapters: - 00:00 Intro - 02:14 Agents as …",
+    "date": "2026-10-19 08:00 UTC",
+    "date_iso": "2026-10-19T08:00:29Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=L4dUFimVDKU",
+    "title": "Backtest Your Agent Against Yesterday's Web — Ryan Ahern, Exa",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "How do you know whether your agent would have made the right call? Ryan Ahern of Exa shows how to use version-controlled search to see the web exactly as it was on a past date, then backtest an agent's predictions against what actually happened. The hands-on example predicts company acquisitions from signals like leadership turnover, then tunes the system without …",
+    "date": "2026-10-19 07:00 UTC",
+    "date_iso": "2026-10-19T07:00:39Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-AOxpwVeIWw",
+    "title": "Why AI Agents Still Won't Pay for Anything — Jan Curn, Apify",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "x402, AP2, ACP, MPP, TAP, UCP: every big fintech and payments company now has an agent payment standard, but real volume is close to zero. Jan Curn, founder of Apify, walks the agent payment funnel (need, setup, discovery, purchase) to show where it breaks. He covers why API keys still win, why crypto is well placed, the trust problem in …",
+    "date": "2026-10-18 23:00 UTC",
+    "date_iso": "2026-10-18T23:00:35Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7T-gldvgfpo",
+    "title": "Stop Telling Agents How — Dan Barrett, Raymond Weitekamp & Jose Montes de Oca, OpenProse",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Say what you want, not how to get it. The OpenProse team shows how to write multi-agent workflows as declarative contracts in plain markdown, which any harness (Claude Code, Codex and others) can compile and run. Demos include event-driven jobs triggered by webhooks and pull requests, a \"grumpy senior\" PR reviewer, and an end-to-end bank model-documentation workflow. They also discuss …",
+    "date": "2026-10-18 19:00 UTC",
+    "date_iso": "2026-10-18T19:00:05Z"
+  }
+]
