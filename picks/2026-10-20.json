@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=Bz1HFxQA1o8",
+    "title": "Shipping AI Into 5 Major Banks Without a 12-Month Compliance Wait — Al Chen, Cisco",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Banks don't buy AI software until it survives their security and compliance review. Al Chen shares what it took to deploy inside five major banks without a year-long bottleneck. He covers the build pipeline, CVE remediation with agents writing and testing exploits, backup and restore verification, PII leaking through LLM judges, and why zero leakage and data sovereignty are never …",
+    "date": "2026-10-20 09:00 UTC",
+    "date_iso": "2026-10-20T09:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=UHbODjuviAU",
+    "title": "The Investor's Edge Lives in Their Head — Anekha Sokhal, Moshi",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Every investor wants an edge: knowing first, seeing their blind spots, and acting with conviction. Anekha Sokhal, founder and CEO of Moshi, argues the most valuable context isn't in a database but in the investor's head. She explains how to build AI that does the data grind of a quant team while leaving the decision to the human. Chapters: - …",
+    "date": "2026-10-20 08:00 UTC",
+    "date_iso": "2026-10-20T08:00:19Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=f_HwzoYrZ7s",
+    "title": "Why AI Agents Will Need Their Own Bank Accounts — Lincoln Murr, Coinbase",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Lincoln Murr, head of AI product at Coinbase, explains agentic finance: agents that pay with money and agents that grow it. He covers the path from AgentKit, an early experiment giving an AI a wallet, to x402, an open standard built on the long-unused HTTP 402 \"payment required\" code. x402 now handles hundreds of millions of agent transactions a month. …",
+    "date": "2026-10-20 07:00 UTC",
+    "date_iso": "2026-10-20T07:00:35Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_4Ph2dhmUFI",
+    "title": "How to Know When an AI Agent Can Work Unsupervised — Evan Kormos, Coinbase",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Evan Kormos, a player-coach at Coinbase with 15 years in enterprise financial services, lays out a practical way to bring agents into policy-driven, regulated workflows. He models processes as DAGs and loops, explains why a loop is only as trustworthy as its check, and shows how evals and traces become a new confidence mechanism. Agents then move through three stages: …",
+    "date": "2026-10-19 23:00 UTC",
+    "date_iso": "2026-10-19T23:00:08Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7Y4sbZgBdnc",
+    "title": "Smarter Models Killed the Harness. Here's What's Left — Jediah Katz, SpaceXAI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Is the agent harness dead? Jediah Katz, Cursor's longest-tenured agent-harness engineer and now at SpaceX, explains why fancy harnesses no longer add coding intelligence: the data flywheel teaches models the skills harnesses used to patch in. He then argues why the harness matters more than ever. It opens new frontiers like Grokbot, and it owns what models can't absorb: infrastructure, …",
+    "date": "2026-10-19 19:00 UTC",
+    "date_iso": "2026-10-19T19:00:17Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
+    "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Generative Recommenders (GenRecs) represent a paradigm shift from scoring every ad to reasoning about ad content and user preferences together in order to predict the best outcome for advertisers. Leveraging the world knowledge built into LLMs makes ad matching more intelligent and precise, compounding gains for advertisers. GenRecs Tokenization is the foundational data representation that [...] Read More... The post …",
+    "date": "2026-10-19 16:00 UTC",
+    "date_iso": "2026-10-19T16:00:47Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+    "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Sometimes, giving an AI agent all of the knowledge it needs is the wrong approach. At Meta, we&#8217;ve seen notable improvements in efficiency and accuracy by keeping the orchestration layer of our data pipeline agents deliberately thin: It routes work and enforces reliability checks, while specialized agents do the domain reasoning. We’re sharing our own [...] Read More... The post …",
+    "date": "2026-10-19 15:30 UTC",
+    "date_iso": "2026-10-19T15:30:37Z"
+  },
+  {
+    "url": "https://medium.com/pinterest-engineering/introducing-modulelens-zooming-into-pytorch-modules-for-human-and-agentic-engineering-b7e9be9d29f8?source=rss----4c5a5f6279b6---4",
+    "title": "Introducing ModuleLens: Zooming into PyTorch Modules for Human and Agentic Engineering",
+    "source": "Pinterest Engineering",
+    "type": "blog",
+    "summary": "Lida Li, Sr. Staff Software Engineer, Product ML Infra Introduction Modern recommendation systems, including those used for ads ranking and content discovery, have grown substantially in scale and complexity. This growth stems from both increasingly large model architectures. The resulting memory footprint often exceeds the capacity of a single GPU, making it necessary to shard production models across multiple GPUs …",
+    "date": "2026-10-19 15:01 UTC",
+    "date_iso": "2026-10-19T15:01:04Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=UGjk3Uk0MxM",
+    "title": "The Model Swap Workshop: GPT-5.5 vs Kimi vs DeepSeek vs Mistral",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Benchmarks won't tell you how a model behaves in your app. Swapping it in and testing will. NEXT UP: AI ENGINEER CODE SUMMIT Join us in SF for the second annual AIE CODE Summit, Nov 10–12, our last flagship summit of 2026. Applications live now: https://aie.codes Pamela Fox, Principal Cloud Advocate at Microsoft, runs the same scenarios against GPT-5.5, Kimi …",
+    "date": "2026-10-19 14:06 UTC",
+    "date_iso": "2026-10-19T14:06:53Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+    "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "With the recent release of the Muse family of foundational models, we want to take you inside the infrastructure that has made it all possible. The first phase of Prometheus, our gigawatt-scale supercluster, is already complete and we’re working toward scaling it to comprise ~1 million GPUs. Prometheus also features technologies like closed-loop liquid cooling [...] Read More... The post …",
+    "date": "2026-10-19 13:00 UTC",
+    "date_iso": "2026-10-19T13:00:10Z"
+  }
+]
