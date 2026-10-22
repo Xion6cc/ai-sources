@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=mMw3arwQsL0",
+    "title": "1,368 AI Failures and What They Teach About Evals — Vishal Srivastava & Tanmay Sah, New York Life",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Vishal Srivastava and Tanmay Sah studied 1,368 incidents from a public AI incident database to ask what real failures say about how AI systems should be tested. They sort failures across three areas (technical strength, deployment controls and business impact) and 13 sub-areas that cover about 98% of incidents. Weak deployment controls, such as human review and monitoring, are the …",
+    "date": "2026-10-22 09:00 UTC",
+    "date_iso": "2026-10-22T09:00:12Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=c_SPW__jF9w",
+    "title": "How to Test AI Agents When No Benchmark Exists — Nathanael Weill, Air Canada",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Nathanael Weill leads a team building AI agents at Air Canada, where tasks are so specific there's no public benchmark and domain experts have little time to grade results. His fix is to write the answer first: start from a known answer, generate the input from it, and check whether the agent finds its way back. He shows how that …",
+    "date": "2026-10-22 08:00 UTC",
+    "date_iso": "2026-10-22T08:00:01Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_dTF3NpPzGo",
+    "title": "Why AI Writing Still Reads Like Slop — Louis-François Bouchard, Towards AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Louis-François Bouchard of Towards AI breaks down what makes AI writing feel like slop: overused words, vague generalities, saying nothing, repetition, hallucination and a voice that sounds like everyone at once. He then shows how his team built a benchmark to measure whether a model can write a video script in his own voice: 10 scripts, 5 drafts per model, …",
+    "date": "2026-10-22 07:00 UTC",
+    "date_iso": "2026-10-22T07:00:28Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=CFbnVpSsDFQ",
+    "title": "The AI Content System Behind 200M Views — Sarah Chieng, Cerebras & Cova Lee, OpenAI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Sarah Chieng (head of developer experience at Cerebras) and Cova Lee (OpenAI developer experience, formerly a full-time creator) share the agent-powered system they use to make content. It runs across six stages: ideating, scripting, recording, editing, repurposing and publishing. Topics include swipe files and custom research tools, voice-based scripting and script skills, shot lists, design systems, and editing through APIs …",
+    "date": "2026-10-21 23:00 UTC",
+    "date_iso": "2026-10-21T23:00:14Z"
+  },
+  {
+    "url": "https://openai.com/index/broad-access-through-consistent-standards",
+    "title": "Broad access through consistent standards",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "date": "2026-10-21 21:00 UTC",
+    "date_iso": "2026-10-21T21:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=bU5gDVyu_28",
+    "title": "Does Code Quality Still Matter? It Depends on This — Max Kanat-Alexander, Capital One",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Every senior engineer's answer is \"it depends.\" Max Kanat-Alexander says what it actually depends on. Code quality always existed for two things: understanding a system and safely changing it. AI is making a new kind of software common: disposable software, with low consequences, few dependents and near-zero cost to replace or maintain. For that software, quality doesn't matter. For durable …",
+    "date": "2026-10-21 19:01 UTC",
+    "date_iso": "2026-10-21T19:01:02Z"
+  },
+  {
+    "url": "https://openai.com/index/att-legal",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+    "date": "2026-10-21 17:00 UTC",
+    "date_iso": "2026-10-21T17:00:00Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
+    "title": "The revised rules of engineering management with Will Larson",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Will Larson, CTO of Imprint, explores how AI and shifting industry expectations are changing engineering management, career ladders, and the path from engineer to CTO.",
+    "date": "2026-10-21 16:58 UTC",
+    "date_iso": "2026-10-21T16:58:21Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Prl858_AovM",
+    "title": "The revised rules of engineering management with Will Larson",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "What’s changed in “the unwritten rules” of engineering management since the 2010s, what drove the shift to today, and what has it done to the engineer-to-CTO career path? Today’s guest is one of the best people I know who can tackle these questions. Will Larson is CTO of Imprint, was an engineering executive for 10+ years, and is the author …",
+    "date": "2026-10-21 16:38 UTC",
+    "date_iso": "2026-10-21T16:38:31Z"
+  },
+  {
+    "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+    "title": "The bridge to agent-scale Git infrastructure",
+    "source": "GitHub Engineering",
+    "type": "blog",
+    "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .",
+    "date": "2026-10-21 16:00 UTC",
+    "date_iso": "2026-10-21T16:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+    "date": "2026-10-21 13:00 UTC",
+    "date_iso": "2026-10-21T13:00:00Z"
+  }
+]
