@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "title": "Building Reasoning Models from the Ground Up: A Video Course",
+    "source": "Sebastian Raschka",
+    "type": "blog",
+    "summary": "Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch.",
+    "date": "2026-10-24 11:14 UTC",
+    "date_iso": "2026-10-24T11:14:32Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=WOszaC1WWbQ",
+    "title": "Can AI Understand a Distressed Credit? - Harneet Kaur, Axim Intelligence",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Harneet Kaur, founder and CEO of Axim Intelligence and a former distressed credit investor, tests whether frontier models can reason about a live distressed situation: iHeartMedia. Given the same context, two top models disagreed sharply on the odds of bankruptcy versus a negotiated restructuring. Breaking the analysis into checked layers (extraction, derivation, judgment, prediction) brought them to the same answer, …",
+    "date": "2026-10-24 09:00 UTC",
+    "date_iso": "2026-10-24T09:00:16Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZMZlAn6Pyfg",
+    "title": "Proving Alpha: How a Hedge Fund Measures AI's ROI - Hari Kumar, Contour Asset Management",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Hari Kumar, head of AI at Contour Asset Management, a $6B fundamental long/short fund focused on tech, media and telecom, tackles the hardest question in AI adoption: what are we actually getting for the spend? He shares how Contour runs live A/B tests of analysts' research with and without AI tools, tracks \"cost per useful insight,\" uses agents to resurface …",
+    "date": "2026-10-24 08:00 UTC",
+    "date_iso": "2026-10-24T08:00:28Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=oP2WLFpMoDY",
+    "title": "Inside Arca's Long-Horizon Agents That Run the Business - Aman Singh, Arca",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Arca is an AI-native financial services firm where agents don't assist the business, they run it. Aman Singh, who leads AI at Arca, shows how long-horizon agents own a client goal end to end across days of stop-start work: a signal system that keeps agents aware of emails, calls, custodian events and in-app actions; operational context and a harness to …",
+    "date": "2026-10-23 21:00 UTC",
+    "date_iso": "2026-10-23T21:00:21Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=5O6jLtoeKrg",
+    "title": "Real AI Agent Attacks and What Would Have Stopped Them — Andrey Rybka, Bloomberg",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Andrey Rybka of Bloomberg walks through real security incidents involving AI agents and the controls that would have stopped each one: an agent that escaped its sandbox and took 17,600 actions over four and a half days, a zero-click email injection, instructions hidden in Morse code that drained a wallet, data smuggled out through DNS lookups, a poisoned MCP package, …",
+    "date": "2026-10-23 19:00 UTC",
+    "date_iso": "2026-10-23T19:00:34Z"
+  },
+  {
+    "url": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4",
+    "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "By Roberto Perez Alcolea , Java Platform Team Quasar connects a proposed API change with observed references in consumer repositories, giving the producer evidence for a release decision At Netflix, shared Java libraries support applications developed across a large, independently evolving repository ecosystem. A library change begins in one repository, but its impact can reach many others. Producers can see …",
+    "date": "2026-10-23 18:32 UTC",
+    "date_iso": "2026-10-23T18:32:51Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GCse4OMzY8U",
+    "title": "Why Compute Still Trades in Group Chats — Affaan Mustafa & Alejandro Soumah Fernandez, Jump Trading",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Affaan Mustafa and Alejandro Soumah Fernandez lead compute trading at Jump Trading. They explain why most GPU capacity still trades out of public view: private quotes, bilateral contracts and deals struck over Slack, X and Telegram. They look at why GPU prices have held up even as token prices fell, how chips, power, buildings and capital all feed into the …",
+    "date": "2026-10-23 17:18 UTC",
+    "date_iso": "2026-10-23T17:18:49Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=opHmX7qClzE",
+    "title": "How OpenAI Built ChatGPT for Bankers and Analysts — Joseph Kim, OpenAI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Joseph Kim leads ChatGPT for Financial Services, which launched a month before this talk with design partners Morgan Stanley and Evercore. He demos the product and explains the \"capability overhang\": the gap between what models can do and the value people actually get from them at work. He covers why the team licensed and indexed financial data themselves instead of …",
+    "date": "2026-10-23 17:00 UTC",
+    "date_iso": "2026-10-23T17:00:10Z"
+  },
+  {
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "date": "2026-10-23 17:00 UTC",
+    "date_iso": "2026-10-23T17:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=laQ8wMysnkk",
+    "title": "Buying GPUs Should Work Like Buying Stocks — Carmen Li, Compute Exchange",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Carmen Li, CEO of Compute Exchange and Silicon Data and a former energy options market maker, explains why buying compute should work more like trading on an exchange than calling hundreds of salespeople. Compute Exchange is a neutral marketplace that owns no GPUs, verifies both providers and buyers, and handles reserved and forward contracts for GPUs and tokens, plus a …",
+    "date": "2026-10-23 15:00 UTC",
+    "date_iso": "2026-10-23T15:00:36Z"
+  }
+]
