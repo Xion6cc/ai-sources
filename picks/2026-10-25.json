@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=DZ24Xbm9Joc",
+    "title": "How to Build Financial Agents That Work Across the Web - Jay Sahnan & Arik Bird, Browserbase",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Some of the most important financial data sits behind logins and anti-bot walls, with no API. Jay Sahnan and Arik Bird of Browserbase show how browser agents solve this through three case studies: Ramp fetching receipts at scale (over 30,000 manual hours saved), Bill paying across thousands of different vendor portals with one agent, and Stripe automating KYC checks. They …",
+    "date": "2026-10-25 09:00 UTC",
+    "date_iso": "2026-10-25T09:00:10Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dZgA6btnb_s",
+    "title": "Do Not Let Models Invent Numbers - Vinoo Ganesh, Kepler",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In finance, you never show a figure you can't trace. Vinoo Ganesh, CEO of Kepler (previously Palantir and Citadel), explains Kepler's architecture where models cite numbers but never write them: retrieval finds the source, deterministic code does the math, and a post-processing filter strips any figure that can't be verified. He covers the citation registry built from more than 30 …",
+    "date": "2026-10-25 08:00 UTC",
+    "date_iso": "2026-10-25T08:00:12Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=aVbRSIQO2dE",
+    "title": "Why Frontier Models Fail as Buy-Side Analysts - Janie Gu, Google DeepMind & Suyeol Yun, LinqAlpha",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Janie Gu, product manager at Google DeepMind leading Kaggle Benchmarks, explains why most AI benchmarks are broken: they don't reflect real work, they're expensive to keep current, and their scores can't be verified. After reproducing 65 industry benchmarks, Kaggle found models reading other models' API keys, rewriting grading scripts, and scores swinging up to 20% between identical runs. Suyeol Yun, …",
+    "date": "2026-10-25 07:00 UTC",
+    "date_iso": "2026-10-25T07:00:32Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=kspZP5BgkEU",
+    "title": "AI Writes the Code. So What's Left for Engineers? - Laurie Voss, Arize AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Laurie Voss, head of developer relations at Arize AI and co-founder of npm, argues that coding agents made writing code nearly free, so the bottleneck keeps moving: first to code review, then to operations and security. What agents can't take over is finding out what people actually need and defining what \"good\" means. He calls the job that remains the …",
+    "date": "2026-10-24 23:00 UTC",
+    "date_iso": "2026-10-24T23:00:29Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=v5tm5EAzsAs",
+    "title": "Your Agent Fix Just Broke Something Else - Sofia Jakovcevic, Arize AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A one-line prompt change made a support agent 17 points safer and 17 points worse at finishing tasks. Sofia Jakovcevic, forward deployed engineer at Arize AI, explains why agents fail at runtime rather than in code, and walks through a five-step regression loop built from production traces: curate datasets, score with evaluators, run baseline experiments, compare changes, and gate merges …",
+    "date": "2026-10-24 19:00 UTC",
+    "date_iso": "2026-10-24T19:00:09Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=CLve4Nx_RwI",
+    "title": "How Bridgewater Turned 100 Million Documents Into an Edge - Sam Green & Aaron Linsky, Bridgewater",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Bridgewater Associates built the Vault: more than 100 million documents from 135 external sources plus the firm's own memos and meetings, cleaned, permissioned and tagged to its internal ontology. Sam Green (team lead, Applied AI) and Aaron Linsky (head of product engineering) share three lessons: humans and agents need different things from search, the biggest wins come from one tool …",
+    "date": "2026-10-24 15:00 UTC",
+    "date_iso": "2026-10-24T15:00:38Z"
+  }
+]
