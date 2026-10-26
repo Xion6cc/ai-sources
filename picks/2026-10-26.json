@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=4UtrRVtUN_g",
+    "title": "How to Build an AI Code Review Agent - Daksh Gupta, Greptile",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Daksh Gupta, co-founder of Greptile, which reviews about 1% of all pull requests on GitHub, shares what Greptile tells companies that want to build their own review agent. Starting from a simple sandbox-plus-webhook setup, he explains why it misses bugs, costs $3-25 per PR and floods you with nitpicks, then walks through the fixes: targeted prompts, a dataset of past …",
+    "date": "2026-10-26 09:00 UTC",
+    "date_iso": "2026-10-26T09:00:23Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Y_p3y6zP5QE",
+    "title": "Build Your Own Team of Managed Agents - Jack Wotherspoon, Google DeepMind",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Jack Wotherspoon, developer experience engineer at Google DeepMind, introduces Gemini Managed Agents: coding agents that run in cloud sandboxes from a single API call instead of on your laptop. He covers the Interactions API, the Antigravity harness, environments that several agents can share, uploaded skills and AGENTS.md files, a proxy that keeps secrets out of the sandbox, scheduled triggers and …",
+    "date": "2026-10-26 08:00 UTC",
+    "date_iso": "2026-10-26T08:00:11Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=OmyqelTwpOo",
+    "title": "How to Build Voice Agents That Don't Fall Apart When You Interrupt - Jesse Hall, LiveKit",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Jesse Hall of LiveKit shows how to build voice agents for financial services that feel human, not robotic. He explains why model leaderboards mislead (they score components, but you ship a conversation), why you should measure time to first audio and time to first sentence instead of first byte or first token, and how async tool calls keep a conversation …",
+    "date": "2026-10-26 07:00 UTC",
+    "date_iso": "2026-10-26T07:00:26Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=gv4w23xYj-0",
+    "title": "How to Write Your First AI Eval - SallyAnn DeLucia, Arize AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A hands-on workshop from SallyAnn DeLucia, head of product at Arize AI, on moving from vibe checks to real evals. She covers what an eval is and how it differs from a unit test, the main types (LLM as a judge, decision models, code evals, annotations, agent as a judge), how to read a trace, how to write concrete pass/fail …",
+    "date": "2026-10-25 23:00 UTC",
+    "date_iso": "2026-10-25T23:00:27Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ImnZ7s68jw8",
+    "title": "What Does an AI Engineer Do Now? - Aparna Dhinakaran, Arize AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Aparna Dhinakaran of Arize AI revisits what an AI engineer actually does as the field moves from writing features to running factories of agents. The job now is building the loop: evals that review non-deterministic work, telemetry that agents consume, and agents that act on it. She walks through how Arize built Signal, an always-on agent that reads traces, remembers …",
+    "date": "2026-10-25 19:00 UTC",
+    "date_iso": "2026-10-25T19:00:32Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=u_jvuCjuvEk",
+    "title": "Can Your AI Analyst Keep a Secret? - Aaron Linsky, Bridgewater & Nikhil Benesch, turbopuffer",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An AI analyst at a firm like Bridgewater needs private documents, but every email, memo and research note carries its own permissions. Aaron Linsky (head of product engineering, Bridgewater Associates) explains why the Vault's 100 million permissioned documents broke their first search setup, and Nikhil Benesch (CTO, turbopuffer) breaks down the fix: post-filtering loses recall, pre-filtering is too slow, and …",
+    "date": "2026-10-25 15:00 UTC",
+    "date_iso": "2026-10-25T15:00:33Z"
+  }
+]
