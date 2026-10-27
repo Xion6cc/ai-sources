@@ -1,0 +1,110 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=h8jgniNJcbQ",
+    "title": "Why Are We Still Governing AI Agents Like Software? - Tim Tyler, Gravitee",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Nobody would hire a worker with no ID, no manager and shared passwords, yet that's how most companies deploy AI agents. Tim Tyler of Gravitee presents the Agent Accountability framework, which governs agents like a digital workforce in three stages: Assignment (identity, team, a named human sponsor), Alignment (role, mission and least-privilege authority) and Administration (oversight scorecards, guardian agents and …",
+    "date": "2026-10-27 09:00 UTC",
+    "date_iso": "2026-10-27T09:00:16Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=BgLdvF7Qkh8",
+    "title": "300 Agents, 60 People: How We Secured Our Own AI Agents - Aiden Sochowski, Runlayer",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Runlayer is a company of about 60 people running 300+ agents every day. Founding engineer Aiden Sochowski shares what they found once they put a gateway in front of everything and logged every session and tool call: prompt injection through email, PR-review agents getting talked into approvals, over-permissioned bots, one poisoned agent contaminating others, buggy vibe-coded MCP servers burning tokens, …",
+    "date": "2026-10-27 08:00 UTC",
+    "date_iso": "2026-10-27T08:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=aGIUg8zKI8A",
+    "title": "How a Trading Firm Ships New AI Models the Same Day - Noyan Tokgozoglu, Optiver",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "At Optiver, a change rolled out to traders shows up in P&amp;L within hours, so AI has to move fast and still be measurable. Noyan Tokgozoglu, head of AI Engineering, walks through Optiver's on-prem AI platform: an inference gateway for routing and budgets, same-day adoption of new frontier models benchmarked on internal golden sets, a model- and harness-agnostic \"meta harness\", …",
+    "date": "2026-10-27 07:00 UTC",
+    "date_iso": "2026-10-27T07:00:26Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=UGuNt2_Oz8s",
+    "title": "Agents That Self Improve While You Sleep - Fuad Ali, Arize AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In this workshop, Fuad Ali of Arize AI shows how to build a self-improvement loop for AI agents: trace everything, let Signal (an always-on agent) read your traces on a schedule and file deduplicated issues, turn failures into evals and living regression datasets, run experiments to prove a fix works, and keep humans at the highest-leverage points: eval design, dataset …",
+    "date": "2026-10-26 23:00 UTC",
+    "date_iso": "2026-10-26T23:00:39Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
+    "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
+    "source": "Lex Fridman",
+    "type": "youtube",
+    "summary": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the history of mathematics, when AI solved some of its hardest problems: Navier-Stokes, the quasi-Riemann hypothesis, the unique games conjecture and hundreds of other problems. Ankur Moitra is a mathematician at MIT (visiting the Institute for Advanced Study in Princeton) working in …",
+    "date": "2026-10-26 22:51 UTC",
+    "date_iso": "2026-10-26T22:51:51Z"
+  },
+  {
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "date": "2026-10-26 22:00 UTC",
+    "date_iso": "2026-10-26T22:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=kRJjSOYqW0I",
+    "title": "How to Test Your Agents on Real Tasks With Harbor - Xander Song, Arize AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Xander Song, an engineer at Arize AI who works on Phoenix, introduces Harbor, an open source framework for evaluating agents on realistic tasks with real data in isolated sandboxes. He explains tasks, Docker environments, verifiers and rewards, trials and jobs, oracles that validate your setup before you spend tokens, and ATIF trajectories. Then he shows how his team runs Harbor …",
+    "date": "2026-10-26 19:00 UTC",
+    "date_iso": "2026-10-26T19:00:25Z"
+  },
+  {
+    "url": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4",
+    "title": "Making Failure Diagnosis Reliable with Pensive AI",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "By Praneeth Yenugutala , Victor Dusa , Anastasia Samoilova , Megan Ren , Justin Wei , Marcelo Mayworm At Netflix, data and machine learning practitioners run millions of workloads each day across orchestration systems and compute engines such as Titus, Spark, Trino, and Druid. On peak days, roughly 100,000 workloads fail. When workloads fail, the failure itself is only the …",
+    "date": "2026-10-26 17:04 UTC",
+    "date_iso": "2026-10-26T17:04:57Z"
+  },
+  {
+    "url": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
+    "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "Serdar Cellat , Yuchen Xie , Bernadette Marcu , Blaid Burgess , Cody Jarrett , Carlos Pereira , Qing Shi , Samuel Carvajal , Manuel Pamplona , Dorothy Jung , Feiko Ritsema , Benjamin Klein , Alex Woo , Eugene Lok , Anna Pulido , Rebecka Swe , Sanford Holsapple , Ranjith Kumar Shetty Introduction Clips in the Netflix mobile …",
+    "date": "2026-10-26 16:01 UTC",
+    "date_iso": "2026-10-26T16:01:02Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/",
+    "title": "Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "At the 2026 Open Compute Project (OCP) Global Summit, Meta shared the networking innovations that are directly supporting our latest AI models, including Muse Wonder and Muse Spark, and our gigawatt-scale Prometheus cluster. Highlights IcePack &#38; IceCube: Meta&#8217;s first liquid-cooled network rack with 102.4T switch blades (128×800G, Broadcom Tomahawk 6C and NVIDIA Spectrum-6 variants), running [...] Read More... The post …",
+    "date": "2026-10-26 16:00 UTC",
+    "date_iso": "2026-10-26T16:00:07Z"
+  },
+  {
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "title": "Working with academic communities to build scientific understanding",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "date": "2026-10-26 14:30 UTC",
+    "date_iso": "2026-10-26T14:30:00Z"
+  },
+  {
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "date": "2026-10-26 13:45 UTC",
+    "date_iso": "2026-10-26T13:45:00Z"
+  }
+]
