@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "title": "Legora is building the agentic operating system for legal work",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "date": "2026-10-28 09:30 UTC",
+    "date_iso": "2026-10-28T09:30:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=P_0_Th_ZzIg",
+    "title": "Stop Guessing Your vLLM Config: Benchmarking LLMs on Runpod - Chris Vela, Runpod",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Most teams spin up a new open model with the default vLLM recipe and hope for the best. Runpod forward-deployed engineer Chris Vela shows how to choose configs from data instead, starting with the use case and concurrency, and demos BenchPod, a benchmarking dashboard built on vLLM that tests configs live without restarts. He runs Kimi K3 on a B300, …",
+    "date": "2026-10-28 09:00 UTC",
+    "date_iso": "2026-10-28T09:00:20Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=58ulJViGFgU",
+    "title": "Who Is Making This Request? Agent Auth 101 - Kamil Potrec, Keycard",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "When an agent sends an invoice using your token, who actually made the request? Kamil Potrec of Keycard breaks down how agents get credentials today (personal tokens, static keys, over-privileged service accounts) and what proper agent auth requires: per-agent identity, delegation, short-lived scoped credentials, federation with legacy systems, policy and audit. He compares SDKs and gateways for keeping credentials out …",
+    "date": "2026-10-28 08:00 UTC",
+    "date_iso": "2026-10-28T08:00:37Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=xZX3pmaB8Hk",
+    "title": "Exploits Now Beat Patches: Open Source Security in the AI Era - Patrick Smyth, Chainguard",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Frontier AI has made every attacker a level more dangerous, and on average, exploits now land before the patch. Patrick Smyth of Chainguard covers this year's AI-assisted attacks and supply chain malware waves, why 30-day remediation windows no longer hold up, the four attack surfaces to cover (malware, known CVEs, zero days and \"side doors\" like CI/CD, developer laptops and …",
+    "date": "2026-10-28 07:00 UTC",
+    "date_iso": "2026-10-28T07:00:33Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=YIhvrvHtonk",
+    "title": "We Kept Rebuilding Our AI Agent. Here's What Survived - Fuad Ali, Arize AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Arize's in-product agent Alex went from a 2023 prototype that was \"50% hallucination\" to a single agent with planning, memory and on-demand skills, all built with custom harness code instead of a framework. AI PM Fuad Ali covers each decision: moving the plan into the harness, making \"finish\" an explicit gate, treating large tool results like files, why one 8,000-character …",
+    "date": "2026-10-27 23:00 UTC",
+    "date_iso": "2026-10-27T23:00:06Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dAoOYFx7ZYw",
+    "title": "Stop Giving Your Agent Tools. Give It a Sandbox - Mikyo King, Arize AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Classic tool-calling agents fill their context with tool catalogs and raw outputs. Code mode gives the agent a sandbox and lets it search for and compose tools in code, returning only what it needs. Mikyo King, head of open source at Arize AI, explains why code mode works, how Arize built it into Phoenix (Bash, a Python sandbox, SQL and …",
+    "date": "2026-10-27 19:00 UTC",
+    "date_iso": "2026-10-27T19:00:27Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/ai-sre",
+    "title": "AI SRE: what is it, how could it change on-call – and does it work?",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "&#8220;AI SRE&#8221; is fast becoming a trending term fueled by flashy demos from vendors, but has an AI SRE ever really been on-call while engineers slept? Deepdive",
+    "date": "2026-10-27 16:19 UTC",
+    "date_iso": "2026-10-27T16:19:22Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/10/27/security/privacylib/",
+    "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "This latest deep dive into Meta’s Privacy Aware Infrastructure (PAI) takes a look at PrivacyLib. A privacy requirement must hold as data moves through Meta&#8217;s diverse data and processing systems. Historically, supporting a new requirement meant implementing the same enforcement logic separately in each system. PrivacyLib replaces this with a common library that runs inside [...] Read More... The post …",
+    "date": "2026-10-27 16:00 UTC",
+    "date_iso": "2026-10-27T16:00:12Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/",
+    "title": "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "The 2026 Python Typing Survey received 1,794 responses. Type hint use changed little across three years, but checker selection changed sharply. Among respondents who reported which checkers they use, half selected more than one, and missing library type information was the most common difficulty. For the third consecutive year, we asked Python developers how they [...] Read More... The post …",
+    "date": "2026-10-27 15:59 UTC",
+    "date_iso": "2026-10-27T15:59:24Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=iniryju23Sk",
+    "title": "What a $900M Bank Error Teaches Us About AI Agents - John Feminella, Two Sigma",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In 2020, Citibank accidentally sent about $900 million to Revlon’s lenders instead of an $8 million interest payment, even though the procedure, the warning pop-up and three approvers all did what they were supposed to. John Feminella, who works on AI architecture and engineering at Two Sigma, uses that story to show how to give AI agents real autonomy without …",
+    "date": "2026-10-27 15:00 UTC",
+    "date_iso": "2026-10-27T15:00:06Z"
+  },
+  {
+    "url": "https://openai.com/index/retell-ai",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "date": "2026-10-27 15:00 UTC",
+    "date_iso": "2026-10-27T15:00:00Z"
+  }
+]
