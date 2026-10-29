@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and",
+    "title": "Software engineering at Google & CS education with Titus Winters",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Titus Winters shares lessons from engineering at Google&#8217;s scale and explores how AI is reshaping developer productivity and computer science education.",
+    "date": "2026-10-29 13:37 UTC",
+    "date_iso": "2026-10-29T13:37:13Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Ok6QdZHCcI8",
+    "title": "How Revolut Cut AI Coding Costs 90% With Self-Hosted Open Models - David Abitbol, Revolut",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "David Abitbol, who leads AI operations at Revolut, shares data from 2,000 engineers on what AI tools did to coding time and lead time, and why self-hosting open-source GLM models made the biggest difference: about 60-70% faster delivery at roughly a tenth of what they were paying frontier labs. He covers the GPUs needed, the latency targets that keep engineers …",
+    "date": "2026-10-29 09:00 UTC",
+    "date_iso": "2026-10-29T09:00:21Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=mJ7q8CuVmbw",
+    "title": "We Trust AI Agents That Break Every Day - Shy Ruparel, Temporal",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Temporal's State of Development survey found that 80.8% of engineers use agents daily, but only 49.1% run them in production. Developer advocate Shy Ruparel walks through the four gaps behind that number (usage vs. production, trust vs. reality, prototype vs. enterprise, seeing vs. recovering), then demos a $2,500 payout workflow with a local model that survives having its workers killed …",
+    "date": "2026-10-29 08:00 UTC",
+    "date_iso": "2026-10-29T08:00:26Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=YqxpPI7YUjE",
+    "title": "Why a One-Line Change Can Break Your Whole Stack - Cole Gannaway, Qodo",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Code generation is moving faster than ever, and the bottleneck has moved to review. Cole Gannaway, a solutions engineer at Qodo, shows how a one-line data model change that passes every test can quietly break web, mobile, CLI and MCP clients, and how a software graph of your repos reveals that blast radius. He covers turning tribal knowledge and PR …",
+    "date": "2026-10-29 07:00 UTC",
+    "date_iso": "2026-10-29T07:00:25Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=AnsXWH2_EBU",
+    "title": "How Anthropic Merges 30,000 Code Changes a Day - Manish Kapur, Sonar & Addy Osmani, Anthropic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Coding agents are opening PRs faster than anyone can review them. Manish Kapur (Sonar) and Addy Osmani (Anthropic) discuss \"light\" vs. \"dark\" software factories, how Anthropic scaled from about 2,500 to 30,000 merged changes a day with Claude doing first-pass review backed by real verification evidence, new data from Sonar's State of Code survey, and why every loop in the …",
+    "date": "2026-10-28 23:00 UTC",
+    "date_iso": "2026-10-28T23:00:26Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=UW8Qkk7MG8A",
+    "title": "AI That Hunts Logic Bugs Before Attackers Do - Taylor Luttrell-Williams, Sonar",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Pattern-based SAST catches bad code, but not valid code with flawed intent: broken access control, business logic gaps and authentication holes. Taylor Luttrell-Williams of Sonar introduces the SonarQube Hunter Agent, which maps a repo, runs three specialist agents and adversarially validates every finding, and announces Sonar joining the OpenAI Daybreak cyber partner program. The live demo turns up 46 issues …",
+    "date": "2026-10-28 19:00 UTC",
+    "date_iso": "2026-10-28T19:00:15Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=mQu0zN4IvSI",
+    "title": "Software engineering at Google & CS education with Titus Winters",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "An engineer who helped create today’s software engineering curriculum now says to burn down almost all of it. What’s the cause of this contradiction? We find out from the lead author of Software Engineering at Google. Titus Winters spent more than a decade at Google, where he led its readability program and built Abseil, Google’s open-sourced foundational C++ libraries. He …",
+    "date": "2026-10-28 18:41 UTC",
+    "date_iso": "2026-10-28T18:41:17Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
+    "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "This post describes the next generation of Meta Andromeda, Meta&#8217;s personalized ads retrieval engine, and how co-designing the model, system, and GPU hardware unlocks a new efficiency frontier for ads retrieval. In production, the system scores every eligible ad with near ranking-level model performance at retrieval scale and surfaces the top candidates at over one [...] Read More... The post …",
+    "date": "2026-10-28 16:00 UTC",
+    "date_iso": "2026-10-28T16:00:01Z"
+  }
+]
