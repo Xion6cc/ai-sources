@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=YU1uD_YkpjU",
+    "title": "Your Agent Just Paid for Nothing: 6 Attacks on x402 Payments - Ishween Kaur, SoFi",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "x402 lets AI agents pay for data and APIs with tiny on-chain payments over HTTP. Ishween Kaur explains how the protocol works, then walks through six of the 20 ways she broke it in a safe test environment: price changes in the payment header, paying twice, getting data for free, one payment unlocking many pages, lookalike sellers, and prompt injection …",
+    "date": "2026-10-30 09:00 UTC",
+    "date_iso": "2026-10-30T09:00:31Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=y2dyD6slKxE",
+    "title": "Why AI Won't Replace Stock Pickers - Jack Woodruff, Candlestick & Vinoo Ganesh, Kepler",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Jack Woodruff, founder and former CIO of long/short equity fund Candlestick Capital and a former Citadel portfolio manager, sits down with Kepler CEO Vinoo Ganesh to talk about what AI really changes in fundamental investing. They discuss why humans are still the bottleneck, how AI turns hours of prep into minutes and raises the table stakes, why you should never …",
+    "date": "2026-10-30 08:00 UTC",
+    "date_iso": "2026-10-30T08:00:09Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=rWtbOgl5FTU",
+    "title": "The Cheaper AI Model That Costs You More - Rayan Krishnan, Vals AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Vals AI builds benchmarks that frontier labs cite in their model cards, and Rayan Krishnan explains why those single scores hide a jagged frontier. In finance tasks like tax and Excel LBO modeling, the best model changes by task, and a model that's cheaper on paper can cost more and score lower because it burns extra tokens. He shares lessons …",
+    "date": "2026-10-30 07:00 UTC",
+    "date_iso": "2026-10-30T07:00:03Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=wP3P89YB9fA",
+    "title": "Catch the Bugs Your Code Review Misses - Killian Carlsen-Phelan & Taylor Luttrell-Williams, Sonar",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In this hands-on session, Killian Carlsen-Phelan and Taylor Luttrell-Williams of Sonar set up Gitar, a code change verification agent, on a sample ticketing app and run three pull requests through it. Gitar catches a bug that isn't in the diff at all (a buyer can refund a ticket after giving it to a friend), enforces a business rule from a …",
+    "date": "2026-10-29 23:00 UTC",
+    "date_iso": "2026-10-29T23:00:04Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=LQW_Wvqhp04",
+    "title": "Why Humans Can't Keep Up With AI-Written Code - Tariq Shaukat, Sonar",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Agents have made code cheap: one study saw lines of code up 2,450% but releases up only 30%. Sonar CEO Tariq Shaukat draws on the factory revolution that Toyota and Lexus started to explain how to build agentic software factories you can trust. He breaks down five hard problems: human review that doesn't scale (people agree with AI that's wrong …",
+    "date": "2026-10-29 19:00 UTC",
+    "date_iso": "2026-10-29T19:00:16Z"
+  },
+  {
+    "url": "https://openai.com/index/updated-model-spec",
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "date": "2026-10-29 17:00 UTC",
+    "date_iso": "2026-10-29T17:00:00Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+    "title": "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Over the last year we&#8217;ve been sharing our work leveraging large language models to catch bugs on the fly — a novel approach we call Catching Just-in-Time Tests (JiTTests). Now, we&#8217;re sharing the results and positive impact we&#8217;ve seen with Catching JiTTests deployed into production. Our paper, “Just-in-Time Catching Test Generation at Meta,” fully details [...] Read More... The post …",
+    "date": "2026-10-29 16:00 UTC",
+    "date_iso": "2026-10-29T16:00:12Z"
+  }
+]
