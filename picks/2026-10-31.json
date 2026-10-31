@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=CvmZtAPmAW4",
+    "title": "78% Wanted This AI Feature. Almost Nobody Used It - Supriya Subudhi, Bumble",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Bumble product manager Supriya Subudhi shares five lessons from A/B testing an AI photo feedback feature in a dating app with over 20 million monthly users. 78% of surveyed users said they wanted feedback, but only 10-15% used it; the average win hid odd outputs like telling smiling people to smile more; the best model cost about 10x more; switching …",
+    "date": "2026-10-31 09:00 UTC",
+    "date_iso": "2026-10-31T09:00:01Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9-Y_oS9OBLc",
+    "title": "When Running Your Own AI Models Beats Paying for APIs - Steven Latré, imec",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Steven Latré leads AI at imec, the Belgian semiconductor R&amp;D center, and his team ran thousands of benchmark runs to find out what moving from APIs to your own GPUs really costs for long-running coding agents. Testing open-weight models and three coding harnesses on SWE-Bench Pro, they found that hardware costs jump in steps rather than a smooth curve, that …",
+    "date": "2026-10-31 08:00 UTC",
+    "date_iso": "2026-10-31T08:00:24Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3osCbSufv8g",
+    "title": "Voice AI Where One Wrong Question Breaks the Rules - Shiv Indap, Upstart & Brooke Hopkins, Coval",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Upstart handles thousands of lending calls a day, where one wrong question can become a regulatory problem. Shiv Indap, who leads voice AI at Upstart, and Brooke Hopkins, founder of Coval and former head of evaluation infrastructure at Waymo, walk through automating loan verification calls: the compliance traps, outgrowing a Google Sheet for human review, and raising agreement between the …",
+    "date": "2026-10-31 07:00 UTC",
+    "date_iso": "2026-10-31T07:00:11Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qq2Hm4XNRgI",
+    "title": "How to Decide What Your AI Agent Should Remember - Wojciech Pluta, Oracle",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "RAG gives agents a way to read, but memory gives them a way to write, and that's where your business value lives. Wojciech Pluta, head of technical marketing for Oracle AI Database, explains memory promotion: deciding what's worth keeping, checking it against existing records and admitting, rejecting or escalating it to a human. A mortgage-agent demo remembers an operator's preferences …",
+    "date": "2026-10-30 23:00 UTC",
+    "date_iso": "2026-10-30T23:00:13Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8vDzncmzxyg",
+    "title": "Your AI Agent Starts Every Session Like a New Hire - Killian Carlsen-Phelan, Sonar",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Every new coding agent session starts like a new hire: it doesn't know your conventions, architecture rules or approved libraries, so it burns time and tokens searching your repo and repeats the issues already in it. Killian Carlsen-Phelan of Sonar introduces Sonar Vortex, a plugin that hands your agent a map of the codebase and your guidelines before it writes, …",
+    "date": "2026-10-30 19:00 UTC",
+    "date_iso": "2026-10-30T19:00:14Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
+    "title": "The Pulse: Anthropic kills the coding interview",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "AI is rendering the Leetcode-style interview pointless and now Anthropic has deleted it from its interview loop. Also: details of incident.io&#8217;s AI spend, Microsoft&#8217;s exit offer to engineers, and more",
+    "date": "2026-10-30 16:37 UTC",
+    "date_iso": "2026-10-30T16:37:51Z"
+  }
+]
