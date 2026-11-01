@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=v0UkV5qS9E4",
+    "title": "Why We Rebuilt Microsoft Office From Scratch for AI Agents - Yijia Liang, Compound AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Yijia Liang spent years as a finance analyst living in Excel and PowerPoint before founding Compound to build autonomous AI analysts for institutional investors. Personal agents took off because they run reliably in the background, act on their own and connect to your context, but finance needs more: multiplayer agents with their own inboxes that join deal-team email threads, a …",
+    "date": "2026-11-01 10:00 UTC",
+    "date_iso": "2026-11-01T10:00:14Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=YX4Z4XqZ9Vo",
+    "title": "Most of Your Docs Readers Are Now AI Agents - Hahnbee Lee, Mintlify & Lincoln Murr, Coinbase",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "In this fireside chat, Mintlify co-founder and CTO Hahnbee Lee and Coinbase head of AI product Lincoln Murr discuss what changes when agents, not people, are the main users of your product. Lee shares that agent traffic on Mintlify docs sites grew from about 10% to about 80% this year, why page size and accuracy now matter more than design, …",
+    "date": "2026-11-01 08:00 UTC",
+    "date_iso": "2026-11-01T08:00:01Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7WUzHIF32vA",
+    "title": "If Your AI Scores 100%, Your Eval Is Wrong - Ramakrishnan Lokanathan, eslams.com",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ramakrishnan Lokanathan, an AI safety researcher and former startup founder, lays out how to build evals for high-stakes AI applications. Define the most ambitious version of success, test every step of the workflow and not just the final answer, combine automated checks with human review and adversarial tests, keep testing what used to work so upgrades don't break it, and …",
+    "date": "2026-11-01 07:00 UTC",
+    "date_iso": "2026-11-01T07:00:02Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=LnQce-eHm8k",
+    "title": "Your AI Agent Wants Your Data. Here's How to Lock It Down - Jeff Smith, Oracle",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Jeff Smith has built database tools at Oracle for 25 years, and he's here to make agents and databases get along safely. He explains why natural language to SQL is powerful but risky, since queries can run cleanly and still return the wrong data, and how Oracle's MCP server makes it safer: offering your team's vetted reports as tools instead …",
+    "date": "2026-10-31 23:00 UTC",
+    "date_iso": "2026-10-31T23:00:11Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=1_lX0m64-aI",
+    "title": "Everyone Has the Same AI Models. Here's What Sets Agents Apart - Richmond Alake, Oracle",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Richmond Alake was talking about agent memory before most people had heard of it, and now he argues the next layer after the control plane is an intelligence plane: what an agent knows, what it remembers, what it's allowed to see, and how it gets better. Using the WWII codebreakers who worked out that \"AF\" meant Midway, he shows why …",
+    "date": "2026-10-31 19:00 UTC",
+    "date_iso": "2026-10-31T19:00:24Z"
+  },
+  {
+    "url": "https://karpathy.bearblog.dev/hacker-tube/",
+    "title": "HackerTube",
+    "source": "Andrej Karpathy Blog",
+    "type": "blog",
+    "summary": "Instead of YouTube, watch HackerTube!",
+    "date": "2026-10-31 17:00 UTC",
+    "date_iso": "2026-10-31T17:00:00Z"
+  }
+]
