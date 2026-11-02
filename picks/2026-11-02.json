@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://openai.com/index/grid-protectors-program",
+    "title": "Introducing the Grid Protectors Program",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "date": "2026-11-02 15:00 UTC",
+    "date_iso": "2026-11-02T15:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=JxNCuXkSWyQ",
+    "title": "A Valid Key Let an AI Agent Delete Production - Sagar Batchu, Speakeasy",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A coding agent tried to fix a staging problem and deleted a production database and its backup instead. It did this with valid credentials. Sagar Batchu of Speakeasy uses that incident to lay out a control layer for agents in regulated industries. Every action is tied to an identity, checked against policy in real time, never allowed to exceed its …",
+    "date": "2026-11-02 10:00 UTC",
+    "date_iso": "2026-11-02T10:00:35Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-X3yXTwGs9A",
+    "title": "AI Writes Code Faster Than Your Team Can Review It - Andrew Norrish, Sourcegraph",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "AI has moved the bottleneck from writing code to reviewing it, and SREs are left handling the incidents. Andrew Norrish of Sourcegraph explains why unreviewed AI code is driving more outages, and why SRE and platform teams are best placed to fix it. He also shows how code search and a code-graph context engine help teams investigate, prevent and fix …",
+    "date": "2026-11-02 09:00 UTC",
+    "date_iso": "2026-11-02T09:00:13Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vUJDyDnqT4c",
+    "title": "Your AI Pilots Won't Move the P&L. Here's What Will - Adam Nahari, Apollo",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Most companies use AI, but very few see it show up in their margins. Adam Nahari of Apollo Global Management explains why engineering is the smaller part of an AI transformation. He walks through the six moves that turned an airline's crew-scheduling desk into a 10x win: start from the P&amp;L, pick one or two problems, get a real owner, …",
+    "date": "2026-11-02 08:00 UTC",
+    "date_iso": "2026-11-02T08:00:03Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=1et3Lb_KLQo",
+    "title": "I Don't Fear AI Slop. I Fear Untold Stories - Zack Proser, WorkOS",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Zack Proser, an engineer on the WorkOS applied AI team who has written and published obsessively for 15 years, is less worried about AI slop than about all the stories that never get told. He shares how he packed his writing know-how into Blogbot, a Slack tool that gets colleagues' drafts 85-90% of the way there while a human still …",
+    "date": "2026-11-02 00:00 UTC",
+    "date_iso": "2026-11-02T00:00:21Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=geMAe-PLJF4",
+    "title": "I Made a Fruit Fly Review My Code - Nick Nisi, WorkOS",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Code is being written faster than ever, and Nick Nisi, who leads developer and agent experience at WorkOS, argues that the human reviewer is now the bottleneck. To make the point, he hooked a simulated fruit fly brain, built from a full scan of its neurons, up to code review: AI turns each change into literal \"code smells,\" sugar and …",
+    "date": "2026-11-01 20:00 UTC",
+    "date_iso": "2026-11-01T20:00:08Z"
+  }
+]
