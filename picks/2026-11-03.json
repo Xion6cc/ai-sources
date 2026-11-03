@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=g_NgCLTibiM",
+    "title": "Make Your AI Agents Predictable With Graph Engineering - Zachary Blumenfeld, Neo4j",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Graph engineering is a new name for an old idea: give agents a map of the logic they should follow, not just a pile of text. Zachary Blumenfeld of Neo4j explains how graphs make agents more predictable, governable and portable. He shows how to compile skills and past decision traces into graph-shaped skills, then demos a loan-approval agent that follows …",
+    "date": "2026-11-03 10:00 UTC",
+    "date_iso": "2026-11-03T10:00:09Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=XIHZpZtYCzo",
+    "title": "Your AI Agents Shouldn't Care Where They Run - Nikhil Harithas, Factory",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Agents can't keep borrowing your identity and running on someone else's machines, especially at banks and other heavily regulated companies. Nikhil Harithas of Factory shows how they rebuilt their coding agent, Droid, to run on any compute inside a customer's own cloud. He covers the compute gateway and relay design, bring-your-own-key model calls, snapshots and forking, and why they plan …",
+    "date": "2026-11-03 09:00 UTC",
+    "date_iso": "2026-11-03T09:00:22Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3Ad73Onx3Aw",
+    "title": "Better Search Took This AI Agent From 36% to 98% Accuracy - Aamir Shakir, Mixedbread",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Agents are smart enough. Most of the time, the real problem is getting them to the right data. Aamir Shakir of Mixedbread explains why the usual stack of OCR, chunking, embeddings and a vector database loses information and leaves agents reading every document. He shows multimodal, late-interaction retrieval on Intel earnings reports, and shares a customer whose answer accuracy went …",
+    "date": "2026-11-03 08:00 UTC",
+    "date_iso": "2026-11-03T08:00:24Z"
+  },
+  {
+    "url": "https://openai.com/index/heimstaden",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "date": "2026-11-03 08:00 UTC",
+    "date_iso": "2026-11-03T08:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=q4ITwvlFplQ",
+    "title": "You Can't Tell What's Real Anymore. Here's What Comes Next - Cristóbal Valenzuela, Runway",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Runway's first AI film in 2019 was 128x128 pixels. Today, people can't tell generated video from real footage. Runway co-founder and CEO Cristóbal Valenzuela explains how next-frame prediction at scale teaches models physics, object permanence and how the world works. He then shows what happens when those models become real-time and interactive: world interface models, robotics, and Continuum, an early …",
+    "date": "2026-11-03 00:00 UTC",
+    "date_iso": "2026-11-03T00:00:29Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=5SRjPT2Eo7A",
+    "title": "Your Company Should Train Its Own AI Models - Will Brown, Prime Intellect",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Agents relearn the same things every session because the knowledge that runs a company never gets written down. Will Brown of Prime Intellect makes the case for training models on your own traces, feedback and workflows, so they learn on the job the way human coworkers do. He covers evals as test cases, decision models and routing, and widget-style interfaces …",
+    "date": "2026-11-02 20:00 UTC",
+    "date_iso": "2026-11-02T20:00:09Z"
+  },
+  {
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "date": "2026-11-02 18:00 UTC",
+    "date_iso": "2026-11-02T18:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+    "date": "2026-11-02 18:00 UTC",
+    "date_iso": "2026-11-02T18:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "title": "Scaling Git at OpenAI",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+    "date": "2026-11-02 15:30 UTC",
+    "date_iso": "2026-11-02T15:30:00Z"
+  },
+  {
+    "url": "https://openai.com/index/grid-protectors-program",
+    "title": "Introducing the Grid Protectors Program",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "date": "2026-11-02 15:00 UTC",
+    "date_iso": "2026-11-02T15:00:00Z"
+  }
+]
