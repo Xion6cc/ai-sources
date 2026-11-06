@@ -1,0 +1,110 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=y9Sg--RDtks",
+    "title": "When We Can Do Anything, Do We Still Know What We Want? — Ryo Lu, ex-Cursor | AI Engineer Shanghai",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ask an AI to build a journal and it might give you mood scores, streaks, daily reminders, and weekly reports. Which would you keep? Ryo Lu, a former founding designer at Cursor, uses a working journal demo to show how design decisions slip into an AI-generated answer and how a good tool lets you change them. Recorded at AI Engineer …",
+    "date": "2026-11-06 14:44 UTC",
+    "date_iso": "2026-11-06T14:44:57Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=EtZwTYahfek",
+    "title": "7 Things Your AI Coworker Needs - Philipp Schmid, Google DeepMind",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Philipp Schmid of Google DeepMind shows how to build an autonomous AI coworker for finance with Gemini and the Gemini API's Managed Agents. He breaks a coworker down into seven needs (a brain, a computer, playbooks, tools, credentials, house rules and a schedule) and builds each one: skills and files in the agent's own sandbox, built-in tools and MCP servers, …",
+    "date": "2026-11-06 10:00 UTC",
+    "date_iso": "2026-11-06T10:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=C2-v6wkHXhY",
+    "title": "Your AI Isn't the Advantage. Your Judgment Is - Sid Pednekar",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Sid Pednekar, an AI, technology and data executive in asset management, looks at why most companies now have AI but only a few see real results from it. Following two hypothetical firms, he lays out three things the leaders do differently: they pick the right problem and invest deeply in a few high-value workflows instead of scattering pilots, they build …",
+    "date": "2026-11-06 09:00 UTC",
+    "date_iso": "2026-11-06T09:00:15Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=SUqQlvyI3N8",
+    "title": "Your AI Agent Keeps Making the Same Mistakes - Sparsh Jain, CentralAgent AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Sparsh Jain, Head of AI at CentralAgent AI, argues that giving AI agents more memory isn't the same as helping them learn. After his team worked with the same agent for two years and it still repeated the same mistakes, they rebuilt memory as an experiential system: forming notes from new experiences, updating or deactivating old ones, keeping inactive notes …",
+    "date": "2026-11-06 08:00 UTC",
+    "date_iso": "2026-11-06T08:00:37Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=AYFcmnQrZCg",
+    "title": "AI Agents Will Upend Investing Even More Than Coding - Frank Long, Coatue",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Frank Long of Coatue, a technology investment firm across public and private markets, bets that agents will have an even bigger impact on investing than they did on coding. He frames a hedge fund as a function that takes in outside and inside context and returns what to buy, how much and when, then breaks it into gather, analyze and …",
+    "date": "2026-11-06 00:00 UTC",
+    "date_iso": "2026-11-06T00:00:09Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=YqJ4asgj1R8",
+    "title": "Stop Giving Your AI Agents API Keys - Kim Maida, Keycard & Mason Egger, Temporal",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Kim Maida of Keycard and Mason Egger of Temporal show how to build AI agents that are both secure and reliable. Kim replaces shared API keys with OAuth token exchange, so every tool call gets a short-lived token scoped to that one call and tied to both the agent's identity and the user it's acting for, building it live on …",
+    "date": "2026-11-05 21:00 UTC",
+    "date_iso": "2026-11-05T21:00:16Z"
+  },
+  {
+    "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+    "title": "Inside GitHub’s new Git storage architecture",
+    "source": "GitHub Engineering",
+    "type": "blog",
+    "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub&#8217;s new Git storage architecture appeared first on The GitHub Blog .",
+    "date": "2026-11-05 20:23 UTC",
+    "date_iso": "2026-11-05T20:23:21Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=zLc8zeGeNaY",
+    "title": "How Netflix Evaluates AI When There's No Right Answer - Cameron Wolfe, Netflix",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Cameron Wolfe, a staff research scientist at Netflix and author of the Deep (Learning) Focus newsletter, lays out a three-part framework for evaluating tasks with no single right answer, like creative writing. Human evaluation with calibrated guidelines is the North Star; LLM judges and rubrics, checked against human \"golden\" data, scale up offline evals; and A/B tests and production monitoring …",
+    "date": "2026-11-05 20:00 UTC",
+    "date_iso": "2026-11-05T20:00:25Z"
+  },
+  {
+    "url": "https://openai.com/index/cultfit-builds-with-codex",
+    "title": "Cult.fit builds operational muscle with Codex",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+    "date": "2026-11-05 20:00 UTC",
+    "date_iso": "2026-11-05T20:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "title": "Australian universities are creating AI-native graduates",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+    "date": "2026-11-05 17:00 UTC",
+    "date_iso": "2026-11-05T17:00:00Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude",
+    "title": "Scaling Slack and GitHub with Maude Lemaire",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Maude Lemaire shares lessons from scaling Slack and GitHub, improving performance at Cursor, and using AI while keeping engineering judgment in human hands.",
+    "date": "2026-11-05 15:58 UTC",
+    "date_iso": "2026-11-05T15:58:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=x6WqD4qHxSc",
+    "title": "Scaling Slack and GitHub with Maude Lemaire",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "What is involved in scaling up large, popular products at places like Slack and GitHub? We get an insider’s view on this from Maude Lemaire, a principal engineer and author of ‘Refactoring at Scale: Regaining Control of Your Codebase.’ She spent nearly eight years at Slack, where she led the backend performance infrastructure team, before joining GitHub to tackle database …",
+    "date": "2026-11-05 15:55 UTC",
+    "date_iso": "2026-11-05T15:55:04Z"
+  }
+]
