@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=maitMe9HCvw",
+    "title": "How to Get Frontier Coding Results at 70% Lower Cost - Nouha Dziri, Cohere",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Nouha Dziri, a senior research scientist at Cohere, shares research on teams of coding agents, where a lead splits up the work and workers explore, build and check in parallel. Teams can beat a single agent on long software tasks but cost several times more, so across hundreds of experiments on ProgramBench and Commit0 she maps where extra workers actually …",
+    "date": "2026-11-07 08:00 UTC",
+    "date_iso": "2026-11-07T08:00:33Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=RdQCY_-SXbA",
+    "title": "AI Can't Make Up a Number It Can't Look Up - Vinoo Ganesh, Kepler",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Vinoo Ganesh, CEO and co-founder of Kepler and former head of business engineering at Citadel, explains why Wall Street still doesn't trust AI and how to build systems it can. He breaks wrong numbers into three causes (the wrong document, the wrong number from the right document, and models doing math) and shows Kepler's approach: code extracts every fact ahead …",
+    "date": "2026-11-07 08:00 UTC",
+    "date_iso": "2026-11-07T08:00:25Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=kIlVNGZZr8o",
+    "title": "How Agents Cut Hour-Long Data Checks to 5 Minutes - Amol Kapoor & Clifford Ressel, Nori Agentic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Amol Kapoor and Clifford Ressel of Nori Agentic show how cloud agents can keep an asset manager's security master database clean, especially as more money moves into private assets whose details live in PDFs, emails and call notes. Cliff explains what a security master is and why private assets break the usual identifiers, then Amol walks through work with a …",
+    "date": "2026-11-07 07:00 UTC",
+    "date_iso": "2026-11-07T07:00:18Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=pz74r-4dGfQ",
+    "title": "Your AI Agent Is Hiding Its Mistakes From You - Ben Holmes, Warp",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ben Holmes of Warp shows how to build agents that improve their own setup by reviewing their past work. He walks through collecting every agent conversation with its tool calls and outputs in one place, scoring them with LLM-as-judge rubrics for redundant tests, verbosity and efficiency, and running a daily agent that finds patterns in the failures and opens pull …",
+    "date": "2026-11-06 22:00 UTC",
+    "date_iso": "2026-11-06T22:00:01Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ys6YQ2yfBpM",
+    "title": "Your Old Prompts Are Making Claude Worse - Lance Martin, Anthropic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Lance Martin of Anthropic shares simple fixes that get more out of frontier models, often improving quality and cutting cost at the same time. He covers auditing prompts for outdated habits like \"think step by step\" and contradictory rules, using the prompt cache properly (cutting costs up to 72% on internal benchmarks), designing evals Claude can actually climb, and hill …",
+    "date": "2026-11-06 21:00 UTC",
+    "date_iso": "2026-11-06T21:00:18Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=oWqsBuhRRZ4",
+    "title": "How We Mapped a 35-Million-Line Mainframe in 4 Days - Stephen Chin, Neo4j & Neeraj Deshmukh, Blitzy",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Stephen Chin of Neo4j and Neeraj Deshmukh of Blitzy show why AI struggles to modernize the decades-old systems underneath banks and insurers, and how a knowledge graph fixes it. Using a COBOL interest calculation as the running example, they explain that AI can convert a formula but misses the batch jobs, data layouts and other places the logic is used, …",
+    "date": "2026-11-06 20:00 UTC",
+    "date_iso": "2026-11-06T20:00:10Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027",
+    "title": "The Pragmatic Summit 2027",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "The Summit is back in San Francisco, for the second year, and registrations are open for February 10, 2027",
+    "date": "2026-11-06 19:39 UTC",
+    "date_iso": "2026-11-06T19:39:15Z"
+  },
+  {
+    "url": "https://medium.com/pinterest-engineering/safe-and-efficient-multi-epoch-embedding-training-103bec2abc83?source=rss----4c5a5f6279b6---4",
+    "title": "Safe and Efficient Multi-Epoch Embedding Training",
+    "source": "Pinterest Engineering",
+    "type": "blog",
+    "summary": "Authors: Shruthi Hariharan | Machine Learning Engineer II; Konish Dutta | Machine Learning Engineer II; Abhinav Naikawadi | Sr. Machine Learning Engineer; Zhihua Zhang | Machine Learning Engineer II; Rakshita Nagalla | Sr. Machine Learning Engineer; Kousik Rajesh* | Machine Learning Engineer II; Matt Lawhon | Staff Machine Learning Engineer Tags: Machine Learning, Infrastructure, Recommendation Systems Content Track: Technical Discussion …",
+    "date": "2026-11-06 16:01 UTC",
+    "date_iso": "2026-11-06T16:01:03Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=y9JtCCZP2MQ",
+    "title": "AI Engineer Code Summit 2026 — Day 2 | November 12",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Live from San Francisco, AI Engineer Code Summit 2026 brings together engineers and technical leaders building with AI. Session Day 2: Thursday, November 12, 2026 Livestream: 9:00 AM–6:00 PM Pacific (PST) Venue: Hilton San Francisco Union Square Explore the conference and agenda: https://ai.engineer/code Subscribe for more AI Engineer talks, livestreams, and event coverage: https://www.youtube.com/@aiDotEngineer",
+    "date": "2026-11-06 15:45 UTC",
+    "date_iso": "2026-11-06T15:45:58Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZZ19zhYnDKY",
+    "title": "AI Engineer Code Summit 2026 — Day 1 | November 11",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Live from San Francisco, AI Engineer Code Summit 2026 brings together engineers and technical leaders building with AI. Session Day 1: Wednesday, November 11, 2026 Livestream: 9:00 AM–6:00 PM Pacific (PST) Venue: Hilton San Francisco Union Square Explore the conference and agenda: https://ai.engineer/code Subscribe for more AI Engineer talks, livestreams, and event coverage: https://www.youtube.com/@aiDotEngineer",
+    "date": "2026-11-06 15:43 UTC",
+    "date_iso": "2026-11-06T15:43:54Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=y9Sg--RDtks",
+    "title": "When We Can Do Anything, Do We Still Know What We Want? — Ryo Lu, ex-Cursor | AI Engineer Shanghai",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ask an AI to build a journal and it might give you mood scores, streaks, daily reminders, and weekly reports. Which would you keep? Ryo Lu, a former founding designer at Cursor, uses a working journal demo to show how design decisions slip into an AI-generated answer and how a good tool lets you change them. Recorded at AI Engineer …",
+    "date": "2026-11-06 14:44 UTC",
+    "date_iso": "2026-11-06T14:44:57Z"
+  }
+]
