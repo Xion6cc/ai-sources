@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=EaOit1mmR9g",
+    "title": "How Financial Planners With Zero Coding Experience Built Their Own Agents - Matt Ragone, Range",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Matt Ragone is a financial planner at Range, an all-in-one wealth management firm, not an engineer. He leads AI adoption for its planning team and shares the step-by-step method non-technical planners used to build their own agents and skills. With standardized processes and client data already in one place, the team could have an agent draft cash flow analyses, insurance …",
+    "date": "2026-11-08 08:00 UTC",
+    "date_iso": "2026-11-08T08:00:14Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=BT1Mo-fD-g0",
+    "title": "Your Coding Agent Can't Undo Its Own Mistakes - Tanmay Sah & Dolly Sah",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Tanmay Sah and Dolly Sah look at a capability today's coding agents are missing: undoing what they've done. Drawing on their research projects UndoBench and EvoUndo, they show that an agent that completes a task can't necessarily put things back when something breaks, because Git doesn't cover external API calls, runtime config or notifications, and retrying doesn't reverse side effects. …",
+    "date": "2026-11-08 08:00 UTC",
+    "date_iso": "2026-11-08T08:00:03Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jDwc0aXTAFg",
+    "title": "Your Company Has No Model of Itself. Agents Can Build One - Joao Wenzel, Citadel Securities",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Every company has someone who knows everything: the reorgs, the politics, which projects are really on track. Joao Wenzel of Citadel Securities explains how his team approximates that person with an agentic system that builds an institutional memory from decks, Slack, meeting notes, code changes and agent traces. Borrowing the idea of a state estimator from robotics, the system updates …",
+    "date": "2026-11-08 07:00 UTC",
+    "date_iso": "2026-11-08T07:00:36Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_0SQh8a1Osk",
+    "title": "Don't Vibe Code Your Agent Infrastructure - Akshat Bubna, Modal",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Akshat Bubna, CTO of Modal, explains what AI agents actually need from the infrastructure underneath them, starting with a spreadsheet where every cell is backed by its own agent. He walks through the building blocks: a workspace for each agent, state that persists for days without paying for idle compute, resources that stretch and shrink as the agent works, GPUs …",
+    "date": "2026-11-07 20:00 UTC",
+    "date_iso": "2026-11-07T20:00:13Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZJjRgvjhq3M",
+    "title": "Build Your Own Finance Agent Inside ChatGPT - Stefano Fabbri & Oliver Steffmann, OpenAI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Stefano Fabbri and Oliver Steffmann of OpenAI's applied AI team run a hands-on workshop on building financial workflows with ChatGPT Work and Codex. They show ChatGPT for financial services, with built-in market data, filings and earnings transcripts from partners like LSEG, PitchBook and Daloopa, plus finance plugins that bundle skills and MCP connections as a starting point. Using a wealth …",
+    "date": "2026-11-07 19:00 UTC",
+    "date_iso": "2026-11-07T19:00:33Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=gdzsJZJ6DDs",
+    "title": "Your Financial Agent Needs to Show Its Work - Anirudh Veeraragavan, Fieldguide",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Anirudh Veeraragavan, lead security engineer at Fieldguide, argues that in finance an agent getting the right answer isn't enough; you have to be able to show how it got there. Building an agent for a bank reconciliation audit, he walks through four controls that make its decisions defensible: authorization that stops an agent from overwriting work a human already reviewed, …",
+    "date": "2026-11-07 18:00 UTC",
+    "date_iso": "2026-11-07T18:00:02Z"
+  }
+]
