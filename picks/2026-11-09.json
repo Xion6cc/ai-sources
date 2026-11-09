@@ -1,0 +1,155 @@
+[
+  {
+    "url": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
+    "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "By Shreya S Ramanujam , Yongce Li , Afshine Amidi , Sina Ghiassian , Benjamin Klein . Introduction Picture this — you’re home after a long day at work and can’t wait to catch up on Bridgerton. You log on to Netflix, search for “Bridgerton” and land on this screen: If this sounds familiar, you already know what a synopsis …",
+    "date": "2026-11-09 17:01 UTC",
+    "date_iso": "2026-11-09T17:01:02Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+    "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "We built a vendor-neutral accelerator plugin architecture in lldb-server for debugging applications that span CPUs and GPUs. It separates shared debugger infrastructure from hardware-specific device control. The design represents the CPU and GPU as separate debugger processes while presenting them in one debugging session. Modern AI applications rarely execute in one place. A workload can [...] Read More... The post …",
+    "date": "2026-11-09 17:00 UTC",
+    "date_iso": "2026-11-09T17:00:12Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Gs4Ho0ub3a4",
+    "title": "AI Engineer NYC 2026 Closing Remarks - Ksenia Se, Turing Post & swyx, AI Engineer",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ksenia Se of Turing Post and swyx close out three days of AI Engineer NYC 2026, from building agents to changing how financial institutions work. They thank the speakers, sponsors and crew, and share what's next: AIE CODE, AI Engineer Europe in London in February, and the World's Fair in San Francisco next summer. Ksenia Se https://www.turingpost.com swyx Join us …",
+    "date": "2026-11-09 09:00 UTC",
+    "date_iso": "2026-11-09T09:00:16Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=1NWnSwCB4NM",
+    "title": "Your KV Cache Can Spot Attacks on Your AI Agents - Ari Azarafrooz, Intrinsec AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ari Azarafrooz, founder of Intrinsec AI, shows how the KV cache your inference engine already writes can double as a security signal for AI agents. Instead of only guarding inputs and outputs with judge models or a classifier for every failure, he learns a baseline from normal traffic and flags KV pages that look unusual, catching problems like a hidden …",
+    "date": "2026-11-09 08:00 UTC",
+    "date_iso": "2026-11-09T08:00:38Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=LF8V0RGJU0I",
+    "title": "Will AI Agents Pretend to Be Human to Get Past a Check? - Maty Bohacek, Stanford",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Maty Bohacek of Stanford looks at a security check we still rely on: getting on a phone or video call to prove you're human before opening an account, approving a wire or recovering access. With AI avatars that can now join Zoom calls, he tested what agents do when a human check is the only thing between them and their …",
+    "date": "2026-11-09 08:00 UTC",
+    "date_iso": "2026-11-09T08:00:35Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=WWIFiQi9U4w",
+    "title": "The One Thing Every AI Agent Framework Agrees On - Mislav Ivanda, Daytona",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Mislav Ivanda of Daytona has integrated sandboxes into most of the major agent frameworks, and noticed that frameworks that disagree on almost everything all ended up in the same place. He compares three ways to run agent-generated code: allow lists and approval prompts, embedded runtimes, and a separate sandboxed computer. He explains why only the last one keeps a compromised …",
+    "date": "2026-11-09 08:00 UTC",
+    "date_iso": "2026-11-09T08:00:27Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KdG9OSOtJOA",
+    "title": "Why No One Agrees on What Their AI Tokens Cost - Pratyusha Duvvuri, Cisco",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Pratyusha Duvvuri, who led agent observability at Galileo before it became part of Cisco, asked about 100 companies what \"tokenomics\" means and got 100 different answers. She shares her definition, the observability and interpretability of token usage and cost, and why engineers, engineering managers and finance teams each need something different from it. Then she demos the tokenomics dashboard her …",
+    "date": "2026-11-09 08:00 UTC",
+    "date_iso": "2026-11-09T08:00:26Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3nDMYV-QHLs",
+    "title": "Training Your Own Agent Models With RL Is Now Practical - Jason Mancuso, Modal",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Jason Mancuso of Modal argues that treating models as swappable backends is a losing strategy, and that teams with agents in production already have what they need for reinforcement learning: a harness, evals and real traces. He explains why RL generalizes better than fine-tuning on recorded traces, then walks through a stable recipe for asynchronous RL built on GRPO with …",
+    "date": "2026-11-09 08:00 UTC",
+    "date_iso": "2026-11-09T08:00:25Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dznCt8xPW7o",
+    "title": "Right Answer, Wrong Reasons: AI Forecasts Costco - Hassan El Mghari & Omar El Mghari, Together AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Hassan El Mghari of Together AI and his father Omar, a former CFO and head of internal audit, test whether an open model can forecast a company's profits. They give GPT-OSS-120B only Costco's public filings from before its 2024 membership fee increase, have it write the financial model as structured formulas, and run 16 cheap attempts in parallel. The forecast …",
+    "date": "2026-11-09 08:00 UTC",
+    "date_iso": "2026-11-09T08:00:21Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=nKjPBAw_N_0",
+    "title": "How to Build a Software Factory That Improves Itself - Zach Lloyd, Warp",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Zach Lloyd, founder and CEO of Warp and former engineering lead on Google Docs, explains why companies are moving from engineers prompting agents on their laptops to sandboxed cloud software factories. He makes the case for treating your factory as infrastructure that's open, works with your existing tools and is defined in code. He demos Warp Factories: visibility into every …",
+    "date": "2026-11-09 08:00 UTC",
+    "date_iso": "2026-11-09T08:00:17Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Enn9dVrRXAo",
+    "title": "Stop Doing Agent Archaeology on Your Team's Code - Richard Feldman, Delta",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Richard Feldman of Delta explains why handing off agent-driven work to a teammate loses so much: you get the branch and maybe a pasted transcript, but not the reasoning, the dead ends or the decisions made along the way. He demos Delta, a tool where the agent conversation, code changes, reviews and teammates all live in one shared thread. It …",
+    "date": "2026-11-09 08:00 UTC",
+    "date_iso": "2026-11-09T08:00:16Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=YV1x6gCdgQA",
+    "title": "Teach Your AI Agent to Build Products Everyone Can Use - Jemima Abu, CAIS",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Jemima Abu, a product engineer and certified accessibility professional, explains why AI agents copy the accessibility gaps in the code they learned from, and why 96% of top websites still have accessibility issues. In an informal experiment, giving her agent an accessibility skill made the same build faster and cheaper. She covers what inaccessible code costs you in users, money …",
+    "date": "2026-11-09 08:00 UTC",
+    "date_iso": "2026-11-09T08:00:12Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=SE6POOEjh4I",
+    "title": "Can AI Agents Beat Wall Street at Predicting Earnings? - Ashwin Paranjape, Samaya AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Ashwin Paranjape, founding AI lead at Samaya AI, explains why stock prediction is too noisy to learn from, and why earnings prediction makes a better test for financial agents: it has hard numbers, an expert baseline and an explanation for every surprise. He walks through a point-in-time environment that blocks any look at future data, then results across more than …",
+    "date": "2026-11-09 08:00 UTC",
+    "date_iso": "2026-11-09T08:00:11Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Xw9utONfhIY",
+    "title": "What Your Coding Agent Can't See in the Code - Tom Moor, Linear",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Tom Moor of Linear argues that writing code is no longer the bottleneck. The harder problem is keeping a product coherent as agents ship more and more of it. He walks through how Linear carries context from intake to merge: a triage agent that enriches each issue with customer and incident context, a review agent that checks changes against past …",
+    "date": "2026-11-09 08:00 UTC",
+    "date_iso": "2026-11-09T08:00:03Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=hX140a5klW0",
+    "title": "AI Writes Code Faster Than Uber Can Merge It - Preetam Dwivedi & Manjari Akella, Uber",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Preetam Dwivedi and Manjari Akella of Uber's developer platform team share how AI-driven code changes pushed Uber's merge pipeline to its limits, across monorepos where more than 5,000 developers land tens of thousands of commits a week. They walk through three changes to SubmitQueue that kept changes landing without long waits: admission gating that sorts cheap changes from expensive ones, …",
+    "date": "2026-11-09 07:00 UTC",
+    "date_iso": "2026-11-09T07:00:15Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=wWisOHEcMPE",
+    "title": "Engineering Agency out of the Happy Path — Matthew Jewkes, Standard Cybernetics",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A biopharma automation reached 99.95% accuracy on its business critical tasks after the team separated actual errors from ambiguous cases and exceptions. Matthew Jewkes describes building that system at Clarivate, where indexing drug development documents meant handling tens of thousands of new tasks a month. An early agent approach reached around 80% to 83%. Working through 1,000 evaluation examples with …",
+    "date": "2026-11-09 04:00 UTC",
+    "date_iso": "2026-11-09T04:00:33Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=6TjFjHPjVH0",
+    "title": "I Let Agents Refactor My Codebase for 3 Weeks. Then I Read the Code. — Keiji Kanazawa, Microsoft",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A coding agent wired unit tests to production inference, then ran them about 30 times. Keiji Kanazawa had spent three weeks letting coding agents refactor a personal research assistant. A bad digest sent him looking for a trace, and he discovered the \"agent\" was still a deterministic workflow. Skills had no SKILL.md, different architectural concepts were aliases for the same …",
+    "date": "2026-11-09 03:30 UTC",
+    "date_iso": "2026-11-09T03:30:09Z"
+  }
+]
