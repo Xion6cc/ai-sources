@@ -1,0 +1,155 @@
+[
+  {
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "date": "2026-11-12 00:00 UTC",
+    "date_iso": "2026-11-12T00:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+    "date": "2026-11-11 08:00 UTC",
+    "date_iso": "2026-11-11T08:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=iK9gmxXyBR0",
+    "title": "Pick Problems That Survive When AI Solves Coding - Ara Khan, Cline",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "What will you work on once frontier labs solve coding? Ara Khan traces the rise of coding agents and where recursive self-improvement takes them next, connecting the feedback loops across evals, agent harnesses, inference and training. He separates measured progress from hype to help you find the real bottlenecks and choose problems that will last. Ara Khan, Cline: https://x.com/arafatkatze | …",
+    "date": "2026-11-11 00:00 UTC",
+    "date_iso": "2026-11-11T00:00:32Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2hJkprFnzhY",
+    "title": "Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare | Lex Fridman Podcast #504",
+    "source": "Lex Fridman",
+    "type": "youtube",
+    "summary": "Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube channel, his podcast called War and Conflict, and his newsletter called Defense Tech News. Michael Kofman is a world-class military analyst specializing in the Russian and Ukrainian militaries. He is a senior fellow at the Carnegie Endowment and he hosts The …",
+    "date": "2026-11-10 23:52 UTC",
+    "date_iso": "2026-11-10T23:52:20Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=hFNbPmzzcEs",
+    "title": "Your Agent Doesn't Need an LLM for Every Decision - Raymond Weitekamp, OpenProse",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Recursive language models have become a powerful harness pattern for LLMs. Raymond Weitekamp shows how the same idea applies to decision models, the fast classifiers also called System One models, to build far more efficient workflows for coding agents, information retrieval and computer use. He introduces Recursive Decision Models, shares a vision for real-time interfaces he calls Operating System One, …",
+    "date": "2026-11-10 23:00 UTC",
+    "date_iso": "2026-11-10T23:00:07Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=DxP5aW4VknQ",
+    "title": "Your Sub-Agents Are a Distributed System. Treat Them Like One. - Girish Konda, Microsoft",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "When an orchestrator hands work to sub-agents, you've built a distributed system, and you inherit its classic failures: half-finished work reported as success, guesses read back as facts, rate limits the orchestrator never sees, and retries that run side effects twice. Girish Konda maps each failure to the distributed-systems idea that already explains it, with examples from his open-source MCP …",
+    "date": "2026-11-10 22:00 UTC",
+    "date_iso": "2026-11-10T22:00:07Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=fTUinMqA1XQ",
+    "title": "Your Team's Agents Are All Shipping to the Same Code at Once - Patrick Debois, Tessl",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Your whole team runs coding agents now, and all of them land on the same main branch. Continuous delivery wasn't built for that. Patrick Debois maps what breaks when a software factory goes multiplayer, and the patterns that fix it: one main for the agents, one board for the people. Patrick Debois, Tessl: https://x.com/patrickdebois | https://tessl.io",
+    "date": "2026-11-10 21:00 UTC",
+    "date_iso": "2026-11-10T21:00:02Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3Krz7Rdd4JI",
+    "title": "Every Company Is Building Agents That Can't Work Together - Justin Schroeder, Standard Agents",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Skills and MCP gave agents a standard way to get context, but the agents themselves are still one-offs: every team builds its own, and none of them can be shared or combined. Justin Schroeder argues that agents won't reach their potential without portability and composition, and walks through a concrete agent runtime standard that lets anyone build an agent, distribute …",
+    "date": "2026-11-10 20:00 UTC",
+    "date_iso": "2026-11-10T20:00:31Z"
+  },
+  {
+    "url": "https://medium.com/airbnb-engineering/skipper-airbnbs-embedded-workflow-engine-is-now-open-source-78dd354f472b?source=rss----53c7c27702d5---4",
+    "title": "Skipper, Airbnb’s embedded workflow engine, is now open source",
+    "source": "Airbnb Engineering",
+    "type": "blog",
+    "summary": "Durable workflows, running inside your service with no separate orchestration cluster. By : Ricardo Gamba , Andriy Sergiyenko Skipper , an embedded workflow engine used in production by teams all across Airbnb, is now available to the open source community. Skipper lets you express multi-step business processes as Java or Kotlin classes, persist their progress, and recover from crashes and …",
+    "date": "2026-11-10 18:01 UTC",
+    "date_iso": "2026-11-10T18:01:02Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=gbeuC0ud1p4",
+    "title": "Your PR Says the Tests Passed. Prove It. - Stephen Chin & Cassandra Chin",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A pull request can claim that checks passed even when the recorded commands do not establish that the submitted change was tested. Cassandra Chin built Tracetoon to recover the context behind a branch, write a better pull request description and optionally explain it with a comic. Together with Stephen Chin, she follows one troublesome review through repeated revisions, missing evidence …",
+    "date": "2026-11-10 17:57 UTC",
+    "date_iso": "2026-11-10T17:57:21Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=TlOAhw9t5DA",
+    "title": "Merge Is the Bottleneck - Prasanna Sankar, Vorflux",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A customer call ended with a bug, and an agent found the unfinished task in the transcript and screen recording. In Prasanna Sankar's account, it asked for permission to investigate, involved the responsible engineer, produced a pull request and drafted the customer followup after the fix shipped. That example captures where Vorflux's engineering work led: once agents can complete longer …",
+    "date": "2026-11-10 17:57 UTC",
+    "date_iso": "2026-11-10T17:57:20Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_7P580m4kPY",
+    "title": "You Can't Tell What an Agent Skill Will Do by Reading It - Roey Ben Chaim, Zenity",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An official diagnostic skill can read cloud credentials, contact identity services and probe an instance metadata endpoint. Those same actions can resemble an information stealer. Roey Ben Chaim of Zenity and the MATS Fellowship uses that ambiguity to explain why reading a SKILL.md file cannot establish what an agent will actually do. Instructions can fetch more instructions, installation scripts can …",
+    "date": "2026-11-10 17:57 UTC",
+    "date_iso": "2026-11-10T17:57:20Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_NBx2NNOuA4",
+    "title": "Give Your On-Call Its Own AI Teammate - Swaapnika Motapothula, Chinmay Gandhi & Vlad Tsvang, Meta",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Twelve alerts fire at 2 a.m., and a useful assistant can still leave the engineer coordinating every step. Meta's on call team uses that illustrative scenario to explain a different design: one AI teammate per rotation, with shared context, its own identity, persistent memory and explicit limits on what it can do. Swaapnika Motapothula, Chinmay Gandhi and Vlad Tsvang describe …",
+    "date": "2026-11-10 17:57 UTC",
+    "date_iso": "2026-11-10T17:57:20Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=rS36lYuvXQ8",
+    "title": "Your Agent Hates Your CLI - Ayush Bhardwaj, Allos AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An agent can hide a failed test behind a successful shell pipeline. It can also trim away the error message and confidently report that everything worked. Ayush Bhardwaj examined roughly 20,000 tool calls from his own coding sessions and found a product roadmap in the commands agents wrote immediately afterward. Repeated uses of head, tail, grep and Python showed where …",
+    "date": "2026-11-10 17:57 UTC",
+    "date_iso": "2026-11-10T17:57:20Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vg3JdjGuJwM",
+    "title": "Every Correction You Give Your Agent Is Data - Brian Douglas, Paper Compute",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A Rust program can compile and still violate the decisions an experienced teammate would catch immediately. Brian Douglas finds that missing knowledge in moments when engineers push back on their coding agents. At Paper Compute, he captures agent sessions, labels corrections and uses those traces to recover the reasoning that otherwise disappears inside a local coding harness. His example starts …",
+    "date": "2026-11-10 17:57 UTC",
+    "date_iso": "2026-11-10T17:57:20Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
+    "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Your algorithm is a suite of AI-powered tools that makes Facebook recommendations more transparent and steerable, with a single editable view of the interests that shape Feed and Reels. We’re sharing how Your algorithm turns people’s natural language preferences into responsive recommendations, and how LLMs are tailored to specific tasks within the system. Traditionally, the [...] Read More... The post …",
+    "date": "2026-11-10 17:00 UTC",
+    "date_iso": "2026-11-10T17:00:49Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+    "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Triton Low-Level Extensions (TLX), is an extension to Triton that helps engineers optimize GPU performance while preserving Triton&#8217;s productive programming model. TLX introduces explicit warp-group and cluster-level orchestration, letting developers adopt new hardware capabilities without sacrificing velocity. TLX has demonstrated performance improvements in RecSys training, RecSys inference, and large-scale LLM pretraining. Modern GPU architectures increasingly [...] Read More... The post …",
+    "date": "2026-11-10 16:59 UTC",
+    "date_iso": "2026-11-10T16:59:31Z"
+  }
+]
