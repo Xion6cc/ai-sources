@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://openai.com/business/customer-stories/amplitude",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "date": "2026-11-12 20:00 UTC",
+    "date_iso": "2026-11-12T20:00:00Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
+    "title": "The Pulse: What can we learn from the Railway hack?",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Also: native mobile and frontend jobs are disappearing, how trust helps an &#8220;AI-native&#8221; engineering team to succeed, Carta starts selling a coding harness, and more",
+    "date": "2026-11-12 18:53 UTC",
+    "date_iso": "2026-11-12T18:53:19Z"
+  },
+  {
+    "url": "https://medium.com/pinterest-engineering/how-pinterest-improved-analytics-agent-compliance-with-loop-engineering-d3c52d0abaa2?source=rss----4c5a5f6279b6---4",
+    "title": "How Pinterest Improved Analytics Agent Compliance with Loop Engineering",
+    "source": "Pinterest Engineering",
+    "type": "blog",
+    "summary": "Skyler Zheng | Software Engineer II; Chris Moradi | Staff Data Scientist; Lu Liu | Staff Software Engineer; Aman Gairola | Manager II; Michael Chau | Manager II The Compliance Problem Compliance means following the right steps at the right time Pinterest’s Analytics Agent helps teams answer questions such as “How did query latency for the ads reporting pipeline change …",
+    "date": "2026-11-12 16:01 UTC",
+    "date_iso": "2026-11-12T16:01:06Z"
+  }
+]
