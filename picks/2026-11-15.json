@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "title": "Understanding Positional Embeddings in Modern LLMs",
+    "source": "Sebastian Raschka",
+    "type": "blog",
+    "summary": "The Methods Behind How LLMs Represent Token Positions",
+    "date": "2026-11-15 12:10 UTC",
+    "date_iso": "2026-11-15T12:10:37Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=O_zcc6Xl12g",
+    "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "11,000 pull requests in one month, with a revert rate around 0.5%. Lauren Tan (poteto) shares how the Grok Bot team at SpaceXSI scales AI coding agents through software architecture, lint rules, automated testing, runtime verification and formal verification with TLA+ and Lean. See how Cursor agents and pstack turn these software engineering foundations into reliable software factories. Speaker info: …",
+    "date": "2026-11-14 18:30 UTC",
+    "date_iso": "2026-11-14T18:30:09Z"
+  }
+]
