@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://medium.com/pinterest-engineering/rebuilding-guardian-how-pinterest-upgraded-its-real-time-abuse-platform-to-modern-infrastructure-56e45ee8f471?source=rss----4c5a5f6279b6---4",
+    "title": "Rebuilding Guardian: How Pinterest Upgraded Its Real-Time Abuse Platform to Modern Infrastructure…",
+    "source": "Pinterest Engineering",
+    "type": "blog",
+    "summary": "Rebuilding Guardian: How Pinterest Upgraded Its Real-Time Abuse Platform to Modern Infrastructure at Scale Authors : Sharon Xie, Sr. Staff Software Engineer | Zhenxiao Luo, Sr Staff Software Engineer |Yi Pan, Principal Software Engineer | Vikram Deshpande, Sr. Engineering Manager Guardian helps Pinterest teams turn real-time event data into meaningful insights and operational outcomes. It enables subject matter experts to …",
+    "date": "2026-11-16 16:01 UTC",
+    "date_iso": "2026-11-16T16:01:03Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes",
+    "title": "Software engineering after code becomes cheap with Satya Nadella",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Microsoft CEO Satya Nadella on AI&#8217;s impact on software engineering, code verification, and engineers&#8217; careers.",
+    "date": "2026-11-16 13:33 UTC",
+    "date_iso": "2026-11-16T13:33:48Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=0NE89Nzfk20",
+    "title": "Software engineering after code becomes cheap with Satya Nadella",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "What does software engineering look like when generating code becomes cheap, and verifying it becomes the hard part? With Satya Nadella, Microsoft’s CEO, who is one of the very few Big Tech CEOs who started his career as a software engineer (back at Sun Microsystems). He joins me to discuss how building software is changing inside Microsoft, and what these …",
+    "date": "2026-11-16 13:26 UTC",
+    "date_iso": "2026-11-16T13:26:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=UCL4K36SHp0",
+    "title": "Let's Open Source the World — Brandon Thomas, ArtCraft",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "ArtCraft’s first Photoshop approximation took about 24 hours to build, Brandon Thomas says. At CODE Summit 2026, he explains how Rust and AI coding agents power open source alternatives to Adobe’s creative tools, Microsoft Office and Figma. MCP and CLI automation, Linux support, reusable UI components and CI bottlenecks lead into Autocraft, a forthcoming software factory for issue triage, agentic …",
+    "date": "2026-11-16 13:00 UTC",
+    "date_iso": "2026-11-16T13:00:07Z"
+  },
+  {
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "date": "2026-11-16 09:00 UTC",
+    "date_iso": "2026-11-16T09:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "",
+    "date": "2026-11-16 06:00 UTC",
+    "date_iso": "2026-11-16T06:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "date": "2026-11-16 06:00 UTC",
+    "date_iso": "2026-11-16T06:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/the-kings-trust-and-openai",
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "date": "2026-11-16 00:00 UTC",
+    "date_iso": "2026-11-16T00:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "date": "2026-11-15 22:00 UTC",
+    "date_iso": "2026-11-15T22:00:01Z"
+  },
+  {
+    "url": "https://openai.com/index/our-new-blog-for-science",
+    "title": "Our new blog for science",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "date": "2026-11-15 22:00 UTC",
+    "date_iso": "2026-11-15T22:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Cyt3LU8TyNc",
+    "title": "I love you so jevving much — Diogo Almeida, TypeSafe AI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Being Einstein 95% of the time and Mr. Bean 5% is Diogo Almeida's analogy for unreliable LLM automation. At CODE Summit 2026, the TypeSafe AI cofounder argues that RLHF optimizes models for human assistance and makes the case for machine native AI with Jev. Reliable agents, KV cache limits, shared memory, semantic types and real time security point toward what …",
+    "date": "2026-11-15 21:00 UTC",
+    "date_iso": "2026-11-15T21:00:07Z"
+  }
+]
