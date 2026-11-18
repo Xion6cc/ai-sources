@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=U92J5mCDLMc",
+    "title": "40x More Merged PRs With 2.7x the Engineers — Walden Yan, Cognition",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Cognition's merged PRs grew 40x in a year while its engineering team grew 2.7x. Walden Yan explains what changed: self-driving PRs by default, small pods that own everything from bug reports to QA, and a workflow run almost entirely from Slack. He covers running every service locally so agents can test, VMs rebuilt every hour, and agents that optimize the …",
+    "date": "2026-11-18 14:00 UTC",
+    "date_iso": "2026-11-18T14:00:01Z"
+  },
+  {
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+    "date": "2026-11-18 00:00 UTC",
+    "date_iso": "2026-11-18T00:00:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9RKrSF9d2SE",
+    "title": "2026 in LLMs — Simon Willison",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Simon Willison used AI coding agents to locate a beeping detector buried in 40 boxes. At CODE Summit 2026, the Datasette creator traces three LLM inflection points: reliable coding agents, persistent problem solving and vibe coded game development. Pelican benchmarks, prompt injection and rogue agents frame a broader question about developer productivity: why does software engineering still feel harder? Speaker …",
+    "date": "2026-11-17 20:00 UTC",
+    "date_iso": "2026-11-17T20:00:09Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=IPh9YsWvDQk",
+    "title": "New Ways of Working with Codex — Dominik Kundel & Charlie Guo, OpenAI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "An internal video app lets Codex edit footage in DaVinci Resolve and return a cut for review. OpenAI’s Dominik Kundel and Charlie Guo demonstrate connected agent workflows at CODE Summit 2026, from context gathering with plugins, Appshots and ChatGPT Space to fast UI iteration, Codex Cloud and ChatGPT Sites. Voice, Dots, code review and parallel agents show how the pieces …",
+    "date": "2026-11-17 19:43 UTC",
+    "date_iso": "2026-11-17T19:43:56Z"
+  },
+  {
+    "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+    "title": "Building the Agent Host Protocol for sessions that continue across devices",
+    "source": "GitHub Engineering",
+    "type": "blog",
+    "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
+    "date": "2026-11-17 18:20 UTC",
+    "date_iso": "2026-11-17T18:20:40Z"
+  },
+  {
+    "url": "https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?source=rss----53c7c27702d5---4",
+    "title": "De-identifying text at scale: How Airbnb protects personal data in AI training",
+    "source": "Airbnb Engineering",
+    "type": "blog",
+    "summary": "Here’s how Airbnb detects and replaces personal data in messages, reviews, and support chats before it reaches a model. By: Emelin Flores , Alex Klimov , Lee Formyduval , Bahador Nooraei Introduction Airbnb is built on trust. Every night that a guest books a stay, or a host welcomes someone into their home, that trust is backed by information they’ve …",
+    "date": "2026-11-17 18:01 UTC",
+    "date_iso": "2026-11-17T18:01:03Z"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "date": "2026-11-17 17:45 UTC",
+    "date_iso": "2026-11-17T17:45:00Z"
+  },
+  {
+    "url": "https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4",
+    "title": "Engineering AI Discover",
+    "source": "Netflix Tech Blog",
+    "type": "blog",
+    "summary": "The challenges and decisions behind AI Discover’s intelligence layer By Varun Khaitan , Peng Ren , Gary Tang , Itay Teller , Atif Faheem , Nipun Kumar , Donnie DeBoer , Eduardo Lundgren , Matteo Rinaldi , Raghav Bakshi We recently introduced AI Discover , a new tab in our TV app where a small group of members can try …",
+    "date": "2026-11-17 17:01 UTC",
+    "date_iso": "2026-11-17T17:01:02Z"
+  }
+]
