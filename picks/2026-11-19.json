@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=pZWPq_ZAmM4",
+    "title": "What it takes to set intelligence free — Fabian Hedin, Lovable",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Lovable nearly failed after building a sophisticated multi agent framework, Fabian Hedin says. At CODE Summit 2026, its CTO explains what changed: durable agent runtimes, Git inspired histories and forkable computers that support long running coding agents. Sandbox checkpointing, copy on write memory, a Rust rewrite of Vite and verification feedback loops connect reliable software generation to product and business …",
+    "date": "2026-11-19 14:00 UTC",
+    "date_iso": "2026-11-19T14:00:14Z"
+  },
+  {
+    "url": "https://engineering.atspotify.com/2026/11/when-can-you-ship-on-offline-evals-alone/",
+    "title": "When Can You Ship on Offline Evals Alone?",
+    "source": "Spotify Engineering",
+    "type": "blog",
+    "summary": "TL;DR Teams building AI features want to skip slow A/B tests and decide from offline evals alone. This post... The post When Can You Ship on Offline Evals Alone? appeared first on Spotify Engineering .",
+    "date": "2026-11-19 13:34 UTC",
+    "date_iso": "2026-11-19T13:34:19Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=v1X9Fqs5a14",
+    "title": "GTA 6, Crime, Jewel Heists, Prison, Corrupt Cops, Mafia, Miami & Money | Lex Fridman Podcast #505",
+    "source": "Lex Fridman",
+    "type": "youtube",
+    "summary": "Larry Lawton is one of the most notorious and prolific jewelry thieves in US history, who was eventually caught by the FBI, spent more than a decade in prison, including a lot of time in the hole, and then he turned his life around to run the Reality Check Program, that helps keep at-risk youth out of prison. Thank you …",
+    "date": "2026-11-19 03:15 UTC",
+    "date_iso": "2026-11-19T03:15:09Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=fTHByDwTxGM",
+    "title": "Post-Training Gemini 4 for Real Engineering Work — Melvin Johnson, Google DeepMind",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Passing the tests does not mean a coding agent solved the problem. At CODE Summit 2026, Google DeepMind's Melvin Johnson explains Gemini 4 post training for real engineering work, from harder tasks and rubric based grading to isolated evaluation environments. He connects reinforcement learning, reward hacking, honest model behavior and feedback from Google's engineers to faster releases, alongside Gemini 4 …",
+    "date": "2026-11-18 22:30 UTC",
+    "date_iso": "2026-11-18T22:30:09Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",
+    "title": "Software factories and code reviews with Harjot Gill",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "CodeRabbit CEO Harjot Gill explains how he shipped over 5,000 pull requests in a month, why he believes human code review is dead, and what he gets from spending $250,000 a month on AI.",
+    "date": "2026-11-18 18:08 UTC",
+    "date_iso": "2026-11-18T18:08:52Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=4Cjb7691GJ8",
+    "title": "Software factories and code reviews with Harjot Gill",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "In this conversation, we step into the world of an AI-pilled CEO to explore how their startup works. This episode might as well be a way of succeeding that contradicts the growing convention that AI spending costs are too high and must be clamped down on. Harjot Gill is founder and CEO of CodeRabbit, an AI code review business, and …",
+    "date": "2026-11-18 18:03 UTC",
+    "date_iso": "2026-11-18T18:03:02Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/",
+    "title": "How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "Our previous post in this series introduced the Ranking Engineer Agent (REA), an autonomous system that generates hypotheses, designs experiments, and proves new machine learning (ML) techniques on ads ranking models. Now, we’re sharing how we propagate ranking model improvements like architectural advancements and training optimizations efficiently across a large and diverse fleet of ads [...] Read More... The post …",
+    "date": "2026-11-18 17:00 UTC",
+    "date_iso": "2026-11-18T17:00:00Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/11/18/ml-applications/design-once-deploy-at-scale-template-driven-ml-ecosystem/",
+    "title": "Design Once, Deploy at Scale: Building a Template-Driven ML Ecosystem",
+    "source": "Meta Engineering",
+    "type": "blog",
+    "summary": "As ML ecosystems grow to a large number of production models, the bottleneck is no longer inventing new techniques to improve these models, but rather shipping them reliably and efficiently across a fragmented model space, creating a rising tide that lifts all the boats. At Meta, we built a template-driven approach that standardizes model design [...] Read More... The post …",
+    "date": "2026-11-18 16:59 UTC",
+    "date_iso": "2026-11-18T16:59:38Z"
+  }
+]
