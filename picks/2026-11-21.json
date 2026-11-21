@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=GKSQYbELDzw",
+    "title": "What Runs Where? Local AI in Production — Ahmad Osman, Osmantic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A capable local model still needs the right hardware, inference engine and tools. At CODE Summit 2026, Osmantic founder Ahmad Osman explains how to choose that stack for real workloads, covering quantization, memory bandwidth, batching and specialized models. He connects local AI performance to agent harnesses, evaluation traces and the economics of owning GPUs, then makes the case for continual …",
+    "date": "2026-11-21 01:25 UTC",
+    "date_iso": "2026-11-21T01:25:29Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=MDI81OaZAD4",
+    "title": "How to build an agent that builds the culture — Zach Bruggeman, Ramp",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Zach Bruggeman says Inspect now writes and ships around 75% of Ramp’s code. At CODE Summit 2026, he explains the engineering culture behind that adoption: shared agent tooling, open internal sessions and visible verification. A telemetry bug and the Review Buddy code review agent show how multiplayer AI coding can break information silos, build trust and help teams think bigger …",
+    "date": "2026-11-20 20:00 UTC",
+    "date_iso": "2026-11-20T20:00:36Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=0LeT996Hz3E",
+    "title": "Engineer Your Coding Agents Like Any Other System — Zach Lloyd, Warp",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Most developers still run coding agents locally and prompt them one at a time, which caps throughput and makes cost, security and governance hard to manage. Zach Lloyd, founder and CEO of Warp and former Google Docs engineering lead, defines a software factory as a code-defined, closed-loop system for continuously measuring and improving cloud coding agents. He walks through the …",
+    "date": "2026-11-20 18:30 UTC",
+    "date_iso": "2026-11-20T18:30:06Z"
+  }
+]
