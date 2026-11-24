@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=SRhXgeNluIk",
+    "title": "Software Factories: Escape from Trash Mountain — Steve Yegge, Gas Town",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Software factories can turn out code faster than anyone can keep it clean, and the pile grows. Steve Yegge, creator of Beads and Gas Town, takes on software factories and how to escape the trash mountain they can leave behind. Speaker info: - https://x.com/steve_yegge Timestamps: 0:00 - Evolution of software factories 2:56 - Case study: Wyvern RPG 3:36 - Managing …",
+    "date": "2026-11-24 14:00 UTC",
+    "date_iso": "2026-11-24T14:00:11Z"
+  },
+  {
+    "url": "https://openai.com/index/ifood",
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "",
+    "date": "2026-11-24 00:00 UTC",
+    "date_iso": "2026-11-24T00:00:00Z"
+  },
+  {
+    "url": "https://openai.com/index/introducing-shirudo",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "source": "OpenAI",
+    "type": "blog",
+    "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+    "date": "2026-11-23 21:20 UTC",
+    "date_iso": "2026-11-23T21:20:00Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-NFMsM2y0Vk",
+    "title": "12 Rules for a Software Factory That Doesn't Ship Slop — Dex Horthy, Factory",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "The best model scores about 16% on Slop Code Bench, a new benchmark for how well agents evolve a code base over time. Dex Horthy uses that data to argue that software factories aren't new: they are good engineering with agents doing the building. He lays out 12 practices, from forward and back pressure to planning, visual alignment, lint rules …",
+    "date": "2026-11-23 20:00 UTC",
+    "date_iso": "2026-11-23T20:00:40Z"
+  }
+]
