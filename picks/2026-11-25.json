@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+    "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "Katelyn Lesse explains how Anthropic rewrote Claude&#8217;s API in Rust and how AI agents are changing engineering at the company.",
+    "date": "2026-11-25 17:31 UTC",
+    "date_iso": "2026-11-25T17:31:32Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9oNvKMd7xJo",
+    "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
+    "source": "The Pragmatic Engineer",
+    "type": "youtube",
+    "summary": "How did Anthropic rewrite the API serving every Claude token from Python to Rust? And how has the software engineering role evolved at the company? With Katelyn Lesse, who leads platform engineering at Anthropic and previously led engineering teams at Stripe. Her team owns the Claude API and the infrastructure behind products like Claude Code and Claude Desktop. — *Brought …",
+    "date": "2026-11-25 17:26 UTC",
+    "date_iso": "2026-11-25T17:26:20Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Xyb1Bn_L2U4",
+    "title": "How 21 People Built a $100M+ Agent Company — Quinn Slack, Amp",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Amp spun out of Sourcegraph with 21 people and, unable to hire for a year, was forced to work in a radically different way. Quinn Slack explains what that looks like: no task tracker, no PMs, one meeting a week, everything done in the agent, and tiny monitored pushes instead of big releases. He shows Amp's bug-report loop that fixes …",
+    "date": "2026-11-25 14:00 UTC",
+    "date_iso": "2026-11-25T14:00:31Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=TvsF67C2F54",
+    "title": "How to Ship Millions of Lines of Agent-Written Code — Jarred Sumner, Anthropic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Jarred Sumner, creator of Bun, recently merged a PR of several million lines that adds an ahead-of-time compiler to Bun, the runtime behind Claude Code. It went through five rewrites in about a month, and the result uses about 4x less memory and starts about 2x faster. He explains why the team made JavaScript faster instead of rewriting Claude Code …",
+    "date": "2026-11-24 20:00 UTC",
+    "date_iso": "2026-11-24T20:00:04Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
+    "title": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
+    "source": "The Pragmatic Engineer Newsletter",
+    "type": "blog",
+    "summary": "How is AI changing the way we build software? Excerpts from three category winners of our recent essay contest, with links to 40 more by software engineers and experts",
+    "date": "2026-11-24 19:16 UTC",
+    "date_iso": "2026-11-24T19:16:38Z"
+  }
+]
