@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=1S4hx3wgvBE",
+    "title": "Stop Building Software Factories — Justin McCarthy, Diffusion",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Most of the time you don't know what you want yet, so putting new ideas through a factory wastes time and tokens. Justin McCarthy, founder and CEO of Diffusion, argues for brownfield factories instead: continuous loops that keep the promises of software customers already pay for, getting faster, cheaper and safer around the clock. He explains why these factories simplify …",
+    "date": "2026-11-26 14:00 UTC",
+    "date_iso": "2026-11-26T14:00:20Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=wrfbI5eyLAI",
+    "title": "1,000 Claude Agents Formalized Fermat's Last Theorem — Lance Martin, Anthropic",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "A team of 1,000 Claude agents formalized Fermat's Last Theorem in Lean over about 30 hours, using nothing but Git and a database, with no domain-specific harness and no human steering on the solution. Lance Martin shows how the lead agent built its own coordination tables and how the team reassigned itself as the work progressed. Then he turns to …",
+    "date": "2026-11-25 20:00 UTC",
+    "date_iso": "2026-11-25T20:00:32Z"
+  }
+]
