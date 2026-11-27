@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://engineering.atspotify.com/2026/11/september-29-outage-incident-report-what-we-learnt/",
+    "title": "September 29 Outage Incident Report: What we learnt",
+    "source": "Spotify Engineering",
+    "type": "blog",
+    "summary": "On September 29, Spotify experienced an outage that disrupted users’ access to the platform. This outage was... The post September 29 Outage Incident Report: What we learnt appeared first on Spotify Engineering .",
+    "date": "2026-11-27 14:00 UTC",
+    "date_iso": "2026-11-27T14:00:11Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cYcYfM9Mvwo",
+    "title": "Why Cloudflare Became a Neolab — Michelle Chen, Cloudflare",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Cloudflare bet early that AI models would get smaller and network latency would matter. Instead models grew to trillions of parameters, so Cloudflare pivoted to serving them. Then System 1 decision models arrived, and Cloudflare trained its own over a weekend and shipped four models in three weeks. Michelle Chen, group PM for Workers AI, tells that story and demos …",
+    "date": "2026-11-27 14:00 UTC",
+    "date_iso": "2026-11-27T14:00:04Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=bFcob2p6u3A",
+    "title": "Execution Is Free. How Ambitious Are You? — Jason Liu, OpenAI",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "When execution is nearly free, ambition is about how you approach the work, not how many tokens you spend. Jason Liu of OpenAI's developer experience team takes on three fears: that AI means more slop, that it erodes critical thinking, and that it will replace us. His answers: own the work you ship, build the language to describe what good …",
+    "date": "2026-11-26 20:00 UTC",
+    "date_iso": "2026-11-26T20:00:28Z"
+  }
+]
