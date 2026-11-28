@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=DQwcuXgAIA0",
+    "title": "Your LLM Judge Is Hallucinating Too — Brian Kennedy, ZoomInfo",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "ZoomInfo's agent reported that it scheduled an email. It never did, and the LLM judge checking its work approved it anyway. Brian Kennedy, an engineer on ZoomInfo's agentic platform, shows how an audit of 500 production steps found the judge was right only 65% of the time, often trusting the agent's story over the tool results. The fix: replace one …",
+    "date": "2026-11-28 14:00 UTC",
+    "date_iso": "2026-11-28T14:00:30Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=K5_ST-kMrvY",
+    "title": "Stop Paying LLM Prices for Yes-or-No Answers — Chinmay Goyal, Glean",
+    "source": "AI Engineer",
+    "type": "youtube",
+    "summary": "Most steps in an AI product are bounded decisions, not generation: classifying a query, routing to an expert, ranking suggestions, checking a citation. Chinmay Goyal, a software engineer on Glean Assistant, shows how Glean moved these steps to Jev, TypeSafe's decision model. The results include expert routing with about 8x lower latency, follow-up suggestions on time in 99.2% of cases …",
+    "date": "2026-11-27 20:00 UTC",
+    "date_iso": "2026-11-27T20:00:36Z"
+  }
+]
